@@ -1,0 +1,8825 @@
+UnityEngine.GameObject::FindGameObjectWithTag(System.String)
+UnityEngine.GameObject::FindGameObjectsWithTag(System.String)
+UnityEngine.GameObject::SendMessage(System.String,System.Object,UnityEngine.SendMessageOptions)
+UnityEngine.GameObject::BroadcastMessage(System.String,System.Object,UnityEngine.SendMessageOptions)
+UnityEngine.GameObject::Internal_CreateGameObject(UnityEngine.GameObject,System.String)
+UnityEngine.GameObject::Find(System.String)
+UnityEngine.GeometryUtility::Internal_ExtractPlanes_Injected(UnityEngine.Plane[],UnityEngine.Matrix4x4&)
+UnityEngine.Gizmos::DrawLine_Injected(UnityEngine.Vector3&,UnityEngine.Vector3&)
+UnityEngine.Gizmos::DrawWireSphere_Injected(UnityEngine.Vector3&,System.Single)
+UnityEngine.Gizmos::DrawSphere_Injected(UnityEngine.Vector3&,System.Single)
+UnityEngine.Gizmos::DrawWireCube_Injected(UnityEngine.Vector3&,UnityEngine.Vector3&)
+UnityEngine.Gizmos::DrawCube_Injected(UnityEngine.Vector3&,UnityEngine.Vector3&)
+UnityEngine.Gizmos::DrawIcon_Injected(UnityEngine.Vector3&,System.String,System.Boolean,UnityEngine.Color&)
+UnityEngine.Gizmos::set_color_Injected(UnityEngine.Color&)
+UnityEngine.Gizmos::set_matrix_Injected(UnityEngine.Matrix4x4&)
+UnityEngine.Gradient::Init()
+UnityEngine.Gradient::Cleanup()
+UnityEngine.Gradient::Internal_Equals(System.IntPtr)
+UnityEngine.Gradient::get_colorKeys()
+UnityEngine.Gradient::get_alphaKeys()
+UnityEngine.Gradient::SetKeys(UnityEngine.GradientColorKey[],UnityEngine.GradientAlphaKey[])
+UnityEngine.Gradient::Evaluate_Injected(System.Single,UnityEngine.Color&)
+UnityEngine.Graphics::Internal_GetMaxDrawMeshInstanceCount()
+UnityEngine.Graphics::Internal_SetNullRT()
+UnityEngine.Graphics::Internal_SetRandomWriteTargetBuffer(System.Int32,UnityEngine.ComputeBuffer,System.Boolean)
+UnityEngine.Graphics::ClearRandomWriteTargets()
+UnityEngine.Graphics::Internal_DrawTexture(UnityEngine.Internal_DrawTextureArguments&)
+UnityEngine.Graphics::Internal_DrawProceduralIndirectNow(UnityEngine.MeshTopology,UnityEngine.ComputeBuffer,System.Int32)
+UnityEngine.Graphics::Internal_BlitMaterial5(UnityEngine.Texture,UnityEngine.RenderTexture,UnityEngine.Material,System.Int32,System.Boolean)
+UnityEngine.Graphics::Internal_BlitMultiTap4(UnityEngine.Texture,UnityEngine.RenderTexture,UnityEngine.Material,UnityEngine.Vector2[])
+UnityEngine.Graphics::Blit2(UnityEngine.Texture,UnityEngine.RenderTexture)
+UnityEngine.Graphics::Internal_SetRTSimple_Injected(UnityEngine.RenderBuffer&,UnityEngine.RenderBuffer&,System.Int32,UnityEngine.CubemapFace,System.Int32)
+UnityEngine.Graphics::Internal_SetMRTSimple_Injected(UnityEngine.RenderBuffer[],UnityEngine.RenderBuffer&,System.Int32,UnityEngine.CubemapFace,System.Int32)
+UnityEngine.Graphics::Internal_DrawMeshNow2_Injected(UnityEngine.Mesh,System.Int32,UnityEngine.Matrix4x4&)
+Cannot marshal field 'texture' of type 'Internal_DrawTextureArguments': Reference type field marshaling is not supported.
+UnityEngine.LayerMask::NameToLayer(System.String)
+UnityEngine.Light::get_type()
+UnityEngine.Light::get_spotAngle()
+UnityEngine.Light::set_spotAngle(System.Single)
+UnityEngine.Light::get_intensity()
+UnityEngine.Light::set_intensity(System.Single)
+UnityEngine.Light::get_bounceIntensity()
+UnityEngine.Light::set_shadowBias(System.Single)
+UnityEngine.Light::get_shadowNearPlane()
+UnityEngine.Light::get_range()
+UnityEngine.Light::get_cullingMask()
+UnityEngine.Light::get_shadows()
+UnityEngine.Light::get_shadowStrength()
+UnityEngine.Light::set_shadowStrength(System.Single)
+UnityEngine.Light::get_cookie()
+UnityEngine.Light::set_cookie(UnityEngine.Texture)
+UnityEngine.Light::AddCommandBuffer(UnityEngine.Rendering.LightEvent,UnityEngine.Rendering.CommandBuffer,UnityEngine.Rendering.ShadowMapPass)
+UnityEngine.Light::RemoveCommandBuffer(UnityEngine.Rendering.LightEvent,UnityEngine.Rendering.CommandBuffer)
+UnityEngine.Light::GetCommandBuffers(UnityEngine.Rendering.LightEvent)
+UnityEngine.Light::get_color_Injected(UnityEngine.Color&)
+UnityEngine.Light::set_color_Injected(UnityEngine.Color&)
+UnityEngine.Light::get_bakingOutput_Injected(UnityEngine.LightBakingOutput&)
+Cannot marshal field 'm_Light' of type 'LightmapData': Reference type field marshaling is not supported.
+UnityEngine.LightmapSettings::get_lightmaps()
+UnityEngine.LineRenderer::SetPositions(UnityEngine.Vector3[])
+Cannot marshal field 'type' of type 'PlayerLoopSystem': Reference type field marshaling is not supported.
+Cannot marshal field 'type' of type 'PlayerLoopSystemInternal': Reference type field marshaling is not supported.
+UnityEngine.Material::CreateWithShader(UnityEngine.Material,UnityEngine.Shader)
+UnityEngine.Material::CreateWithMaterial(UnityEngine.Material,UnityEngine.Material)
+UnityEngine.Material::CreateWithString(UnityEngine.Material)
+UnityEngine.Material::get_shader()
+UnityEngine.Material::GetFirstPropertyNameIdByAttribute(UnityEngine.Rendering.ShaderPropertyFlags)
+UnityEngine.Material::HasProperty(System.Int32)
+UnityEngine.Material::set_renderQueue(System.Int32)
+UnityEngine.Material::EnableKeyword(System.String)
+UnityEngine.Material::DisableKeyword(System.String)
+UnityEngine.Material::IsKeywordEnabled(System.String)
+UnityEngine.Material::get_passCount()
+UnityEngine.Material::GetTagImpl(System.String,System.Boolean,System.String)
+UnityEngine.Material::SetPass(System.Int32)
+UnityEngine.Material::CopyPropertiesFromMaterial(UnityEngine.Material)
+UnityEngine.Material::GetShaderKeywords()
+UnityEngine.Material::SetShaderKeywords(System.String[])
+UnityEngine.Material::SetFloatImpl(System.Int32,System.Single)
+UnityEngine.Material::SetTextureImpl(System.Int32,UnityEngine.Texture)
+UnityEngine.Material::SetBufferImpl(System.Int32,UnityEngine.ComputeBuffer)
+UnityEngine.Material::GetFloatImpl(System.Int32)
+UnityEngine.Material::GetTextureImpl(System.Int32)
+UnityEngine.Material::SetVectorArrayImpl(System.Int32,UnityEngine.Vector4[],System.Int32)
+UnityEngine.Material::SetColorImpl_Injected(System.Int32,UnityEngine.Color&)
+UnityEngine.Material::SetMatrixImpl_Injected(System.Int32,UnityEngine.Matrix4x4&)
+UnityEngine.Material::GetColorImpl_Injected(System.Int32,UnityEngine.Color&)
+UnityEngine.Material::SetTextureOffsetImpl_Injected(System.Int32,UnityEngine.Vector2&)
+UnityEngine.Material::SetTextureScaleImpl_Injected(System.Int32,UnityEngine.Vector2&)
+?UnityEngine.Mathf::NextPowerOfTwo(System.Int32)
+UnityEngine.Mathf::GammaToLinearSpace(System.Single)
+UnityEngine.Mathf::LinearToGammaSpace(System.Single)
+UnityEngine.Mathf::PerlinNoise(System.Single,System.Single)
+UnityEngine.Matrix4x4::GetLossyScale_Injected(UnityEngine.Matrix4x4&,UnityEngine.Vector3&)
+UnityEngine.Matrix4x4::TRS_Injected(UnityEngine.Vector3&,UnityEngine.Quaternion&,UnityEngine.Vector3&,UnityEngine.Matrix4x4&)
+UnityEngine.Matrix4x4::Inverse_Injected(UnityEngine.Matrix4x4&,UnityEngine.Matrix4x4&)
+UnityEngine.Matrix4x4::Ortho_Injected(System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,UnityEngine.Matrix4x4&)
+UnityEngine.Matrix4x4::Perspective_Injected(System.Single,System.Single,System.Single,System.Single,UnityEngine.Matrix4x4&)
+UnityEngine.Mesh::Internal_Create(UnityEngine.Mesh)
+UnityEngine.Mesh::GetTrianglesImpl(System.Int32,System.Boolean)
+UnityEngine.Mesh::GetIndicesImpl(System.Int32,System.Boolean)
+UnityEngine.Mesh::SetIndicesImpl(System.Int32,UnityEngine.MeshTopology,UnityEngine.Rendering.IndexFormat,System.Array,System.Int32,System.Int32,System.Boolean,System.Int32)
+UnityEngine.Mesh::PrintErrorCantAccessChannel(UnityEngine.Rendering.VertexAttribute)
+UnityEngine.Mesh::HasVertexAttribute(UnityEngine.Rendering.VertexAttribute)
+UnityEngine.Mesh::SetArrayForChannelImpl(UnityEngine.Rendering.VertexAttribute,UnityEngine.Rendering.VertexAttributeFormat,System.Int32,System.Array,System.Int32,System.Int32,System.Int32)
+UnityEngine.Mesh::GetAllocArrayFromChannelImpl(UnityEngine.Rendering.VertexAttribute,UnityEngine.Rendering.VertexAttributeFormat,System.Int32)
+UnityEngine.Mesh::GetBoneWeightsImpl()
+UnityEngine.Mesh::SetBoneWeightsImpl(UnityEngine.BoneWeight[])
+UnityEngine.Mesh::get_bindposes()
+UnityEngine.Mesh::set_bindposes(UnityEngine.Matrix4x4[])
+UnityEngine.Mesh::get_isReadable()
+UnityEngine.Mesh::get_canAccess()
+UnityEngine.Mesh::get_vertexCount()
+UnityEngine.Mesh::get_subMeshCount()
+UnityEngine.Mesh::ClearImpl(System.Boolean)
+UnityEngine.Mesh::RecalculateBoundsImpl()
+UnityEngine.Mesh::RecalculateNormalsImpl()
+UnityEngine.Mesh::MarkDynamicImpl()
+UnityEngine.Mesh::UploadMeshDataImpl(System.Boolean)
+UnityEngine.Mesh::get_bounds_Injected(UnityEngine.Bounds&)
+UnityEngine.Mesh::set_bounds_Injected(UnityEngine.Bounds&)
+UnityEngine.MeshFilter::get_sharedMesh()
+UnityEngine.MeshFilter::set_sharedMesh(UnityEngine.Mesh)
+UnityEngine.MeshFilter::set_mesh(UnityEngine.Mesh)
+UnityEngine.MonoBehaviour::StopCoroutine(System.String)
+UnityEngine.MonoBehaviour::StopAllCoroutines()
+UnityEngine.MonoBehaviour::get_useGUILayout()
+UnityEngine.MonoBehaviour::set_useGUILayout(System.Boolean)
+UnityEngine.MonoBehaviour::Internal_CancelInvokeAll(UnityEngine.MonoBehaviour)
+UnityEngine.MonoBehaviour::Internal_IsInvokingAll(UnityEngine.MonoBehaviour)
+UnityEngine.MonoBehaviour::InvokeDelayed(UnityEngine.MonoBehaviour,System.String,System.Single,System.Single)
+UnityEngine.MonoBehaviour::CancelInvoke(UnityEngine.MonoBehaviour,System.String)
+UnityEngine.MonoBehaviour::IsInvoking(UnityEngine.MonoBehaviour,System.String)
+UnityEngine.MonoBehaviour::IsObjectMonoBehaviour(UnityEngine.Object)
+UnityEngine.MonoBehaviour::StartCoroutineManaged(System.String,System.Object)
+UnityEngine.MonoBehaviour::StartCoroutineManaged2(System.Collections.IEnumerator)
+UnityEngine.MonoBehaviour::StopCoroutineManaged(UnityEngine.Coroutine)
+UnityEngine.MonoBehaviour::StopCoroutineFromEnumeratorManaged(System.Collections.IEnumerator)
+UnityEngine.MonoBehaviour::GetScriptClassName()
+UnityEngine.NoAllocHelpers::ExtractArrayFromList(System.Object)
+UnityEngine.Object::Destroy(UnityEngine.Object,System.Single)
+UnityEngine.Object::DestroyImmediate(UnityEngine.Object,System.Boolean)
+UnityEngine.Object::FindObjectsOfType(System.Type)
+UnityEngine.Object::DontDestroyOnLoad(UnityEngine.Object)
+UnityEngine.Object::get_hideFlags()
+UnityEngine.Object::set_hideFlags(UnityEngine.HideFlags)
+UnityEngine.Object::GetOffsetOfInstanceIDInCPlusPlusObject()
+UnityEngine.Object::Internal_CloneSingle(UnityEngine.Object)
+UnityEngine.Object::Internal_CloneSingleWithParent(UnityEngine.Object,UnityEngine.Transform,System.Boolean)
+UnityEngine.Object::ToString(UnityEngine.Object)
+UnityEngine.Object::GetName(UnityEngine.Object)
+UnityEngine.Object::SetName(UnityEngine.Object,System.String)
+UnityEngine.Object::FindObjectFromInstanceID(System.Int32)
+UnityEngine.Object::Internal_InstantiateSingle_Injected(UnityEngine.Object,UnityEngine.Vector3&,UnityEngine.Quaternion&)
+UnityEngine.Object::Internal_InstantiateSingleWithParent_Injected(UnityEngine.Object,UnityEngine.Transform,UnityEngine.Vector3&,UnityEngine.Quaternion&)
+Cannot marshal field 'm_SourceBindingType' of type 'PlayableBinding': Reference type field marshaling is not supported.
+UnityEngine.Playables.PlayableHandle::IsValid_Injected(UnityEngine.Playables.PlayableHandle&)
+UnityEngine.Playables.PlayableHandle::GetPlayableType_Injected(UnityEngine.Playables.PlayableHandle&)
+UnityEngine.PlayerConnectionInternal::IsConnected()
+UnityEngine.PlayerConnectionInternal::Initialize()
+UnityEngine.PlayerConnectionInternal::RegisterInternal(System.String)
+UnityEngine.PlayerConnectionInternal::UnregisterInternal(System.String)
+UnityEngine.PlayerConnectionInternal::SendMessage(System.String,System.Byte[],System.Int32)
+UnityEngine.PlayerConnectionInternal::TrySendMessage(System.String,System.Byte[],System.Int32)
+UnityEngine.PlayerConnectionInternal::PollInternal()
+UnityEngine.PlayerConnectionInternal::DisconnectAll()
+UnityEngine.PlayerPrefs::TrySetInt(System.String,System.Int32)
+UnityEngine.PlayerPrefs::TrySetFloat(System.String,System.Single)
+UnityEngine.PlayerPrefs::GetInt(System.String,System.Int32)
+UnityEngine.PlayerPrefs::GetFloat(System.String,System.Single)
+UnityEngine.PlayerPrefs::HasKey(System.String)
+UnityEngine.PlayerPrefs::Save()
+UnityEngine.PropertyNameUtils::PropertyNameFromString_Injected(System.String,UnityEngine.PropertyName&)
+UnityEngine.QualitySettings::get_pixelLightCount()
+UnityEngine.QualitySettings::set_pixelLightCount(System.Int32)
+UnityEngine.QualitySettings::get_shadows()
+UnityEngine.QualitySettings::set_shadows(UnityEngine.ShadowQuality)
+UnityEngine.QualitySettings::get_shadowDistance()
+UnityEngine.QualitySettings::set_shadowDistance(System.Single)
+UnityEngine.QualitySettings::get_shadowResolution()
+UnityEngine.QualitySettings::set_shadowResolution(UnityEngine.ShadowResolution)
+UnityEngine.QualitySettings::get_vSyncCount()
+UnityEngine.QualitySettings::set_vSyncCount(System.Int32)
+UnityEngine.QualitySettings::SetQualityLevel(System.Int32,System.Boolean)
+UnityEngine.QualitySettings::get_activeColorSpace()
+UnityEngine.Quaternion::FromToRotation_Injected(UnityEngine.Vector3&,UnityEngine.Vector3&,UnityEngine.Quaternion&)
+UnityEngine.Quaternion::Inverse_Injected(UnityEngine.Quaternion&,UnityEngine.Quaternion&)
+UnityEngine.Quaternion::Slerp_Injected(UnityEngine.Quaternion&,UnityEngine.Quaternion&,System.Single,UnityEngine.Quaternion&)
+UnityEngine.Quaternion::Lerp_Injected(UnityEngine.Quaternion&,UnityEngine.Quaternion&,System.Single,UnityEngine.Quaternion&)
+UnityEngine.Quaternion::Internal_FromEulerRad_Injected(UnityEngine.Vector3&,UnityEngine.Quaternion&)
+UnityEngine.Quaternion::Internal_ToEulerRad_Injected(UnityEngine.Quaternion&,UnityEngine.Vector3&)
+UnityEngine.Quaternion::AngleAxis_Injected(System.Single,UnityEngine.Vector3&,UnityEngine.Quaternion&)
+UnityEngine.Quaternion::LookRotation_Injected(UnityEngine.Vector3&,UnityEngine.Vector3&,UnityEngine.Quaternion&)
+UnityEngine.Random::InitState(System.Int32)
+UnityEngine.Random::Range(System.Single,System.Single)
+UnityEngine.Random::RandomRangeInt(System.Int32,System.Int32)
+UnityEngine.Random::get_value()
+UnityEngine.Random::get_insideUnitSphere_Injected(UnityEngine.Vector3&)
+UnityEngine.Random::get_onUnitSphere_Injected(UnityEngine.Vector3&)
+UnityEngine.Random::get_rotation_Injected(UnityEngine.Quaternion&)
+UnityEngine.RectOffset::InternalCreate()
+UnityEngine.RectOffset::InternalDestroy(System.IntPtr)
+UnityEngine.RectOffset::get_left()
+UnityEngine.RectOffset::get_right()
+UnityEngine.RectOffset::get_top()
+UnityEngine.RectOffset::get_bottom()
+UnityEngine.RectOffset::get_horizontal()
+UnityEngine.RectOffset::get_vertical()
+UnityEngine.RectOffset::Remove_Injected(UnityEngine.Rect&,UnityEngine.Rect&)
+UnityEngine.RectTransform::get_rect_Injected(UnityEngine.Rect&)
+UnityEngine.RectTransform::get_anchorMin_Injected(UnityEngine.Vector2&)
+UnityEngine.RectTransform::set_anchorMin_Injected(UnityEngine.Vector2&)
+UnityEngine.RectTransform::get_anchorMax_Injected(UnityEngine.Vector2&)
+UnityEngine.RectTransform::set_anchorMax_Injected(UnityEngine.Vector2&)
+UnityEngine.RectTransform::get_anchoredPosition_Injected(UnityEngine.Vector2&)
+UnityEngine.RectTransform::set_anchoredPosition_Injected(UnityEngine.Vector2&)
+UnityEngine.RectTransform::get_sizeDelta_Injected(UnityEngine.Vector2&)
+UnityEngine.RectTransform::set_sizeDelta_Injected(UnityEngine.Vector2&)
+UnityEngine.RectTransform::get_pivot_Injected(UnityEngine.Vector2&)
+UnityEngine.RectTransform::set_pivot_Injected(UnityEngine.Vector2&)
+UnityEngine.ReflectionProbe::set_intensity(System.Single)
+UnityEngine.RenderSettings::get_fog()
+UnityEngine.RenderSettings::get_fogStartDistance()
+UnityEngine.RenderSettings::get_fogEndDistance()
+UnityEngine.RenderSettings::get_fogMode()
+UnityEngine.RenderSettings::get_fogDensity()
+UnityEngine.RenderSettings::get_fogColor_Injected(UnityEngine.Color&)
+UnityEngine.RenderSettings::get_ambientLight_Injected(UnityEngine.Color&)
+UnityEngine.RenderSettings::set_ambientLight_Injected(UnityEngine.Color&)
+UnityEngine.RenderTexture::get_width()
+UnityEngine.RenderTexture::set_width(System.Int32)
+UnityEngine.RenderTexture::get_height()
+UnityEngine.RenderTexture::set_height(System.Int32)
+UnityEngine.RenderTexture::get_graphicsFormat()
+UnityEngine.RenderTexture::set_graphicsFormat(UnityEngine.Experimental.Rendering.GraphicsFormat)
+UnityEngine.RenderTexture::set_useMipMap(System.Boolean)
+UnityEngine.RenderTexture::get_sRGB()
+UnityEngine.RenderTexture::GetActive()
+UnityEngine.RenderTexture::SetActive(UnityEngine.RenderTexture)
+UnityEngine.RenderTexture::DiscardContents(System.Boolean,System.Boolean)
+UnityEngine.RenderTexture::MarkRestoreExpected()
+UnityEngine.RenderTexture::Create()
+UnityEngine.RenderTexture::Release()
+UnityEngine.RenderTexture::IsCreated()
+UnityEngine.RenderTexture::SetSRGBReadWrite(System.Boolean)
+UnityEngine.RenderTexture::Internal_Create(UnityEngine.RenderTexture)
+UnityEngine.RenderTexture::ReleaseTemporary(UnityEngine.RenderTexture)
+UnityEngine.RenderTexture::get_depth()
+UnityEngine.RenderTexture::set_depth(System.Int32)
+UnityEngine.RenderTexture::GetColorBuffer_Injected(UnityEngine.RenderBuffer&)
+UnityEngine.RenderTexture::GetDepthBuffer_Injected(UnityEngine.RenderBuffer&)
+UnityEngine.RenderTexture::SetRenderTextureDescriptor_Injected(UnityEngine.RenderTextureDescriptor&)
+UnityEngine.RenderTexture::GetDescriptor_Injected(UnityEngine.RenderTextureDescriptor&)
+UnityEngine.RenderTexture::GetTemporary_Internal_Injected(UnityEngine.RenderTextureDescriptor&)
+UnityEngine.Renderer::GetMaterial()
+UnityEngine.Renderer::GetSharedMaterial()
+UnityEngine.Renderer::SetMaterial(UnityEngine.Material)
+UnityEngine.Renderer::GetMaterialArray()
+UnityEngine.Renderer::SetMaterialArray(UnityEngine.Material[])
+UnityEngine.Renderer::get_enabled()
+UnityEngine.Renderer::set_enabled(System.Boolean)
+UnityEngine.Renderer::get_isVisible()
+UnityEngine.Renderer::get_shadowCastingMode()
+UnityEngine.Renderer::set_shadowCastingMode(UnityEngine.Rendering.ShadowCastingMode)
+UnityEngine.Renderer::set_receiveShadows(System.Boolean)
+UnityEngine.Renderer::set_lightProbeUsage(UnityEngine.Rendering.LightProbeUsage)
+UnityEngine.Renderer::get_sortingLayerID()
+UnityEngine.Renderer::set_sortingLayerID(System.Int32)
+UnityEngine.Renderer::get_sortingOrder()
+UnityEngine.Renderer::set_sortingOrder(System.Int32)
+UnityEngine.Renderer::GetLightmapIndex(UnityEngineInternal.LightmapType)
+UnityEngine.Renderer::SetLightmapIndex(System.Int32,UnityEngineInternal.LightmapType)
+UnityEngine.Renderer::GetSharedMaterialArray()
+UnityEngine.Renderer::get_bounds_Injected(UnityEngine.Bounds&)
+UnityEngine.Renderer::SetStaticLightmapST_Injected(UnityEngine.Vector4&)
+UnityEngine.Renderer::GetLightmapST_Injected(UnityEngineInternal.LightmapType,UnityEngine.Vector4&)
+UnityEngine.Rendering.CommandBuffer::InitBuffer()
+UnityEngine.Rendering.CommandBuffer::ReleaseBuffer()
+UnityEngine.Rendering.CommandBuffer::get_name()
+UnityEngine.Rendering.CommandBuffer::set_name(System.String)
+UnityEngine.Rendering.CommandBuffer::Clear()
+UnityEngine.Rendering.CommandBuffer::GetTemporaryRT(System.Int32,System.Int32,System.Int32,System.Int32,UnityEngine.FilterMode,UnityEngine.Experimental.Rendering.GraphicsFormat,System.Int32,System.Boolean,UnityEngine.RenderTextureMemoryless,System.Boolean)
+UnityEngine.Rendering.CommandBuffer::ReleaseTemporaryRT(System.Int32)
+UnityEngine.Rendering.CommandBuffer::SetGlobalFloat(System.Int32,System.Single)
+UnityEngine.Rendering.CommandBuffer::ValidateAgainstExecutionFlags(UnityEngine.Rendering.CommandBufferExecutionFlags,UnityEngine.Rendering.CommandBufferExecutionFlags)
+UnityEngine.Rendering.CommandBuffer::SetGlobalTexture_Impl(System.Int32,UnityEngine.Rendering.RenderTargetIdentifier&,UnityEngine.Rendering.RenderTextureSubElement)
+UnityEngine.Rendering.CommandBuffer::SetShadowSamplingMode_Impl(UnityEngine.Rendering.RenderTargetIdentifier&,UnityEngine.Rendering.ShadowSamplingMode)
+UnityEngine.Rendering.CommandBuffer::Internal_DrawMesh_Injected(UnityEngine.Mesh,UnityEngine.Matrix4x4&,UnityEngine.Material,System.Int32,System.Int32,UnityEngine.MaterialPropertyBlock)
+UnityEngine.Rendering.CommandBuffer::Blit_Texture_Injected(UnityEngine.Texture,UnityEngine.Rendering.RenderTargetIdentifier&,UnityEngine.Material,System.Int32,UnityEngine.Vector2&,UnityEngine.Vector2&,System.Int32,System.Int32)
+UnityEngine.Rendering.CommandBuffer::Blit_Identifier_Injected(UnityEngine.Rendering.RenderTargetIdentifier&,UnityEngine.Rendering.RenderTargetIdentifier&,UnityEngine.Material,System.Int32,UnityEngine.Vector2&,UnityEngine.Vector2&,System.Int32,System.Int32)
+UnityEngine.Rendering.CommandBuffer::ClearRenderTarget_Injected(System.Boolean,System.Boolean,UnityEngine.Color&,System.Single)
+UnityEngine.Rendering.CommandBuffer::SetGlobalVector_Injected(System.Int32,UnityEngine.Vector4&)
+UnityEngine.Rendering.CommandBuffer::SetRenderTargetSingle_Internal_Injected(UnityEngine.Rendering.RenderTargetIdentifier&,UnityEngine.Rendering.RenderBufferLoadAction,UnityEngine.Rendering.RenderBufferStoreAction,UnityEngine.Rendering.RenderBufferLoadAction,UnityEngine.Rendering.RenderBufferStoreAction)
+UnityEngine.Rendering.CommandBuffer::SetRenderTargetMulti_Internal_Injected(UnityEngine.Rendering.RenderTargetIdentifier[],UnityEngine.Rendering.RenderTargetIdentifier&,UnityEngine.Rendering.RenderBufferLoadAction[],UnityEngine.Rendering.RenderBufferStoreAction[],UnityEngine.Rendering.RenderBufferLoadAction,UnityEngine.Rendering.RenderBufferStoreAction)
+UnityEngine.Rendering.GraphicsSettings::get_lightsUseLinearIntensity()
+UnityEngine.Rendering.GraphicsSettings::AllowEnlightenSupportForUpgradedProject()
+UnityEngine.Rendering.GraphicsSettings::SetShaderMode(UnityEngine.Rendering.BuiltinShaderType,UnityEngine.Rendering.BuiltinShaderMode)
+UnityEngine.Rendering.GraphicsSettings::SetCustomShader(UnityEngine.Rendering.BuiltinShaderType,UnityEngine.Shader)
+Cannot marshal field 'AdditionalData' of type 'DisconnectInfo': Reference type field marshaling is not supported.
+Cannot marshal field 'LocalEndPoint' of type 'RequestEventData': Reference type field marshaling is not supported.
+Cannot marshal field 'TargetEndPoint' of type 'SuccessEventData': Reference type field marshaling is not supported.
+Cannot marshal field '_initialPeer' of type 'NetPeerEnumerator': Reference type field marshaling is not supported.
+Cannot marshal field '_packet' of type 'PendingPacket': Reference type field marshaling is not supported.
+9@Cannot marshal field 'textInfo' of type 'WordWrapState': Reference type field marshaling is not supported.
+Cannot marshal field 'calendar' of type 'DateTimeResult': Reference type field marshaling is not supported.
+Cannot marshal field 'dt' of type 'XsdDateTime'.
+v@Cannot marshal field '<Calculations>k__BackingField' of type 'JsScript'.
+Cannot marshal field 'Cookies' of type 'SolveResult': Reference type field marshaling is not supported.
+UnityEngine.Rendering.ScriptableRenderContext::GetNumberOfCameras_Internal_Injected(UnityEngine.Rendering.ScriptableRenderContext&)
+UnityEngine.Rendering.ScriptableRenderContext::GetCamera_Internal_Injected(UnityEngine.Rendering.ScriptableRenderContext&,System.Int32)
+Cannot marshal field 'm_Type' of type 'ResourceRequest': Reference type field marshaling is not supported.
+UnityEngine.Resources::FindObjectsOfTypeAll(System.Type)
+UnityEngine.Resources::Load(System.String,System.Type)
+UnityEngine.Resources::GetBuiltinResource(System.Type,System.String)
+UnityEngine.Resources::UnloadUnusedAssets()
+UnityEngine.SceneManagement.Scene::IsValidInternal(System.Int32)
+UnityEngine.SceneManagement.Scene::GetPathInternal(System.Int32)
+UnityEngine.SceneManagement.Scene::GetNameInternal(System.Int32)
+UnityEngine.SceneManagement.Scene::GetIsLoadedInternal(System.Int32)
+UnityEngine.SceneManagement.Scene::GetBuildIndexInternal(System.Int32)
+UnityEngine.SceneManagement.SceneManager::get_sceneCount()
+UnityEngine.SceneManagement.SceneManager::GetActiveScene_Injected(UnityEngine.SceneManagement.Scene&)
+UnityEngine.SceneManagement.SceneManager::GetSceneByName_Injected(System.String,UnityEngine.SceneManagement.Scene&)
+UnityEngine.SceneManagement.SceneManager::GetSceneAt_Injected(System.Int32,UnityEngine.SceneManagement.Scene&)
+UnityEngine.SceneManagement.SceneManager::MoveGameObjectToScene_Injected(UnityEngine.GameObject,UnityEngine.SceneManagement.Scene&)
+UnityEngine.SceneManagement.SceneManagerAPIInternal::UnloadSceneNameIndexInternal(System.String,System.Int32,System.Boolean,UnityEngine.SceneManagement.UnloadSceneOptions,System.Boolean&)
+UnityEngine.SceneManagement.SceneManagerAPIInternal::LoadSceneAsyncNameIndexInternal_Injected(System.String,System.Int32,UnityEngine.SceneManagement.LoadSceneParameters&,System.Boolean)
+UnityEngine.Screen::get_width()
+UnityEngine.Screen::get_height()
+UnityEngine.Screen::get_dpi()
+UnityEngine.Screen::get_fullScreenMode()
+UnityEngine.Screen::SetResolution(System.Int32,System.Int32,UnityEngine.FullScreenMode,System.Int32)
+UnityEngine.Screen::get_resolutions()
+UnityEngine.ScriptableObject::CreateScriptableObject(UnityEngine.ScriptableObject)
+UnityEngine.ScriptableObject::CreateScriptableObjectInstanceFromType(System.Type,System.Boolean)
+UnityEngine.Shader::Find(System.String)
+UnityEngine.Shader::get_isSupported()
+UnityEngine.Shader::EnableKeyword(System.String)
+UnityEngine.Shader::DisableKeyword(System.String)
+UnityEngine.Shader::PropertyToID(System.String)
+UnityEngine.Shader::SetGlobalFloatImpl(System.Int32,System.Single)
+UnityEngine.Shader::SetGlobalTextureImpl(System.Int32,UnityEngine.Texture)
+UnityEngine.Shader::SetGlobalVectorImpl_Injected(System.Int32,UnityEngine.Vector4&)
+UnityEngine.SkinnedMeshRenderer::set_quality(UnityEngine.SkinQuality)
+UnityEngine.SkinnedMeshRenderer::set_updateWhenOffscreen(System.Boolean)
+UnityEngine.SkinnedMeshRenderer::get_rootBone()
+UnityEngine.SkinnedMeshRenderer::get_bones()
+UnityEngine.SkinnedMeshRenderer::set_bones(UnityEngine.Transform[])
+UnityEngine.SkinnedMeshRenderer::get_sharedMesh()
+UnityEngine.SkinnedMeshRenderer::set_sharedMesh(UnityEngine.Mesh)
+UnityEngine.SkinnedMeshRenderer::SetLocalAABB_Injected(UnityEngine.Bounds&)
+UnityEngine.SortingLayer::GetLayerValueFromID(System.Int32)
+UnityEngine.Sprite::GetPackingMode()
+UnityEngine.Sprite::GetPacked()
+UnityEngine.Sprite::get_texture()
+UnityEngine.Sprite::get_pixelsPerUnit()
+UnityEngine.Sprite::get_associatedAlphaSplitTexture()
+UnityEngine.Sprite::get_vertices()
+UnityEngine.Sprite::get_triangles()
+UnityEngine.Sprite::get_uv()
+UnityEngine.Sprite::GetTextureRect_Injected(UnityEngine.Rect&)
+UnityEngine.Sprite::GetInnerUVs_Injected(UnityEngine.Vector4&)
+UnityEngine.Sprite::GetOuterUVs_Injected(UnityEngine.Vector4&)
+UnityEngine.Sprite::GetPadding_Injected(UnityEngine.Vector4&)
+UnityEngine.Sprite::CreateSprite_Injected(UnityEngine.Texture2D,UnityEngine.Rect&,UnityEngine.Vector2&,System.Single,System.UInt32,UnityEngine.SpriteMeshType,UnityEngine.Vector4&,System.Boolean)
+UnityEngine.Sprite::get_bounds_Injected(UnityEngine.Bounds&)
+UnityEngine.Sprite::get_rect_Injected(UnityEngine.Rect&)
+UnityEngine.Sprite::get_border_Injected(UnityEngine.Vector4&)
+UnityEngine.Sprite::get_pivot_Injected(UnityEngine.Vector2&)
+UnityEngine.SystemInfo::GetOperatingSystem()
+UnityEngine.SystemInfo::GetOperatingSystemFamily()
+UnityEngine.SystemInfo::GetProcessorType()
+UnityEngine.SystemInfo::GetProcessorFrequencyMHz()
+UnityEngine.SystemInfo::GetProcessorCount()
+UnityEngine.SystemInfo::GetPhysicalMemoryMB()
+UnityEngine.SystemInfo::GetDeviceUniqueIdentifier()
+UnityEngine.SystemInfo::GetDeviceName()
+UnityEngine.SystemInfo::SupportsAudio()
+UnityEngine.SystemInfo::GetDeviceType()
+UnityEngine.SystemInfo::GetGraphicsMemorySize()
+UnityEngine.SystemInfo::GetGraphicsDeviceName()
+UnityEngine.SystemInfo::GetGraphicsDeviceVendor()
+UnityEngine.SystemInfo::GetGraphicsDeviceType()
+UnityEngine.SystemInfo::GetGraphicsDeviceVersion()
+UnityEngine.SystemInfo::GetGraphicsShaderLevel()
+UnityEngine.SystemInfo::SupportsMotionVectors()
+UnityEngine.SystemInfo::Supports3DTextures()
+UnityEngine.SystemInfo::SupportsComputeShaders()
+UnityEngine.SystemInfo::SupportedRenderTargetCount()
+UnityEngine.SystemInfo::SupportedRandomWriteTargetCount()
+UnityEngine.SystemInfo::HasRenderTextureNative(UnityEngine.RenderTextureFormat)
+UnityEngine.SystemInfo::SupportsTextureFormatNative(UnityEngine.TextureFormat)
+UnityEngine.SystemInfo::IsFormatSupported(UnityEngine.Experimental.Rendering.GraphicsFormat,UnityEngine.Experimental.Rendering.FormatUsage)
+UnityEngine.SystemInfo::GetCompatibleFormat(UnityEngine.Experimental.Rendering.GraphicsFormat,UnityEngine.Experimental.Rendering.FormatUsage)
+UnityEngine.SystemInfo::GetGraphicsFormat(UnityEngine.Experimental.Rendering.DefaultFormat)
+UnityEngine.TextAsset::get_text()
+UnityEngine.TextAsset::get_bytes()
+UnityEngine.Texture::GetDataWidth()
+UnityEngine.Texture::GetDataHeight()
+UnityEngine.Texture::get_isReadable()
+UnityEngine.Texture::get_wrapMode()
+UnityEngine.Texture::set_wrapMode(UnityEngine.TextureWrapMode)
+UnityEngine.Texture::get_filterMode()
+UnityEngine.Texture::set_filterMode(UnityEngine.FilterMode)
+UnityEngine.Texture::set_anisoLevel(System.Int32)
+UnityEngine.Texture::get_texelSize_Injected(UnityEngine.Vector2&)
+UnityEngine.Texture2D::get_whiteTexture()
+UnityEngine.Texture2D::get_blackTexture()
+UnityEngine.Texture2D::Internal_CreateImpl(UnityEngine.Texture2D,System.Int32,System.Int32,System.Int32,UnityEngine.Experimental.Rendering.GraphicsFormat,UnityEngine.Experimental.Rendering.TextureCreationFlags,System.IntPtr)
+UnityEngine.Texture2D::get_isReadable()
+UnityEngine.Texture2D::ApplyImpl(System.Boolean,System.Boolean)
+UnityEngine.Texture2D::ResizeImpl(System.Int32,System.Int32)
+UnityEngine.Texture2D::ResizeWithFormatImpl(System.Int32,System.Int32,UnityEngine.TextureFormat,System.Boolean)
+UnityEngine.Texture2D::SetPixelsImpl(System.Int32,System.Int32,System.Int32,System.Int32,UnityEngine.Color[],System.Int32,System.Int32)
+UnityEngine.Texture2D::LoadRawTextureDataImplArray(System.Byte[])
+UnityEngine.Texture2D::SetAllPixels32(UnityEngine.Color32[],System.Int32)
+UnityEngine.Texture2D::GetPixels(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+UnityEngine.Texture2D::GetPixels32(System.Int32)
+UnityEngine.Texture2D::SetPixelImpl_Injected(System.Int32,System.Int32,System.Int32,UnityEngine.Color&)
+UnityEngine.Texture2D::GetPixelImpl_Injected(System.Int32,System.Int32,System.Int32,UnityEngine.Color&)
+UnityEngine.Texture2D::GetPixelBilinearImpl_Injected(System.Int32,System.Single,System.Single,UnityEngine.Color&)
+UnityEngine.Texture2D::ReadPixelsImpl_Injected(UnityEngine.Rect&,System.Int32,System.Int32,System.Boolean)
+UnityEngine.Texture2DArray::get_allSlices()
+UnityEngine.Texture2DArray::get_isReadable()
+UnityEngine.Texture2DArray::Internal_CreateImpl(UnityEngine.Texture2DArray,System.Int32,System.Int32,System.Int32,System.Int32,UnityEngine.Experimental.Rendering.GraphicsFormat,UnityEngine.Experimental.Rendering.TextureCreationFlags)
+UnityEngine.Texture3D::get_isReadable()
+UnityEngine.Texture3D::Internal_CreateImpl(UnityEngine.Texture3D,System.Int32,System.Int32,System.Int32,System.Int32,UnityEngine.Experimental.Rendering.GraphicsFormat,UnityEngine.Experimental.Rendering.TextureCreationFlags)
+UnityEngine.Texture3D::ApplyImpl(System.Boolean,System.Boolean)
+UnityEngine.Texture3D::SetPixels(UnityEngine.Color[],System.Int32)
+UnityEngine.Time::get_time()
+UnityEngine.Time::get_timeSinceLevelLoad()
+UnityEngine.Time::get_deltaTime()
+UnityEngine.Time::get_fixedTime()
+UnityEngine.Time::get_unscaledTime()
+UnityEngine.Time::get_fixedUnscaledTime()
+UnityEngine.Time::get_unscaledDeltaTime()
+UnityEngine.Time::get_fixedUnscaledDeltaTime()
+UnityEngine.Time::get_fixedDeltaTime()
+UnityEngine.Time::get_maximumDeltaTime()
+UnityEngine.Time::get_timeScale()
+UnityEngine.Time::set_timeScale(System.Single)
+UnityEngine.Time::get_frameCount()
+UnityEngine.Time::get_realtimeSinceStartup()
+UnityEngine.TouchScreenKeyboard::Internal_Destroy(System.IntPtr)
+UnityEngine.TouchScreenKeyboard::TouchScreenKeyboard_InternalConstructorHelper(UnityEngine.TouchScreenKeyboard_InternalConstructorHelperArguments&,System.String,System.String)
+UnityEngine.TouchScreenKeyboard::get_text()
+UnityEngine.TouchScreenKeyboard::set_text(System.String)
+UnityEngine.TouchScreenKeyboard::set_hideInput(System.Boolean)
+UnityEngine.TouchScreenKeyboard::get_active()
+UnityEngine.TouchScreenKeyboard::set_active(System.Boolean)
+UnityEngine.TouchScreenKeyboard::get_status()
+UnityEngine.TouchScreenKeyboard::set_characterLimit(System.Int32)
+UnityEngine.TouchScreenKeyboard::get_canGetSelection()
+UnityEngine.TouchScreenKeyboard::get_canSetSelection()
+UnityEngine.TouchScreenKeyboard::GetSelection(System.Int32&,System.Int32&)
+UnityEngine.TouchScreenKeyboard::SetSelection(System.Int32,System.Int32)
+UnityEngine.Transform::GetParent()
+UnityEngine.Transform::SetParent(UnityEngine.Transform,System.Boolean)
+UnityEngine.Transform::GetRoot()
+UnityEngine.Transform::get_childCount()
+UnityEngine.Transform::DetachChildren()
+UnityEngine.Transform::SetAsFirstSibling()
+UnityEngine.Transform::SetAsLastSibling()
+UnityEngine.Transform::SetSiblingIndex(System.Int32)
+UnityEngine.Transform::GetSiblingIndex()
+UnityEngine.Transform::FindRelativeTransformWithPath(UnityEngine.Transform,System.String,System.Boolean)
+UnityEngine.Transform::IsChildOf(UnityEngine.Transform)
+UnityEngine.Transform::get_hasChanged()
+UnityEngine.Transform::set_hasChanged(System.Boolean)
+UnityEngine.Transform::GetChild(System.Int32)
+UnityEngine.Transform::get_position_Injected(UnityEngine.Vector3&)
+UnityEngine.Transform::set_position_Injected(UnityEngine.Vector3&)
+UnityEngine.Transform::get_localPosition_Injected(UnityEngine.Vector3&)
+UnityEngine.Transform::set_localPosition_Injected(UnityEngine.Vector3&)
+UnityEngine.Transform::get_rotation_Injected(UnityEngine.Quaternion&)
+UnityEngine.Transform::set_rotation_Injected(UnityEngine.Quaternion&)
+UnityEngine.Transform::get_localRotation_Injected(UnityEngine.Quaternion&)
+UnityEngine.Transform::set_localRotation_Injected(UnityEngine.Quaternion&)
+UnityEngine.Transform::get_localScale_Injected(UnityEngine.Vector3&)
+UnityEngine.Transform::set_localScale_Injected(UnityEngine.Vector3&)
+UnityEngine.Transform::get_worldToLocalMatrix_Injected(UnityEngine.Matrix4x4&)
+UnityEngine.Transform::get_localToWorldMatrix_Injected(UnityEngine.Matrix4x4&)
+UnityEngine.Transform::RotateAroundInternal_Injected(UnityEngine.Vector3&,System.Single)
+UnityEngine.Transform::Internal_LookAt_Injected(UnityEngine.Vector3&,UnityEngine.Vector3&)
+UnityEngine.Transform::TransformDirection_Injected(UnityEngine.Vector3&,UnityEngine.Vector3&)
+UnityEngine.Transform::InverseTransformDirection_Injected(UnityEngine.Vector3&,UnityEngine.Vector3&)
+UnityEngine.Transform::TransformVector_Injected(UnityEngine.Vector3&,UnityEngine.Vector3&)
+UnityEngine.Transform::InverseTransformVector_Injected(UnityEngine.Vector3&,UnityEngine.Vector3&)
+UnityEngine.Transform::TransformPoint_Injected(UnityEngine.Vector3&,UnityEngine.Vector3&)
+UnityEngine.Transform::InverseTransformPoint_Injected(UnityEngine.Vector3&,UnityEngine.Vector3&)
+UnityEngine.Transform::get_lossyScale_Injected(UnityEngine.Vector3&)
+UnityEngine.U2D.SpriteAtlas::CanBindTo(UnityEngine.Sprite)
+UnityEngine.U2D.SpriteAtlasManager::Register(UnityEngine.U2D.SpriteAtlas)
+UnityEngine.UnityLogWriter::WriteStringToUnityLogImpl(System.String)
+Cannot marshal field 'm_WaitHandle' of type 'WorkRequest': Reference type field marshaling is not supported.
+UnityEngine.Vector3::Slerp_Injected(UnityEngine.Vector3&,UnityEngine.Vector3&,System.Single,UnityEngine.Vector3&)
+Cannot marshal field 'semanticMeanings' of type 'PhraseRecognizedEventArgs'.
+Cannot marshal field 'values' of type 'SemanticMeaning'.
+UnityEngine.Windows.WebCam.PhotoCapture::Dispose_Internal()
+UnityEngine.Windows.WebCam.PhotoCapture::DisposeThreaded_Internal()
+UnityEngine.Windows.WebCam.PhotoCaptureFrame::GetDataLength()
+UnityEngine.Windows.WebCam.PhotoCaptureFrame::GetHasLocationData()
+UnityEngine.Windows.WebCam.PhotoCaptureFrame::GetCapturePixelFormat()
+UnityEngine.Windows.WebCam.PhotoCaptureFrame::Dispose_Internal()
+UnityEngine.Windows.WebCam.VideoCapture::Dispose_Internal()
+UnityEngine.Windows.WebCam.VideoCapture::DisposeThreaded_Internal()
+DiscordCreate
+Cannot marshal field 'info' of type 'XPathNode': Reference type field marshaling is not supported.
+Cannot marshal field 'page' of type 'XPathNodeRef'.
+Cannot marshal field 'opnd' of type 'NodeSet': Reference type field marshaling is not supported.
+Mono.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756
+UnityEngine.Event::get_rawType()
+UnityEngine.Event::get_pointerType()
+UnityEngine.Event::get_button()
+UnityEngine.Event::get_modifiers()
+UnityEngine.Event::set_modifiers(UnityEngine.EventModifiers)
+UnityEngine.Event::get_pressure()
+UnityEngine.Event::get_clickCount()
+UnityEngine.Event::get_character()
+UnityEngine.Event::set_character(System.Char)
+UnityEngine.Event::get_keyCode()
+UnityEngine.Event::set_keyCode(UnityEngine.KeyCode)
+UnityEngine.Event::get_displayIndex()
+UnityEngine.Event::set_displayIndex(System.Int32)
+UnityEngine.Event::get_type()
+UnityEngine.Event::set_type(UnityEngine.EventType)
+UnityEngine.Event::get_commandName()
+UnityEngine.Event::set_commandName(System.String)
+UnityEngine.Event::Internal_Use()
+UnityEngine.Event::Internal_Create(System.Int32)
+UnityEngine.Event::Internal_Destroy(System.IntPtr)
+UnityEngine.Event::CopyFromPtr(System.IntPtr)
+UnityEngine.Event::PopEvent(UnityEngine.Event)
+UnityEngine.Event::Internal_SetNativeEvent(System.IntPtr)
+UnityEngine.Event::get_mousePosition_Injected(UnityEngine.Vector2&)
+UnityEngine.Event::set_mousePosition_Injected(UnityEngine.Vector2&)
+UnityEngine.Event::get_delta_Injected(UnityEngine.Vector2&)
+UnityEngine.GUI::get_changed()
+UnityEngine.GUI::set_changed(System.Boolean)
+UnityEngine.GUI::get_enabled()
+UnityEngine.GUI::set_enabled(System.Boolean)
+UnityEngine.GUI::get_blendMaterial()
+UnityEngine.GUI::get_blitMaterial()
+UnityEngine.GUI::get_roundedRectMaterial()
+UnityEngine.GUI::get_roundedRectWithColorPerBorderMaterial()
+UnityEngine.GUI::GrabMouseControl(System.Int32)
+UnityEngine.GUI::HasMouseControl(System.Int32)
+UnityEngine.GUI::ReleaseMouseControl()
+UnityEngine.GUI::get_color_Injected(UnityEngine.Color&)
+UnityEngine.GUI::set_color_Injected(UnityEngine.Color&)
+UnityEngine.GUI::get_backgroundColor_Injected(UnityEngine.Color&)
+UnityEngine.GUI::set_backgroundColor_Injected(UnityEngine.Color&)
+UnityEngine.GUI::get_contentColor_Injected(UnityEngine.Color&)
+UnityEngine.GUI::set_contentColor_Injected(UnityEngine.Color&)
+UnityEngine.GUIClip::Internal_Pop()
+UnityEngine.GUIClip::Internal_GetCount()
+UnityEngine.GUIClip::Internal_PopParentClip()
+UnityEngine.GUIClip::get_visibleRect_Injected(UnityEngine.Rect&)
+UnityEngine.GUIClip::Internal_Push_Injected(UnityEngine.Rect&,UnityEngine.Vector2&,UnityEngine.Vector2&,System.Boolean)
+UnityEngine.GUIClip::GetMatrix_Injected(UnityEngine.Matrix4x4&)
+UnityEngine.GUIClip::SetMatrix_Injected(UnityEngine.Matrix4x4&)
+UnityEngine.GUIClip::Internal_PushParentClip_Injected(UnityEngine.Matrix4x4&,UnityEngine.Rect&)
+Cannot marshal field 'm_Image' of type 'GUIContent': Reference type field marshaling is not supported.
+UnityEngine.GUILayoutUtility::Internal_GetWindowRect_Injected(System.Int32,UnityEngine.Rect&)
+UnityEngine.GUILayoutUtility::Internal_MoveWindow_Injected(System.Int32,UnityEngine.Rect&)
+UnityEngine.GUISettings::Internal_GetCursorFlashSpeed()
+Cannot marshal field 'm_Normal' of type 'GUIStyle': Reference type field marshaling is not supported.
+UnityEngine.GUIStyle::get_rawName()
+UnityEngine.GUIStyle::set_rawName(System.String)
+UnityEngine.GUIStyle::get_font()
+UnityEngine.GUIStyle::get_imagePosition()
+UnityEngine.GUIStyle::get_wordWrap()
+UnityEngine.GUIStyle::get_fixedWidth()
+UnityEngine.GUIStyle::get_fixedHeight()
+UnityEngine.GUIStyle::get_stretchWidth()
+UnityEngine.GUIStyle::get_stretchHeight()
+UnityEngine.GUIStyle::set_stretchHeight(System.Boolean)
+UnityEngine.GUIStyle::Internal_Create(UnityEngine.GUIStyle)
+UnityEngine.GUIStyle::Internal_Destroy(System.IntPtr)
+UnityEngine.GUIStyle::GetStyleStatePtr(System.Int32)
+UnityEngine.GUIStyle::GetRectOffsetPtr(System.Int32)
+UnityEngine.GUIStyle::Internal_GetLineHeight(System.IntPtr)
+UnityEngine.GUIStyle::Internal_CalcHeight(UnityEngine.GUIContent,System.Single)
+UnityEngine.GUIStyle::Internal_GetCursorFlashOffset()
+UnityEngine.GUIStyle::SetDefaultFont(UnityEngine.Font)
+UnityEngine.GUIStyle::get_contentOffset_Injected(UnityEngine.Vector2&)
+UnityEngine.GUIStyle::set_contentOffset_Injected(UnityEngine.Vector2&)
+UnityEngine.GUIStyle::set_Internal_clipOffset_Injected(UnityEngine.Vector2&)
+UnityEngine.GUIStyle::Internal_Draw_Injected(UnityEngine.Rect&,UnityEngine.GUIContent,System.Boolean,System.Boolean,System.Boolean,System.Boolean)
+UnityEngine.GUIStyle::Internal_Draw2_Injected(UnityEngine.Rect&,UnityEngine.GUIContent,System.Int32,System.Boolean)
+UnityEngine.GUIStyle::Internal_DrawCursor_Injected(UnityEngine.Rect&,UnityEngine.GUIContent,System.Int32,UnityEngine.Color&)
+UnityEngine.GUIStyle::Internal_DrawWithTextSelection_Injected(UnityEngine.Rect&,UnityEngine.GUIContent,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Int32,System.Int32,UnityEngine.Color&,UnityEngine.Color&)
+UnityEngine.GUIStyle::Internal_GetCursorPixelPosition_Injected(UnityEngine.Rect&,UnityEngine.GUIContent,System.Int32,UnityEngine.Vector2&)
+UnityEngine.GUIStyle::Internal_GetCursorStringIndex_Injected(UnityEngine.Rect&,UnityEngine.GUIContent,UnityEngine.Vector2&)
+UnityEngine.GUIStyle::Internal_GetSelectedRenderedText_Injected(UnityEngine.Rect&,UnityEngine.GUIContent,System.Int32,System.Int32)
+UnityEngine.GUIStyle::Internal_CalcSize_Injected(UnityEngine.GUIContent,UnityEngine.Vector2&)
+UnityEngine.GUIStyle::Internal_CalcSizeWithConstraints_Injected(UnityEngine.GUIContent,UnityEngine.Vector2&,UnityEngine.Vector2&)
+UnityEngine.GUIStyle::Internal_CalcMinMaxWidth_Injected(UnityEngine.GUIContent,UnityEngine.Vector2&)
+UnityEngine.GUIStyle::SetMouseTooltip_Injected(System.String,UnityEngine.Rect&)
+Cannot marshal field 'm_SourceStyle' of type 'GUIStyleState': Reference type field marshaling is not supported.
+UnityEngine.GUIStyleState::Init()
+UnityEngine.GUIStyleState::Cleanup()
+UnityEngine.GUIStyleState::set_textColor_Injected(UnityEngine.Color&)
+UnityEngine.GUIUtility::get_pixelsPerPoint()
+UnityEngine.GUIUtility::get_guiDepth()
+UnityEngine.GUIUtility::set_mouseUsed(System.Boolean)
+UnityEngine.GUIUtility::set_textFieldInput(System.Boolean)
+UnityEngine.GUIUtility::get_systemCopyBuffer()
+UnityEngine.GUIUtility::set_systemCopyBuffer(System.String)
+UnityEngine.GUIUtility::BeginContainerFromOwner(UnityEngine.ScriptableObject)
+UnityEngine.GUIUtility::BeginContainer(UnityEngine.ObjectGUIState)
+UnityEngine.GUIUtility::Internal_EndContainer()
+UnityEngine.GUIUtility::CheckForTabEvent(UnityEngine.Event)
+UnityEngine.GUIUtility::SetKeyboardControlToFirstControlId()
+UnityEngine.GUIUtility::SetKeyboardControlToLastControlId()
+UnityEngine.GUIUtility::HasFocusableControls()
+UnityEngine.GUIUtility::OwnsId(System.Int32)
+UnityEngine.GUIUtility::get_compositionString()
+UnityEngine.GUIUtility::Internal_GetHotControl()
+UnityEngine.GUIUtility::Internal_GetKeyboardControl()
+UnityEngine.GUIUtility::Internal_SetHotControl(System.Int32)
+UnityEngine.GUIUtility::Internal_SetKeyboardControl(System.Int32)
+UnityEngine.GUIUtility::Internal_GetDefaultSkin(System.Int32)
+UnityEngine.GUIUtility::Internal_ExitGUI()
+UnityEngine.GUIUtility::GetControlID_Injected(System.Int32,UnityEngine.FocusType,UnityEngine.Rect&)
+UnityEngine.GUIUtility::AlignRectToDevice_Injected(UnityEngine.Rect&,System.Int32&,System.Int32&,UnityEngine.Rect&)
+UnityEngine.GUIUtility::set_compositionCursorPos_Injected(UnityEngine.Vector2&)
+UnityEngine.ObjectGUIState::Internal_Create()
+UnityEngine.ObjectGUIState::Internal_Destroy(System.IntPtr)
+>333>
+ >ff&?
+p=?R
+Cannot marshal field 'm_parsedVersion' of type 'VersionResult': Reference type field marshaling is not supported.
+GetConsoleScreenBufferInfo
+SetConsoleTextAttribute
+ReadConsoleInput
+Cannot marshal field 'm_info' of type '__DTString': Reference type field marshaling is not supported.
+Cannot marshal field '_properties' of type 'PlayerChannel': Reference type field marshaling is not supported.
+Cannot marshal field '_properties' of type 'RoomChannel': Reference type field marshaling is not supported.
+Cannot marshal field 'encoding' of type 'ParsingState': Reference type field marshaling is not supported.
+Assembly-CSharp-firstpass.dll
+Cannot marshal field 'conn' of type 'PendingPlayer': Reference type field marshaling is not supported.
+UnityEngine.CoreModule.dll
+Cannot marshal field 'm_HighlightedSprite' of type 'SpriteState': Reference type field marshaling is not supported.
+UnityEngine.AndroidJNI::FindClass(System.String)
+UnityEngine.AndroidJNI::FromReflectedMethod(System.IntPtr)
+UnityEngine.AndroidJNI::ExceptionOccurred()
+UnityEngine.AndroidJNI::ExceptionClear()
+UnityEngine.AndroidJNI::NewGlobalRef(System.IntPtr)
+UnityEngine.AndroidJNI::DeleteGlobalRef(System.IntPtr)
+UnityEngine.AndroidJNI::NewWeakGlobalRef(System.IntPtr)
+UnityEngine.AndroidJNI::DeleteWeakGlobalRef(System.IntPtr)
+UnityEngine.AndroidJNI::NewLocalRef(System.IntPtr)
+UnityEngine.AndroidJNI::DeleteLocalRef(System.IntPtr)
+UnityEngine.AndroidJNI::NewObject(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::GetObjectClass(System.IntPtr)
+UnityEngine.AndroidJNI::GetMethodID(System.IntPtr,System.String,System.String)
+UnityEngine.AndroidJNI::GetStaticMethodID(System.IntPtr,System.String,System.String)
+UnityEngine.AndroidJNI::NewStringFromStr(System.String)
+UnityEngine.AndroidJNI::GetStringChars(System.IntPtr)
+UnityEngine.AndroidJNI::CallStringMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::CallObjectMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::CallIntMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::CallBooleanMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::CallShortMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::CallSByteMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::CallCharMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::CallFloatMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::CallDoubleMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::CallLongMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::CallStaticStringMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::CallStaticObjectMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::CallStaticIntMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::CallStaticBooleanMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::CallStaticShortMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::CallStaticSByteMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::CallStaticCharMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::CallStaticFloatMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::CallStaticDoubleMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::CallStaticLongMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::CallStaticVoidMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
+UnityEngine.AndroidJNI::ToBooleanArray(System.Boolean[])
+UnityEngine.AndroidJNI::ToByteArray(System.Byte[])
+UnityEngine.AndroidJNI::ToSByteArray(System.SByte[])
+UnityEngine.AndroidJNI::ToCharArray(System.Char[])
+UnityEngine.AndroidJNI::ToShortArray(System.Int16[])
+UnityEngine.AndroidJNI::ToIntArray(System.Int32[])
+UnityEngine.AndroidJNI::ToLongArray(System.Int64[])
+UnityEngine.AndroidJNI::ToFloatArray(System.Single[])
+UnityEngine.AndroidJNI::ToDoubleArray(System.Double[])
+UnityEngine.AndroidJNI::ToObjectArray(System.IntPtr[],System.IntPtr)
+UnityEngine.AndroidJNI::FromBooleanArray(System.IntPtr)
+UnityEngine.AndroidJNI::FromByteArray(System.IntPtr)
+UnityEngine.AndroidJNI::FromSByteArray(System.IntPtr)
+UnityEngine.AndroidJNI::FromCharArray(System.IntPtr)
+UnityEngine.AndroidJNI::FromShortArray(System.IntPtr)
+UnityEngine.AndroidJNI::FromIntArray(System.IntPtr)
+UnityEngine.AndroidJNI::FromLongArray(System.IntPtr)
+UnityEngine.AndroidJNI::FromFloatArray(System.IntPtr)
+UnityEngine.AndroidJNI::FromDoubleArray(System.IntPtr)
+UnityEngine.AndroidJNI::GetArrayLength(System.IntPtr)
+UnityEngine.AndroidJNI::NewObjectArray(System.Int32,System.IntPtr,System.IntPtr)
+UnityEngine.AndroidJNI::GetObjectArrayElement(System.IntPtr,System.Int32)
+UnityEngine.AndroidJNI::SetObjectArrayElement(System.IntPtr,System.Int32,System.IntPtr)
+Mirror.dll
+DissonanceVoip.dll
+UnityEngine.Networking.CertificateHandler::Release()
+UnityEngine.Networking.DownloadHandler::Release()
+UnityEngine.Networking.DownloadHandler::IsDone()
+UnityEngine.Networking.DownloadHandler::GetContentType()
+UnityEngine.Networking.DownloadHandler::InternalGetByteArray(UnityEngine.Networking.DownloadHandler)
+UnityEngine.Networking.DownloadHandlerBuffer::Create(UnityEngine.Networking.DownloadHandlerBuffer)
+Cannot marshal field 'm_Uri' of type 'UnityWebRequest': Reference type field marshaling is not supported.
+UnityEngine.Networking.UnityWebRequest::GetWebErrorString(UnityEngine.Networking.UnityWebRequest/UnityWebRequestError)
+UnityEngine.Networking.UnityWebRequest::GetHTTPStatusString(System.Int64)
+UnityEngine.Networking.UnityWebRequest::Create()
+UnityEngine.Networking.UnityWebRequest::Release()
+UnityEngine.Networking.UnityWebRequest::BeginWebRequest()
+UnityEngine.Networking.UnityWebRequest::Abort()
+UnityEngine.Networking.UnityWebRequest::SetMethod(UnityEngine.Networking.UnityWebRequest/UnityWebRequestMethod)
+UnityEngine.Networking.UnityWebRequest::SetCustomMethod(System.String)
+UnityEngine.Networking.UnityWebRequest::GetError()
+UnityEngine.Networking.UnityWebRequest::GetUrl()
+UnityEngine.Networking.UnityWebRequest::SetUrl(System.String)
+UnityEngine.Networking.UnityWebRequest::get_responseCode()
+UnityEngine.Networking.UnityWebRequest::IsExecuting()
+UnityEngine.Networking.UnityWebRequest::get_isModifiable()
+UnityEngine.Networking.UnityWebRequest::get_isDone()
+UnityEngine.Networking.UnityWebRequest::get_isNetworkError()
+UnityEngine.Networking.UnityWebRequest::get_isHttpError()
+UnityEngine.Networking.UnityWebRequest::GetDownloadProgress()
+UnityEngine.Networking.UnityWebRequest::get_downloadedBytes()
+UnityEngine.Networking.UnityWebRequest::InternalSetRequestHeader(System.String,System.String)
+UnityEngine.Networking.UnityWebRequest::SetUploadHandler(UnityEngine.Networking.UploadHandler)
+UnityEngine.Networking.UnityWebRequest::SetDownloadHandler(UnityEngine.Networking.DownloadHandler)
+Cannot marshal field '<webRequest>k__BackingField' of type 'UnityWebRequestAsyncOperation': Reference type field marshaling is not supported.
+UnityEngine.Networking.UploadHandler::Release()
+UnityEngine.Networking.UploadHandler::InternalSetContentType(System.String)
+UnityEngine.Networking.UploadHandlerRaw::Create(UnityEngine.Networking.UploadHandlerRaw,System.Byte[])
+UnityEngine.UI.dll
+                !       "       #       $       %       &       '       (       )       *       +       ,       -
+        .       /       0       1       2       3       4       5       6       7       8       9       :       ;
+        <       =       >       ?       @       A       B       C       D       E       F       G       H       I
+        J       K       L       M       N       O       P       Q       R       S       T       U       V       W
+        X       Y       Z       [       \       ]       ^       _       `       a       b       c       d       e
+        f       g       h       i       j       k       l       m       n       o       p       q       r       s
+        t       u       v       w       x       y       z       {       |       }       ~
+   ! " # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~
+! !!!"!#!$!%!&!'!(!)!*!+!,!-!.!/!0!1!2!3!4!5!6!7!8!9!:!;!<!=!>!?!@!A!B!C!D!E!F!G!H!I!J!K!L!M!N!O!P!Q!R!S!T!U!V!W!X!Y!Z![!\!]!^!_!p!q!r!s!t!u!v!w!x!y!z!{!|!}!~!
+!p!q!r!s!t!u!v!w!x!y!z!{!|!}!~!
+" "!"""#"$"%"&"'"(")"*"+","-"."/"0"1"2"3"4"5"6"7"8"9":";"<"=">"?"@"A"B"C"D"E"F"G"H"I"J"K"L"M"N"O"P"Q"R"S"T"U"V"W"X"Y"Z"["\"]"^"_"`"a"b"c"d"e"f"g"h"i"j"k"l"m"n"o"p"q"r"s"t"u"v"w"x"y"z"{"|"}"~"
+# #!#"###$#%#&#'#(#)#*#+#,#-#.#/#0#1#2#3#4#5#6#7#8#9#:#;#<#=#>#?#@#A#B#C#D#E#F#G#H#I#J#K#L#M#N#O#P#Q#R#S#T#U#V#W#X#Y#Z#[#\#]#^#_#`#a#b#c#d#e#f#g#h#i#j#k#l#m#n#o#p#q#r#s#t#u#v#w#x#y#z#{#|#}#~#
+$ $!$"$#$$$%$&$'$($)$*$+$,$-$.$/$0$1$2$3$4$5$6$7$8$9$:$;$<$=$>$?$@$A$B$C$D$E$F$G$H$I$J$K$L$M$N$O$P$Q$R$S$T$U$V$W$X$Y$Z$[$\$]$^$_$`$a$b$c$d$e$f$g$h$i$j$k$l$m$n$o$p$q$r$s$t$u$v$w$x$y$z${$|$}$~$
+UnityEngine.Networking.ConnectionConfigInternal::InternalCreate()
+UnityEngine.Networking.ConnectionConfigInternal::InternalDestroy(System.IntPtr)
+UnityEngine.Networking.ConnectionConfigInternal::AddChannel(System.Int32)
+UnityEngine.Networking.ConnectionConfigInternal::SetPacketSize(System.UInt16)
+UnityEngine.Networking.ConnectionConfigInternal::set_FragmentSize(System.UInt16)
+UnityEngine.Networking.ConnectionConfigInternal::set_ResendTimeout(System.UInt32)
+UnityEngine.Networking.ConnectionConfigInternal::set_DisconnectTimeout(System.UInt32)
+UnityEngine.Networking.ConnectionConfigInternal::set_ConnectTimeout(System.UInt32)
+UnityEngine.Networking.ConnectionConfigInternal::set_MinUpdateTimeout(System.UInt32)
+UnityEngine.Networking.ConnectionConfigInternal::set_PingTimeout(System.UInt32)
+UnityEngine.Networking.ConnectionConfigInternal::set_ReducedPingTimeout(System.UInt32)
+UnityEngine.Networking.ConnectionConfigInternal::set_AllCostTimeout(System.UInt32)
+UnityEngine.Networking.ConnectionConfigInternal::set_NetworkDropThreshold(System.Byte)
+UnityEngine.Networking.ConnectionConfigInternal::set_OverflowDropThreshold(System.Byte)
+UnityEngine.Networking.ConnectionConfigInternal::set_MaxConnectionAttempt(System.Byte)
+UnityEngine.Networking.ConnectionConfigInternal::set_AckDelay(System.UInt32)
+UnityEngine.Networking.ConnectionConfigInternal::set_SendDelay(System.UInt32)
+UnityEngine.Networking.ConnectionConfigInternal::set_MaxCombinedReliableMessageSize(System.UInt16)
+UnityEngine.Networking.ConnectionConfigInternal::set_MaxCombinedReliableMessageCount(System.UInt16)
+UnityEngine.Networking.ConnectionConfigInternal::set_MaxSentMessageQueueSize(System.UInt16)
+UnityEngine.Networking.ConnectionConfigInternal::set_AcksType(System.Byte)
+UnityEngine.Networking.ConnectionConfigInternal::set_UsePlatformSpecificProtocols(System.Boolean)
+UnityEngine.Networking.ConnectionConfigInternal::set_InitialBandwidth(System.UInt32)
+UnityEngine.Networking.ConnectionConfigInternal::set_BandwidthPeakFactor(System.Single)
+UnityEngine.Networking.ConnectionConfigInternal::set_WebSocketReceiveBufferMaxSize(System.UInt16)
+UnityEngine.Networking.ConnectionConfigInternal::set_UdpSocketReceiveBufferMaxSize(System.UInt32)
+UnityEngine.Networking.ConnectionConfigInternal::SetSSLCertFilePath(System.String)
+UnityEngine.Networking.ConnectionConfigInternal::SetSSLPrivateKeyFilePath(System.String)
+UnityEngine.Networking.ConnectionConfigInternal::SetSSLCAFilePath(System.String)
+UnityEngine.Networking.ConnectionConfigInternal::MakeChannelsSharedOrder(System.Byte[])
+UnityEngine.Networking.GlobalConfigInternal::InternalCreate()
+UnityEngine.Networking.GlobalConfigInternal::InternalDestroy(System.IntPtr)
+UnityEngine.Networking.GlobalConfigInternal::set_ThreadAwakeTimeout(System.UInt32)
+UnityEngine.Networking.GlobalConfigInternal::set_ReactorModel(System.Byte)
+UnityEngine.Networking.GlobalConfigInternal::set_ReactorMaximumReceivedMessages(System.UInt16)
+UnityEngine.Networking.GlobalConfigInternal::set_ReactorMaximumSentMessages(System.UInt16)
+UnityEngine.Networking.GlobalConfigInternal::set_MaxPacketSize(System.UInt16)
+UnityEngine.Networking.GlobalConfigInternal::set_MaxHosts(System.UInt16)
+UnityEngine.Networking.GlobalConfigInternal::set_ThreadPoolSize(System.Byte)
+UnityEngine.Networking.GlobalConfigInternal::set_MinTimerTimeout(System.UInt32)
+UnityEngine.Networking.GlobalConfigInternal::set_MaxTimerTimeout(System.UInt32)
+UnityEngine.Networking.GlobalConfigInternal::set_MinNetSimulatorTimeout(System.UInt32)
+UnityEngine.Networking.GlobalConfigInternal::set_MaxNetSimulatorTimeout(System.UInt32)
+UnityEngine.Networking.HostTopologyInternal::InternalCreate(UnityEngine.Networking.ConnectionConfigInternal,System.Int32)
+UnityEngine.Networking.HostTopologyInternal::InternalDestroy(System.IntPtr)
+UnityEngine.Networking.HostTopologyInternal::AddSpecialConnectionConfig(UnityEngine.Networking.ConnectionConfigInternal)
+UnityEngine.Networking.HostTopologyInternal::set_ReceivedMessagePoolSize(System.UInt16)
+UnityEngine.Networking.HostTopologyInternal::set_SentMessagePoolSize(System.UInt16)
+UnityEngine.Networking.HostTopologyInternal::set_MessagePoolSizeGrowthFactor(System.Single)
+UnityEngine.Networking.NetworkTransport::InitializeClassWithConfig(UnityEngine.Networking.GlobalConfigInternal)
+UnityEngine.Networking.NetworkTransport::AddHostInternal(UnityEngine.Networking.HostTopologyInternal,System.String,System.Int32,System.Int32,System.Int32)
+UnityEngine.Networking.NetworkTransport::AddWsHostInternal(UnityEngine.Networking.HostTopologyInternal,System.String,System.Int32)
+UnityEngine.Networking.NetworkTransport::GetConnectionInfo(System.Int32,System.Int32,System.Int32&,System.UInt64&,System.UInt16&,System.Byte&)
+UnityEngine.Networking.NetworkTransport::GetMaxPacketSize()
+UnityEngine.Networking.NetworkTransport::RemoveHost(System.Int32)
+UnityEngine.Networking.NetworkTransport::Connect(System.Int32,System.String,System.Int32,System.Int32,System.Byte&)
+UnityEngine.Networking.NetworkTransport::Disconnect(System.Int32,System.Int32,System.Byte&)
+UnityEngine.Networking.NetworkTransport::SendWrapper(System.Int32,System.Int32,System.Int32,System.Byte[],System.Int32,System.Byte&)
+UnityEngine.Networking.NetworkTransport::PopDataFromHost(System.Int32,System.Int32&,System.Int32&,System.Byte[],System.Int32,System.Int32&,System.Byte&)
+UnityEngine.Networking.NetworkTransport::SetNetworkEventAvailableCallback(System.Action`1<System.Int32>)
+UnityEngine.Networking.NetworkTransport::Cleanup()
+UnityEngine.Networking.NetworkTransport::SetConnectionReadyForSendCallback(System.Action`2<System.Int32,System.Int32>)
+RtlGetVersion
+GetVersionExW
+RtlNtStatusToDosError
+GetSystemMetrics
+GetProductInfo
+wine_get_version
+wine_get_build_id
+wine_get_patches
+wine_get_host_version
+Unity.TextMeshPro.dll
+Facepunch.Steamworks.Win64.dll
+UnityEngine.BoxCollider::get_center_Injected(UnityEngine.Vector3&)
+UnityEngine.BoxCollider::get_size_Injected(UnityEngine.Vector3&)
+UnityEngine.BoxCollider::set_size_Injected(UnityEngine.Vector3&)
+UnityEngine.CharacterController::get_isGrounded()
+UnityEngine.CharacterController::get_radius()
+UnityEngine.CharacterController::get_height()
+UnityEngine.CharacterController::set_height(System.Single)
+UnityEngine.CharacterController::SimpleMove_Injected(UnityEngine.Vector3&)
+UnityEngine.CharacterController::Move_Injected(UnityEngine.Vector3&)
+UnityEngine.CharacterController::get_velocity_Injected(UnityEngine.Vector3&)
+UnityEngine.Collider::set_enabled(System.Boolean)
+UnityEngine.Collider::get_attachedRigidbody()
+UnityEngine.Collider::set_isTrigger(System.Boolean)
+UnityEngine.Collider::get_sharedMaterial()
+UnityEngine.Collider::get_bounds_Injected(UnityEngine.Bounds&)
+UnityEngine.Collider::Raycast_Injected(UnityEngine.Ray&,System.Single,System.Boolean&,UnityEngine.RaycastHit&)
+Cannot marshal field 'm_Rigidbody' of type 'Collision': Reference type field marshaling is not supported.
+Cannot marshal field 'm_Controller' of type 'ControllerColliderHit': Reference type field marshaling is not supported.
+UnityEngine.Joint::get_connectedBody()
+UnityEngine.Joint::set_connectedBody(UnityEngine.Rigidbody)
+UnityEngine.Joint::set_anchor_Injected(UnityEngine.Vector3&)
+UnityEngine.MeshCollider::get_sharedMesh()
+UnityEngine.PhysicMaterial::Internal_CreateDynamicsMaterial(UnityEngine.PhysicMaterial,System.String)
+UnityEngine.Physics::get_gravity_Injected(UnityEngine.Vector3&)
+UnityEngine.Physics::get_defaultPhysicsScene_Injected(UnityEngine.PhysicsScene&)
+UnityEngine.Physics::Internal_RaycastAll_Injected(UnityEngine.PhysicsScene&,UnityEngine.Ray&,System.Single,System.Int32,UnityEngine.QueryTriggerInteraction)
+UnityEngine.Physics::OverlapSphere_Internal_Injected(UnityEngine.PhysicsScene&,UnityEngine.Vector3&,System.Single,System.Int32,UnityEngine.QueryTriggerInteraction)
+UnityEngine.Physics::OverlapBox_Internal_Injected(UnityEngine.PhysicsScene&,UnityEngine.Vector3&,UnityEngine.Vector3&,UnityEngine.Quaternion&,System.Int32,UnityEngine.QueryTriggerInteraction)
+UnityEngine.PhysicsScene::Internal_RaycastTest_Injected(UnityEngine.PhysicsScene&,UnityEngine.Ray&,System.Single,System.Int32,UnityEngine.QueryTriggerInteraction)
+UnityEngine.PhysicsScene::Internal_Raycast_Injected(UnityEngine.PhysicsScene&,UnityEngine.Ray&,System.Single,UnityEngine.RaycastHit&,System.Int32,UnityEngine.QueryTriggerInteraction)
+UnityEngine.PhysicsScene::Internal_RaycastNonAlloc_Injected(UnityEngine.PhysicsScene&,UnityEngine.Ray&,UnityEngine.RaycastHit[],System.Single,System.Int32,UnityEngine.QueryTriggerInteraction)
+UnityEngine.PhysicsScene::OverlapCapsuleNonAlloc_Internal_Injected(UnityEngine.PhysicsScene&,UnityEngine.Vector3&,UnityEngine.Vector3&,System.Single,UnityEngine.Collider[],System.Int32,UnityEngine.QueryTriggerInteraction)
+UnityEngine.PhysicsScene::Query_SphereCast_Injected(UnityEngine.PhysicsScene&,UnityEngine.Vector3&,System.Single,UnityEngine.Vector3&,System.Single,UnityEngine.RaycastHit&,System.Int32,UnityEngine.QueryTriggerInteraction)
+UnityEngine.PhysicsScene::Internal_SphereCastNonAlloc_Injected(UnityEngine.PhysicsScene&,UnityEngine.Vector3&,System.Single,UnityEngine.Vector3&,UnityEngine.RaycastHit[],System.Single,System.Int32,UnityEngine.QueryTriggerInteraction)
+UnityEngine.PhysicsScene::OverlapSphereNonAlloc_Internal_Injected(UnityEngine.PhysicsScene&,UnityEngine.Vector3&,System.Single,UnityEngine.Collider[],System.Int32,UnityEngine.QueryTriggerInteraction)
+UnityEngine.PhysicsScene::OverlapBoxNonAlloc_Internal_Injected(UnityEngine.PhysicsScene&,UnityEngine.Vector3&,UnityEngine.Vector3&,UnityEngine.Collider[],UnityEngine.Quaternion&,System.Int32,UnityEngine.QueryTriggerInteraction)
+UnityEngine.Rigidbody::get_drag()
+UnityEngine.Rigidbody::set_drag(System.Single)
+UnityEngine.Rigidbody::get_angularDrag()
+UnityEngine.Rigidbody::set_angularDrag(System.Single)
+UnityEngine.Rigidbody::set_useGravity(System.Boolean)
+UnityEngine.Rigidbody::get_isKinematic()
+UnityEngine.Rigidbody::set_isKinematic(System.Boolean)
+UnityEngine.Rigidbody::set_maxAngularVelocity(System.Single)
+UnityEngine.Rigidbody::Sleep()
+UnityEngine.Rigidbody::WakeUp()
+UnityEngine.Rigidbody::get_velocity_Injected(UnityEngine.Vector3&)
+UnityEngine.Rigidbody::set_velocity_Injected(UnityEngine.Vector3&)
+UnityEngine.Rigidbody::get_angularVelocity_Injected(UnityEngine.Vector3&)
+UnityEngine.Rigidbody::set_angularVelocity_Injected(UnityEngine.Vector3&)
+UnityEngine.Rigidbody::get_position_Injected(UnityEngine.Vector3&)
+UnityEngine.Rigidbody::AddForce_Injected(UnityEngine.Vector3&,UnityEngine.ForceMode)
+UnityEngine.Rigidbody::AddRelativeTorque_Injected(UnityEngine.Vector3&,UnityEngine.ForceMode)
+UnityEngine.Rigidbody::AddForceAtPosition_Injected(UnityEngine.Vector3&,UnityEngine.Vector3&,UnityEngine.ForceMode)
+UnityEngine.Rigidbody::AddExplosionForce_Injected(System.Single,UnityEngine.Vector3&,System.Single,System.Single,UnityEngine.ForceMode)
+UnityEngine.SpringJoint::set_spring(System.Single)
+UnityEngine.SpringJoint::set_damper(System.Single)
+UnityEngine.SpringJoint::set_maxDistance(System.Single)
+UnityEngine.TextCore.LowLevel.FontEngine::InitializeFontEngine_Internal()
+UnityEngine.TextCore.LowLevel.FontEngine::LoadFontFace_With_Size_FromFont_Internal(UnityEngine.Font,System.Int32)
+UnityEngine.TextCore.LowLevel.FontEngine::GetFaceInfo_Internal(UnityEngine.TextCore.FaceInfo&)
+UnityEngine.TextCore.LowLevel.FontEngine::GetGlyphIndex(System.UInt32)
+UnityEngine.TextCore.LowLevel.FontEngine::TryGetGlyphWithUnicodeValue_Internal(System.UInt32,UnityEngine.TextCore.LowLevel.GlyphLoadFlags,UnityEngine.TextCore.LowLevel.GlyphMarshallingStruct&)
+UnityEngine.TextCore.LowLevel.FontEngine::TryGetGlyphWithIndexValue_Internal(System.UInt32,UnityEngine.TextCore.LowLevel.GlyphLoadFlags,UnityEngine.TextCore.LowLevel.GlyphMarshallingStruct&)
+UnityEngine.TextCore.LowLevel.FontEngine::TryPackGlyphInAtlas_Internal(UnityEngine.TextCore.LowLevel.GlyphMarshallingStruct&,System.Int32,UnityEngine.TextCore.LowLevel.GlyphPackingMode,UnityEngine.TextCore.LowLevel.GlyphRenderMode,System.Int32,System.Int32,UnityEngine.TextCore.GlyphRect[],System.Int32&,UnityEngine.TextCore.GlyphRect[],System.Int32&)
+UnityEngine.TextCore.LowLevel.FontEngine::RenderGlyphsToTexture_Internal(UnityEngine.TextCore.LowLevel.GlyphMarshallingStruct[],System.Int32,System.Int32,UnityEngine.TextCore.LowLevel.GlyphRenderMode,UnityEngine.Texture2D)
+UnityEngine.TextCore.LowLevel.FontEngine::TryAddGlyphToTexture_Internal(System.UInt32,System.Int32,UnityEngine.TextCore.LowLevel.GlyphPackingMode,UnityEngine.TextCore.GlyphRect[],System.Int32&,UnityEngine.TextCore.GlyphRect[],System.Int32&,UnityEngine.TextCore.LowLevel.GlyphRenderMode,UnityEngine.Texture2D,UnityEngine.TextCore.LowLevel.GlyphMarshallingStruct&)
+UnityEngine.TextCore.LowLevel.FontEngine::TryAddGlyphsToTexture_Internal(System.UInt32[],System.Int32,UnityEngine.TextCore.LowLevel.GlyphPackingMode,UnityEngine.TextCore.GlyphRect[],System.Int32&,UnityEngine.TextCore.GlyphRect[],System.Int32&,UnityEngine.TextCore.LowLevel.GlyphRenderMode,UnityEngine.Texture2D,UnityEngine.TextCore.LowLevel.GlyphMarshallingStruct[],System.Int32&)
+UnityEngine.TextCore.LowLevel.FontEngine::PopulatePairAdjustmentRecordMarshallingArray_from_GlyphIndexes(System.UInt32[],System.Int32&)
+UnityEngine.TextCore.LowLevel.FontEngine::GetGlyphPairAdjustmentRecordsFromMarshallingArray(UnityEngine.TextCore.LowLevel.GlyphPairAdjustmentRecord[])
+UnityEngine.TextCore.LowLevel.FontEngine::ResetAtlasTexture(UnityEngine.Texture2D)
+UnityEngine.Animation::PlayDefaultAnimation(UnityEngine.PlayMode)
+UnityEngine.Animation::GetStateAtIndex(System.Int32)
+UnityEngine.Animation::GetStateCount()
+Cannot marshal field 'm_StateSender' of type 'AnimationEvent': Reference type field marshaling is not supported.
+UnityEngine.Animator::set_updateMode(UnityEngine.AnimatorUpdateMode)
+UnityEngine.Animator::get_layerCount()
+UnityEngine.Animator::GetAnimatorStateInfo(System.Int32,UnityEngine.StateInfoIndex,UnityEngine.AnimatorStateInfo&)
+UnityEngine.Animator::GetAnimatorTransitionInfo(System.Int32,UnityEngine.AnimatorTransitionInfo&)
+UnityEngine.Animator::IsInTransition(System.Int32)
+UnityEngine.Animator::get_parameters()
+UnityEngine.Animator::set_speed(System.Single)
+UnityEngine.Animator::Play(System.Int32,System.Int32,System.Single)
+UnityEngine.Animator::get_hasBoundPlayables()
+UnityEngine.Animator::StringToHash(System.String)
+UnityEngine.Animator::SetFloatString(System.String,System.Single)
+UnityEngine.Animator::SetFloatID(System.Int32,System.Single)
+UnityEngine.Animator::GetFloatID(System.Int32)
+UnityEngine.Animator::SetBoolString(System.String,System.Boolean)
+UnityEngine.Animator::SetBoolID(System.Int32,System.Boolean)
+UnityEngine.Animator::GetBoolID(System.Int32)
+UnityEngine.Animator::SetIntegerString(System.String,System.Int32)
+UnityEngine.Animator::SetIntegerID(System.Int32,System.Int32)
+UnityEngine.Animator::GetIntegerID(System.Int32)
+UnityEngine.Animator::SetTriggerString(System.String)
+UnityEngine.Animator::SetTriggerID(System.Int32)
+UnityEngine.Animator::ResetTriggerString(System.String)
+UnityEngine.Animator::ResetTriggerID(System.Int32)
+UnityEngine.Animator::SetFloatIDDamp(System.Int32,System.Single,System.Single,System.Single)
+CreateProcessW
+UnityEngine.Terrain::get_terrainData()
+UnityEngine.Terrain::get_lightmapIndex()
+UnityEngine.Terrain::get_shadowCastingMode()
+UnityEngine.Terrain::set_drawHeightmap(System.Boolean)
+UnityEngine.Terrain::get_allowAutoConnect()
+UnityEngine.Terrain::get_groupingID()
+UnityEngine.Terrain::set_drawTreesAndFoliage(System.Boolean)
+UnityEngine.Terrain::SetNeighbors(UnityEngine.Terrain,UnityEngine.Terrain,UnityEngine.Terrain,UnityEngine.Terrain)
+UnityEngine.Terrain::get_activeTerrains()
+UnityEngine.TerrainData::GetBoundaryValue(UnityEngine.TerrainData/BoundaryValueType)
+UnityEngine.TerrainData::Internal_Create(UnityEngine.TerrainData)
+UnityEngine.TerrainData::get_internalHeightmapResolution()
+UnityEngine.TerrainData::GetInterpolatedHeight(System.Single,System.Single)
+UnityEngine.TerrainData::GetAlphamapResolutionInternal()
+UnityEngine.TerrainData::get_users()
+UnityEngine.TerrainData::get_heightmapScale_Injected(UnityEngine.Vector3&)
+UnityEngine.TerrainData::get_size_Injected(UnityEngine.Vector3&)
+UnityEngine.TerrainData::GetInterpolatedNormal_Injected(System.Single,System.Single,UnityEngine.Vector3&)
+Cannot marshal field 'm_Owner' of type 'Hierarchy': Reference type field marshaling is not supported.
+UnityEngine.Yoga.Native::YGNodeLayoutGetLeft(System.IntPtr)
+UnityEngine.Yoga.Native::YGNodeLayoutGetTop(System.IntPtr)
+UnityEngine.Yoga.Native::YGNodeLayoutGetWidth(System.IntPtr)
+UnityEngine.Yoga.Native::YGNodeLayoutGetHeight(System.IntPtr)
+Cannot marshal field '<Mesh>k__BackingField' of type 'MeshGenerationResult': Reference type field marshaling is not supported.
+UnityEngine.Canvas::get_renderMode()
+UnityEngine.Canvas::get_isRootCanvas()
+UnityEngine.Canvas::get_scaleFactor()
+UnityEngine.Canvas::set_scaleFactor(System.Single)
+UnityEngine.Canvas::get_referencePixelsPerUnit()
+UnityEngine.Canvas::set_referencePixelsPerUnit(System.Single)
+UnityEngine.Canvas::get_pixelPerfect()
+UnityEngine.Canvas::get_renderOrder()
+UnityEngine.Canvas::get_overrideSorting()
+UnityEngine.Canvas::set_overrideSorting(System.Boolean)
+UnityEngine.Canvas::get_sortingOrder()
+UnityEngine.Canvas::set_sortingOrder(System.Int32)
+UnityEngine.Canvas::get_targetDisplay()
+UnityEngine.Canvas::get_sortingLayerID()
+UnityEngine.Canvas::set_sortingLayerID(System.Int32)
+UnityEngine.Canvas::get_additionalShaderChannels()
+UnityEngine.Canvas::set_additionalShaderChannels(UnityEngine.AdditionalCanvasShaderChannels)
+UnityEngine.Canvas::get_rootCanvas()
+UnityEngine.Canvas::get_worldCamera()
+UnityEngine.Canvas::GetDefaultCanvasMaterial()
+UnityEngine.Canvas::GetETC1SupportedCanvasMaterial()
+UnityEngine.CanvasGroup::get_alpha()
+UnityEngine.CanvasGroup::set_alpha(System.Single)
+UnityEngine.CanvasGroup::get_interactable()
+UnityEngine.CanvasGroup::get_blocksRaycasts()
+UnityEngine.CanvasGroup::get_ignoreParentGroups()
+UnityEngine.CanvasRenderer::set_hasPopInstruction(System.Boolean)
+UnityEngine.CanvasRenderer::get_materialCount()
+UnityEngine.CanvasRenderer::set_materialCount(System.Int32)
+UnityEngine.CanvasRenderer::set_popMaterialCount(System.Int32)
+UnityEngine.CanvasRenderer::get_absoluteDepth()
+UnityEngine.CanvasRenderer::get_hasMoved()
+UnityEngine.CanvasRenderer::get_cull()
+UnityEngine.CanvasRenderer::set_cull(System.Boolean)
+UnityEngine.CanvasRenderer::DisableRectClipping()
+UnityEngine.CanvasRenderer::SetMaterial(UnityEngine.Material,System.Int32)
+UnityEngine.CanvasRenderer::GetMaterial(System.Int32)
+UnityEngine.CanvasRenderer::SetPopMaterial(UnityEngine.Material,System.Int32)
+UnityEngine.CanvasRenderer::SetTexture(UnityEngine.Texture)
+UnityEngine.CanvasRenderer::SetAlphaTexture(UnityEngine.Texture)
+UnityEngine.CanvasRenderer::SetMesh(UnityEngine.Mesh)
+UnityEngine.CanvasRenderer::Clear()
+UnityEngine.CanvasRenderer::SplitIndicesStreamsInternal(System.Object,System.Object)
+UnityEngine.CanvasRenderer::SplitUIVertexStreamsInternal(System.Object,System.Object,System.Object,System.Object,System.Object,System.Object,System.Object,System.Object,System.Object)
+UnityEngine.CanvasRenderer::CreateUIVertexStreamInternal(System.Object,System.Object,System.Object,System.Object,System.Object,System.Object,System.Object,System.Object,System.Object,System.Object)
+UnityEngine.CanvasRenderer::SetColor_Injected(UnityEngine.Color&)
+UnityEngine.CanvasRenderer::GetColor_Injected(UnityEngine.Color&)
+UnityEngine.CanvasRenderer::EnableRectClipping_Injected(UnityEngine.Rect&)
+UnityEngine.CanvasRenderer::set_clippingSoftness_Injected(UnityEngine.Vector2&)
+UnityEngine.RectTransformUtility::PixelAdjustPoint_Injected(UnityEngine.Vector2&,UnityEngine.Transform,UnityEngine.Canvas,UnityEngine.Vector2&)
+UnityEngine.RectTransformUtility::PixelAdjustRect_Injected(UnityEngine.RectTransform,UnityEngine.Canvas,UnityEngine.Rect&)
+UnityEngine.RectTransformUtility::PointInRectangle_Injected(UnityEngine.Vector2&,UnityEngine.RectTransform,UnityEngine.Camera,UnityEngine.Vector4&)
+UnityEngine.UISystemProfilerApi::BeginSample(UnityEngine.UISystemProfilerApi/SampleType)
+UnityEngine.UISystemProfilerApi::EndSample(UnityEngine.UISystemProfilerApi/SampleType)
+UnityEngine.UISystemProfilerApi::AddMarker(System.String,UnityEngine.Object)
+UnityEngine.Font::get_material()
+UnityEngine.Font::get_dynamic()
+UnityEngine.Font::get_fontSize()
+UnityEngine.Font::HasCharacter(System.Int32)
+UnityEngine.Font::Internal_CreateFont(UnityEngine.Font,System.String)
+Cannot marshal field 'font' of type 'TextGenerationSettings': Reference type field marshaling is not supported.
+Cannot marshal field 'm_LastSettings' of type 'TextGenerator'.
+UnityEngine.TextGenerator::get_characterCount()
+UnityEngine.TextGenerator::get_lineCount()
+UnityEngine.TextGenerator::Internal_Create()
+UnityEngine.TextGenerator::Internal_Destroy(System.IntPtr)
+UnityEngine.TextGenerator::GetVerticesInternal(System.Object)
+UnityEngine.TextGenerator::GetCharactersInternal(System.Object)
+UnityEngine.TextGenerator::GetLinesInternal(System.Object)
+UnityEngine.TextGenerator::get_rectExtents_Injected(UnityEngine.Rect&)
+UnityEngine.TextGenerator::Populate_Internal_Injected(System.String,UnityEngine.Font,UnityEngine.Color&,System.Int32,System.Single,System.Single,UnityEngine.FontStyle,System.Boolean,System.Boolean,System.Int32,System.Int32,System.Int32,System.Int32,System.Boolean,UnityEngine.TextAnchor,System.Single,System.Single,System.Single,System.Single,System.Boolean,System.Boolean,System.UInt32&)
+UnityEngine.Audio.AudioMixer::FindMatchingGroups(System.String)
+UnityEngine.Audio.AudioMixer::SetFloat(System.String,System.Single)
+UnityEngine.Audio.AudioMixer::GetFloat(System.String,System.Single&)
+UnityEngine.AudioClip::GetData(UnityEngine.AudioClip,System.Single[],System.Int32,System.Int32)
+UnityEngine.AudioClip::Construct_Internal()
+UnityEngine.AudioClip::GetName()
+UnityEngine.AudioClip::CreateUserSound(System.String,System.Int32,System.Int32,System.Int32,System.Boolean)
+UnityEngine.AudioClip::get_length()
+UnityEngine.AudioClip::get_samples()
+UnityEngine.AudioClip::get_channels()
+UnityEngine.AudioClip::get_frequency()
+UnityEngine.AudioClip::UnloadAudioData()
+UnityEngine.AudioListener::set_volume(System.Single)
+UnityEngine.AudioListener::set_pause(System.Boolean)
+UnityEngine.AudioSettings::GetSampleRate()
+UnityEngine.AudioSettings::GetConfiguration_Injected(UnityEngine.AudioConfiguration&)
+UnityEngine.AudioSource::GetPitch(UnityEngine.AudioSource)
+UnityEngine.AudioSource::SetPitch(UnityEngine.AudioSource,System.Single)
+UnityEngine.AudioSource::PlayHelper(UnityEngine.AudioSource,System.UInt64)
+UnityEngine.AudioSource::PlayOneShotHelper(UnityEngine.AudioSource,UnityEngine.AudioClip,System.Single)
+UnityEngine.AudioSource::Stop(System.Boolean)
+UnityEngine.AudioSource::SetCustomCurveHelper(UnityEngine.AudioSource,UnityEngine.AudioSourceCurveType,UnityEngine.AnimationCurve)
+UnityEngine.AudioSource::get_volume()
+UnityEngine.AudioSource::set_volume(System.Single)
+UnityEngine.AudioSource::get_time()
+UnityEngine.AudioSource::set_time(System.Single)
+UnityEngine.AudioSource::get_clip()
+UnityEngine.AudioSource::set_clip(UnityEngine.AudioClip)
+UnityEngine.AudioSource::set_outputAudioMixerGroup(UnityEngine.Audio.AudioMixerGroup)
+UnityEngine.AudioSource::get_isPlaying()
+UnityEngine.AudioSource::set_loop(System.Boolean)
+UnityEngine.AudioSource::get_playOnAwake()
+UnityEngine.AudioSource::set_playOnAwake(System.Boolean)
+UnityEngine.AudioSource::set_ignoreListenerPause(System.Boolean)
+UnityEngine.AudioSource::get_spatialBlend()
+UnityEngine.AudioSource::set_spatialBlend(System.Single)
+UnityEngine.AudioSource::get_spatialize()
+UnityEngine.AudioSource::set_bypassReverbZones(System.Boolean)
+UnityEngine.AudioSource::get_mute()
+UnityEngine.AudioSource::set_mute(System.Boolean)
+UnityEngine.AudioSource::get_maxDistance()
+UnityEngine.AudioSource::set_maxDistance(System.Single)
+UnityEngine.AudioSource::set_rolloffMode(UnityEngine.AudioRolloffMode)
+UnityEngine.Microphone::GetMicrophoneDeviceIDFromName(System.String)
+UnityEngine.Microphone::StartRecord(System.Int32,System.Boolean,System.Single,System.Int32)
+UnityEngine.Microphone::EndRecord(System.Int32)
+UnityEngine.Microphone::IsRecording(System.Int32)
+UnityEngine.Microphone::GetRecordPosition(System.Int32)
+UnityEngine.Microphone::GetDeviceCaps(System.Int32,System.Int32&,System.Int32&)
+UnityEngine.Microphone::get_devices()
+UnityEngine.ContactFilter2D::CheckConsistency_Injected(UnityEngine.ContactFilter2D&)
+UnityEngine.Physics2D::get_queriesHitTriggers()
+UnityEngine.Physics2D::GetRayIntersectionAll_Internal_Injected(UnityEngine.PhysicsScene2D&,UnityEngine.Vector3&,UnityEngine.Vector3&,System.Single,System.Int32)
+UnityEngine.PhysicsScene2D::Raycast_Internal_Injected(UnityEngine.PhysicsScene2D&,UnityEngine.Vector2&,UnityEngine.Vector2&,System.Single,UnityEngine.ContactFilter2D&,UnityEngine.RaycastHit2D&)
+UnityEngine.PhysicsScene2D::RaycastArray_Internal_Injected(UnityEngine.PhysicsScene2D&,UnityEngine.Vector2&,UnityEngine.Vector2&,System.Single,UnityEngine.ContactFilter2D&,UnityEngine.RaycastHit2D[])
+UnityEngine.PhysicsScene2D::RaycastList_Internal_Injected(UnityEngine.PhysicsScene2D&,UnityEngine.Vector2&,UnityEngine.Vector2&,System.Single,UnityEngine.ContactFilter2D&,System.Collections.Generic.List`1<UnityEngine.RaycastHit2D>)
+UnityEngine.PhysicsScene2D::GetRayIntersectionArray_Internal_Injected(UnityEngine.PhysicsScene2D&,UnityEngine.Vector3&,UnityEngine.Vector3&,System.Single,System.Int32,UnityEngine.RaycastHit2D[])
+UnityEngine.PhysicsScene2D::OverlapCircleArray_Internal_Injected(UnityEngine.PhysicsScene2D&,UnityEngine.Vector2&,System.Single,UnityEngine.ContactFilter2D&,UnityEngine.Collider2D[])
+UnityEngine.UIElementsModule.dll
+ch.sycoforge.Decal.dll
+UnityEngine.CameraRaycastHelper::RaycastTry_Injected(UnityEngine.Camera,UnityEngine.Ray&,System.Single,System.Int32)
+UnityEngine.CameraRaycastHelper::RaycastTry2D_Injected(UnityEngine.Camera,UnityEngine.Ray&,System.Single,System.Int32)
+UnityEngine.Input::GetKeyInt(UnityEngine.KeyCode)
+UnityEngine.Input::GetKeyDownInt(UnityEngine.KeyCode)
+UnityEngine.Input::GetKeyDownString(System.String)
+UnityEngine.Input::GetAxis(System.String)
+UnityEngine.Input::GetAxisRaw(System.String)
+UnityEngine.Input::GetButton(System.String)
+UnityEngine.Input::GetButtonDown(System.String)
+UnityEngine.Input::GetButtonUp(System.String)
+UnityEngine.Input::GetMouseButton(System.Int32)
+UnityEngine.Input::GetMouseButtonDown(System.Int32)
+UnityEngine.Input::GetMouseButtonUp(System.Int32)
+UnityEngine.Input::get_anyKeyDown()
+UnityEngine.Input::get_imeCompositionMode()
+UnityEngine.Input::set_imeCompositionMode(UnityEngine.IMECompositionMode)
+UnityEngine.Input::get_compositionString()
+UnityEngine.Input::get_mousePresent()
+UnityEngine.Input::get_touchCount()
+UnityEngine.Input::get_touchSupported()
+UnityEngine.Input::GetTouch_Injected(System.Int32,UnityEngine.Touch&)
+UnityEngine.Input::get_mousePosition_Injected(UnityEngine.Vector3&)
+UnityEngine.Input::get_mouseScrollDelta_Injected(UnityEngine.Vector2&)
+UnityEngine.Input::get_compositionCursorPos_Injected(UnityEngine.Vector2&)
+UnityEngine.Input::set_compositionCursorPos_Injected(UnityEngine.Vector2&)
+UnityEngine.Input::get_acceleration_Injected(UnityEngine.Vector3&)
+Cannot marshal field 'target' of type 'HitInfo': Reference type field marshaling is not supported.
+zxing.unity.dll
+UnityEngine.ParticleCollisionEvent::InstanceIDToColliderComponent(System.Int32)
+UnityEngine.ParticleSystem::set_time(System.Single)
+UnityEngine.ParticleSystem::Play(System.Boolean)
+UnityEngine.ParticleSystem::Stop(System.Boolean,UnityEngine.ParticleSystemStopBehavior)
+UnityEngine.ParticleSystem::Clear(System.Boolean)
+UnityEngine.ParticleSystem::IsAlive(System.Boolean)
+UnityEngine.ParticleSystem::Emit_Internal(System.Int32)
+UnityEngine.ParticleSystem::EmitOld_Internal(UnityEngine.ParticleSystem/Particle&)
+UnityEngine.ParticleSystem::Emit_Injected(UnityEngine.ParticleSystem/EmitParams&,System.Int32)
+Cannot marshal field 'm_ParticleSystem' of type 'EmissionModule': Reference type field marshaling is not supported.
+UnityEngine.ParticleSystem/EmissionModule::set_enabled_Injected(UnityEngine.ParticleSystem/EmissionModule&,System.Boolean)
+UnityEngine.ParticleSystem/EmissionModule::set_rateOverTime_Injected(UnityEngine.ParticleSystem/EmissionModule&,UnityEngine.ParticleSystem/MinMaxCurve&)
+Cannot marshal field 'm_ParticleSystem' of type 'MainModule': Reference type field marshaling is not supported.
+UnityEngine.ParticleSystem/MainModule::get_startLifetime_Injected(UnityEngine.ParticleSystem/MainModule&,UnityEngine.ParticleSystem/MinMaxCurve&)
+UnityEngine.ParticleSystem/MainModule::set_startLifetimeMultiplier_Injected(UnityEngine.ParticleSystem/MainModule&,System.Single)
+UnityEngine.ParticleSystem/MainModule::set_startSpeed_Injected(UnityEngine.ParticleSystem/MainModule&,UnityEngine.ParticleSystem/MinMaxCurve&)
+UnityEngine.ParticleSystem/MainModule::set_startSpeedMultiplier_Injected(UnityEngine.ParticleSystem/MainModule&,System.Single)
+UnityEngine.ParticleSystem/MainModule::set_startSizeMultiplier_Injected(UnityEngine.ParticleSystem/MainModule&,System.Single)
+UnityEngine.ParticleSystem/MainModule::set_simulationSpeed_Injected(UnityEngine.ParticleSystem/MainModule&,System.Single)
+UnityEngine.ParticleSystem/MainModule::set_maxParticles_Injected(UnityEngine.ParticleSystem/MainModule&,System.Int32)
+UnityEngine.ParticleSystemExtensionsImpl::GetCollisionEvents(UnityEngine.ParticleSystem,UnityEngine.GameObject,System.Collections.Generic.List`1<UnityEngine.ParticleCollisionEvent>)
+UnityEngine.ParticleSystemRenderer::GetMeshes(UnityEngine.Mesh[])
+UnityEngine.IMGUIModule.dll
+Cannot marshal field 'm_subsystemDescriptor' of type 'IntegratedSubsystem': Reference type field marshaling is not supported.
+UnityEngine.IntegratedSubsystem::SetHandle(UnityEngine.IntegratedSubsystem)
+UnityEngine.SubsystemManager::ReportSingleSubsystemAnalytics(System.String)
+UnityEngine.SubsystemManager::StaticConstructScriptingClassMap()
+Cannot marshal field 'm_AnimatedSprites' of type 'TileAnimationData': Reference type field marshaling is not supported.
+Cannot marshal field 'm_Sprite' of type 'TileData': Reference type field marshaling is not supported.
+UnityEngine.Tilemaps.Tilemap::RefreshTile_Injected(UnityEngine.Vector3Int&)
+UnityEngine.Tilemaps.TilemapRenderer::OnSpriteAtlasRegistered(UnityEngine.U2D.SpriteAtlas)
+UnityEngine.Video.VideoPlayer::set_targetMaterialProperty(System.String)
+CloudflareSolverRe.dll
+incorrect header check
+unknown compression method
+invalid window size
+unknown header flags set
+header crc mismatch
+invalid block type
+invalid stored block lengths
+too many length or distance symbols
+invalid code lengths set
+invalid bit length repeat
+invalid code -- missing end-of-block
+invalid literal/lengths set
+invalid distances set
+invalid literal/length code
+invalid distance code
+invalid distance too far back
+incorrect data check
+incorrect length check
+UnityEngine.UNETModule.dll
+UnityEngine.Networking.DownloadHandlerAudioClip::Create(UnityEngine.Networking.DownloadHandlerAudioClip,System.String,UnityEngine.AudioType)
+UnityEngine.Networking.DownloadHandlerAudioClip::get_audioClip()
+Cannot marshal field 'm_VfxAsset' of type 'VFXEventAttribute': Reference type field marshaling is not supported.
+UnityEngine.VFX.VFXSpawnerState::Internal_Destroy(System.IntPtr)
+UnityEngine.AndroidJNIModule.dll
+UnityEngineInternal.Input.NativeInputSystem::set_hasDeviceDiscoveredCallback(System.Boolean)
+UnityEngine.PhysicsModule.dll
+Cannot marshal field 'mTexture' of type 'DownloadHandlerTexture': Reference type field marshaling is not supported.
+UnityEngine.Networking.DownloadHandlerTexture::Create(UnityEngine.Networking.DownloadHandlerTexture,System.Boolean)
+UnityEngine.Networking.DownloadHandlerTexture::InternalGetTextureNative()
+
+Mirror.Components.dll
+Unknown exception
+bad array new length
+string too long
+bad cast
+iostream
+iostream stream error
+bad locale name
+ios_base::badbit set
+ios_base::failbit set
+ios_base::eofbit set
+New object count:
+Method count:
+Class static data size:
+Inflated method count:
+Inflated type count:
+Initialized class count:
+Generic instance count:
+Generic class count:
+invalid string position
+UnityEngine.AnimationModule.dll
+UnityEngine.TextCoreModule.dll
+UnityEngine.UnityWebRequestModule.dll
+UnityEngine.AudioModule.dll
+UnityEngine.UIModule.dll
+FormatMessage
+GetNativeSystemInfo
+GetTimeZoneInformation
+interrupted
+,tbad allocation
+map/set too long
+FCP%u
+%ld.%ld.%ld.0
+0.0.0.0
+Unknown
+USERPROFILE
+HOMEDRIVE
+il2cpp
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\os\Win32\SocketImpl.cpp(1449) : Unsupported internal call for IL2CPP:sockaddr_from_address - "Unix sockets are not supported on this platform."
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\os\Win32\SocketImpl.cpp(1512) : Unsupported internal call for IL2CPP:sockaddr_from_address - "Unix sockets are not supported on this platform."
+CoGetApartmentType
+RoGetActivationFactory
+WindowsCreateStringReference
+WindowsDuplicateString
+WindowsDeleteString
+WindowsGetStringRawBuffer
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\os\Win32\WindowsRuntime.cpp(170) : Unsupported internal call for IL2CPP:GetHStringBuffer - "Marshaling HSTRINGs is not supported on current platform."
+GetRestrictedErrorInfo
+RoSetErrorReportingFlags
+Fvector too long
+1.2.11f-unity
+6A_p
+"%(,/2
+fU'9
+zc%C1
+D/eh#`
+Ny()
+5 \F
+.uwx
+)=d11
+p!Sz
+4v.5
+Z5d@4
+z^KD
+!`k_
+,//^
+$X_^
+~cU4
+i8(2
+%w>!-
+a@Q_
+E}aj
+JaTg
+RtR/A
+<gny
+JLdz9)
+1$gq
+wqBv/?
+byLQB_
+j1Vx
+U9KW
+5:I,U
+~%lN
+n7fX
+um=Q
+b^$1
+KP'REt
++LR2~N
+4 y<
+AWi@
+5[rR`]
+Tt6*
+K)E/
+Zf<T7
+F$~s
+ZPq:0
+q4u!%
+HoZh
+OA>
+(B0X!
+BVtube
+*-iU
++]]S*
+TfAX
+!\M#Fb
+{8pjU'9
+,*"v
+.$*(
+[OKC
+sax~Z
+Q9Mc{[
+@BXV
+        .|]
+oPe*
+T(+EW
+j$w     \f
+(:W"
+=9tau
+K}.Z
+[T!}
+(~Xo
+k"!"
+@3PH
++Ae"]
+n]dB
+yz@l
+O)qF
+Z8J/*
+Fw^(9
+Pr*Zw
+n6*.
+7c:`
+KKh0
+FiYW
+4AHx
+GTh@
+6QIw
+x95K
+"Y,CH
+*zLrz
+ap[.
+t%rv
+/t;q
+E'=r`
+c-/X@xa
+Xe\RR?V
+6:m&+
+!~mt
+LVxC
+j+2#N
+_#vEP8
+&M,2q
+DG-nDRR
+rHJ:
+$_E^
+Sz/vd
+)(6'S
+SQlN
+ymL{
+@igO
+=bC-T
+jkq'
+@aQY
+@v:k
+D)5:
+33333333ffffffff
+6A_p
+3/#eD
+$lVX
+.$ZR
+B9/u
+=m:(
+. @r<X
+_MR;uD
+h:OH~
+{ie>;
+/!Q1
+.eNQ
+;!Z%1
+oK+5
+\Z&
+Duu\T
+"cq^
+q<PF
+b!q&
+j%VM
+:R-h
+Jg,(k7
+mLLYU   l3
+11eU%
+[UuFR+
+!u]Ju
+"+bmiw
+mnD"
+|5;-
+jvZ(
+8>G#g$
+m)"a
+vcC1]
+?{Q;V
+f/A/xs
+(Qf5Q
+*@Ti
+q!be
+~)p$w
+YdeT
+!dV9^U
+5WdIo
+|[vt
+UXmu
+B'KU&
+nXPO
+@2`9
+?o2)
+3G C
+=Jg>'
+!E%>
+^5Y'6
+NlDw`z
+t7Pr^2>#
+{}#G
+Z"cd
+*jkm-\
+kPKtf
+nr(#
+v:k\
+N->!Q
+BZo>
+|{ch
+)>7]
+JNt3
+SD}
+b}$l
++gu'2
+NdP#
+KFsUr
+<8\D(i\
+#nsa
+m       \Y^
+ol&b<P
+N0sk
+J0b8L%
+        Qw1
+vN%O.>v
+xNe;
+pUn's
+752!
+ojdB;?
+C:j+ep
+vc6;F
+W^p8G
+@co1
+wsj=
+,)Ud
+4f:k
+OC,i
+i#Tp]
+/[xw<
+N.kE5m<=
+XRi}l]
+V^3+
+fVfQp
+3if-
+.V9b
+#Png
+L#^r{Nx
+B)/-1_-
+R^Zc
+%$'L$
+7uKHO
+;O9;^
+^1r'
+xE/|(
+>`jcF
+F*}O
+6$4K
+?mHh
+$fWmSx@
+"^!0
+G9Bz
+5u|&
+zc%C1
+@p&}p
+gb"|
+#k\'
+?4}@
+E)[pE
+U1(\Q
+ChN"
+1l@J
+_Le7
+YJ9?
+&k"+
+=O@t
+|%oD
+?'n^_
+]xEc
+vH7B
+W4vC
+9Y>)F$
+raB3G
+)c=H
+]rHa
+O8Mr
+bnMG
+]xEc
+ascii
+us_ascii
+ansi_x3.4_1968
+ansi_x3.4_1986
+cp367
+csascii
+ibm367
+iso_ir_6
+iso646_us
+iso_646.irv:1991
+utf_7
+csunicode11utf7
+unicode_1_1_utf_7
+unicode_2_0_utf_7
+x_unicode_1_1_utf_7
+x_unicode_2_0_utf_7
+utf_8
+unicode_1_1_utf_8
+unicode_2_0_utf_8
+x_unicode_1_1_utf_8
+x_unicode_2_0_utf_8
+utf_16
+UTF_16LE
+ucs_2
+unicode
+iso_10646_ucs2
+unicodefffe
+utf_16be
+iso_8859_1
+WWWWWWWW
+(((((((((((((((((((((
+(((((((((((((((((((((((((((
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWW
+WWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWW
+WWWWW
+WWWWW
+'       *       -       9
+        !       %
+        Q       Y
+ A E M O Q a e i k
+!!!#!'!3!5!7!?!A!C!I!K!M!Q!S!U!W!Y!_!g!i!o!q!s!u!y!{!}!
+        f       =
+        i       @
+? I Y
+= e!
+5 _
+9 C
+![!c!o
+ i!u d
+- m
+ G!k!w!
+S m
+U W
+ ]!m!l
+9!;!=!a!
+ / [ g }
+!%!/!
+# ' G ] c g o y q } { w
+!%!+!/!O!
+        Q       Y
+'       S
+kkkk
+zzzz
+(       =       T       c       t
+;       K
+) 0 7 > E L S Z a h o v
+) 0 7 > E L S Z a h o v
+ !/!<!K!\!q!
+"""5"
+B"0 I"P"|
+W"^"e"a l"s"z"
+B"0 I"P"|
+W"^"e"a l"s"z"
+$#,#5#<#
+C#I#{
+$#,#5#<#
+C#I#{
+b#g#5#
+C#I#
+b#g#5#
+C#I#
+$"$*$2$=$F$P$
+$"$*$2$=$F$P$
+$Z$`$
+$Z$`$
+f$r$~$
+%%%,%6%
+>%E%M%R%]%g%q%x%
+&.&A&L&W&^&e&l&s&z&
+&&'-'4';'B'
+&&'-'4';'B'
+I'V'c's'
+'I'V'c's'
+( (-(
+:(I(
+( (-(
+( (-(
+( (-(
+j(w(
+)()1):)D)N)
+X)a)j)s)|)
+*4*G*\*o*|*
++!+0+C+V+g+
+B,I,P,W,^,e,l,s,z,
+B,I,P,W,^,e,l,s,z,
+!-'---4-=-E-L-
+S-Z-a-f-l-p-u-z-
+.(.0.8.@.H.O.W._.f.l.s.
+/!/(/2/
+8/</A/E/I/N/R/t
+X/^/d/
+0#0+030;0;
+R0Y0b0
+R0Y0b0
+k0s0{0
+k0s0{0
+1"1.171=1C1K1T1`1
+1"1.171=1C1K1T1`1
+h1l1p1t1x1z
+h1l1p1t1x1z
+2&222;2C2K2U2\2
+2&222;2C2K2U2\2
+j2n2r2v2z2~2
+j2n2r2v2z2~2
+3$3.3:3
+3$3.3:3
+1K3O3x1S3W3
+1[3_3c3g3
+1K3O3x1S3W3
+1[3_3c3g3
+k3p3v3
+&4-494D4Q4Z4f4
+0p4t4
+5#5)5V
+5#5)5V
+2575<5A5L
+F5K5P5U5Z5_5d5
+2575<5A5L
+F5K5P5U5Z5_5d5
+i5y5
+6)636=6G6Q6[6_6c6_6g6k6o6s6
+737O7h7
+737O7h7
+8%838?8C8H8M8Q8V8[8
+_8r8
+9(989B9F9M9T9[9b9i9m9}9
+m9}9
+0:::
+9G:T:^:k:~:
+0:::
+9G:T:^:k:~:
+";(;/;5;=;G;O;X;
+";(;/;5;=;G;O;X;
+f;j;o;s;w;{;
+f;j;o;s;w;{;
+<#<0<=<J<X<d<r<
+<#<0<=<J<X<d<r<
+="=/=4=9=@=F=L=R=$
+W=_=g=n=w=
+W=_=g=n=w=
+)>/>V
+)>/>V
+A>R>c>t>
+?)?4?E?P?]?
+p?}?
+@"@*@2@:@B@J@R@Z@b@
+@"@*@2@:@B@J@R@Z@b@
+j@{@
+&:ACA
+&LA]AlAyA
+&&'-'4';'B'
+&&'-'4';'B'
+B"B)B-B0B3B7B
+$:B>B$
+$ABDBLBa-f-SBXB^Bi/dBnBwB
+DBLBa-f-SBXB^Bi/dBnBwB
+SBXB^B
+SBXB^B
+CE-L-
+S-Z-a-f-l-p-u-
+'C+C
+'C+C
+/CBCUCnC
+D&D0D4D;D?DFDMDTDXDtD
+XDtD
+XDtD
+XDtD
+NE^EqE
+F F3FIFMFTF[FeFlFyF
+4G;G
+FUGbGiGsG
+4G;G
+FUGbGiGsG
+H%H/H9HFHPH]HmHwH{H
+I.IJI`IvI
+I.IJI`IvI
+J+J>JTJmJ
+K)K?KRKYKcKsK
+K)K?KRKYKcKsK
+K)K?KRKYKcKsK
+K)K?KRKYKcKsK
+L)L9LOLbLlLzL
+M'M:MAMNM[MnM
+M'M:MAMNM[MnM
+M:MAMNM
+N%N-N
+M:MAMNM
+N%N-N
+8NNNdN}N
+O&O0O4O;O?OFOMOTOXOhO
+XOhO
+BPIP
+BPIP
+Q*Q=QJQTQaQkQxQ
+R&R3RFReR~R
+R&R3RFReR~R
+S:S\SxS
+T$T1TDTWTaThToTvT}T
+U*UIUbUrU
+U*UIUbUrU
+V)VBVUVwV
+D1WAW`WvW
+D1WAW`WvW
+_8r8
+9(989B9F9M9T9[9b9i9&X?X
+9^XqX
+&X?X
+9^XqX
+9xX&Y-Y@YPYfY
+9xX&Y-Y@YPYfY
+vY}Y
+Z<ZZZtZ
+Z<ZZZtZ
+H[T[`[l[x[
+H[T[`[l[x[
+\8\W\y\
+]/]E]L]S]]]g]q]{]
+^5^Z^
+M_l_
+`/`T`s`
+a"a/a<aIaVacasa
+a"a/a<aIaVacasa
+b"b-b2b7b>bGb
+b"b-b2b7b>bGb
+ObSb~2WbA
+[b_b-b2bcbgblb
+ObSb~2WbA
+[b_b-b2bcbgblb
+c c-c:cGcZcmczc
+c c-c:cGcZcmczc
+c c-c:cGcZcmczc
+c c-c:cGcZcmczc
+d1dDdZdjdtd
+e0eCeYeieye
+e0eCeYeieye
+f1fGfZfsf
+f1fGfZfsf
+g$g:gJgcg
+g$g:gJgcg
+h"h'h-h2h7h$
+=hEhNhThZh_hehkhrh{h
+h75"h
+hZh_h
+h75"h
+hZh_h
+9(989
+&X?X
+9^XqX
+&X?X
+9^XqX
+Oi_ioi
+iOi_i
+j(j2j6j:j>jBjOjVj]jpj
+k-kIk
+]jpj
+k-kIk
+eklkvk
+eklkvk
+l-lClMlWlalklul
+m!m.m
+m!m.m
+;mBmImPmWm^memlmsmzm
+;mBmImPmWm^memlmsmzm
+n%n2n9n@nJnWnjnzn
+n%n2n9n@nJnWnjnzn
+n2n9n@n
+n2n9n@n
+o o$o(o,o0o4o
+$:oCol
+LoRoXo^oeokoto}o
+:oCol
+LoRoXo^oeokoto}o
+p!p:pMp
+9gp(989tpF9xpT9|pb9i9m9
+3q9qAqIqRq]qcqiqlq
+rq}q
+rq}q
+%r,r2r9rDrLrUr\r`r
+drhrlr/
+\r`r
+drhrlr/
+prvr~rTh
+prvr~rTh
+s s$s(s*s,st
+,s.s0s6s<sBsJsQsWs]sbsisrsxs
+0s6s<sBsJsQsWs]sbsisrsxs
+t!t&t-t
+A5t=t
+t!t&t-t
+A5t=t
+Qt"4
+Qt"4
+Utgtvt
+u$u8uFuWufuwu
+u$u8uFuWufuwu
+v'v.v
+v'v.v
+:vBv
+0MvWv
+dvmvwv
+dvmvwv
+!w(w0wE
+!w(w0wE
+9w@wOw]wmw|w
+x)x3x=xCxIxMxQxYx
+`xmx{x
+`xmx{x
+y*y6y;yByMyXy`yiyvy~y
+y*y6y;yByMyXy`yiyvy~y
+m%z)z0z=zJzWzdzkzuz
+)z0z=zJzWzdzkzuz
+{'{1{:{={@{C{F{I{L{
+O{W{a{h{L
+r{w{}{
+O{W{a{h{L
+r{w{}{
+!|/|<|L|Y|g|t|
+!|/|<|L|Y|g|t|
+}(}2}<}F}P}W}^}e}l}s}z}
+~%~*~/~P
+2~5~
+8~?~
+}J~P~T~]~d~i~r~w~z~
+8~?~
+}J~P~T~]~d~i~r~w~z~
+~r~w~
+~r~w~
+(       =       T       c       t
+;       K
+) 0 7 > E L S Z a h o v
+) 0 7 > E L S Z a h o v
+ !/!<!K!\!q!
+"""5"
+B"0 I"P"|
+W"^"e"a l"s"z"
+B"0 I"P"|
+W"^"e"a l"s"z"
+$#,#5#<#
+C#I#{
+$#,#5#<#
+C#I#{
+b#g#5#
+C#I#
+b#g#5#
+C#I#
+$"$*$2$=$F$P$
+$"$*$2$=$F$P$
+$Z$`$
+$Z$`$
+f$r$~$
+%%%,%6%
+>%E%M%R%]%g%q%x%
+&.&A&L&W&^&e&l&s&z&
+&&'-'4';'B'
+&&'-'4';'B'
+I'V'c's'
+'I'V'c's'
+( (-(
+:(I(
+( (-(
+( (-(
+( (-(
+j(w(
+)()1):)D)N)
+X)a)j)s)|)
+*4*G*\*o*|*
++!+0+C+V+g+
+B,I,P,W,^,e,l,s,z,
+B,I,P,W,^,e,l,s,z,
+!-'---4-=-E-L-
+S-Z-a-f-l-p-u-z-
+.(.0.8.@.H.O.W._.f.l.s.
+/!/(/2/
+8/</A/E/I/N/R/t
+X/^/d/
+0#0+030;0;
+R0Y0b0
+R0Y0b0
+k0s0{0
+k0s0{0
+1"1.171=1C1K1T1`1
+1"1.171=1C1K1T1`1
+h1l1p1t1x1z
+h1l1p1t1x1z
+2&222;2C2K2U2\2
+2&222;2C2K2U2\2
+j2n2r2v2z2~2
+j2n2r2v2z2~2
+3$3.3:3
+3$3.3:3
+1K3O3x1S3W3
+1[3_3c3g3
+1K3O3x1S3W3
+1[3_3c3g3
+k3p3v3
+&4-494D4Q4Z4f4
+0p4t4
+5#5)5V
+5#5)5V
+2575<5A5L
+F5K5P5U5Z5_5d5
+2575<5A5L
+F5K5P5U5Z5_5d5
+i5y5
+6)636=6G6Q6[6_6c6_6g6k6o6s6
+737O7h7
+737O7h7
+8%838?8C8H8M8Q8V8[8
+_8r8
+9(989B9F9M9T9[9b9i9m9}9
+m9}9
+0:::
+9G:T:^:k:~:
+0:::
+9G:T:^:k:~:
+";(;/;5;=;G;O;X;
+";(;/;5;=;G;O;X;
+f;j;o;s;w;{;
+f;j;o;s;w;{;
+<#<0<=<J<X<d<r<
+<#<0<=<J<X<d<r<
+)>/>V
+)>/>V
+A>R>c>t>
+?)?4?E?P?]?
+p?}?
+@"@*@2@:@B@J@R@Z@b@
+@"@*@2@:@B@J@R@Z@b@
+j@{@
+&:ACA
+&LA]AlAyA
+&&'-'4';'B'
+&&'-'4';'B'
+B"B)B-B0B3B7B
+$:B>B$
+$ABDBLBa-f-SBXB^Bi/dBnBwB
+DBLBa-f-SBXB^Bi/dBnBwB
+SBXB^B
+SBXB^B
+CE-L-
+S-Z-a-f-l-p-u-
+'C+C
+'C+C
+/CBCUCnC
+D&D0D4D;D?DFDMDTDXDtD
+XDtD
+XDtD
+XDtD
+H%H/H9HFHPH]HmHwH{H
+I.IJI`IvI
+I.IJI`IvI
+J+J>JTJmJ
+K)K?KRKYKcKsK
+K)K?KRKYKcKsK
+K)K?KRKYKcKsK
+K)K?KRKYKcKsK
+L)L9LOLbLlLzL
+M'M:MAMNM[MnM
+M'M:MAMNM[MnM
+M:MAMNM
+N%N-N
+M:MAMNM
+N%N-N
+8NNNdN}N
+O&O0O4O;O?OFOMOTOXOhO
+XOhO
+BPIP
+BPIP
+Q*Q=QJQTQaQkQxQ
+R&R3RFReR~R
+R&R3RFReR~R
+S:S\SxS
+T$T1TDTWTaThToTvT}T
+U*UIUbUrU
+U*UIUbUrU
+V)VBVUVwV
+D1WAW`WvW
+D1WAW`WvW
+_8r8
+9(989B9F9M9T9[9b9i9&X?X
+9^XqX
+&X?X
+9^XqX
+9xX&Y-Y@YPYfY
+9xX&Y-Y@YPYfY
+vY}Y
+Z<ZZZtZ
+Z<ZZZtZ
+H[T[`[l[x[
+H[T[`[l[x[
+\8\W\y\
+]/]E]L]S]]]g]q]{]
+^5^Z^
+M_l_
+`/`T`s`
+a"a/a<aIaVacasa
+a"a/a<aIaVacasa
+b"b-b2b7b>bGb
+b"b-b2b7b>bGb
+ObSb~2WbA
+[b_b-b2bcbgblb
+ObSb~2WbA
+[b_b-b2bcbgblb
+c c-c:cGcZcmczc
+c c-c:cGcZcmczc
+c c-c:cGcZcmczc
+c c-c:cGcZcmczc
+d1dDdZdjdtd
+e0eCeYeieye
+e0eCeYeieye
+f1fGfZfsf
+f1fGfZfsf
+g$g:gJgcg
+g$g:gJgcg
+h"h'h-h2h7h$
+=hEhNhThZh_hehkhrh{h
+h75"h
+hZh_h
+h75"h
+hZh_h
+9(989
+&X?X
+9^XqX
+&X?X
+9^XqX
+Oi_ioi
+iOi_i
+j(j2j6j:j>jBjOjVj]jpj
+k-kIk
+]jpj
+k-kIk
+eklkvk
+eklkvk
+n%n2n9n@nJnWnjnzn
+n%n2n9n@nJnWnjnzn
+n2n9n@n
+n2n9n@n
+p!p:pMp
+9gp(989tpF9xpT9|pb9i9m9
+3q9qAqIqRq]qcqiqlq
+rq}q
+rq}q
+%r,r2r9rDrLrUr\r`r
+drhrlr/
+\r`r
+drhrlr/
+prvr~rTh
+prvr~rTh
+t!t&t-t
+A5t=t
+t!t&t-t
+A5t=t
+Qt"4
+Qt"4
+Utgtvt
+u$u8uFuWufuwu
+u$u8uFuWufuwu
+v'v.v
+v'v.v
+:vBv
+0MvWv
+dvmvwv
+dvmvwv
+!w(w0wE
+!w(w0wE
+9w@wOw]wmw|w
+x)x3x=xCxIxMxQxYx
+`xmx{x
+`xmx{x
+y*y6y;yByMyXy`yiyvy~y
+y*y6y;yByMyXy`yiyvy~y
+m%z)z0z=zJzWzdzkzuz
+)z0z=zJzWzdzkzuz
+{'{1{:{={@{C{F{I{L{
+O{W{a{h{L
+r{w{}{
+O{W{a{h{L
+r{w{}{
+!|/|<|L|Y|g|t|
+!|/|<|L|Y|g|t|
+}(}2}<}F}P}W}^}e}l}s}z}
+~%~*~/~P
+2~5~
+8~?~
+}J~P~T~]~d~i~r~w~z~
+8~?~
+}J~P~T~]~d~i~r~w~z~
+~r~w~
+~r~w~
+8/</a
+X/^/m
+3$3.3:3
+3$3.3:3
+1K3O3x1S3W3
+1[3_3c3g3
+1K3O3x1S3W3
+1[3_3c3g3
+<#<0<=<J<X<d<r<
+<#<0<=<J<X<d<r<
+="=/=4=9=@=F=L=R=$
+W=_=g=n=w=
+W=_=g=n=w=
+)>/>V
+)>/>V
+&&'-'4';'B'
+&&'-'4';'B'
+/CBCUCnC
+D&D0D4D;D?DFDMDTDXDtD
+XDtD
+XDtD
+XDtD
+F F3FIFMFTF[FeFlFyFp
+4G;G
+FUGbGiGsG
+4G;G
+FUGbGiGsG
+L)L9LOLbLlLzL
+M'M:MAMNM[MnM
+M'M:MAMNM[MnM
+M:MAMNM
+N%N-N
+M:MAMNM
+N%N-N
+p!p:pMp
+9gp(989tpF9xpT9|pb9i9m9
+m%z)z0z=zJzWzdzkzuz
+)z0z=zJzWzdzkzuz
+2575"hA5
+F5K5P5U5
+2575"hA5
+F5K5P5U5
+<#<0<=<J<X<d<r<
+<#<0<=<J<X<d<r<
++030|
+R0Y0b0
+R0Y0b0
+,s,sb
+NhTh
+75"h
+F5K5
+75"h
+F5K5
++030|
+NhTh
+75"h
+F5K5
+75"h
+F5K5
+R0Y0b0
+R0Y0b0
+!-'---4-=-E-L-
+S-Z-a-f-l-p-u-z-
+&&'-'4';'B'
+&&'-'4';'B'
+vY}Y
+Z<ZZZtZ
+Z<ZZZtZ
+H[T[`[l[x[
+H[T[`[l[x[
+&.&A&L&W&^&e&l&s&z&
+&&'-'4';'B'
+&&'-'4';'B'
+8/</a
+X/^/m
+CE-L-
+S-Z-a-f-l-p-u-
+'C+C
+'C+C
+F F3FIFMFTF[FeFlFyFp
+4G;G
+FUGbGiGsG
+4G;G
+FUGbGiGsG
+o o$o(o,o0o4o
+$:oCol
+LoRoXo^oeokoto}o
+:oCol
+LoRoXo^oeokoto}o
+t!t&t-t
+A5t=t
+t!t&t-t
+A5t=t
+Qt"4
+Qt"4
+ + 8
+H N ] R
+p w
+:!@!
+V!\!
+q!w!
+."4"L"
+d"j"x"
+-#3#G#P
+s#y#
+$*$D$
+_$e$t$
+=%C%R%
+2&8&H&6
+g&m&
+''-'>'
+i'o'z'
+?(E(Y(^
+A)G)\)3
+.*5*
+S*Y*t*
++/+N+O
+R+Y+r+r
+",(,7,
+U,\,r,
+8->-L-j-
+.%.6.K.i
+R.X.n.
+&/,/?/\/
+c/i/{/
+0+ (0<
+,030K0e0i0i0
+m0s0
+%101D$M1
+Q1W1k1
+62<2K2m2
+q2w2
+333p
+:3@3Q3g3
+n3t3t3
+(4.4=4Y4
+`4f4
+#5)5>5Q5i
+U5[5{5
+616p
+86>6U6m6
+t6z6z6
+757T7X7\7
+_7e7v7
+8#8I8}8
+9%94
+,979I8`9
+d9j9x9
+: :i
+':2:57[:X7\7
+_:e:t:
+;0;L;
+;$;p
+S;Z;o;
+<)<?<i
+F<Q<0;l<
+8P;5
+p<v<
+="=7=i
+>=I=e=
+>9>V>i
+]>h>e=
+?(?9?i
+@?F?d?
+@!@A@
+H@N@N@l@
+p@v@
+!A'A9ALA4
+SAYAYAlA
+pAvA
+B+B4
+2B8BNBeB4
+lBrB
+B[:X7\7
+BT7X7\7
+C+Cl<
+8C@C+CL;
+;PC[C
+jCrC,
+BT7X7\7
+)D;DJ
+8ID+CQD
+UD]D
+i0nD|De0i0i0
+z)5K5K9KEK`
+XK\KkK
+xKxK|K
+L&L?
+2L6L6L
+3;L;L?L?L
+ILMLML
+_LjL
+vLzL
+1       M       M
+1M5MFM
+oMwM?
+2L6L
+N N.N
+PA;N;N?N?N
+GNZN
+dNdNhNoN8
+vNzN
+3(O(O,O,O
+3O7OGO,
+;WOWO[OlOf      {O
+P P-P1
+;=:P:P>PGP
+        PPTPnP-
+B+Q+Q/Q/Q
+4Q8QCQK
+OQOQSQbQW
+tQxQ
+2L6L6L=
+52R2R6R>R
+        MRQR`RB
+>xRxR|R|R
+2L6L
+2L6L
+(&S&S*S3SR
+CSGSVSM
+pSxS?
+2L6L
+2L6L
+T)T]
+*LTLTPTZTs
+QkTb
+2L6L
+U!U!U
+*U.U?Ul
+RUZU
+cUqUg
+V%V?
+2L6L6Lu
++V+V/V6V
+AVEVXVq
+fVlV
+yV}V
+"W*W
+2WCWv
+SWYW?
+2L6L
+9`W`WdWdW
+lWpWpW~
+>XBXQX(
+oXxX
+p#BYBYFYQY
+dYhYzY
+Z       Z       Z?
+()Z)Z-Z7ZJ
+WZ[ZlZ
+2L6L
+2L6L6L
+2L6L
+%[-[-
+        :[J[
+8^[^[b[b[?
+2L6L
+`/i[i[m[u[
+2L6L
+=?"\"\&\&\
+'+\+\/\
+?\C\P\
+&o\o\s\|\
+2L6L
+*#6]6]:]:]
+C]G]Y]
+)j]j]n]v]g
+2L6L6L
+4^8^G^
+6p^p^t^t^
+)6_6_:_F_c
+P_T_d_
+v_v_z_
+2L6L6L
+`!`4`
+AG`G`K`Q`
+        X`\`h`
+$:z`z`~`
+2L6L
+P;QDQD
+`i      i
+,8a8a<a<a
+CaGa
+UaUaYafa
+%b%b)b2b?
+2L6L<b
+AbAbEbNb?
+2L6L
+C<XbXb\bdb
+nbvbo
+5c9cLc
+$YcYc]cjc
+#d'd'd
+@d@dDdKd
+RdVdhd
+rdzd
+9BeBeFeFeX      PeTehe
+|e|e
+a. m.
+p. m.
+dop.
+odp.
+vorm.
+nachm.
+f.h.
+e.h.
+a.m.
+p.m.
+e paradites
+e pasdites
+pop.
+priek
+prie
+piet
+popiet
+dopo
+dnja
+popo
+dnju
+i.b.
+e.b.
+Zdat azal
+effir aza
+subaka
+kikii
+moies
+ttes
+u.t.
+u.k.
+A.M.
+P.M.
+G.M.
+v.m.
+n.m.
+f.m.
+e.m.
+dnja
+prijepodne
+popodne
+prije podne
+po podne
+pre podne
+mat.
+soir
+-Infinity
+Infinity
+-Infinit
+Infinit
+-nekone
++nekone
+-unendlich
++unendlich
+-Infinito
+Infinito
+luku
+-Infini
++Infini
++Infinito
+-oneindig
+oneindig
+-niesko
+czono
++niesko
+czono
+-infinit
++infinit
+-neskon
+nost
+neskon
+nost
+-bezgal
+bezgal
+-begalyb
+begalyb
+-Infinitu
+Infinitu
+haqiqiy
+emas
+MOP$
+epiloho
+FCFA
+Din.
+Arabic
+Bulgarian
+Catalan
+catal
+zh-Hans
+Chinese (Simplified)
+zh-CHS
+Chinese (Simplified) Legacy
+Czech
+tina
+Danish
+dansk
+German
+Deutsch
+Greek
+English
+Spanish
+espa
+Finnish
+suomi
+French
+fran
+Hebrew
+Hungarian
+magyar
+Icelandic
+slenska
+Italian
+italiano
+Japanese
+Korean
+Dutch
+Nederlands
+Norwegian
+norsk
+Polish
+polski
+Portuguese
+portugu
+Romansh
+rumantsch
+Romanian
+Russian
+Croatian
+hrvatski
+Slovak
+sloven
+Albanian
+shqip
+Swedish
+svenska
+Thai
+Turkish
+Urdu
+Indonesian
+Indonesia
+Ukrainian
+Belarusian
+Slovenian
+sloven
+Estonian
+eesti
+Latvian
+latvie
+Lithuanian
+lietuvi
+Tajik
+Persian
+Vietnamese
+ng Vi
+Armenian
+Azerbaijani
+rbaycan
+Basque
+euskara
+Upper Sorbian
+hornjoserb
+Macedonian
+Southern Sotho
+Sesotho
+Tsonga
+Xitsonga
+Tswana
+Setswana
+Xhosa
+isiXhosa
+Zulu
+isiZulu
+Afrikaans
+Georgian
+Faroese
+royskt
+Hindi
+Maltese
+Malti
+Northern Sami
+davvis
+megiella
+Irish
+Gaeilge
+Malay
+Bahasa Melayu
+Kazakh
+Kyrgyz
+Swahili
+Kiswahili
+Turkmen
+rkmen
+Uzbek
+zbek
+Bangla
+Punjabi
+Gujarati
+Odia
+Tamil
+Telugu
+Kannada
+Malayalam
+Assamese
+Marathi
+Mongolian
+Tibetan
+Welsh
+Cymraeg
+Khmer
+Burmese
+Galician
+galego
+Konkani
+Sinhala
+Cherokee
+Amharic
+Central Atlas Tamazight
+Tamazi
+t n la
+Nepali
+Western Frisian
+West-Frysk
+Pashto
+Filipino
+Fulah
+Pulaar
+Hausa
+Yoruba
+ Yor
+Northern Sotho
+Sesotho sa Leboa
+Luxembourgish
+tzebuergesch
+Kalaallisut
+kalaallisut
+Igbo
+Oromo
+Oromoo
+Tigrinya
+Hawaiian
+lelo Hawai
+Somali
+Soomaali
+Sichuan Yi
+Breton
+brezhoneg
+Uyghur
+Swiss German
+Schwiizert
+tsch
+Sakha
+Kinyarwanda
+Scottish Gaelic
+idhlig
+ar-SA
+Arabic (Saudi Arabia)
+bg-BG
+Bulgarian (Bulgaria)
+ca-ES
+Catalan (Spain)
+catal
+ (Espanya)
+zh-TW
+Chinese (Traditional)
+cs-CZ
+Czech (Czech Republic)
+tina (
+ republika)
+da-DK
+Danish (Denmark)
+dansk (Danmark)
+de-DE
+German (Germany)
+Deutsch (Deutschland)
+el-GR
+Greek (Greece)
+en-US
+English (United States)
+fi-FI
+Finnish (Finland)
+suomi (Suomi)
+fr-FR
+French (France)
+fran
+ais (France)
+he-IL
+Hebrew (Israel)
+hu-HU
+Hungarian (Hungary)
+magyar (Magyarorsz
+is-IS
+Icelandic (Iceland)
+slenska (
+sland)
+it-IT
+Italian (Italy)
+italiano (Italia)
+ja-JP
+Japanese (Japan)
+ko-KR
+Korean (South Korea)
+nl-NL
+Dutch (Netherlands)
+Nederlands (Nederland)
+nb-NO
+Norwegian Bokm
+l (Norway)
+norsk bokm
+l (Norge)
+pl-PL
+Polish (Poland)
+polski (Polska)
+pt-BR
+Portuguese (Brazil)
+portugu
+s (Brasil)
+rm-CH
+Romansh (Switzerland)
+rumantsch (Svizra)
+ro-RO
+Romanian (Romania)
+ (Rom
+nia)
+ru-RU
+Russian (Russia)
+hr-HR
+Croatian (Croatia)
+hrvatski (Hrvatska)
+sk-SK
+Slovak (Slovakia)
+sloven
+ina (Slovensko)
+sq-AL
+Albanian (Albania)
+shqip (Shqip
+sv-SE
+Swedish (Sweden)
+svenska (Sverige)
+th-TH
+Thai (Thailand)
+tr-TR
+Turkish (Turkey)
+e (T
+rkiye)
+ur-PK
+Urdu (Pakistan)
+id-ID
+Indonesian (Indonesia)
+Indonesia (Indonesia)
+uk-UA
+Ukrainian (Ukraine)
+be-BY
+Belarusian (Belarus)
+sl-SI
+Slovenian (Slovenia)
+sloven
+ina (Slovenija)
+et-EE
+Estonian (Estonia)
+eesti (Eesti)
+lv-LV
+Latvian (Latvia)
+latvie
+u (Latvija)
+lt-LT
+Lithuanian (Lithuania)
+lietuvi
+ (Lietuva)
+tg-Cyrl-TJ
+Tajik (Cyrillic, Tajikistan)
+fa-IR
+Persian (Iran)
+vi-VN
+Vietnamese (Vietnam)
+ng Vi
+t (Vi
+t Nam)
+hy-AM
+Armenian (Armenia)
+az-Latn-AZ
+Azerbaijani (Latin, Azerbaijan)
+rbaycan (Az
+rbaycan)
+eu-ES
+Basque (Spain)
+euskara (Espainia)
+hsb-DE
+Upper Sorbian (Germany)
+hornjoserb
+ina (N
+mska)
+mk-MK
+Macedonian (Macedonia)
+st-ZA
+Southern Sotho (South Africa)
+ts-ZA
+Tsonga (South Africa)
+tn-ZA
+Tswana (South Africa)
+xh-ZA
+Xhosa (South Africa)
+zu-ZA
+Zulu (South Africa)
+isiZulu (i-South Africa)
+af-ZA
+Afrikaans (South Africa)
+Afrikaans (Suid-Afrika)
+ka-GE
+Georgian (Georgia)
+fo-FO
+Faroese (Faroe Islands)
+royskt (F
+royar)
+hi-IN
+Hindi (India)
+mt-MT
+Maltese (Malta)
+Malti (Malta)
+se-NO
+Northern Sami (Norway)
+davvis
+megiella (Norga)
+ms-MY
+Malay (Malaysia)
+Bahasa Melayu (Malaysia)
+kk-KZ
+Kazakh (Kazakhstan)
+ky-KG
+Kyrgyz (Kyrgyzstan)
+sw-KE
+Swahili (Kenya)
+Kiswahili (Kenya)
+tk-TM
+Turkmen (Turkmenistan)
+rkmen
+e (T
+rkmenistan)
+uz-Latn-UZ
+Uzbek (Latin, Uzbekistan)
+zbek (O
+zbekiston)
+bn-IN
+Bangla (India)
+gu-IN
+Gujarati (India)
+or-IN
+Odia (India)
+ta-IN
+Tamil (India)
+te-IN
+Telugu (India)
+kn-IN
+Kannada (India)
+ml-IN
+Malayalam (India)
+as-IN
+Assamese (India)
+mr-IN
+Marathi (India)
+mn-MN
+Mongolian (Mongolia)
+bo-CN
+Tibetan (China)
+cy-GB
+Welsh (United Kingdom)
+Cymraeg (Y Deyrnas Unedig)
+km-KH
+Khmer (Cambodia)
+lo-LA
+Lao (Laos)
+my-MM
+Burmese (Myanmar (Burma))
+gl-ES
+Galician (Spain)
+galego (Espa
+kok-IN
+Konkani (India)
+si-LK
+Sinhala (Sri Lanka)
+am-ET
+Amharic (Ethiopia)
+ne-NP
+Nepali (Nepal)
+fy-NL
+Western Frisian (Netherlands)
+West-Frysk (Nederl
+ps-AF
+Pashto (Afghanistan)
+fil-PH
+Filipino (Philippines)
+Filipino (Pilipinas)
+ha-Latn-NG
+Hausa (Latin, Nigeria)
+Hausa (Najeriya)
+yo-NG
+Yoruba (Nigeria)
+ Yor
+ (Or
+de N
+nso-ZA
+Northern Sotho (South Africa)
+lb-LU
+Luxembourgish (Luxembourg)
+tzebuergesch (L
+tzebuerg)
+kl-GL
+Kalaallisut (Greenland)
+kalaallisut (Kalaallit Nunaat)
+ig-NG
+Igbo (Nigeria)
+om-ET
+Oromo (Ethiopia)
+Oromoo (Itoophiyaa)
+ti-ET
+Tigrinya (Ethiopia)
+haw-US
+Hawaiian (United States)
+lelo Hawai
+Amelika Hui P
+so-SO
+Somali (Somalia)
+Soomaali (Soomaaliya)
+ii-CN
+Sichuan Yi (China)
+br-FR
+Breton (France)
+brezhoneg (Fra
+ug-CN
+Uyghur (China)
+gsw-FR
+Swiss German (France)
+Schwiizert
+tsch (Frankriich)
+sah-RU
+Sakha (Russia)
+rw-RW
+Kinyarwanda (Rwanda)
+gd-GB
+Scottish Gaelic (United Kingdom)
+idhlig (An R
+oghachd Aonaichte)
+ar-IQ
+Arabic (Iraq)
+ca-ES-valencia
+zh-CN
+de-CH
+German (Switzerland)
+Deutsch (Schweiz)
+en-GB
+English (United Kingdom)
+es-MX
+Spanish (Mexico)
+espa
+ol (M
+xico)
+fr-BE
+French (Belgium)
+fran
+ais (Belgique)
+it-CH
+Italian (Switzerland)
+italiano (Svizzera)
+nl-BE
+Dutch (Belgium)
+Nederlands (Belgi
+nn-NO
+Norwegian Nynorsk (Norway)
+nynorsk (Noreg)
+pt-PT
+Portuguese (Portugal)
+portugu
+s (Portugal)
+ro-MD
+Romanian (Moldova)
+ (Republica Moldova)
+ru-MD
+Russian (Moldova)
+sv-FI
+Swedish (Finland)
+svenska (Finland)
+ur-IN
+Urdu (India)
+az-Cyrl-AZ
+Azerbaijani (Cyrillic, Azerbaijan)
+dsb-DE
+Lower Sorbian (Germany)
+dolnoserb
+ina (Nimska)
+tn-BW
+Tswana (Botswana)
+se-SE
+Northern Sami (Sweden)
+davvis
+megiella (Ruo
+ga-IE
+Irish (Ireland)
+Gaeilge (
+ire)
+ms-BN
+Malay (Brunei)
+Bahasa Melayu (Brunei)
+uz-Cyrl-UZ
+Uzbek (Cyrillic, Uzbekistan)
+bn-BD
+Bangla (Bangladesh)
+pa-Arab-PK
+Punjabi (Arabic, Pakistan)
+ta-LK
+Tamil (Sri Lanka)
+ne-IN
+Nepali (India)
+ti-ER
+Tigrinya (Eritrea)
+ar-EG
+Arabic (Egypt)
+zh-HK
+Chinese (Traditional, Hong Kong SAR China)
+de-AT
+German (Austria)
+Deutsch (
+sterreich)
+en-AU
+English (Australia)
+es-ES
+Spanish (Spain)
+espa
+ol (Espa
+fr-CA
+French (Canada)
+fran
+ais (Canada)
+se-FI
+Northern Sami (Finland)
+davvis
+megiella (Suopma)
+ar-LY
+Arabic (Libya)
+zh-SG
+Chinese (Simplified, Singapore)
+de-LU
+German (Luxembourg)
+Deutsch (Luxemburg)
+en-CA
+English (Canada)
+es-GT
+Spanish (Guatemala)
+espa
+ol (Guatemala)
+fr-CH
+French (Switzerland)
+fran
+ais (Suisse)
+hr-BA
+Croatian (Bosnia & Herzegovina)
+hrvatski (Bosna i Hercegovina)
+ar-DZ
+Arabic (Algeria)
+zh-MO
+Chinese (Traditional, Macau SAR China)
+de-LI
+German (Liechtenstein)
+Deutsch (Liechtenstein)
+en-NZ
+English (New Zealand)
+es-CR
+Spanish (Costa Rica)
+espa
+ol (Costa Rica)
+fr-LU
+French (Luxembourg)
+fran
+ais (Luxembourg)
+bs-Latn-BA
+Bosnian (Latin, Bosnia & Herzegovina)
+bosanski (Bosna i Hercegovina)
+ar-MA
+Arabic (Morocco)
+en-IE
+English (Ireland)
+es-PA
+Spanish (Panama)
+espa
+ol (Panam
+fr-MC
+French (Monaco)
+fran
+ais (Monaco)
+sr-Latn-BA
+Serbian (Latin, Bosnia & Herzegovina)
+ar-TN
+Arabic (Tunisia)
+en-ZA
+English (South Africa)
+es-DO
+Spanish (Dominican Republic)
+espa
+ol (Rep
+blica Dominicana)
+sr-Cyrl-BA
+Serbian (Cyrillic, Bosnia & Herzegovina)
+ar-OM
+Arabic (Oman)
+en-JM
+English (Jamaica)
+es-VE
+Spanish (Venezuela)
+espa
+ol (Venezuela)
+fr-RE
+French (R
+union)
+fran
+ais (La R
+union)
+bs-Cyrl-BA
+Bosnian (Cyrillic, Bosnia & Herzegovina)
+ar-YE
+Arabic (Yemen)
+es-CO
+Spanish (Colombia)
+espa
+ol (Colombia)
+fr-CD
+French (Congo - Kinshasa)
+fran
+ais (Congo-Kinshasa)
+sr-Latn-RS
+Serbian (Latin, Serbia)
+smn-FI
+Inari Sami (Finland)
+anar
+kiel
+ (Suom
+ar-SY
+Arabic (Syria)
+en-BZ
+English (Belize)
+es-PE
+Spanish (Peru)
+espa
+ol (Per
+fr-SN
+French (Senegal)
+fran
+ais (S
+gal)
+sr-Cyrl-RS
+Serbian (Cyrillic, Serbia)
+ar-JO
+Arabic (Jordan)
+en-TT
+English (Trinidad & Tobago)
+es-AR
+Spanish (Argentina)
+espa
+ol (Argentina)
+fr-CM
+French (Cameroon)
+fran
+ais (Cameroun)
+sr-Latn-ME
+Serbian (Latin, Montenegro)
+ar-LB
+Arabic (Lebanon)
+en-ZW
+English (Zimbabwe)
+es-EC
+Spanish (Ecuador)
+espa
+ol (Ecuador)
+fr-CI
+French (C
+te d
+Ivoire)
+fran
+ais (C
+te d
+Ivoire)
+sr-Cyrl-ME
+Serbian (Cyrillic, Montenegro)
+ar-KW
+Arabic (Kuwait)
+en-PH
+English (Philippines)
+es-CL
+Spanish (Chile)
+espa
+ol (Chile)
+fr-ML
+French (Mali)
+fran
+ais (Mali)
+ar-AE
+Arabic (United Arab Emirates)
+es-UY
+Spanish (Uruguay)
+espa
+ol (Uruguay)
+fr-MA
+French (Morocco)
+fran
+ais (Maroc)
+ar-BH
+Arabic (Bahrain)
+en-HK
+English (Hong Kong SAR China)
+es-PY
+Spanish (Paraguay)
+espa
+ol (Paraguay)
+fr-HT
+French (Haiti)
+fran
+ais (Ha
+ar-QA
+Arabic (Qatar)
+en-IN
+English (India)
+es-BO
+Spanish (Bolivia)
+espa
+ol (Bolivia)
+en-MY
+English (Malaysia)
+es-SV
+Spanish (El Salvador)
+espa
+ol (El Salvador)
+en-SG
+English (Singapore)
+es-HN
+Spanish (Honduras)
+espa
+ol (Honduras)
+es-NI
+Spanish (Nicaragua)
+espa
+ol (Nicaragua)
+es-PR
+Spanish (Puerto Rico)
+espa
+ol (Puerto Rico)
+es-US
+Spanish (United States)
+espa
+ol (Estados Unidos)
+es-CU
+Spanish (Cuba)
+espa
+ol (Cuba)
+bs-Cyrl
+Bosnian (Cyrillic)
+bosanski
+bs-Latn
+Bosnian (Latin)
+sr-Cyrl
+Serbian (Cyrillic)
+sr-Latn
+Serbian (Latin)
+Inari Sami
+anar
+kiel
+az-Cyrl
+Azerbaijani (Cyrillic)
+Norwegian Nynorsk
+nynorsk
+Bosnian
+az-Latn
+Azerbaijani (Latin)
+uz-Cyrl
+Uzbek (Cyrillic)
+mn-Cyrl
+Mongolian (Cyrillic)
+zh-Hant
+zh-CHT
+Chinese (Traditional) Legacy
+Norwegian Bokm
+norsk bokm
+Serbian
+tg-Cyrl
+Tajik (Cyrillic)
+Lower Sorbian
+dolnoserb
+uz-Latn
+Uzbek (Latin)
+pa-Arab
+Punjabi (Arabic)
+tzm-Latn
+Central Atlas Tamazight (Latin)
+ha-Latn
+Hausa (Latin)
+af-za
+am-et
+ar-ae
+ar-bh
+ar-dz
+ar-eg
+ar-iq
+ar-jo
+ar-kw
+ar-lb
+ar-ly
+ar-ma
+ar-om
+ar-qa
+ar-sa
+ar-sy
+ar-tn
+ar-ye
+as-in
+az-cyrl
+az-cyrl-az
+az-latn
+az-latn-az
+be-by
+bg-bg
+bn-bd
+bn-in
+bo-cn
+br-fr
+bs-cyrl
+bs-cyrl-ba
+bs-latn
+bs-latn-ba
+ca-es
+ca-es-valencia
+cs-cz
+cy-gb
+da-dk
+de-at
+de-ch
+de-de
+de-li
+de-lu
+dsb-de
+el-gr
+en-au
+en-bz
+en-ca
+en-gb
+en-hk
+en-ie
+en-in
+en-jm
+en-my
+en-nz
+en-ph
+en-sg
+en-tt
+en-us
+en-za
+en-zw
+es-ar
+es-bo
+es-cl
+es-co
+es-cr
+es-cu
+es-do
+es-ec
+es-es
+es-gt
+es-hn
+es-mx
+es-ni
+es-pa
+es-pe
+es-pr
+es-py
+es-sv
+es-us
+es-uy
+es-ve
+et-ee
+eu-es
+fa-ir
+fi-fi
+fil-ph
+fo-fo
+fr-be
+fr-ca
+fr-cd
+fr-ch
+fr-ci
+fr-cm
+fr-fr
+fr-ht
+fr-lu
+fr-ma
+fr-mc
+fr-ml
+fr-re
+fr-sn
+fy-nl
+ga-ie
+gd-gb
+gl-es
+gsw-fr
+gu-in
+ha-latn
+ha-latn-ng
+haw-us
+he-il
+hi-in
+hr-ba
+hr-hr
+hsb-de
+hu-hu
+hy-am
+id-id
+ig-ng
+ii-cn
+is-is
+it-ch
+it-it
+ja-jp
+ka-ge
+kk-kz
+kl-gl
+km-kh
+kn-in
+ko-kr
+kok-in
+ky-kg
+lb-lu
+lo-la
+lt-lt
+lv-lv
+mk-mk
+ml-in
+mn-cyrl
+mn-mn
+mr-in
+ms-bn
+ms-my
+mt-mt
+my-mm
+nb-no
+ne-in
+ne-np
+nl-be
+nl-nl
+nn-no
+nso-za
+om-et
+or-in
+pa-arab
+pa-arab-pk
+pl-pl
+ps-af
+pt-br
+pt-pt
+rm-ch
+ro-md
+ro-ro
+ru-md
+ru-ru
+rw-rw
+sah-ru
+se-fi
+se-no
+se-se
+si-lk
+sk-sk
+sl-si
+smn-fi
+so-so
+sq-al
+sr-cyrl
+sr-cyrl-ba
+sr-cyrl-me
+sr-cyrl-rs
+sr-latn
+sr-latn-ba
+sr-latn-me
+sr-latn-rs
+st-za
+sv-fi
+sv-se
+sw-ke
+ta-in
+ta-lk
+te-in
+tg-cyrl
+tg-cyrl-tj
+th-th
+ti-er
+ti-et
+tk-tm
+tn-bw
+tn-za
+tr-tr
+ts-za
+tzm-latn
+ug-cn
+uk-ua
+ur-in
+ur-pk
+uz-cyrl
+uz-cyrl-uz
+uz-latn
+uz-latn-uz
+vi-vn
+xh-za
+yo-ng
+zh-chs
+zh-cht
+zh-cn
+zh-hans
+zh-hant
+zh-hk
+zh-mo
+zh-sg
+zh-tw
+zu-za
+United Arab Emirates
+United Arab Emirates Dirham
+Afghanistan
+Afghan Afghani
+Albania
+Shqip
+Albanian Lek
+Leku shqiptar
+Armenia
+Armenian Dram
+Argentina
+Argentine Peso
+peso argentino
+Austria
+sterreich
+Euro
+Australia
+Australian Dollar
+Azerbaijan
+rbaycan
+Azerbaijani Manat
+rbaycan Manat
+Bosnia & Herzegovina
+Bosna i Hercegovina
+Bosnia-Herzegovina Convertible Mark
+konvertibilna marka
+Bangladesh
+Bangladeshi Taka
+Belgium
+Belgique
+euro
+Bulgaria
+Bulgarian Lev
+Bahrain
+Bahraini Dinar
+Brunei
+Brunei Dollar
+Dolar Brunei
+Bolivia
+Bolivian Boliviano
+boliviano
+Brazil
+Brasil
+Brazilian Real
+Real brasileiro
+Botswana
+Botswanan Pula
+Belarus
+Belarusian Ruble
+Belize
+Belize Dollar
+Canada
+Canadian Dollar
+dollar canadien
+Congo - Kinshasa
+Congo-Kinshasa
+Congolese Franc
+franc congolais
+Switzerland
+Svizra
+Swiss Franc
+franc svizzer
+te d
+Ivoire
+West African CFA Franc
+franc CFA (BCEAO)
+Chile
+Chilean Peso
+Peso chileno
+Cameroon
+Cameroun
+Central African CFA Franc
+franc CFA (BEAC)
+China
+Chinese Yuan
+Colombia
+Colombian Peso
+peso colombiano
+Costa Rica
+Costa Rican Col
+n costarricense
+Cuba
+Cuban Peso
+peso cubano
+Czech Republic
+ republika
+Czech Republic Koruna
+ koruna
+Germany
+Deutschland
+Denmark
+Danmark
+Danish Krone
+dansk krone
+Dominican Republic
+blica Dominicana
+Dominican Peso
+peso dominicano
+Algeria
+Algerian Dinar
+Ecuador
+US Dollar
+lar estadounidense
+Estonia
+Eesti
+Egypt
+Egyptian Pound
+Eritrea
+Eritrean Nakfa
+Spain
+Espanya
+Ethiopia
+Ethiopian Birr
+Finland
+Suomi
+Faroe Islands
+royar
+donsk kr
+France
+United Kingdom
+Y Deyrnas Unedig
+British Pound
+Punt Prydain
+Georgia
+Georgian Lari
+Greenland
+Kalaallit Nunaat
+danmarkimut koruuni
+Greece
+Guatemala
+Guatemalan Quetzal
+quetzal
+Hong Kong SAR China
+Hong Kong Dollar
+Honduras
+Honduran Lempira
+lempira hondure
+Croatia
+Hrvatska
+Croatian Kuna
+hrvatska kuna
+Haiti
+Haitian Gourde
+gourde ha
+tienne
+Hungary
+Magyarorsz
+Hungarian Forint
+magyar forint
+Indonesian Rupiah
+Rupiah Indonesia
+Ireland
+Israel
+Israeli New Shekel
+India
+Indian Rupee
+Iraq
+Iraqi Dinar
+Iran
+Iranian Rial
+Iceland
+sland
+Icelandic Kr
+slensk kr
+Italy
+Italia
+Jamaica
+Jamaican Dollar
+Jordan
+Jordanian Dinar
+Japan
+Japanese Yen
+Kenya
+Kenyan Shilling
+Shilingi ya Kenya
+Kyrgyzstan
+Kyrgystani Som
+Cambodia
+Cambodian Riel
+South Korea
+South Korean Won
+Kuwait
+Kuwaiti Dinar
+Kazakhstan
+Kazakhstani Tenge
+Laos
+Laotian Kip
+Lebanon
+Lebanese Pound
+Liechtenstein
+Schweizer Franken
+Sri Lanka
+Sri Lankan Rupee
+Lithuania
+Lietuva
+Euras
+Luxembourg
+tzebuerg
+Latvia
+Latvija
+eiro
+Libya
+Libyan Dinar
+Morocco
+Moroccan Dirham
+Monaco
+Moldova
+Republica Moldova
+Moldovan Leu
+leu moldovenesc
+Montenegro
+Evro
+Macedonia
+Macedonian Denar
+Mali
+Myanmar (Burma)
+Myanmar Kyat
+Mongolia
+Mongolian Tugrik
+Macau SAR China
+Macanese Pataca
+Malta
+ewro
+Mexico
+xico
+Mexican Peso
+peso mexicano
+Malaysia
+Malaysian Ringgit
+Ringgit Malaysia
+Nigeria
+Najeriya
+Nigerian Naira
+Naira
+Nicaragua
+Nicaraguan C
+rdoba
+rdoba nicarag
+ense
+Netherlands
+Nederland
+Norway
+Norge
+Norwegian Krone
+norske kroner
+Nepal
+Nepalese Rupee
+New Zealand
+New Zealand Dollar
+Oman
+Omani Rial
+Panama
+Panam
+Panamanian Balboa
+balboa paname
+Peru
+Peruvian Sol
+nuevo sol peruano
+Philippines
+Pilipinas
+Philippine Peso
+Piso ng Pilipinas
+Pakistan
+Pakistani Rupee
+Poland
+Polska
+Polish Zloty
+oty polski
+Puerto Rico
+Portugal
+Paraguay
+Paraguayan Guarani
+guaran
+ paraguayo
+Qatar
+Qatari Rial
+union
+La R
+union
+Romania
+Romanian Leu
+leu rom
+nesc
+Serbia
+Serbian Dinar
+Srpski dinar
+Russia
+Russian Ruble
+Rwanda
+Rwandan Franc
+Saudi Arabia
+Saudi Riyal
+Sweden
+Sverige
+Swedish Krona
+svensk krona
+Singapore
+Singapore Dollar
+Slovenia
+Slovenija
+evro
+Slovakia
+Slovensko
+Senegal
+Somalia
+Soomaaliya
+Somali Shilling
+Shilin soomaali
+El Salvador
+Syria
+Syrian Pound
+Thailand
+Thai Baht
+Tajikistan
+Tajikistani Somoni
+Turkmenistan
+rkmenistan
+Turkmenistani Manat
+rkmen manaty
+Tunisia
+Tunisian Dinar
+Turkey
+rkiye
+Turkish Lira
+rk Liras
+Trinidad & Tobago
+Trinidad & Tobago Dollar
+Taiwan
+New Taiwan Dollar
+Ukraine
+Ukrainian Hryvnia
+United States
+Uruguay
+Uruguayan Peso
+peso uruguayo
+Uzbekistan
+zbekiston
+Uzbekistani Som
+zbekiston so
+Venezuela
+Venezuelan Bol
+var venezolano
+Vietnam
+t Nam
+Vietnamese Dong
+ng Vi
+t Nam
+Yemen
+Yemeni Rial
+South Africa
+South African Rand
+Zimbabwe
+dd MMMM
+dd/MM/yy
+dd/MM/yyyy
+dd/MMMM/yyyy
+dddd, dd MMMM, yyyy
+hh:mm tt
+HH:mm
+hh:mm:ss tt
+HH:mm:ss
+MMMM, yyyy
+d MMMM
+d.M.yyyy '
+dd.M.yyyy '
+d.MM.yyyy '
+dd.MM.yyyy '
+dd MMMM yyyy '
+d MMMM yyyy '
+dddd, dd MMMM yyyy '
+dddd, d MMMM yyyy '
+H:mm
+H:mm:ss
+MMMM yyyy '
+d/M/yyyy
+d MMM yyyy
+dddd, d MMMM 'de' yyyy
+d MMMM 'de' yyyy
+MMMM 'de' yyyy
+yyyy/M/d
+yyyy-M-d
+yyyy.M.d
+yyyy/MM/dd
+yyyy-MM-dd
+yyyy.MM.dd
+yy/M/d
+yy-M-d
+yy.M.d
+yy/MM/dd
+yyyy'
+yyyy'
+', dddd
+dddd, yyyy'
+yyyy
+MMMd
+yyyy
+MMMd
+, dddd
+tt h:mm
+tt hh:mm
+tt h:mm:ss
+tt hh:mm:ss
+yyyy'
+yyyy'
+'MMM
+yyyy'
+'MMMM
+yyyy.M
+d. MMMM
+dd.MM.yyyy
+d. M. yyyy
+dddd d. MMMM yyyy
+d. MMMM yyyy
+MMMM yyyy
+dd-MM-yyyy
+dd-MM-yy
+yyyy MM dd
+dd.MM.yy
+dd. MMM. yyyy
+dddd, d. MMMM yyyy
+d. MMM. yyyy
+HH:mm' Uhr'
+HH:mm:ss' Uhr'
+d/M/yy
+dd/MMM/yyyy
+dddd, d MMMM yyyy
+d MMMM yyyy
+h:mm tt
+h:mm:ss tt
+MMMM d
+M/d/yyyy
+M/d/yy
+MM/dd/yy
+MM/dd/yyyy
+dd-MMM-yy
+dddd, MMMM d, yyyy
+MMMM d, yyyy
+dddd, d MMMM, yyyy
+d MMMM, yyyy
+d 'de' MMMM
+d/MM/yy
+d-M-yy
+dddd, d' de 'MMMM' de 'yyyy
+dddd d' de 'MMMM' de 'yyyy
+d' de 'MMMM' de 'yyyy
+H.mm
+HH.mm
+HH'H'mm
+H.mm.ss
+HH.mm.ss
+HH'H'mm.ss
+MMMM' de 'yyyy
+d.M.yyyy
+dddd d MMMM yyyy
+d MMM yy
+HH' h 'mm
+HH'h'mm
+dd MMMM yyyy
+dd-MMMM-yyyy
+dd '
+'MMMM yyyy
+dd MMM yy
+dddd dd MMMM yyyy
+dddd dd '
+'MMMM yyyy
+ddd dd '
+'MMMM yyyy
+MMMM d.
+yyyy. MM. dd.
+yyyy. MMM d.
+yyyy. MMMM d., dddd
+yyyy. MMMM d.
+yyyy. MMMM
+d. MMM yyyy
+dd.M.yy
+d-MMM-yy
+yyyy'
+'MM'
+'dd'
+yyyy'
+ 'dddd
+yyyy'
+'MM'
+'dd'
+ 'dddd
+yyyy'
+'MMM'
+yyyy'
+'MMM'
+ 'dddd
+yyyy'
+'MMMMd'
+yyyy'
+'MMMMd'
+ 'dddd
+yyyy'
+'MMM'
+yy-MM-dd
+yyyy'
+' M'
+' d'
+' dddd
+yyyy'
+' M'
+' d'
+' M'
+' d'
+' dddd
+' M'
+' d'
+yyyy'
+' MM'
+' dd'
+' dddd
+yyyy'
+' MM'
+' dd'
+yyyy'
+ 'MMM'
+ 'd'
+ 'dddd
+yyyy'
+ 'MMM'
+ 'd'
+yyyy'
+ 'MMMM d'
+ 'dddd
+yyyy'
+ 'MMMM d'
+yyyy'
+' M'
+yyyy'
+' MMM'
+yyyy'
+' MMMM
+d-M-yyyy
+dd.MMM.yyyy
+HH.mm' uur'
+HH:mm' uur'
+HH.mm.ss' uur'
+HH:mm:ss' uur'
+d.MMMM.
+d.M.yy
+dddd, 'ils' d 'da' MMMM yyyy
+d 'da' MMMM yyyy
+d.M.yyyy.
+d.M.yy.
+d. M. yyyy.
+dd.MM.yyyy.
+d. M. yy.
+dd.MM.yy.
+dd. MM. yy.
+d. MMMM yyyy.
+dd. MMMM yyyy.
+dddd, d. MMMM yyyy.
+'den 'd MMMM
+'den 'd MMMM yyyy
+dddd' den 'd MMMM yyyy
+'kl 'H:mm
+'kl 'H:mm:ss
+dd MMM yyyy
+ddd d MMMM yyyy
+'dddd'
+' d MMMM gg yyyy
+d.MM.yyyy
+d MMMM yyyy dddd
+dd MMMM, yyyy
+dddd, dd MMMM yyyy
+d MMMM yyyy'
+MMMM yyyy'
+MMMM yyyy
+d. MM. yyyy
+dddd, dd. MMMM yyyy
+dd. MMMM yyyy
+H:mm.ss
+yyyy. 'gada' d. MMM
+dddd, yyyy. 'gada' d. MMMM
+yyyy. 'gada' d. MMMM
+yyyy. 'g'. MMMM
+yyyy 'm'. MMMM d 'd'., dddd
+yyyy 'm'. MMMM d 'd'.
+yyyy MMMM
+d MMMM yyyy'
+dd MMMM yyyy'
+d/MM/yyyy
+d/MMM/yyyy
+d-MMM-yyyy
+dd-MMM-yyyy
+ddd, d-MMMM-yyyy
+ddd, dd-MMMM-yyyy
+d MMMM yyyy, dddd
+yyyy MMM d
+yyyy('e')'ko' MMMM d, dddd
+yyyy('e')'ko' MMMM d
+yyyy('e')'ko' MMMM
+H:mm 'hod
+dd.M.yyyy
+MMMM yyyy '
+yyyy MMMM d, dddd
+yyyy MMMM d
+MMM d, yyyy
+d MMM, yyyy
+d 'ta'
+ MMMM
+dddd, d 'ta'
+ MMMM yyyy
+d 'ta'
+ MMMM yyyy
+MMMM 'ta'
+ yyyy
+yyyy, dd-MMM
+d-MMMM
+d-MMM yy
+dd-MMMM yyyy'-
+MMMM yyyy'-
+dd.MM.yy '
+yyyy'-nji
+ 'd'-nji 'MMMM
+yyyy '
+.' MMMM
+dddd, yyyy MMMM dd
+tt hh.mm
+tt h.mm
+tt hh.mm.ss
+tt h.mm.ss
+dd MMMM yyyy dddd
+MMMM dd
+yyyy,MMMM dd, dddd
+MMMM,yy
+MMMM,yyyy
+dddd, yyyy '
+' MM '
+yyyy '
+' MM '
+yyyy'
+' M'
+yyyy'
+' M'
+' d dddd
+yyyy
+ MMM d
+yyyy
+ MMM d dddd
+yyyy'
+' MM '
+' yyyy
+dddd
+ d MMMM gg yyyy
+dddd
+ dd MMMM yyyy
+dddd, MMMM dd,yyyy
+MMMM dd,yyyy
+dddd, MMMM dd, yyyy
+MMMM dd, yyyy
+dd. MMMM
+dd. MMMMyyyy
+dddd,' den 'd. MMMM yyyy
+dddd,' den 'dd. MMMM yyyy
+H.mm' Auer'
+H:mm:ss' Auer'
+HH:mm:ss' Auer'
+MMMM d'.-at'
+MMMM d'.-at, 'yyyy
+dddd
+ dd MMMM
+ yyyy gg
+yyyy'
+' M'
+' d'
+dddd, yyyy'
+' M'
+' d'
+yyyy'
+' M'
+' d'
+', dddd
+yyyy
+ MMM d
+dddd, yyyy
+ MMM d
+yyyy'
+' M'
+yyyy-'
+' d-MMMM
+yyyy-'
+' d-MMMM dddd
+yyyy-'
+' MMM'
+' d'-
+yyyy-'
+' MMM'
+' d'-
+' dddd
+yyyy-M-d dddd
+yyyy-'
+' MMMM
+MMMM d
+yyyy MM d
+dd yyyy MM d
+dddd, yyyy '
+.' MMMM d '
+yyyy '
+.' MMMM d '
+dddd, MMMM d '
+' yyyy '
+yyyy '
+.' MMMM
+d'mh' MMMM
+dddd, d'mh' MMMM yyyy
+d'mh' MMMM yyyy
+dddd yyyy
+MMMd
+dddd
+ dd MMMM
+ yyyy gg
+dd.MMMM.
+dd.MMMM
+MMMM.yyyy
+H.mm' u.'
+yy.MM.dd
+d MMM yyyy '
+dddd, d MMMM yyyy '
+d MMMM yyyy '
+d. M. yy
+H:mm' g
+'zeger 'H:mm
+H:mm:ss' g
+'zeger 'H:mm:ss
+MMMM d'. b.'
+dddd, MMMM d'. b. 'yyyy
+MMMM d'. b. 'yyyy
+h.mm tt
+h.mm.ss tt
+yy MM dd
+dddd', 'MMMM d'. b. 'yyyy
+M/dd/yy
+MMMM-dd-yy
+dd-MMMM
+dddd, d 'de' MMMM 'de' yyyy
+d 'de' MMMM 'de' yyyy
+d. MMM yyyy.
+MMMM yyyy.
+dddd yyyy'
+dddd yyyy MM dd
+d/MMMM
+MMMM/yyyy
+dd. MMM. yyyy.
+dddd, dd. MMMM yyyy.
+MMMM/dd
+dd. MM. yy
+MMMM d'. p. '
+MMMM d'. p. 'yyyy
+MMMM-yyyy
+dd MMM,yyyy
+yyyy-MM-dd.
+dddd dd 'de' MMMM 'de' yyyy
+dd 'de' MMMM 'de' yyyy
+diumenge
+dilluns
+dimarts
+dimecres
+dijous
+divendres
+dissabte
+gener
+febrer
+abril
+maig
+juny
+juliol
+agost
+setembre
+octubre
+novembre
+desembre
+de gener
+de febrer
+de mar
+abril
+de maig
+de juny
+de juliol
+agost
+de setembre
+octubre
+de novembre
+de desembre
+gen.
+febr.
+abr.
+jul.
+set.
+oct.
+nov.
+des.
+pond
+tvrtek
+sobota
+leden
+ezen
+duben
+erven
+ervenec
+srpen
+listopad
+prosinec
+ledna
+nora
+ezna
+dubna
+ervna
+ervence
+srpna
+listopadu
+prosince
+ndag
+mandag
+tirsdag
+onsdag
+torsdag
+fredag
+rdag
+januar
+februar
+marts
+april
+juni
+juli
+august
+september
+oktober
+november
+december
+jan.
+feb.
+mar.
+apr.
+jun.
+aug.
+sep.
+okt.
+dec.
+Sonntag
+Montag
+Dienstag
+Mittwoch
+Donnerstag
+Freitag
+Samstag
+Januar
+Februar
+April
+Juni
+Juli
+August
+September
+Oktober
+November
+Dezember
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+March
+June
+July
+October
+December
+domingo
+lunes
+martes
+rcoles
+jueves
+viernes
+bado
+dom.
+lun.
+jue.
+vie.
+enero
+febrero
+marzo
+mayo
+junio
+julio
+agosto
+septiembre
+noviembre
+diciembre
+ene.
+may.
+ago.
+sept.
+dic.
+sunnuntaina
+maanantaina
+tiistaina
+keskiviikkona
+torstaina
+perjantaina
+lauantaina
+tammikuu
+helmikuu
+maaliskuu
+huhtikuu
+toukokuu
+hein
+elokuu
+syyskuu
+lokakuu
+marraskuu
+joulukuu
+tammikuuta
+helmikuuta
+maaliskuuta
+huhtikuuta
+toukokuuta
+kuuta
+hein
+kuuta
+elokuuta
+syyskuuta
+lokakuuta
+marraskuuta
+joulukuuta
+tammi
+helmi
+maalis
+huhti
+touko
+hein
+syys
+loka
+marras
+joulu
+dimanche
+lundi
+mardi
+mercredi
+jeudi
+vendredi
+samedi
+dim.
+mer.
+jeu.
+ven.
+sam.
+janvier
+vrier
+mars
+avril
+juin
+juillet
+septembre
+octobre
+cembre
+janv.
+avr.
+juil.
+rnap
+kedd
+szerda
+ntek
+szombat
+janu
+febru
+rcius
+prilis
+nius
+lius
+augusztus
+szeptember
+szept.
+sunnudagur
+nudagur
+judagur
+vikudagur
+fimmtudagur
+studagur
+laugardagur
+sun.
+fim.
+lau.
+febr
+vember
+desember
+domenica
+luned
+marted
+mercoled
+gioved
+venerd
+sabato
+gennaio
+febbraio
+aprile
+maggio
+giugno
+luglio
+settembre
+ottobre
+dicembre
+zondag
+maandag
+dinsdag
+woensdag
+donderdag
+vrijdag
+zaterdag
+januari
+februari
+maart
+augustus
+mrt.
+man.
+tir.
+ons.
+tor.
+fre.
+niedziela
+poniedzia
+wtorek
+roda
+czwartek
+niedz.
+pon.
+czw.
+sob.
+stycze
+luty
+marzec
+kwiecie
+czerwiec
+lipiec
+sierpie
+wrzesie
+dziernik
+grudzie
+stycznia
+lutego
+marca
+kwietnia
+maja
+czerwca
+lipca
+sierpnia
+wrze
+dziernika
+listopada
+grudnia
+segunda-feira
+a-feira
+quarta-feira
+quinta-feira
+sexta-feira
+janeiro
+fevereiro
+maio
+junho
+julho
+setembro
+outubro
+novembro
+dezembro
+dumengia
+glindesdi
+mesemna
+gievgia
+venderdi
+sonda
+schaner
+favrer
+avrigl
+matg
+zercladur
+fanadur
+avust
+settember
+october
+schan.
+favr.
+zercl.
+fan.
+sett.
+duminic
+luni
+miercuri
+vineri
+dum.
+mie.
+vin.
+ianuarie
+februarie
+martie
+aprilie
+iunie
+iulie
+septembrie
+octombrie
+noiembrie
+decembrie
+ian.
+iun.
+iul.
+nedjelja
+ponedjeljak
+utorak
+srijeda
+etvrtak
+petak
+subota
+sije
+velja
+ujak
+travanj
+svibanj
+lipanj
+srpanj
+kolovoz
+rujan
+studeni
+prosinac
+sije
+velja
+ujka
+travnja
+svibnja
+lipnja
+srpnja
+kolovoza
+rujna
+studenoga
+prosinca
+velj
+nede
+pondelok
+utorok
+streda
+tvrtok
+piatok
+marec
+janu
+febru
+augusta
+septembra
+novembra
+decembra
+e diel
+e mart
+rkur
+e enjte
+e premte
+e shtun
+Janar
+Shkurt
+Mars
+Prill
+Qershor
+Korrik
+Gusht
+Shtator
+Tetor
+ntor
+Dhjetor
+janar
+shkurt
+prill
+qershor
+korrik
+gusht
+shtator
+tetor
+ntor
+dhjetor
+ndag
+ndag
+tisdag
+rdag
+tors
+augusti
+Pazar
+Pazartesi
+amba
+embe
+Cuma
+Cumartesi
+Ocak
+ubat
+Mart
+Nisan
+Haziran
+Temmuz
+ustos
+Ekim
+Aral
+Minggu
+Senin
+Selasa
+Rabu
+Kamis
+Jumat
+Sabtu
+Januari
+Februari
+Maret
+Agustus
+Desember
+nedelja
+ponedeljek
+torek
+sreda
+etrtek
+petek
+ned.
+sre.
+pet.
+junij
+julij
+avgust
+avg.
+esmasp
+teisip
+kolmap
+neljap
+reede
+laup
+jaanuar
+veebruar
+aprill
+juuni
+juuli
+oktoober
+detsember
+jaan
+veebr
+sept
+dets
+tdiena
+pirmdiena
+otrdiena
+diena
+ceturtdiena
+piektdiena
+sestdiena
+Pirmd.
+Otrd.
+Ceturtd.
+Piektd.
+Sestd.
+janv
+febru
+maijs
+nijs
+lijs
+augusts
+septembris
+oktobris
+novembris
+decembris
+sekmadienis
+pirmadienis
+antradienis
+iadienis
+ketvirtadienis
+penktadienis
+tadienis
+sausis
+vasaris
+kovas
+balandis
+gegu
+elis
+liepa
+rugpj
+rugs
+spalis
+lapkritis
+gruodis
+sausio
+vasario
+kovo
+baland
+gegu
+elio
+liepos
+rugpj
+rugs
+spalio
+lapkri
+gruod
+saus.
+vas.
+kov.
+bal.
+geg.
+liep.
+rugp.
+rugs.
+spal.
+lapkr.
+gruod.
+ Hai
+Th 2
+Th 3
+Th 4
+Th 5
+Th 6
+Th 7
+ng 1
+ng 2
+ng 3
+ng 4
+ng 5
+ng 6
+ng 7
+ng 8
+ng 9
+ng 10
+ng 11
+ng 12
+ng 1
+ng 2
+ng 3
+ng 4
+ng 5
+ng 6
+ng 7
+ng 8
+ng 9
+ng 10
+ng 11
+ng 12
+Thg 1
+Thg 2
+Thg 3
+Thg 4
+Thg 5
+Thg 6
+Thg 7
+Thg 8
+Thg 9
+Thg 10
+Thg 11
+Thg 12
+bazar
+bazar ert
+B.E.
+C.A.
+Yanvar
+Fevral
+Aprel
+Avqust
+Sentyabr
+Oktyabr
+Noyabr
+Dekabr
+yanvar
+fevral
+mart
+aprel
+iyun
+iyul
+avqust
+sentyabr
+oktyabr
+noyabr
+dekabr
+igandea
+astelehena
+asteartea
+asteazkena
+osteguna
+ostirala
+larunbata
+urtarrila
+Otsaila
+Martxoa
+Apirila
+Maiatza
+Ekaina
+Uztaila
+Abuztua
+Iraila
+Urria
+Azaroa
+Abendua
+otsaila
+martxoa
+apirila
+maiatza
+ekaina
+uztaila
+abuztua
+iraila
+urria
+azaroa
+abendua
+urt.
+ots.
+api.
+mai.
+eka.
+uzt.
+abu.
+ira.
+urr.
+aza.
+abe.
+njed
+wutora
+srjeda
+pjatk
+apryl
+meja
+awgust
+nowember
+januara
+februara
+apryla
+meje
+junija
+julija
+awgusta
+oktobra
+nowembra
+Sontaha
+Mmantaha
+Labobedi
+Laboraru
+Labone
+Labohlane
+Moqebelo
+Phesekgong
+Hlakola
+Hlakubele
+Mmese
+Motsheanong
+Phupjane
+Phupu
+Phata
+Leotshe
+Mphalane
+Pundungwane
+Tshitwe
+Sonto
+Musumbhunuku
+Ravumbirhi
+Ravunharhu
+Ravumune
+Ravuntlhanu
+Mugqivela
+Sunguti
+Nyenyenyani
+Nyenyankulu
+Dzivamisoko
+Mudyaxihi
+Khotavuxika
+Mawuwani
+Mhawuri
+Ndzhati
+Nhlangula
+Hukuri
+N'wendzamhala
+Tshipi
+Mosopulogo
+Laboraro
+Labotlhano
+Matlhatso
+Ferikgong
+Tlhakole
+Mopitlo
+Moranang
+Motsheganang
+Seetebosigo
+Phukwi
+Phatwe
+Lwetse
+Diphalane
+Ngwanatsele
+Sedimonthole
+Cawe
+Mvulo
+Lwesibini
+Lwesithathu
+Lwesine
+Lwesihlanu
+Mgqibelo
+Janyuwari
+Februwari
+Matshi
+Epreli
+Meyi
+Julayi
+Agasti
+Septemba
+Okthoba
+Novemba
+Disemba
+ISonto
+UMsombuluko
+ULwesibili
+ULwesithathu
+ULwesine
+ULwesihlanu
+UMgqibelo
+Januwari
+Mashi
+Ephreli
+Septhemba
+UMasingana
+Sondag
+Maandag
+Dinsdag
+Woensdag
+Donderdag
+Vrydag
+Saterdag
+Januarie
+Februarie
+Maart
+Junie
+Julie
+Augustus
+Jan.
+Feb.
+Mrt.
+Apr.
+Jun.
+Jul.
+Aug.
+Sep.
+Okt.
+Nov.
+Des.
+nadagur
+sdagur
+mikudagur
+sdagur
+ggjadagur
+leygardagur
+It-Tnejn
+It-Tlieta
+L-Erbg
+amis
+Is-Sibt
+Jannar
+Frar
+Marzu
+Mejju
+unju
+Lulju
+Awwissu
+Settembru
+Ottubru
+Novembru
+embru
+sotnabeaivi
+vuoss
+gaskavahkku
+duorasdat
+bearjadat
+vvardat
+sotn
+vuos
+gask
+duor
+bear
+ajagem
+guovvam
+njuk
+miessem
+geassem
+suoidnem
+borgem
+golggotm
+bmam
+juovlam
+guov
+njuk
+mies
+geas
+suoi
+borg
+golg
+juov
+ Domhnaigh
+ Luain
+adaoin
+ardaoin
+ hAoine
+ Sathairn
+Domh
+Luan
+Aoine
+Sath
+Feabhra
+Aibre
+Bealtaine
+Meitheamh
+nasa
+mhair
+Deireadh F
+mhair
+Samhain
+Nollaig
+Feabh
+Beal
+Meith
+Samh
+Noll
+Ahad
+Isnin
+Khamis
+Jumaat
+Julai
+Ogos
+Disember
+Jumapili
+Jumatatu
+Jumanne
+Jumatano
+Alhamisi
+Ijumaa
+Jumamosi
+Machi
+Aprili
+Agosti
+Oktoba
+Desemba
+enbe
+enbe
+enbe
+enbe
+enbe
+anna
+enbe
+anwar
+fewral
+sent
+yakshanba
+dushanba
+seshanba
+chorshanba
+payshanba
+juma
+shanba
+Dush
+Sesh
+Chor
+Shan
+Iyun
+Iyul
+Avgust
+Sentabr
+Oktabr
+sentabr
+oktabr
+Dydd Sul
+Dydd Llun
+Dydd Mawrth
+Dydd Mercher
+Dydd Iau
+Dydd Gwener
+Dydd Sadwrn
+Llun
+Ionawr
+Chwefror
+Mawrth
+Ebrill
+Mehefin
+Gorffennaf
+Awst
+Medi
+Hydref
+Tachwedd
+Rhagfyr
+Tach
+Rhag
+luns
+rcores
+xoves
+venres
+Dom.
+Luns
+Mar.
+Xov.
+Ven.
+Xaneiro
+Febreiro
+Marzo
+Abril
+Maio
+Xullo
+Agosto
+Setembro
+Outubro
+Novembro
+Decembro
+xaneiro
+febreiro
+xullo
+decembro
+Xan.
+Abr.
+Xul.
+Ago.
+Set.
+Out.
+Dec.
+Asamas
+Aynas
+Asinas
+Akras
+Akwas
+Asimwas
+Yennayer
+Yebrayer
+Ibrir
+Mayyu
+Yunyu
+Yulyuz
+Cutanbir
+uber
+Nwanbir
+Dujanbir
+snein
+moandei
+tiisdei
+woansdei
+tongersdei
+freed
+sneon
+Jannewaris
+Febrewaris
+Maaie
+Juny
+Septimber
+Novimber
+Desimber
+Linggo
+Lunes
+Martes
+Miyerkules
+Huwebes
+Biyernes
+Sabado
+Enero
+Pebrero
+Marso
+Mayo
+Hunyo
+Hulyo
+Setyembre
+Oktubre
+Nobyembre
+Disyembre
+dewo
+mawbaare
+njeslaare
+naasaande
+mawnde
+hoore-biir
+siilo
+colte
+mbooy
+duujal
+korse
+morso
+juko
+siilto
+yarkomaa
+jolal
+bowte
+Lahadi
+Litinin
+Talata
+Laraba
+Alhamis
+Jumma
+Asabar
+Janairu
+Faburairu
+Maris
+Afirilu
+Mayu
+Yuni
+Yuli
+Agusta
+Satumba
+Nuwamba
+Disamba
+bibi
+ Owewe
+bibi
+Owewe
+Sontaga
+Mosupalogo
+Labohlano
+Mokibelo
+Janaware
+Feberware
+Aporele
+Julae
+Agostose
+Setemere
+Oktobore
+Nofemere
+Disemere
+Sonndeg
+indeg
+nschdeg
+ttwoch
+Donneschdeg
+Freideg
+Samschdeg
+sabaat
+ataasinngorneq
+marlunngorneq
+pingasunngorneq
+sisamanngorneq
+tallimanngorneq
+arfininngorneq
+martsi
+aprili
+maji
+augustusi
+septemberi
+oktoberi
+novemberi
+decemberi
+Tiuzdee
+Wenezdee
+zdee
+Febr
+Maach
+Eprel
+Juun
+Jula
+ktoba
+Dilbata
+Wiixata
+Qibxata
+Roobii
+Kamiisa
+Jimaata
+Sanbata
+Amajjii
+Guraandhala
+Bitooteessa
+Elba
+Caamsa
+Waxabajjii
+Adooleessa
+Hagayya
+Fuulbana
+Onkololeessa
+Sadaasa
+Muddee
+pule
+akahi
+alua
+akolu
+alima
+aono
+Ianuali
+Pepeluali
+Malaki
+Apelila
+Iune
+Iulai
+Aukake
+Kepakemapa
+Okakopa
+Nowemapa
+Kekemapa
+Ian.
+Pep.
+Mal.
+Iun.
+Iul.
+Kep.
+Now.
+Kek.
+Axad
+Isniin
+Talaado
+Arbaco
+Khamiis
+Jimco
+Sabti
+Bisha Koobaad
+Bisha Labaad
+Bisha Saddexaad
+Bisha Afraad
+Bisha Shanaad
+Bisha Lixaad
+Bisha Todobaad
+Bisha Sideedaad
+Bisha Sagaalaad
+Bisha Tobnaad
+Bisha Kow iyo Tobnaad
+Bisha Laba iyo Tobnaad
+Meurzh
+Merc
+Yaou
+Gwener
+Sadorn
+Meu.
+Mer.
+Gwe.
+Sad.
+Genver
+hwevrer
+Ebrel
+Mezheven
+Gouere
+Eost
+Gwengolo
+Here
+Kerzu
+Gen.
+hwe.
+Meur.
+Ebr.
+Mezh.
+Goue.
+Gwen.
+Ker.
+Sunntig
+ntig
+Ziischtig
+Mittwuch
+Dunschtig
+Friitig
+Samschtig
+Auguscht
+Sept
+mber
+Oktoober
+mber
+mber
+Ku cyumweru
+Kuwa mbere
+Kuwa kabiri
+Kuwa gatatu
+Kuwa kane
+Kuwa gatanu
+Kuwa gatandatu
+cyu.
+mbe.
+kab.
+gtu.
+kan.
+gnu.
+gnd.
+Mutarama
+Gashyantare
+Werurwe
+Mata
+Gicuransi
+Kamena
+Nyakanga
+Kanama
+Nzeli
+Ukwakira
+Ugushyingo
+Ukuboza
+mut.
+gas.
+wer.
+mat.
+gic.
+kam.
+nya.
+nze.
+ukw.
+ugu.
+uku.
+mhnaich
+DiLuain
+DiCiadain
+DiarDaoin
+DihAoine
+DiSathairne
+Am Faoilleach
+An Gearran
+Am M
+An Giblean
+An C
+itean
+An t-
+gmhios
+An t-Iuchar
+An L
+nastal
+An t-Sultain
+An D
+mhair
+An t-Samhain
+An D
+bhlachd
+dhen Fhaoilleach
+dhen Ghearran
+dhen Mh
+dhen Ghiblean
+dhen Ch
+itean
+dhen
+gmhios
+dhen Iuchar
+dhen L
+nastal
+dhen t-Sultain
+dhen D
+mhair
+dhen t-Samhain
+dhen D
+bhlachd
+Faoi
+Gearr
+Gibl
+Iuch
+Sult
+tysdag
+laurdag
+segunda
+quarta
+quinta
+sexta
+tora
+srjoda
+nner
+Sun.
+Mon.
+Tue.
+Wed.
+Thu.
+Fri.
+Sat.
+Oct.
+juill.
+vuoss
+rgga
+rgga
+gaskavahku
+duorastaga
+bearjadaga
+vvardaga
+septembar
+oktobar
+novembar
+decembar
+ponedeljak
+sub.
+pasepeeivi
+vuossaarg
+majebaarg
+koskoho
+tuor
+stuv
+stuppeeivi
+vurduv
+ivem
+kuov
+njuh
+vyesim
+kesim
+syeinim
+porgem
+roovv
+skamm
+juovl
+kuov
+njuh
+vyesi
+kesi
+syeini
+porge
+roovv
+skamm
+juovl
+Febrero
+Junio
+Julio
+Setiembre
+Octubre
+Noviembre
+Diciembre
+setiembre
+Ene.
+May.
+Dic.
+jui.
+calendari gregori
+Gregori
+ kalend
+gregoriansk kalender
+Gregorianischer Kalender
+Gregorian Calendar
+calendario gregoriano
+gregoriaaninen kalenteri
+calendrier gr
+gorien
+Gergely-napt
+Gregor
+skt dagatal
+Calendario gregoriano
+Gregoriaanse kalender
+kalendarz gregoria
+Calend
+rio Gregoriano
+chalender gregorian
+calendar gregorian
+gregorijanski kalendar
+gregori
+nsky kalend
+kalendar gregorian
+Miladi Takvim
+Kalender Gregorian
+gregorijanski koledar
+Gregoriuse kalender
+Gregora kalend
+Grigaliaus kalendorius
+ch Gregory
+Qreqorian T
+qvimi
+Egutegi gregoriarra
+gregorianska protyka
+ikhalenda lesi-Gregorian
+Gregoriese kalender
+gregorianskur kalendari
+Kalendarju Gregorjan
+gregoria kaleander
+ilire Ghr
+Kalendar Gregory
+Kalenda ya Kigregori
+Gregor
+an senenamasy
+grigorian taqvimi
+Calendr Gregori
+Gregoriaanske kalinder
+Gregorian na Kalendaryo
+Gregorianesche Kalenner
+gregorianskit ullorsiutaat
+deiziadur gregorian
+Gregoriaanisch Kal
+nder
+Am M
+osachan Griogarach
+Calend
+rio gregoriano
+gregoria
+ski kalender
+gregoriala
+ kalendar
+SocketAddress
+System.Net
+LingerOption
+System.Net.Sockets
+lingerTime
+m_Numbers
+m_Interface
+m_Group
+m_Address
+localAddress
+Unity IL2CPP (Jul  6 2021 19:18:45)
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\Mono\Runtime.cpp(21) : Unsupported internal call for IL2CPP:Runtime::mono_runtime_install_handlers - "This method appears to never be called."
+System.Diagnostics
+StackTrace
+StackFrame
+version
+file://%s/%s.dll
+Resources
+-resources.dat
+Version
+PublicKeyToken
+neutral
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System.Reflection\CustomAttributeData.cpp(17) : Unsupported internal call for IL2CPP:CustomAttributeData::ResolveArgumentsInternal - "IL2CPP does not support inspection of attribute constructor arguments at run time."
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System.Reflection\MemberInfo.cpp(52) : Unsupported internal call for IL2CPP:MemberInfo::get_MetadataToken - "This icall is not supported by il2cpp."
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System.Reflection\MethodBase.cpp(60) : Unsupported internal call for IL2CPP:MethodBase::GetMethodBodyInternal - "This icall is not supported by il2cpp."
+00000000-0000-0000-0000-000000000000
+Attempting to get raw constant value for field of type %d
+System.Runtime.InteropServices
+.ctor
+Non-static method requires a target
+Failed to construct generic method '
+' with generic arguments [
+] at runtime.
+The method '
+' is not a generic method.
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System.Reflection\MonoPropertyInfo.cpp(48) : Unsupported internal call for IL2CPP:MonoPropertyInfo::GetTypeModifiers - "This icall is not supported by il2cpp."
+Cannot initialize array containing references
+array
+Field doesn't have an RVA
+field_handle
+Object contains non-primitive or non-blittable data.
+structureType
+No parameterless constructor defined for this object.
+Cannot dynamically create an instance of System.Void.
+The specified object must not be an instance of a generic type.
+structure
+The specified structure must be blittable or have layout information.
+The specified structure must be an instance of a formattable class.
+The t parameter is a generic type.
+Type '%s' cannot be marshaled as an unmanaged structure; no meaningful size or offset can be computed.
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System.Runtime.Remoting.Activation\ActivationServices.cpp(27) : Unsupported internal call for IL2CPP:ActivationServices::EnableProxyActivation - System.Runtime.Remoting is not supported.
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System.Runtime.Remoting.Proxies\RealProxy.cpp(21) : Unsupported internal call for IL2CPP:RealProxy::InternalGetTransparentProxy - System.Runtime.Remoting is not supported.
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System.Runtime.Remoting.Proxies\RealProxy.cpp(27) : Unsupported internal call for IL2CPP:RealProxy::InternalGetProxyType - System.Runtime.Remoting is not supported.
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System.Runtime.Remoting\RemotingServices.cpp(19) : Unsupported internal call for IL2CPP:RemotingServices::GetVirtualMethod - System.Runtime.Remoting is not supported.
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System.Runtime.Remoting\RemotingServices.cpp(25) : Unsupported internal call for IL2CPP:RemotingServices::InternalExecute - System.Runtime.Remoting is not supported.
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System.Security.Principal\WindowsImpersonationContext.cpp(20) : Unsupported internal call for IL2CPP:WindowsImpersonationContext::CloseToken - "This icall is not supported by il2cpp."
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System.Security.Principal\WindowsImpersonationContext.cpp(27) : Unsupported internal call for IL2CPP:WindowsImpersonationContext::DuplicateToken - "This icall is not supported by il2cpp."
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System.Security.Principal\WindowsImpersonationContext.cpp(34) : Unsupported internal call for IL2CPP:WindowsImpersonationContext::SetCurrentToken - "This icall is not supported by il2cpp."
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System.Security.Principal\WindowsImpersonationContext.cpp(41) : Unsupported internal call for IL2CPP:WindowsImpersonationContext::RevertToSelf - "This icall is not supported by il2cpp."
+lockTaken must be false
+lockTaken
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System.Threading\NativeEventCalls.cpp(40) : Unsupported internal call for IL2CPP:NativeEventCalls::CreateEvent_internal - "Named events are not supported."
+Thread has not been started.
+Thread name can only be set once.
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System\AppDomain.cpp(106) : Unsupported internal call for IL2CPP:AppDomain::InternalGetProcessGuid - "This icall is only used in System.Runtime.Remoting.RemotingConfiguraiton.ProcessId."
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System\AppDomain.cpp(113) : Unsupported internal call for IL2CPP:AppDomain::InternalPopDomainRef - "This icall is only used in the System.Runtime.Remoting namespace."
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System\AppDomain.cpp(123) : Unsupported internal call for IL2CPP:AppDomain::InternalPushDomainRefByID - "This icall is only used in the System.Runtime.Remoting namespace."
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System\AppDomain.cpp(128) : Unsupported internal call for IL2CPP:AppDomain::InternalSetContext - "This icall is only used in the System.Runtime.Remoting namespace."
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System\AppDomain.cpp(135) : Unsupported internal call for IL2CPP:AppDomain::InternalSetDomain - "This icall is only used in the System.Runtime.Remoting namespace."
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System\AppDomain.cpp(142) : Unsupported internal call for IL2CPP:AppDomain::InternalSetDomainByID - "This icall is only used in the System.Runtime.Remoting namespace."
+Unable to create an array of type '
+'. IL2CPP needs to know about the array type at compile time, so please define a private static field like this:
+private static
+[] _unused;
+in any MonoBehaviour class, and this exception should go away.
+At least one element in the source array could not be cast down to the destination array type.
+indices
+idxs
+not a widening conversion
+dest
+data
+names
+enumType
+Type must be a type provided by the runtime.
+machine.config
+mono
+ConstructorInfo
+System.Reflection
+.cctor
+The type
+ is not struct
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\icalls\mscorlib\System\String.cpp(23) : Unsupported internal call for IL2CPP:String::RedirectToCreateString - "All String constructors should be redirected to String.CreateString."
+Invalid type name
+typeName
+ has too many dimensions.
+ with rank
+Could not create array type '
+System
+TypedReference
+[]'.
+Failed to construct generic type '
+field
+that
+UnityEngine.SharedInternalsModule.dll
+UnityEngine.TerrainModule.dll
+UnityEngine.ParticleSystemModule.dll
+UnityEngine.Physics2DModule.dll
+UnityEngine.XRModule.dll
+UnityEngine.TextRenderingModule.dll
+ n;^
+Qkkbal
+i]Wb
+9a&g
+MGiI
+wn>Jj
+#.zf
++o*7
+Z* ,
+H$6t
+52F*
+        #jT$
+^6o}
+[-&LMb#{'
+w+OQvr
+R1h58
+SKyu
+)\ZEo^m/
+ru&o
+i8P/
+?(3w
+H*0"ZOW
+{kHw
+)T`D
+!AxU
+l!;b    F
+:1X:
+y9*O
+kM`~
+Vc0a
+dQy/
+lDa>
+7~8A
+C-Yn
+gqr<
+$/o|
+f-=v
+mj>zjZ
+l6qnk
+IiGM>nw
+1A26b
+i91k
+ewh/?y
+*5KS
+6~_'
+F*.f
+1wsHp
+M8MF
+Pe6^
+#bML"
+`F(>
+vQO+t
+[h1R
+XsBI
+hPU3
+^oEZ_
+2%k_
+w3Xc
+/P8i
+OZw3(?
+Z"0*
+fP~V
+^GP~
+b;!l
+V_:X1:
+NJ2"v
+O*9y]
+fu`z
+/yQA
+&]|v
+NorthwoodLib.dll
+UnityEngine.InputLegacyModule.dll
+UnityEngine.ImageConversion::LoadImage(UnityEngine.Texture2D,System.Byte[],System.Boolean)
+UnityEngine.TilemapModule.dll
+UnityEngine.VideoModule.dll
+System.Memory.dll
+UnityEngine.ScreenCapture::CaptureScreenshot(System.String,System.Int32,UnityEngine.ScreenCapture/StereoScreenCaptureMode)
+need dictionary
+stream end
+file error
+stream error
+data error
+insufficient memory
+buffer error
+incompatible version
+UnityEngine.SubsystemsModule.dll
+UnityEngine.UnityAnalyticsModule.dll
+System.Buffers.dll
+Arithmetic operation resulted in an overflow.
+Attempting to call method '%s' for which no ahead of time (AOT) code was generated.
+.dll
+.exe
+, Version=
+%d%s
+, Culture=
+, PublicKeyToken=
+, Retargetable=Yes
+WindowsRuntimeMetadata
+, ContentType=WindowsRuntime
+IL2CPP Root Domain
+Could not load type '
+The field '
+' in type '
+' has a type which was not generated by il2cpp.exe. Consider using a generic type which is not nested so deeply.
+' because generic types cannot have explicit layout.
+GetHashCode
+Finalize
+The number of generic arguments provided doesn't equal the arity of the generic type definition.
+' failed.
+' on type '
+Attempt to access method '
+Context
+System.Runtime.Remoting.Contexts
+value__
+NotImplementedException
+OperationCanceledException
+ObjectDisposedException
+Unspecified error
+COMException
+Operation is not supported on this platform.
+Exception
+ArgumentException
+ArgumentNullException
+ArgumentOutOfRangeException
+TypeInitializationException
+InvalidCastException
+IndexOutOfRangeException
+NullReferenceException
+TypeLoadException
+, Culture=neutral, PublicKeyToken=
+' from assembly '
+Could not find Windows Runtime type '
+The provided identity format is not recognized. (Exception from HRESULT: 0x80132003)
+OutOfMemoryException
+OverflowException
+SystemException
+NotSupportedException
+ArrayTypeMismatchException
+EntryPointNotFoundException
+DllNotFoundException
+InvalidOperationException
+ThreadInterruptedException
+ThreadAbortException
+ThreadStateException
+SynchronizationLockException
+MissingMethodException
+MarshalDirectiveException
+TargetException
+ExecutionEngineException
+MethodAccessException
+UnauthorizedAccessException
+IL2CPP encountered a managed type which it cannot convert ahead-of-time. The type uses generic or array types which are nested beyond the maximum depth which can be converted.
+DivideByZeroException
+PlatformNotSupportedException
+FileLoadException
+System.IO
+FileNotFoundException
+Type
+Assembly
+<Module>
+global-metadata.dat
+Metadata
+ERROR: Could not open %s
+Object is not locked.
+Object has not been locked by this thread.
+Nullable`1
+__InternalDynamic
+IL2CPP does not support marshaling delegates that point to instance methods to native code. The method we're attempting to marshal is:
+': Generic types cannot be marshaled.
+' parameter '
+Cannot marshal method '
+To marshal a managed method, please add an attribute named 'MonoPInvokeCallback' to the method definition. The method we're attempting to marshal is:
+Type must derive from Delegate.
+The specified Type must not be a generic type definition.
+Cannot marshal P/Invoke call through delegate of type '%s.%s'
+Windows.Foundation
+IReference`1
+IReferenceArray`1
+System.Collections.Generic
+KeyValuePair`2
+MonoField
+MonoCMethod
+MonoMethod
+MonoModule
+MonoProperty
+MonoEvent
+Value
+Missing
+MonoGenericMethod
+MonoGenericCMethod
+Empty
+Object
+Void
+Boolean
+Byte
+SByte
+Int16
+UInt16
+Int32
+UInt32
+UIntPtr
+IntPtr
+Int64
+UInt64
+Single
+Double
+Char
+String
+Enum
+Array
+Delegate
+MulticastDelegate
+AsyncResult
+System.Runtime.Remoting.Messaging
+MonoAsyncCall
+ManualResetEvent
+MonoType
+Thread
+InternalThread
+RuntimeType
+AppDomain
+AppDomainSetup
+FieldInfo
+MethodInfo
+PropertyInfo
+EventInfo
+MonoEventInfo
+StringBuilder
+System.Text
+IList`1
+ICollection`1
+IEnumerable`1
+IReadOnlyList`1
+IReadOnlyCollection`1
+CultureInfo
+AssemblyName
+MonoAssembly
+MonoMethodInfo
+MonoPropertyInfo
+ParameterInfo
+MonoParameterInfo
+Module
+Pointer
+MarshalByRefObject
+__Il2CppComObject
+SafeHandle
+SortKey
+DBNull
+ErrorWrapper
+Attribute
+CustomAttributeData
+ValueType
+Guid
+_ThreadPoolWaitCallback
+MonoMethodMessage
+PerformWaitCallback
+SByteEnum
+Int16Enum
+Int32Enum
+Int64Enum
+ByteEnum
+UInt16Enum
+UInt32Enum
+UInt64Enum
+IKeyValuePair`2
+Windows.Foundation.Collections
+IUriRuntimeClass
+MONO_REFLECTION_SERIALIZER
+MONO_XMLSERIALIZER_THS
+.config
+Invoke
+UnhandledException
+The type initializer for '%s' threw an exception.
+UnhandledExceptionEventArgs
+publickey
+publickeytoken
+culture
+contenttype
+windowsruntime
+windowsruntimemetadata
+DateTime
+Decimal
+Handle
+safeWaitHandle
+list too long
+CommandSystem.Core.dll
+Mirror.Authenticators.dll
+UnityEngine.VFXModule.dll
+UnityEngine.InputModule.dll
+UnityEngine.UnityWebRequestTextureModule.dll
+atomic
+uncollectable
+composite
+object at %p of appr. %lu bytes (%s)
+Insufficient memory for black list
+%lu bytes in heap blacklisted for interior pointers
+No client gcj mark proc is specified
+GC_IGNORE_GCJ_INFO
+Gcj-style type information is disabled!
+GC_init_gcj_malloc: bad index
+GC Warning: Out of memory - trying to allocate requested amount (%ld bytes)...
+Insufficient memory for GC_all_nils
+Adding block map for size of %u granules (%u bytes)
+Free list %u (total size %lu):
+start
+partially
+        %p size %lu %s black listed
+GC_large_free_bytes: %lu
+GC_large_free_bytes INCONSISTENT!! Should be: %lu
+GC Warning: Header allocation failed: dropping block
+GC Warning: Repeated allocation of very large block (appr. size %ld):
+        May lead to memory leak and poor performance
+Deallocating excessively large block.  Too large an allocation?
+Duplicate large block deallocation of %p
+Duplicate large block deallocation
+Abandoning stopped marking after %llu nanoseconds (attempt %d)
+***>Full mark for collection #%lu after %lu allocd bytes
+GC_try_to_collect_inner: finishing collection in progress
+Initiating full world-stop collection!
+Complete collection took %lu msecs
+--> Marking for collection #%lu after %lu allocated bytes
+Abandoned stopped marking after %u iterations
+GC #%lu freed %ld bytes, heap %lu KiB (+ %lu KiB unmapped)
+World-stopped marking took %lu msecs (%u in average)
+Back height not available: Rebuild collector with -DMAKE_BACK_GRAPH
+Bytes recovered before sweep - f.l. count = %ld
+In-use heap: %d%% (%lu KiB pointers + %lu KiB other)
+Immediately reclaimed %ld bytes, heapsize: %lu bytes (%lu unmapped)
+Finalize plus initiate sweep took %lu + %lu msecs
+Too many heap sections: Increase MAXHINCR or MAX_HEAP_SECTS
+Total heap size: %lu (%lu unmapped)
+Section %d from %p to %p %u/%lu blacklisted
+GC Warning: Failed to expand heap by %ld bytes
+Grow heap to %lu KiB after %lu bytes allocated
+GC Warning: Out of Memory!  Trying to continue...
+GC Warning: Out of Memory! Heap size: %ld MiB. Returning NULL!
+Memory available again...
+Insufficient space for initial table allocation
+Grew %s table to %u entries
+Bad arg to GC_general_register_disappearing_link
+Bad toggle-ref status returned by callback
+Grew fo table to %u entries
+GC Warning: Finalization cycle involving %p
+%lu finalization entries; %lu/%lu short/long disappearing links alive
+%lu finalization-ready objects; %ld/%ld short/long links cleared
+Unexpected state
+Marked from %lu dirty pages
+GC_mark_some: bad state
+GC Warning: Caught ACCESS_VIOLATION in marker; memory mapping disappeared
+Mark stack overflow; current size = %lu entries
+Recycle %lu/%lu scratch-allocated bytes at %p
+Grew mark stack to %lu frames
+GC Warning: Failed to grow mark stack to %ld frames
+No space for mark stack
+Unexpected mark stack overflow
+Dirty bits not set up
+ (temporary)
+From %p to %p%s
+GC_root_size: %lu
+GC_root_size incorrect!! Should be: %lu
+Too many root sets
+Exclusion ranges overlap
+Too many exclusions
+Found %u leaked objects:
+GC_ABORT_ON_LEAK
+Leaked or smashed objects encountered
+%u,%u,%u!=%u,%u
+%u,%u,%u,%u
+kind(0=ptrfree,1=normal,2=unc.),size_in_bytes,#_marks_set,#objs
+blocks= %lu, bytes= %lu
+Disposing of reclaim lists took %lu msecs
+Bad complex descriptor
+Bad mark_stack_ptr
+InitializeCriticalSectionAndSpinCount
+GC_PRINT_VERBOSE_STATS
+GC_PRINT_STATS
+GC_DUMP_REGULARLY
+GC_FIND_LEAK
+GC_FINDLEAK_DELAY_FREE
+GC_ALL_INTERIOR_POINTERS
+GC_DONT_GC
+GC_PRINT_BACK_HEIGHT
+GC_NO_BLACKLIST_WARNING
+GC_TRACE
+GC Warning: Tracing not enabled: Ignoring GC_TRACE value
+GC_PAUSE_TIME_TARGET
+GC Warning: GC_PAUSE_TIME_TARGET environment variable value too small or bad syntax: Ignoring
+GC_FULL_FREQUENCY
+GC_LARGE_ALLOC_WARN_INTERVAL
+GC Warning: GC_LARGE_ALLOC_WARN_INTERVAL environment variable has bad value: Ignoring
+GC_FREE_SPACE_DIVISOR
+GC_UNMAP_THRESHOLD
+GC_FORCE_UNMAP_ON_GCOLLECT
+GC_USE_ENTIRE_HEAP
+GC_ENABLE_INCREMENTAL
+GC_INITIAL_HEAP_SIZE
+GC Warning: Bad initial heap size %s - ignoring it.
+GC_MAXIMUM_HEAP_SIZE
+GC Warning: Bad maximum heap size %s - ignoring it.
+Can't start up: not enough memory
+GC_DISABLE_INCREMENTAL
+GC_printf clobbered stack
+write to stdout failed
+write to GC log failed
+Fatal error in GC
+GC_LOOP_ON_ABORT
+Failed to allocate freelist for new kind
+Too many kinds
+Too many mark procedures
+***GC Dump %s
+***GC Dump collection #%lu
+Time since GC init: %lu msecs
+***Static roots:
+***Heap sections:
+***Free blocks:
+***Blocks in use:
+Weird VirtualQuery result
+GC_get_stack_base failed
+Found new system malloc AllocationBase at %p
+Bad VirtualAlloc result
+Too many heap sections
+VirtualFree failed
+Not enough memory to process remapping
+VirtualAlloc remapping failed
+Initializing MANUAL_VDB...
+Bad stack base in GC_register_my_thread
+Failed to allocate memory for thread registering
+DuplicateHandle failed: errcode= 0x%X
+DuplicateHandle failed
+Threads explicit registering is not previously enabled
+ResumeThread failed
+SuspendThread loop failed
+GC_stop_world() called before GC_thr_init()
+GC Warning: Thread stack pointer %p out of range, pushing everything
+Pushed %d thread stacks%s
+Collecting from unknown thread
+UnityEngine.UnityWebRequestAudioModule.dll
+UnityEngine.VRModule.dll
+Address
+InternalArray__
+InternalArray__ICollection_
+System.Collections.Generic.ICollection`1.%s
+InternalArray__IEnumerable_
+System.Collections.Generic.IEnumerable`1.%s
+InternalArray__IReadOnlyList_
+System.Collections.Generic.IReadOnlyList`1.%s
+InternalArray__IReadOnlyCollection_
+System.Collections.Generic.IReadOnlyCollection`1.%s
+System.Collections.Generic.IList`1.%s
+UnityEngine.AIModule.dll
+Unable to cast object of type '
+' to type '
+[libil2cpp]
+Data
+System.Runtime.CompilerServices.Unsafe.dll
+UnityEngine.DirectorModule.dll
+UnityEngine.ScreenCaptureModule.dll
+UnityEngine.ImageConversionModule.dll
+UnityEngine.GridModule.dll
+IL2CPP Threadpool worker
+127.0.0.1
+ThreadPool
+UnsafeQueueCustomWorkItem
+Cannot call EndInvoke() repeatedly or concurrently on the same AsyncResult!
+C:\Program Files\Unity\Hub\Editor\2019.4.16f1\Editor\Data\il2cpp\libil2cpp\gc\GCHandle.cpp(183) : Unsupported internal call for IL2CPP:GCHandle::NewWeakref - "IL2CPP does not support resurrection for weak references. Pass the trackResurrection with a value of false."
+GC Finalizer
+SymbolMap
+UnityEngine.TerrainPhysicsModule.dll
+System.Globalization.Extensions.dll
+System.Text.RegularExpressions.dll
+System.Diagnostics.StackTrace.dll
+UnityEngine.AssetBundleModule.dll
+System.Runtime.Extensions.dll
+System.Diagnostics.Debug.dll
+System.Threading.Tasks.dll
+System.Net.Primitives.dll
+System.Globalization.dll
+System.Collections.dll
+System.Threading.dll
+System.Runtime.dll
+netstandard.dll
+System.Linq.dll
+UnityEngine.dll
+Cannot marshal field 'clutterComponent' of type 'ClutterStruct': Reference type field marshaling is not supported.
+Cannot marshal field 'sound' of type 'UsableItem': Reference type field marshaling is not supported.
+G(knN(kn
+SleepConditionVariableCS
+WakeAllConditionVariable
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+cross device link
+destination address required
+device or resource busy
+directory not empty
+executable format error
+file exists
+file too large
+filename too long
+function not supported
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid argument
+invalid seek
+io error
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no lock available
+no message available
+no message
+no protocol option
+no space on device
+no stream resources
+no such device or address
+no such device
+no such file or directory
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not enough memory
+not supported
+operation canceled
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+permission denied
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+resource unavailable try again
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many files open
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+unknown error
+0123456789abcdefghijklmnopqrstuvwxyz
+
+0123456789abcdefghijklmnopqrstuvwxyz
+bad exception
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__swift_1
+__swift_2
+__ptr64
+__restrict
+__unaligned
+restrict(
+ new
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`RTTI
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator ""
+operator co_await
+operator<=>
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+`anonymous namespace'
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+fmodf
+?UUUUUU
+?UUUUUU
+?1cb
+=1cb
+ujGs?
+AUUUUUU
+?1cb
+UUUUUU
+C.V@
+?UUUUUU
+TUUUU
+#Ib?
+3 FB
+Ok!\
+?7{KV
+?+>^m
+EiUL
+?lZE
+?kxG2)
+?TY,>5
+?&l|
+?!5WOo
+?E=$% B
+?%<q
+@p^_
+?49HoKC
+?\/k
+3?tr
+&P?z
+[&-*
+fmod
+acos
+2]fQ    ?5!
+&~){
+@sqrt
+UUUUUU
+acosf
+UUUUUU
+sqrtf
+?UUUUUU
+?UUUUUU
+?UUUUUU
+?JV8f
+?JV8f
+]-?Z8
+?1cb
+?=+!
+?y2@
+?m.t
+?6W
+8+V=
+W 7x
+?2}l
+S^>#/
+BC1%M
+?id7
+        ;ud
+?U[y[
+3+5<t
+?`B$
+#9fm
+?W(~N
+?3Fx
+?^1]
+?Ji@9
+lWi]
+UUUU
+?8UUUUU
+H>p&
+k>4     F
+Q>.3Z<
+p>.G1
+?t_v>
+I;u>A
+*Bw>
+{&1q>
+P|> ,o
+@Ao>
+!oi
+Cy2@K>
+c>F2
+p>Y3
+q>F,3
+fGa>
+rNm>)
+`>n>w%
+jeTb
+Wak>E
+|>fj;
+^W>;
+7yp>
+11UT
+E|@]
+}=H>
+ZSq>
+A`1w>
+)/o>
+IW`>
+9g>@3
+z>@G'h
+_W>6
+mO-B
+        JR>8o
+M'y>0y
+>rm~
+c><m
+!B>\
+>vR%
+GrJoq>@
+>8'3
+z>h4
+/so>
+>0K>
+{]a>
+J `>,
+yE>cb
+?UUUUUU
+?UUUUUU
+?UUUUUU
+?UUUUUU
+UUUUUU
+UUUUUU
+TUUUU
+#Ib?
+UUUUUU
+UUUUUU
+TUUUU
+#Ib?
+(null)
+CorExitProcess
+d8L2
+[aOni*{
+@2&@
+"RP(
+eLK(w
+FEMh
+h0'D
+owM&
+~ $s%r
+@b;zO]
+$qE}
+;*xh
+["93
+iu+-,
+\lo}
+obwQ4
+&Sgw
+R       E]
+?nz(
+=87M
+v2!L.2
+        cQr
+X/4B
+k=yI
+^<V7w
+W&|.
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+asin
+cosh
+UUUUUU
+UUUUUU
+"e?<<<<<<l?
+)a?8
+xT?V
+m?H7
+`+!]?
+l@6
+b?^Cy
+_:n?
+j?V()
+]|^?
+Il?333333c?
+,?%[
+:i/?
+o?GS
+c?S&
+.i?0@I
+d?000000`?
+\$gm?
+Tg?/
++[?F
+P?:E
+hb:?
+)|B?d!
+n]?iJ
+h?oT
+L?UUUUUUU?
+e?:*
+o?@Q
+WaNd?
+j?{$*
+&?PPPPPPP?
+FfW?
+H+c?
+0X8b?~
+%GoU?*
+`?&
+(T?j?Y
+%9b?
+%`a?
+fa?'
+$Ib?s
+..om?
+T$@E
+n?gc
+f?!+
+7?GX
+NQ?s
+Zod(^?
+C5R?
+`?8H
+D W?{W
+N3`d?
+P?2+
+QAf?
+fWi?
+qS>g?h3
+?R0I?
+8ke?;
+c?FA@s}
+lH`?
+UUUUUU
+UUUUUU
+sinh
+_hypot
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+UUUUUU
+UUUUUU
+X!t5~
+)h-F
+sHF'
+X!t5~
+)h-F
+sHF'
+sinf
+cosf
+tanf
+X 843"8
+82Pa8
+g9@x!8
+r9T6
++i9O
+x8}0    9
+5m8>8=t
+99jd9
+T9K<
+9Z=K7
+?logf
+log10f
+log10
+?{Q}<
+?8bunz8
+?'*6
+?)TH
+?%"U
+?]%>
+?'Za
+?@En[vP
+?qBJ
+l@6
+?-hk
+OZQ%
+-)4d
+?:kP<
+?UUUUUU
+?f`Y4
+?QY^&
+?U)#
+?ysB
+?$G4
+?30]
+?7zQ6$
+powf
+expf
+7h>?8
+d8-t
+{w8&-
+o9sp
+]u9g
+-9D     /9a
+        9sv
+& 96
+;1cb
+=1cb
+8CUUUUUU
+UUUUUU
+;1cb
+=1cb
+@^8U)zj
+X!t5~
+)h-F
+sHF'
+l>*>
+`>r1
+[Rm>
+h>1my
+T>u$
+[*ncd>0
+ C>TQ
+\>$o
+S>$hkDh$h>[2
+>uZ>
+9=[>
+f>*>
+UA>N0Wl
+)>$=
+k>oB
+N>VF
+fJBGo
+>>uw
+n">3
+a'>/
+U,>q
+9>70
+A03>A|
+Q5rHg,>
+<>#n2
+c0&>`
+hj.>
+U<>.
+7>m_
+:>K5
+j>>A?1
+\C>S
+LWG>
+.>PJ;I:qE>
+Y8a:
+0E>X
+7>I0
+:>t6k'
+=e2m
+N>A|
+])6M>&
+!>&'
+CWD>~3
+:>)*    v
+_oD>Kg
+AK>(v
+fD>b
+-BH>t
+CL:>8
+6NK>
+hj>>
+51>W
+E>nEA
+7~xh
+a6>r
+f4">
+;>g_
+N>O=I9
+F>qUxv
+MR[>
+LZ>,
+?rAj
+]>^b
+/2GG>!B
+Z\>z8
+OF>;^
+LWW>
+)yIx
+1]>P
+]>)2X
+:$R>
+eT>%
+9[>Q
+[>      t
+:>D8
+zY;>u:m
+P>q_Y~
+0><[cZUg^>
+=>~O
+v}`[>
+_>jj
+oI>O7
+^RfN>
+G>US
+Y>kX>M
+dRL>
+,HR>O
+A>l$/
+H[><y5
+=imb;D
+=W>6
+:               r
+>[^j
+>Kb|
++>De
+1<.     />:
+11Y@
+/>58d%
+MJ$>
+>cQ6
+!>6'Y
+>jtm}S
+>77:
+)>6{1n
+r       Vr.>T
++f)>0'
+Lj[;>
+3>fvw
+;H9>&X
+*StO9>T
+.>Tu
+.(!>
+n03>Pu
+/>      V
+S9>H
+x.&>
+K~Je#>!
+-/!>
+(>aI
+=cQ6
++M<7>
+*>f[
+o ->
+l(>>
+c(>\,
+ET5>
+;>9l
+mG4>
+bp(=>?g
+36,>
+37>k
+~X3>
+6>J`
+?>!T
+BC?>6t9^        c:>
+8'>0
+'._M
+=4<,
+BF>^G
+K&>.yC
+ 'L>[
+.xJ>Hf
+y\PD>!
+|b=})>
+c [1>H'
+dL?>
+uzKs@>
+3>N;kU
+        kE>fvw
+eF>t
+L>ev
+A>pP&
+V6E>`"(5
+,=>B
+">}t
+0iN>/
++h->|
+@>%>b
+AreFileApisANSI
+CompareStringEx
+EnumSystemLocalesEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+LCIDToLocaleName
+LocaleNameToLCID
+AppPolicyGetProcessTerminationMethod
+NAN(SNAN)
+nan(snan)
+NAN(IND)
+nan(ind)
+e+000
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+tanh
+atan
+atan2
+ceil
+floor
+fabs
+modf
+ldexp
+_cabs
+fmod
+frexp
+_logb
+_nextafter
+UTF-8
+UTF-16LEUNICODE
+1#INF
+1#QNAN
+1#SNAN
+1#IND
+RSDS
+"UGt
+C:\Gitlab-Runner\builds\7fZt78W8\0\SCPSL\SCPSL\Library\il2cpp_cache\linkresult_6AF48584247E83F23C5E73033DD0F6B1\GameAssembly.pdb
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+il2cpp
+il2cpp$x
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCC
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$T
+.rdata$r
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.tls
+.tls$
+.tls$ZZZ
+.xdata
+.xdata$x
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.data$rs
+.bss
+.pdata
+_RDATA
+ 0@P`
+U/ho
+ (08
+<<>"2
+:>@22
+8@BB2
+FFHR2
+DHJb2
+NNPr2
+$Z9
+H\FA
+i(5,
+%#4!
+ (0@
+U'"Z
+A'.j
+u#4%
+I,&j
+P`#w
+%#h
+ (08@HPX`hpx
+PP!w
+E-4(
+%#h
+5,4%
+%&x
+@`&w
+P0*w
+`@/w
+`@/w
+`@,w
+@00w
+ 08@
+p 4w
+p 1w
+p@7w
+`@/w
+P`8w
+9$ \
+@00w
+p`;w
+Pp:w
+%)4)
+`P<w
+%-4-
+ (08@
+P@@w
+5+3&
+P`8w
+PP!w
+PpCw
+P0*w
+PP!w
+PP!w
+U#4,
+P`#w
+P`8w
+%*x
+`@Cw
+ (08
+PX`hp
+P`8w
+P`8w
+p0Lw
+%*x
+ (08@HPX`
+)       %)4
+@00w
+p`Uw
+%(4
+p0Xw
+5#4#
+P@@w
+P`8w
+%#4%
+5#4#
+pP\w
+$       %$4
+`@,w
+5+t+
+`0`w
+%-4$
+ (08@HP
+P _w
+P0*w
+p`Uw
+p`Uw
+p@ew
+P`cw
+5+t+
+5+t%
+5+t%
+5+t!
+5+t)
+5+t!
+5+t)
+5+t-
+5+t#
+5+t!
+5+t-
+5+t!
+5+t#
+5+t#
+5#4
+"       %"#
+%#4$
+P jw
+U/x
+P jw
+P mw
+P`#w
+pP\w
+P@@w
+p@}w
+p uw
+pPuw
+p`~w
+pP{w
+5#4+
+``ww
+Ppsw
+@HP`
+%2x
+#       %#d
+@00w
+%#4
+P`8w
+u/4!
+e,c'
+ (08@HPX`hpx
+)4Rz
+5(48
+P`8w
+q eq
+P`#w
+P`8w
+pPuw
+pPuw
+5#4-
+mN0x
+p uw
+5)3$
+5'4$
+5+t!
+P`8w
+E,C'
+5(3#
+5'x
+p0Lw
+P`8w
+$       5$t
+5#4#
+E#4!
+P`8w
+E,C'
+P`#w
+5-4+
+P`cw
+P0*w
+5)3$
+5)3$
+pPuw
+E-45
+e(4&
+P`8w
+P`8w
+P`8w
+P`cw
+P`8w
+P`8w
+E,C'
+P`8w
+&       5&3!
+        % 4
+5,3'
+5(4"
+P`cw
+P`cw
+P`8w
+P`8w
+E,C'
+5#41
+ (0@P`
+I8UE
+I=Fj
+P`8w
+P`8w
+P`8w
+$       %$t
+        5 3
+5-4'
+%#dF
+%+tG
+P0*w
+%,#'
+PP!w
+PP!w
+U+t"
+%'#"
+P`#w
+P`8w
+%-4!
+P`8w
+E)C$
+p`Uw
+E,C'
+p`Uw
+p0Lw
+%#4%
+%'d'
+P`8w
+E#4'
+ 08@P
+ 08@P
+p`Uw
+P`8w
+P`8w
+P`8w
+P`8w
+P`8w
+U+S&
+P`8w
+pP\w
+%#t1
+%#tD
+#       5#4
+P`8w
+5+3&
+P`8w
+P`8w
+P0*w
+'       E'C"
+P`8w
+P`8w
+P`8w
+E#4&
+5+t%
+5#4)
+P`#w
+E'd
+P`8w
+P`8w
+%-4"
+ (08@H
+P`8w
+U/t!
+P`8w
+P`8w
+P`8w
+E(4l
+!       %!4
+%(4,
+@HP`px
+ (08@P
+E,C'
+P`8w
+P`8w
+P`8w
+P`8w
+"       %"#
+p`Uw
+P`8w
+5,3'
+P`8w
+P`8w
+P`8w
+P`8w
+P`8w
+P`8w
+P`8w
+P`#w
+P`8w
+P`8w
+P`8w
+P`8w
+pPuw
+P`8w
+P`8w
+P`8w
+P`8w
+P`8w
+P`8w
+`P<w
+P`8w
+5,3'
+5)3$
+%)#$
+%+tq
+@00w
+P@"x
+pP!x
+P0*w
+E(4'
+5+t)
+P`8w
+P`8w
+P`#w
+PP'x
+PP(x
+E,4#
+2       p!8
+P`#w
+ (0@P
+2       `!
+P`&x
+p@)x
+p0+x
+P`8w
+        5 3
+%'#"
+P`8w
+P`cw
+%,d#
+5#4+
+PX`hpx
+uZdx
+p`;w
+P`#w
+%#t#
+5#4!
+E,C'
+P`8w
+P`cw
+PP7x
+PP(x
+PP(x
+`p5x
+PP(x
+PP(x
+p`:x
+E+C&
+PP7x
+P0*w
+`@9x
+`@9x
+PP(x
+P ;x
+P`8w
+PP(x
+p`;w
+P >x
+@00w
+P ?x
+p@ew
+5(42
+p0@x
+-4>j
+p0@x
+p0@x
+2       0!
+PP(x
+PPAx
+%1h
+%(4"
+%#4.
+5(4,
+`0Hx
+%'#"
+%'#"
+%'#"
+%'#"
+%'#"
+%'#"
+%'#"
+%'#"
+%'#"
+%'#"
+P0*w
+%(##
+P`8w
+5,3'
+P`8w
+%)#$
+ (08@HPX`hp
+PPTx
+`pUx
+P`#w
+PPTx
+PPTx
+` ^x
+P jw
+ppXx
+P [x
+"       %"#
+P`8w
+P`8w
+P`8w
+P0*w
+P`8w
+PP!w
+PP!w
+Pp_x
+P`cw
+Ppax
+p``x
+`0bx
+P0*w
+@00w
+P`bx
+P`8w
+`@/w
+p`~w
+U't
+ (08@HP`
+PPcx
+P0fx
+P`#w
+5'3"
+p gx
+P`8w
+P`8w
+%)#$
+P`8w
+P`8w
+5+3&
+5+3&
+pphx
+5'3"
+PPjx
+%,d#
+5#4+
+uVfx
+PPjx
+5-4"
+5-4
+5(4
+5(4(
+p0@x
+5(40
+5(44
+%'#"
+%'#"
+%'#"
+P`#w
+5#48
+#       %#4
+#       %#4
+5#4(
+&       %&4
+&       %&4
+#       %#4
+#       %#4
+5#42
+#       %#4
+#       %#4
+5#4&
+&       %&4
+&       %&4
+#       %#4
+#       %#4
+#       %#4
+#       %#4
+#       %#4
+#       %#4
+#       %#4
+#       %#4
+5#4
+5#46
+p gx
+p gx
+p gx
+p gx
+5#4,
+)       %)4
+)       %)4
+#       %#4
+#       %#4
+"       %"#
+PPsx
+"       %"#
+"       %"#
+"       %"#
+"       %"#
+"       %"#
+"       %"#
+"       %"#
+"       %"#
+#       %#4
+#       %#4
+#       %#4
+#       %#4
+#       %#4
+#       %#4
+5#4
+#       %#4
+#       %#4
+#       %#4
+#       %#4
+#       %#4
+"       %"#
+"       %"#
+"       %"#
+"       %"#
+#       %#4
+#       %#4
+#       %#4
+#       %#4
+#       %#4
+#       %#4
+5(4"
+5(4&
+5(4&
+p 1w
+PPsx
+PPsx
+PPsx
+PPsx
+PPsx
+PPsx
+PPsx
+PPsx
+pPuw
+PPsx
+PPsx
+5(45
+PPsx
+PPsx
+PPsx
+p@yx
+p@yx
+$       %$4
+PPsx
+$       %$4
+5(4%
+ppyx
+PPsx
+pPuw
+!       %!4
+!       %!4
+5(4!
+5'3"
+!       %!4
+PPsx
+5,3'
+5,3'
+pphx
+%'#"
+p 1w
+PPsx
+PPsx
+PPsx
+!       %!4
+PPsx
+PPsx
+!       %!4
+PPsx
+5(4!
+PPsx
+PPsx
+PPsx
+$       %$4
+PPsx
+PPsx
+$       %$4
+PPsx
+5(4%
+ppyx
+PPsx
+PPsx
+PPsx
+PPsx
+5#48
+5(4
+PPsx
+pPuw
+5#4X
+PPsx
+pPuw
+PPsx
+` {x
+%$4.
+%$4.
+PPsx
+5(4U
+PPsx
+p 1w
+5+t2
+pP{x
+5+t"
+p 1w
+5,3'
+!       %!4
+@00w
+5,3'
+P`8w
+5#d&
+%+t!
+`@,w
+P`8w
+P`8w
+@00w
+*       5*3%
+P`8w
+U+S&
+5(4\
+p 1w
+p`;w
+8@HVd
+@08Nd
+08@H
+@8Fd
+88Fd
+@`pvd
+`8@HVd
+@8@Nd
+@8Fd
+`8@Nd
+`8@B
+`8Fd
+``hpx
+`8Fd
+`8Fd
+8@Nd
+p88B
+p8B0
+@`pvd
+@8:
+`hxx
+@`hvd
+`8Fd
+@2P
+``vd
+@8Fd
+`8Fd
+p`p~d
+08Nd
+`08Nd
+@8>d
+`ppx
+P8@P
+%)#$
+8@HVd
+8@HVd
+"       %"d
+@h~d
+@`h~d
+@`j
+@8@Nd
+@HVd
+08HVd
+@HJ0
+@HP^d
+`hpx
+@HVd
+8@Nd
+`8Fd
+p8@HVd
+:`.#
+@0Fd
+@`vd
+E+tJ
+p`;w
+5'h
+`@/w
+GameAssembly.dll
+CloseZStream
+CreateZStream
+DllCanUnloadNow
+DllGetActivationFactory
+Flush
+ReadZStream
+UnityPalGetLocalTimeZoneData
+UnityPalGetTimeZoneDataForID
+UnityPalTimeZoneInfoGetTimeZoneIDs
+UseUnityPalForTimeZoneInformation
+WriteZStream
+il2cpp_add_internal_call
+il2cpp_alloc
+il2cpp_allocation_granularity
+il2cpp_array_class_get
+il2cpp_array_element_size
+il2cpp_array_get_byte_length
+il2cpp_array_length
+il2cpp_array_new
+il2cpp_array_new_full
+il2cpp_array_new_specific
+il2cpp_array_object_header_size
+il2cpp_assembly_get_image
+il2cpp_bounded_array_class_get
+il2cpp_capture_memory_snapshot
+il2cpp_class_array_element_size
+il2cpp_class_enum_basetype
+il2cpp_class_for_each
+il2cpp_class_from_il2cpp_type
+il2cpp_class_from_name
+il2cpp_class_from_system_type
+il2cpp_class_from_type
+il2cpp_class_get_assemblyname
+il2cpp_class_get_bitmap
+il2cpp_class_get_bitmap_size
+il2cpp_class_get_data_size
+il2cpp_class_get_declaring_type
+il2cpp_class_get_element_class
+il2cpp_class_get_events
+il2cpp_class_get_field_from_name
+il2cpp_class_get_fields
+il2cpp_class_get_flags
+il2cpp_class_get_image
+il2cpp_class_get_interfaces
+il2cpp_class_get_method_from_name
+il2cpp_class_get_methods
+il2cpp_class_get_name
+il2cpp_class_get_namespace
+il2cpp_class_get_nested_types
+il2cpp_class_get_parent
+il2cpp_class_get_properties
+il2cpp_class_get_property_from_name
+il2cpp_class_get_rank
+il2cpp_class_get_static_field_data
+il2cpp_class_get_type
+il2cpp_class_get_type_token
+il2cpp_class_get_userdata_offset
+il2cpp_class_has_attribute
+il2cpp_class_has_parent
+il2cpp_class_has_references
+il2cpp_class_instance_size
+il2cpp_class_is_abstract
+il2cpp_class_is_assignable_from
+il2cpp_class_is_blittable
+il2cpp_class_is_enum
+il2cpp_class_is_generic
+il2cpp_class_is_inflated
+il2cpp_class_is_interface
+il2cpp_class_is_subclass_of
+il2cpp_class_is_valuetype
+il2cpp_class_num_fields
+il2cpp_class_set_userdata
+il2cpp_class_value_size
+il2cpp_current_thread_get_frame_at
+il2cpp_current_thread_get_stack_depth
+il2cpp_current_thread_get_top_frame
+il2cpp_current_thread_walk_frame_stack
+il2cpp_custom_attrs_construct
+il2cpp_custom_attrs_free
+il2cpp_custom_attrs_from_class
+il2cpp_custom_attrs_from_method
+il2cpp_custom_attrs_get_attr
+il2cpp_custom_attrs_has_attr
+il2cpp_debug_get_method_info
+il2cpp_debugger_set_agent_options
+il2cpp_domain_assembly_open
+il2cpp_domain_get
+il2cpp_domain_get_assemblies
+il2cpp_exception_from_name_msg
+il2cpp_field_get_flags
+il2cpp_field_get_name
+il2cpp_field_get_offset
+il2cpp_field_get_parent
+il2cpp_field_get_type
+il2cpp_field_get_value
+il2cpp_field_get_value_object
+il2cpp_field_has_attribute
+il2cpp_field_is_literal
+il2cpp_field_set_value
+il2cpp_field_set_value_object
+il2cpp_field_static_get_value
+il2cpp_field_static_set_value
+il2cpp_format_exception
+il2cpp_format_stack_trace
+il2cpp_free
+il2cpp_free_captured_memory_snapshot
+il2cpp_gc_collect
+il2cpp_gc_collect_a_little
+il2cpp_gc_disable
+il2cpp_gc_enable
+il2cpp_gc_foreach_heap
+il2cpp_gc_get_heap_size
+il2cpp_gc_get_max_time_slice_ns
+il2cpp_gc_get_used_size
+il2cpp_gc_has_strict_wbarriers
+il2cpp_gc_is_disabled
+il2cpp_gc_is_incremental
+il2cpp_gc_set_external_allocation_tracker
+il2cpp_gc_set_external_wbarrier_tracker
+il2cpp_gc_set_max_time_slice_ns
+il2cpp_gc_wbarrier_set_field
+il2cpp_gchandle_foreach_get_target
+il2cpp_gchandle_free
+il2cpp_gchandle_get_target
+il2cpp_gchandle_new
+il2cpp_gchandle_new_weakref
+il2cpp_get_corlib
+il2cpp_get_exception_argument_null
+il2cpp_image_get_assembly
+il2cpp_image_get_class
+il2cpp_image_get_class_count
+il2cpp_image_get_entry_point
+il2cpp_image_get_filename
+il2cpp_image_get_name
+il2cpp_init
+il2cpp_init_utf16
+il2cpp_is_debugger_attached
+il2cpp_is_vm_thread
+il2cpp_method_get_class
+il2cpp_method_get_declaring_type
+il2cpp_method_get_flags
+il2cpp_method_get_from_reflection
+il2cpp_method_get_name
+il2cpp_method_get_object
+il2cpp_method_get_param
+il2cpp_method_get_param_count
+il2cpp_method_get_param_name
+il2cpp_method_get_return_type
+il2cpp_method_get_token
+il2cpp_method_has_attribute
+il2cpp_method_is_generic
+il2cpp_method_is_inflated
+il2cpp_method_is_instance
+il2cpp_monitor_enter
+il2cpp_monitor_exit
+il2cpp_monitor_pulse
+il2cpp_monitor_pulse_all
+il2cpp_monitor_try_enter
+il2cpp_monitor_try_wait
+il2cpp_monitor_wait
+il2cpp_object_get_class
+il2cpp_object_get_size
+il2cpp_object_get_virtual_method
+il2cpp_object_header_size
+il2cpp_object_new
+il2cpp_object_unbox
+il2cpp_offset_of_array_bounds_in_array_object_header
+il2cpp_offset_of_array_length_in_array_object_header
+il2cpp_override_stack_backtrace
+il2cpp_profiler_install
+il2cpp_profiler_install_allocation
+il2cpp_profiler_install_enter_leave
+il2cpp_profiler_install_fileio
+il2cpp_profiler_install_gc
+il2cpp_profiler_install_thread
+il2cpp_profiler_set_events
+il2cpp_property_get_flags
+il2cpp_property_get_get_method
+il2cpp_property_get_name
+il2cpp_property_get_parent
+il2cpp_property_get_set_method
+il2cpp_raise_exception
+il2cpp_register_debugger_agent_transport
+il2cpp_register_log_callback
+il2cpp_resolve_icall
+il2cpp_runtime_class_init
+il2cpp_runtime_invoke
+il2cpp_runtime_invoke_convert_args
+il2cpp_runtime_object_init
+il2cpp_runtime_object_init_exception
+il2cpp_runtime_unhandled_exception_policy_set
+il2cpp_set_commandline_arguments
+il2cpp_set_commandline_arguments_utf16
+il2cpp_set_config
+il2cpp_set_config_dir
+il2cpp_set_config_utf16
+il2cpp_set_data_dir
+il2cpp_set_default_thread_affinity
+il2cpp_set_find_plugin_callback
+il2cpp_set_memory_callbacks
+il2cpp_set_temp_dir
+il2cpp_shutdown
+il2cpp_start_gc_world
+il2cpp_stats_dump_to_file
+il2cpp_stats_get_value
+il2cpp_stop_gc_world
+il2cpp_string_chars
+il2cpp_string_intern
+il2cpp_string_is_interned
+il2cpp_string_length
+il2cpp_string_new
+il2cpp_string_new_len
+il2cpp_string_new_utf16
+il2cpp_string_new_wrapper
+il2cpp_thread_attach
+il2cpp_thread_current
+il2cpp_thread_detach
+il2cpp_thread_get_all_attached_threads
+il2cpp_thread_get_frame_at
+il2cpp_thread_get_stack_depth
+il2cpp_thread_get_top_frame
+il2cpp_thread_walk_frame_stack
+il2cpp_type_equals
+il2cpp_type_get_assembly_qualified_name
+il2cpp_type_get_attrs
+il2cpp_type_get_class_or_element_class
+il2cpp_type_get_name
+il2cpp_type_get_name_chunked
+il2cpp_type_get_object
+il2cpp_type_get_type
+il2cpp_type_is_byref
+il2cpp_type_is_pointer_type
+il2cpp_type_is_static
+il2cpp_unhandled_exception
+il2cpp_unity_install_unitytls_interface
+il2cpp_unity_liveness_calculation_begin
+il2cpp_unity_liveness_calculation_end
+il2cpp_unity_liveness_calculation_from_root
+il2cpp_unity_liveness_calculation_from_statics
+il2cpp_value_box
+RtlCaptureStackBackTrace
+GetStdHandle
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+GetEnvironmentVariableW
+SetEnvironmentVariableW
+SetCurrentDirectoryW
+GetCurrentDirectoryW
+CreateDirectoryW
+CreateFileW
+DeleteFileW
+FindClose
+FindFirstFileExW
+FindNextFileW
+FlushFileBuffers
+GetFileAttributesExW
+GetFileSizeEx
+GetFileType
+GetFullPathNameW
+ReadFile
+RemoveDirectoryW
+SetEndOfFile
+SetFilePointerEx
+WriteFile
+IsDebuggerPresent
+CloseHandle
+DuplicateHandle
+RaiseException
+GetLastError
+SetLastError
+QueryPerformanceCounter
+QueryPerformanceFrequency
+GetOverlappedResult
+InitializeSRWLock
+ReleaseSRWLockExclusive
+ReleaseSRWLockShared
+AcquireSRWLockExclusive
+AcquireSRWLockShared
+InitializeCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+InitializeConditionVariable
+WakeConditionVariable
+WakeAllConditionVariable
+SleepConditionVariableCS
+SetEvent
+ResetEvent
+ReleaseSemaphore
+ReleaseMutex
+SleepEx
+WaitForSingleObjectEx
+WaitForMultipleObjectsEx
+CreateMutexW
+CreateEventW
+Sleep
+CreateSemaphoreW
+QueueUserAPC
+GetCurrentProcess
+GetCurrentProcessId
+GetExitCodeProcess
+SwitchToThread
+CreateThread
+GetCurrentThread
+GetCurrentThreadId
+SetThreadPriority
+GetThreadPriority
+TlsAlloc
+TlsGetValue
+TlsSetValue
+OpenProcess
+GetSystemTimes
+GetSystemInfo
+GetSystemTimeAsFileTime
+GetVersionExW
+GetNativeSystemInfo
+VirtualAlloc
+VirtualQuery
+CreateFileMappingW
+OpenFileMappingW
+MapViewOfFile
+UnmapViewOfFile
+FreeLibrary
+GetModuleFileNameW
+GetModuleHandleW
+GetProcAddress
+LoadLibraryW
+GlobalAlloc
+GlobalFree
+FormatMessageW
+CopyFileW
+MoveFileExW
+GetComputerNameW
+GetTimeZoneInformation
+GetDynamicTimeZoneInformation
+GetFileInformationByHandleEx
+WideCharToMultiByte
+GetACP
+GetLocaleInfoW
+GetThreadLocale
+GetConsoleMode
+K32GetProcessImageFileNameW
+SetFilePointer
+GetExitCodeThread
+SuspendThread
+ResumeThread
+GetThreadContext
+VirtualFree
+KERNEL32.dll
+MessageBoxA
+USER32.dll
+GetUserNameW
+CryptAcquireContextW
+CryptReleaseContext
+CryptGenRandom
+ADVAPI32.dll
+CoUninitialize
+CoInitializeEx
+CoGetContextToken
+CoCreateFreeThreadedMarshaler
+CoTaskMemAlloc
+CoTaskMemFree
+ole32.dll
+OLEAUT32.dll
+SHGetFolderPathW
+SHGetKnownFolderPath
+SHELL32.dll
+WSAIoctl
+WSARecv
+WSASend
+WSAPoll
+getaddrinfo
+freeaddrinfo
+getnameinfo
+inet_pton
+inet_ntop
+WS2_32.dll
+GetIfEntry
+GetNetworkParams
+GetAdaptersAddresses
+IPHLPAPI.DLL
+InitializeCriticalSectionAndSpinCount
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetStartupInfoW
+IsProcessorFeaturePresent
+InitializeSListHead
+InitializeCriticalSectionEx
+EncodePointer
+DecodePointer
+MultiByteToWideChar
+LCMapStringEx
+GetStringTypeW
+GetCPInfo
+RtlPcToFileHeader
+RtlUnwindEx
+InterlockedFlushSList
+TlsFree
+LoadLibraryExW
+TerminateProcess
+ExitProcess
+GetModuleHandleExW
+ReadConsoleW
+GetConsoleOutputCP
+HeapAlloc
+HeapFree
+CompareStringW
+LCMapStringW
+IsValidLocale
+GetUserDefaultLCID
+EnumSystemLocalesW
+HeapReAlloc
+HeapSize
+HeapQueryInformation
+IsValidCodePage
+GetOEMCP
+SetStdHandle
+GetCommandLineA
+GetCommandLineW
+GetProcessHeap
+WriteConsoleW
+RtlUnwind
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AUIl2CppExceptionWrapper@@
+.?AVbad_array_new_length@std@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVbad_cast@std@@
+.?AVruntime_error@std@@
+.?AVsystem_error@std@@
+.?AV_System_error@std@@
+.?AVfailure@ios_base@std@@
+.?AUNativeThreadAbortException@Thread@vm@il2cpp@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVbad_exception@std@@
+.?AVtype_info@@
+.?AV_Facet_base@std@@
+.?AV_Locimp@locale@std@@
+.?AVfacet@locale@std@@
+.?AU_Crt_new_delete@std@@
+.?AVcodecvt_base@std@@
+.?AUctype_base@std@@
+.?AV?$ctype@D@std@@
+.?AV?$num_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$numpunct@D@std@@
+.?AV?$codecvt@DDU_Mbstatet@@@std@@
+N0L0
+9rD:
+Greater Manchester1
+Salford1
+Comodo CA Limited1!0
+AAA Certificate Services0
+190312000000Z
+281231235959Z0
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority0
+ M      -d
+~;hf
+%&k3m
+]:l5\
+5Ut     I
+XB.C
+&FJP
+<0:08
+2http://crl.comodoca.com/AAACertificateServices.crl04
+(0&0$
+http://ocsp.comodoca.com0
+or<C;
+?{w;
+Ps'DG
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority0
+181102000000Z
+301231235959Z0|1
+Greater Manchester1
+Salford1
+Sectigo Limited1$0"
+Sectigo RSA Code Signing CA0
+%f)@
+TFt1b
+nLA]
+yPI,
+I0G0E
+?http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
+j0h0?
+3http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
+http://ocsp.usertrust.com0
+G4Ja
+F^@F
+-J@H
+#jYhRB_
+mt^Ju~
+@Mc5
+>S]4
+CzE1
+w|KK
+UZx>
+(%W)
+|g~}.
+{1Aq
+2&-jWp
+Greater Manchester1
+Salford1
+Sectigo Limited1$0"
+Sectigo RSA Code Signing CA0
+210128000000Z
+220128235959Z0
+64-1001
+Wielkopolskie1
+Leszno1%0#
+Bohater
+w Westerplatte 10/71 0
+Hubert Moszka Northwood1 0
+Hubert Moszka Northwood0
+ktC1V
+p"nW
+!&Jr
+        ipg
+#es@h
+C0A05
+0%0#
+https://sectigo.com/CPS0
+<0:08
+2http://crl.sectigo.com/SectigoRSACodeSigningCA.crl0s
+g0e0>
+2http://crt.sectigo.com/SectigoRSACodeSigningCA.crt0#
+http://ocsp.sectigo.com0
+%43HM_
+gjLY
+(!S=
+1,WaWk
+Greater Manchester1
+Salford1
+Sectigo Limited1$0"
+Sectigo RSA Code Signing CA
+f$#H
+TD"p
+wOa
+VC9)Y
+>` i
+V"+h
+20210707125742Z0
+R0P1
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 2021
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+210519054246Z
+320518054246Z0P1
+PL1!0
+Asseco Data Systems S.A.1
+Certum Timestamp 20210
+bRNM
+KYd[
+Qfq,
+Uh5'
+4l\5DM
+/4;L%S
+@lsC
+,0*0(
+"http://crl.certum.pl/ctsca2021.crl0o
+c0a0(
+http://subca.ocsp-certum.com05
+)http://repository.certum.pl/ctsca2021.cer0@
+90705
+0&0$
+http://www.certum.pl/CPS0
+)Z`1
+@d]4
+')5"
+mM@:
+ioa!C|l|
+]FFR~
+iwkq)
+PL1"0
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+210519053207Z
+360518053207Z0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA0
+)N*K
+B@]M
+g!5 e
+@lsC
+)0'0%
+http://crl.certum.pl/ctnca2.crl0l
+`0^0(
+http://subca.ocsp-certum.com02
+&http://repository.certum.pl/ctnca2.cer09
+2000.
+0&0$
+http://www.certum.pl/CPS0
+_kU;
+U;L'
+A_&*
+lP2D
+%(~Y
+k5@^
+iMi=}B
+PL1"0
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1"0
+Certum Trusted Network CA0
+210531064306Z
+290917064306Z0
+PL1"0
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1$0"
+Certum Trusted Network CA 20
+dg?":
+cyD~Kc$
+.4?)LR
+bhEW
+})zD
+AF
+9UO9
+(0&0$
+http://crl.certum.pl/ctnca.crl0k
+_0]0(
+http://subca.ocsp-certum.com01
+%http://repository.certum.pl/ctnca.cer09
+2000.
+0&0$
+http://www.certum.pl/CPS0
+/j>M
+[.&iB<
+Se"u-
+0k0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+210707125742Z07
+/1(0&0$0"
+XxO!
+0o0Z
+X0V1
+PL1!0
+Asseco Data Systems S.A.1$0"
+Certum Timestamping 2021 CA
+QAf"
+B4(P
+RteP
+!Q^v
+_~6X
+By!>
+
+FLOSS static Unicode strings
+
+goph
+ldap
+nntp
+http
+news
+mail
+teln
+wss:
+uuid
+file
+net.
+pipe
+tcp:
+ftp:
+GpuDriver.dll
+Kernel32
+kernel32.dll
+User32.dll
+Kernel32.dll
+discord-rpc
+libc
+HttpProxy
+steam_api64
+t/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+/System/Library/Frameworks/CoreServices.framework/Frameworks/CFNetwork.framework/CFNetwork
+/usr/lib/libSystem.dylib
+iphlpapi.dll
+Ws2_32.dll
+AudioPluginDissonance
+gopus
+api-ms-win-core-timezone-l1-1-0.dll
+advapi32.dll
+discord_game_sdk
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ntdll
+kernel32
+user32
+iphlpapi
+Windows.System.DispatcherQueue
+ole32.dll
+api-ms-win-core-winrt-l1-1-0.dll
+api-ms-win-core-winrt-string-l1-1-0.dll
+api-ms-win-core-winrt-error-l1-1-1.dll
+api-ms-win-core-winrt-error-l1-1-0.dll
+0123456789abcdef0123456789ABCDEF
+9@GNU\
+iqsuwy{}
+%9Qip{
+%9Qip{
+%9Qip{
+%9Qip{
+%9Qip{
+%9Qip{
+%9Qip{
+%9Qip{
+rMTOFL
+.XJV
+123456789
+bnpus
+idamh
+#+3;CScs
+!1Aa
+Unable to load DLL '
+': The specified module could not be found.
+Unable to find an entry point named '
+' in '
+GC_LOG_FILE
+.gc.log
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+api-ms-
+(null)
+mscoree.dll
+LC_ALL
+LC_COLLATE
+LC_CTYPE
+LC_MONETARY
+LC_NUMERIC
+LC_TIME
+         (((((                  H
+         (((((                  H
+      (
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l1-2-2
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+advapi32
+api-ms-win-appmodel-runtime-l1-1-2
+ext-ms-
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+en-US
+ja-JP
+zh-CN
+ko-KR
+zh-TW
+american
+american english
+american-english
+australian
+belgian
+canadian
+chinese
+chinese-hongkong
+chinese-simplified
+chinese-singapore
+chinese-traditional
+dutch-belgian
+english-american
+english-aus
+english-belize
+english-can
+english-caribbean
+english-ire
+english-jamaica
+english-nz
+english-south africa
+english-trinidad y tobago
+english-uk
+english-us
+english-usa
+french-belgian
+french-canadian
+french-luxembourg
+french-swiss
+german-austrian
+german-lichtenstein
+german-luxembourg
+german-swiss
+irish-english
+italian-swiss
+norwegian
+norwegian-bokmal
+norwegian-nynorsk
+portuguese-brazilian
+spanish-argentina
+spanish-bolivia
+spanish-chile
+spanish-colombia
+spanish-costa rica
+spanish-dominican republic
+spanish-ecuador
+spanish-el salvador
+spanish-guatemala
+spanish-honduras
+spanish-mexican
+spanish-modern
+spanish-nicaragua
+spanish-panama
+spanish-paraguay
+spanish-peru
+spanish-puerto rico
+spanish-uruguay
+spanish-venezuela
+swedish-finland
+swiss
+america
+britain
+china
+czech
+england
+great britain
+holland
+hong-kong
+new-zealand
+pr china
+pr-china
+puerto-rico
+slovak
+south africa
+south korea
+south-africa
+south-korea
+trinidad & tobago
+united-kingdom
+united-states
+utf8
+utf-8
+zh-CHS
+ar-SA
+bg-BG
+ca-ES
+cs-CZ
+da-DK
+de-DE
+el-GR
+fi-FI
+fr-FR
+he-IL
+hu-HU
+is-IS
+it-IT
+nl-NL
+nb-NO
+pl-PL
+pt-BR
+ro-RO
+ru-RU
+hr-HR
+sk-SK
+sq-AL
+sv-SE
+th-TH
+tr-TR
+ur-PK
+id-ID
+uk-UA
+be-BY
+sl-SI
+et-EE
+lv-LV
+lt-LT
+fa-IR
+vi-VN
+hy-AM
+az-AZ-Latn
+eu-ES
+mk-MK
+tn-ZA
+xh-ZA
+zu-ZA
+af-ZA
+ka-GE
+fo-FO
+hi-IN
+mt-MT
+se-NO
+ms-MY
+kk-KZ
+ky-KG
+sw-KE
+uz-UZ-Latn
+tt-RU
+bn-IN
+pa-IN
+gu-IN
+ta-IN
+te-IN
+kn-IN
+ml-IN
+mr-IN
+sa-IN
+mn-MN
+cy-GB
+gl-ES
+kok-IN
+syr-SY
+div-MV
+quz-BO
+ns-ZA
+mi-NZ
+ar-IQ
+de-CH
+en-GB
+es-MX
+fr-BE
+it-CH
+nl-BE
+nn-NO
+pt-PT
+sr-SP-Latn
+sv-FI
+az-AZ-Cyrl
+se-SE
+ms-BN
+uz-UZ-Cyrl
+quz-EC
+ar-EG
+zh-HK
+de-AT
+en-AU
+es-ES
+fr-CA
+sr-SP-Cyrl
+se-FI
+quz-PE
+ar-LY
+zh-SG
+de-LU
+en-CA
+es-GT
+fr-CH
+hr-BA
+smj-NO
+ar-DZ
+zh-MO
+de-LI
+en-NZ
+es-CR
+fr-LU
+bs-BA-Latn
+smj-SE
+ar-MA
+en-IE
+es-PA
+fr-MC
+sr-BA-Latn
+sma-NO
+ar-TN
+en-ZA
+es-DO
+sr-BA-Cyrl
+sma-SE
+ar-OM
+en-JM
+es-VE
+sms-FI
+ar-YE
+en-CB
+es-CO
+smn-FI
+ar-SY
+en-BZ
+es-PE
+ar-JO
+en-TT
+es-AR
+ar-LB
+en-ZW
+es-EC
+ar-KW
+en-PH
+es-CL
+ar-AE
+es-UY
+ar-BH
+es-PY
+ar-QA
+es-BO
+es-SV
+es-HN
+es-NI
+es-PR
+zh-CHT
+af-za
+ar-ae
+ar-bh
+ar-dz
+ar-eg
+ar-iq
+ar-jo
+ar-kw
+ar-lb
+ar-ly
+ar-ma
+ar-om
+ar-qa
+ar-sa
+ar-sy
+ar-tn
+ar-ye
+az-az-cyrl
+az-az-latn
+be-by
+bg-bg
+bn-in
+bs-ba-latn
+ca-es
+cs-cz
+cy-gb
+da-dk
+de-at
+de-ch
+de-de
+de-li
+de-lu
+div-mv
+el-gr
+en-au
+en-bz
+en-ca
+en-cb
+en-gb
+en-ie
+en-jm
+en-nz
+en-ph
+en-tt
+en-us
+en-za
+en-zw
+es-ar
+es-bo
+es-cl
+es-co
+es-cr
+es-do
+es-ec
+es-es
+es-gt
+es-hn
+es-mx
+es-ni
+es-pa
+es-pe
+es-pr
+es-py
+es-sv
+es-uy
+es-ve
+et-ee
+eu-es
+fa-ir
+fi-fi
+fo-fo
+fr-be
+fr-ca
+fr-ch
+fr-fr
+fr-lu
+fr-mc
+gl-es
+gu-in
+he-il
+hi-in
+hr-ba
+hr-hr
+hu-hu
+hy-am
+id-id
+is-is
+it-ch
+it-it
+ja-jp
+ka-ge
+kk-kz
+kn-in
+kok-in
+ko-kr
+ky-kg
+lt-lt
+lv-lv
+mi-nz
+mk-mk
+ml-in
+mn-mn
+mr-in
+ms-bn
+ms-my
+mt-mt
+nb-no
+nl-be
+nl-nl
+nn-no
+ns-za
+pa-in
+pl-pl
+pt-br
+pt-pt
+quz-bo
+quz-ec
+quz-pe
+ro-ro
+ru-ru
+sa-in
+se-fi
+se-no
+se-se
+sk-sk
+sl-si
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sq-al
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+sv-fi
+sv-se
+sw-ke
+syr-sy
+ta-in
+te-in
+th-th
+tn-za
+tr-tr
+tt-ru
+uk-ua
+ur-pk
+uz-uz-cyrl
+uz-uz-latn
+vi-vn
+xh-za
+zh-chs
+zh-cht
+zh-cn
+zh-hk
+zh-mo
+zh-sg
+zh-tw
+zu-za
+CONOUT$
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+PIwI
+ lfl
+ }G}
+P}w}

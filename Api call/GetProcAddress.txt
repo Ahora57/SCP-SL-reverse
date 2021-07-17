@@ -1,0 +1,136 @@
+2: rdx 00007FF633167395 "SetLastError"
+2: rdx 00007FF6332D736E "GetLastError"
+2: rdx 00007FFF3F7A5E60 "CreateStreamOnHGlobal"
+2: rdx 00007FFF3DF95405 "NtdllDefWindowProc_A"
+2: rdx 00007FFF23935360 "FlsGetValue"
+2: rdx 0000002D34AFFCC8 "timeGetTime"
+2: rdx 00007FF633252A5E "IsUserAnAdmin"
+2: rdx 00007FF63319E4F0 "NtQuerySystemInformation"
+2: rdx 00007FFF3DB12F75 "RtlLeaveCriticalSection"
+2: rdx 00007FFF3DB0F0AB "RtlEnterCriticalSection"
+2: rdx 00007FFF3DB1245C "InitOnceBeginInitialize"
+2: rdx 00007FFF3F7A588A "CoSetProxyBlanket"
+2: rdx 00007FFF3DB124A2 "InitOnceComplete"
+2: rdx 00007FFF3F7A5A4C "CoUninitialize"
+2: rdx 00007FFF3F7A4316 "CoCreateInstance"
+2: rdx 00007FFF3F7A4FD9 "CoInitializeSecurity"
+2: rdx 00007FFF3F7A4F9A "CoInitializeEx"
+2: rdx 0000002D3478F9D0 "NtQueryInformationThread"
+2: rdx 00007FF63308EFA8 "SleepConditionVariableCS"
+2: rdx 0000002D3478E870 "RtlGetVersion"
+2: rdx 00007FFF181A8180 "LCMapStringEx"
+2: rdx 00007FFF181AB898 "SleepConditionVariableCS"
+2: rdx 00007FFF181A8140 "AreFileApisANSI"
+2: rdx 00007FFF181ACC70 "GetFileVersionInfoSizeExW"
+2: rdx 00007FFF181ACCC0 "GetFileVersionInfoExW"
+2: rdx 00007FFF181ACCD8 "VerQueryValueW"
+2: rdx 00007FFF18130D40 "FlsAlloc"
+2: rdx 00007FFF18130D78 "InitializeCriticalSectionEx"
+2: rdx 00007FFF18130D58 "FlsGetValue"
+2: rdx 00007FFF18130D68 "FlsSetValue"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

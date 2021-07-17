@@ -1,0 +1,8954 @@
+Fth\f
+Fth\f
++>E6
+iEPT
+$:"OT
+B.cP4
+e?{zV
+r=`.
+VymV
+c'^)ll
+g7~w
+dLAiF3u
+!XP"
+\5AE
+d,[r
+rC>x
+e\C`o
+EMm'
+EMm'
+"P)D
+"P)D
+        24~
+        b"{
+YA]T
+7|d@
+qkt=
+qkt=
+j;<W
+j;<W
+j;<W
+qsd-
+qsd-
+WhP$YWF
+02ZG8
+"v_6
+>W4E
+0ru5
+s       8*
+s       8*
+ tRc
+?@AN
+,''gf
+zzzzz&=
+I       ">
+I       ">
+Hh@aA
+p\"n
+"P)D
+QOTY
+"P)D
+,''gf
+yHD&R
+I       ">
+I       ">
+XddL
+*MGW
+ ####
++C=     /
+"P)D
+011111111
+"P)D
++C=     /
++C=     /
++C=     /
++C=     /
++C=     /
+D2@uCH
+";6v
+<.;;
+5xXd
+";6v
+<.;;
+";6v
+<.;;
+4@CA
+";6v
+<.;;
+3@C!P
+";6v
+<.;;
+3@C!P
+";6v
+<.;;
+D2@C!
+";6v
+<.;;
+";6v
+<.;;
+6@CA
+";6v
+<.;;
+6@CA
+";6v
+<.;;
+3@CA
+";6v
+<.;;
+3@CA
+";6v
+<.;;
+3@CA
+";6v
+<.;;
+";6v
+<.;;
+";6v
+<.;;
+2@C!
+";6v
+<.;;
+3@CA
+";6v
+<.;;
+t5@CAQ:
+";6v
+<.;;
+44@CA
+";6v
+<.;;
+";6v
+<.;;
+t5@CAQ:
+";6v
+<.;;
+44@CA
+";6v
+<.;;
+D2@C!
+";6v
+<.;;
+D2@C!
+pbRW
+,iYK[
+|%,c)
+pbRW
+";6v
+<.;;
+";6v
+<.;;
+$6@C!
+8@C!
+8}07&
+";6v
+<.;;
+";6v
+<.;;
+5x8tN'
+";6v
+<.;;
+2@C!P
+45@C!
+";6v
+<.;;
+$5@C!
+7@C!
+6y(7&
+";6v
+<.;;
+4@C!
+7@C!P6x&7&
+";6v
+<.;;
+5@C!
+t8@C!
+{-7&
+";6v
+<.;;
+";6v
+<.;;
+6@C!
+T9@C!
+";6v
+<.;;
+6@C!
+T9@C!
+";6v
+<.;;
+4@C!
+7@C!P6x&7&
+";6v
+<.;;
+$5@C!
+7@C!
+6y(7&
+";6v
+<.;;
+5x84O*
+";6v
+<.;;
+5x8tN'
+";6v
+<.;;
+2@C!
+";6v
+<.;;
+3@C!
+";6v
+<.;;
+4@C!P
+6@C!
+";6v
+<.;;
+5xXd
+";6v
+<.;;
+5xXt
+";6v
+<.;;
+";6v
+<.;;
+6@C!P
+8@C!
+|/7&
+";6v
+<.;;
+4@C!
+";6v
+<.;;
+4@C!P
+47@C!
+v#7&
+";6v
+<.;;
+2@C!P
+45@C!
+";6v
+<.;;
+D4@C!
+6@C!
+u!7&
+";6v
+<.;;
+5@C!
+t8@C!
+{-7&
+";6v
+<.;;
+D5@C!
+";6v
+<.;;
+$5@C!
+7@C!
+6y(7&
+";6v
+<.;;
+4@C!
+";6v
+<.;;
+D4@C!
+6@C!
+u!7&
+";6v
+<.;;
+$3@C!
+";6v
+<.;;
+5@C!
+t8@C!
+{-7&
+";6v
+<.;;
+D5@C!
+";6v
+<.;;
+4@C!
+";6v
+<.;;
+t<@C
+";6v
+<.;;
+$3@C!
+5@C!
+";6v
+<.;;
+";6v
+<.;;
+D5@C!
+7@C!
+y)7&
+";6v
+<.;;
+6@C!P
+";6v
+<.;;
+d3@C!
+6@C!P3r
+";6v
+<.;;
+d3@C!
+6@C!P3r
+";6v
+<.;;
+2@C!P
+";6v
+<.;;
+2@C!P
+";6v
+<.;;
+$3@C!
+";6v
+<.;;
+$3@C!
+";6v
+<.;;
+3@C!
+T6@C!
+";6v
+<.;;
+2@C!P
+45@C!
+";6v
+<.;;
+3@C!
+T6@C!
+";6v
+<.;;
+3@C!
+T6@C!
+";6v
+<.;;
+3@C!
+t6@C!
+";6v
+<.;;
+4@C!
+";6v
+<.;;
+4@C!
+";6v
+<.;;
+4@C!
+T7@C!
+5w$7&
+";6v
+<.;;
+5x8tN'
+";6v
+<.;;
+5x8T
+";6v
+<.;;
+5x84O*
+";6v
+<.;;
+D5@C!
+";6v
+<.;;
+5x8d
+";6v
+<.;;
+";6v
+<.;;
+4@C!
+";6v
+<.;;
+d3@C!
+6@C!P3r
+";6v
+<.;;
+$3@C!
+";6v
+<.;;
+4@C!
+7@C!P6x&7&
+";6v
+<.;;
+5@C!P
+";6v
+<.;;
+5@C!P
+48@C!
+z+7&
+";6v
+<.;;
+4@C!P
+6@C!
+";6v
+<.;;
+2@C!P
+45@C!
+";6v
+<.;;
+2@C!P
+";6v
+<.;;
+3@C!P
+46@C!
+";6v
+<.;;
+5@C!P
+";6v
+<.;;
+d4@C!
+7@C!P5v"7&
+";6v
+<.;;
+4@C!P
+";6v
+<.;;
+4@C!
+7@C!P6x&7&
+";6v
+<.;;
+$3@C!
+5@C!
+";6v
+<.;;
+d3@C!
+";6v
+<.;;
+3@C!
+";6v
+<.;;
+3@C!
+";6v
+<.;;
+5xX$
+";6v
+<.;;
+";6v
+<.;;
+d3@C!
+";6v
+<.;;
+3@C!
+";6v
+<.;;
+";6v
+<.;;
+5x84O*
+";6v
+<.;;
+2@C!P
+";6v
+<.;;
+$3@C!
+";6v
+<.;;
+7@C!P
+";6v
+<.;;
+D3@C!
+5@C!
+";6v
+<.;;
+2@C!
+t5@C!
+";6v
+<.;;
+2@C!
+t5@C!
+";6v
+<.;;
+3@C!P
+5@C!
+";6v
+<.;;
+6@C!P
+";6v
+<.;;
+2@C!P
+45@C!
+";6v
+<.;;
+2@C!P
+45@C!
+";6v
+<.;;
+";6v
+<.;;
+4@C!
+";6v
+<.;;
+d7@C!
+";6v
+<.;;
+4@C!P
+6@C!
+";6v
+<.;;
+4@C!
+t7@C!
+w%7&
+";6v
+<.;;
+4@C!
+t7@C!
+w%7&
+";6v
+<.;;
+d3@C!
+6@C!P3r
+";6v
+<.;;
+d3@C!
+6@C!P3r
+";6v
+<.;;
+5@C!
+t8@C!
+{-7&
+";6v
+<.;;
+5@C!
+T8@C!
+7{,7&
+";6v
+<.;;
+2@C!
+";6v
+<.;;
+$3@C!
+5@Sd
+D2@uCH
+";6v
+<.;;
+";6v
+<.;;
+";6v
+<.;;
+5x84O*
+";6v
+<.;;
+5x84O*
+";6v
+<.;;
+5xx4R5
+";6v
+<.;;
+";6v
+<.;;
+ $$&
+";6v
+<.;;
+5x8d
+";6v
+<.;;
+d4@C!
+B!Q(
+";6v
+<.;;
+tGky
+";6v
+<.;;
+0Rc9
+Rn%[
+2aS:
+BqTZ
+bqVk
+D2@uCH
+42@uCH
+bi#(1
+8P`~
+8P`~
+tGky
+";6v
+<.;;
+D4@C!
+6@C!
+u!7&
+";6v
+<.;;
+$3@C!
+";6v
+<.;;
+D4@C!
+6@C!
+u!7&
+";6v
+<.;;
+2@C!P
+45@C!
+.L\r
+3Wu3
+Bfw;
+<**P(
+8P`v
+.L\r
+5]y3
+Bfw;
+k:Oh
+a2+qJ[
+k:Oh
+a2+qJ[
+,nB$6
+*4jS
+tGky
+DJ^a
+Kzyydd
+.0HXt
+HHi-
+pbRW
+}YYYm
+k\NA
+,iYK[
+|%,c)
+pbRW
+42@5b
+}YYYm
+k\NA
+gE Q(
+gU QH
+jSeyT
+)8zz
+fU Q(
+gU QH
+B!QH
+fU QH
+PHHi-
+2pBYc
+0k8Es
+T Q($
+vdH"
+fU Q(
+fE QH
+D"QH$
+fE Q(
+fE QH
+B!QH
+fU QH
+HHi-
+,L\r
+Bfw;
+";6v
+<.;;
+$3@C!
+5@C!
+}TT@
+";6v
+<.;;
+d3@C!
+";6v
+<.;;
+4@C!P
+";6v
+<.;;
+$3@C!
+";6v
+<.;;
+$5@C!
+7@C!
+6y(7&
+";6v
+<.;;
+2@C!P
+45@C!
+";6v
+<.;;
+$3@C!
+5@C!
+";6v
+<.;;
+4@C!P
+6@C!
+";6v
+<.;;
+$3@C!
+5@C!
+IFYe
+e-myK
+(dH@
+%`RR
+tGky
+.L\r
+7[y3
+Bfw;
+.L\r
+3Wu3
+Bfw;
+(dD@
+DDFf
+$4@5e
+9}Tm
+B#!s
+7zXi
+B#!s
+|%,c)KZ
+B!Q(
+*L\r
++;3&
+,L\r
+Bfw;
+.L\r
+9_}3
+Bfw;
+,L\r
+Bfw;
+:P`v
+,gIK
+e-m
+e(D)
+>*B$
+}       ;.
+jrsT=
+D5@7c
+}TtH
+D5@7c
+}TtH
+D5@7c
+}TtH
+D5@7c
+}TtH
+,L\r
+Bfw;
+'O F
+-o
+}       ;.
+%-kiK
+$2@w
+%-kiK
+chV8
+D2@G
+d2@w
+e,e9KZ
+,L\r
+Bfw;
+,L\r
+Bfw;
+tGky
+e(D)
+.L\r
+Bfw;
+e(D)
+4qcH
+:BMn
+e(D)
+pbRW
+pbRW
+0#C!2
+vy4$
+8P`~
+:P`~
+1@wBF
+s)W5y
+}K!_
+,iYK[
+T5@wBF
+>*B$
+e-myK\"
+-o      A
+        brS
+2@wBF
+$1@uCH
+$1@uCH
+>*:$
+.Pf|
+.Pf|
+8Pf|
+8Pf|
+8P`~
+H89E
+8P`~
+8P`~
+wyTD
+vy4$
+]?Quq
+}TtH
+,L\r
+}Td@
+GC*P(
+,L\r
+Bfw;
+.L\r
+7[y3
+Bfw;
+.L\r
+3Wu3
+Bfw;
+:P`v
+8P`v
+.L\r
+9a}3
+Bfw;
+.L\r
+5]y3
+Bfw;
+.Pf|
+px|~
+}d<f
+***:zz
+KDq%
+-o      A
+Bfw;
+,L\r
+Bfw;
+:P`v
+:P`v
+p8\.
+e(D)
+0#C!2
+tGky
+8P`~
+%$$&&''gggw
+1@uCH
+}TtH
+T2@w
+HHi-
+,L\r
+Bfw;
+,L\r
+Bfw;
+,L\r
+Bfw;
+:P`v
+tGky
+e-myK\"
+4@wBF
+:P`~
+        brc
+8Pf|
+4@wBF
+T1@w
+siW5y
+'O H
+gyTD
+gyTD
+,L\r
+Bfw;
+e-myK
+PB      -
+.L\r
+7[y3
+Bfw;
+.L\r
+3Wu3
+Bfw;
+xICg
+.Pf|
+8Pf|
+,L\r
+Bfw;
+e(D)
+e(D)
+tGky
+e(D)
+,L\r
+Bfw;
+,L\r
+Bfw;
+8P`v
+e(D)
+jrsT=
+HHi-
+,iYK[
+.Pf|
+,L\r
+Bfw;
+.L\r
+7[y3
+Bfw;
+.L\r
+3Wu3
+Bfw;
+:P`v
+e(D)
+tGky
+jrsT=
+,L\r
+Bfw;
+.L\r
+3Wu3
+Bfw;
+,L\r
+Bfw;
+:P`v
+tGky
+8P`~
+,L\r
+Bfw;
+t9sw
+D2@uCH
+>*2
+tGky
+B!Q(
+`BU9,
+`BU9,
+`BU9,
+,L\r
+Bfw;
+jRKt-
+";6v
+<.;;
+6@C!
+";6v
+<.;;
+D5@C!
+";6v
+<.;;
+$3@C!
+";6v
+<.;;
+D4@C!
+6@C!
+u!7&
+";6v
+<.;;
+2@C!P
+45@C!
+";6v
+<.;;
+d7@C!
++-<~<
+XzaP$U
+ZLF(&f
+^99M
++-<~<
+XzaP$U
+ZLF(&f
+V55I
+#@8H
+#@8H
+#@8H
+#@8H
+#@8H
+#@8H
+#@8H
+%@8H
+X@6Q$
+%@8H
+X@6Q$
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+ISua
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+ISua
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+ISua
+ISua
+`BU9,
+`BU9,
+ISua
+`BU9,
+`BU9,
+`BU9,
+ISua
+ISua
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+,L\r
+Bfw;
+@Bf;
+}Tt@
+{`p4
+&&&nK
+t:@E
+#Ae2
+{`p4
+&&&nK
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+LN-k
+`BU9,
+jrsT=
+?NI<z
+(Rbr
+*Rbr
+*Rbr
+<**P(
+?NI<z
+(Rbr
+*Rbr
+*Rbr
+<**P(
+";6v
+<.;;
+d4@C!
+";6v
+<.;;
+6@C!P
+";6v
+<.;;
+";6v
+<.;;
+4@C!
+T7@C!
+5w$7&
+";6v
+<.;;
+6@C!
+T9@C!
+";6v
+<.;;
+3@C!
+t6@C!
+";6v
+<.;;
+4@C!
+T7@C!
+5w$7&
+";6v
+<.;;
+D8@C
+";6v
+<.;;
+d3@C!
+6@C!P3r
+";6v
+<.;;
+4@C!
+7@C!P6x&7&
+";6v
+<.;;
+3@C!
+";6v
+<.;;
+5@C!
+";6v
+<.;;
+";6v
+<.;;
+4@C!P
+6@C!
+";6v
+<.;;
+6@C!P
+8@C!
+|/7&
+";6v
+<.;;
+$3@C!
+5@C!
+";6v
+<.;;
+4@C!P
+6@C!
+";6v
+<.;;
+d7@C!
+:@C!P;
+";6v
+<.;;
+d3@C!
+6@C!P3r
+";6v
+<.;;
+D4@C!
+6@C!
+u!7&
+";6v
+<.;;
+D4@C!
+6@C!
+u!7&
+LN-k
+#@8H
+#@8H
+%@8H
+X@6Q$
+`BU9,
+`BU9,
+ISua
+,L\r
+Bfw;
+`BU9,
+`BU9,
+EVG@
+GlIU&$
+7aAAA
+D2@uCH
+tyTT@fw;
+}Td@
+tyTT@fw;
+D2@uCH
+p]kw
+D"!s
+@Bf;
+D2@uCH
+42@uCH
+bi#(1
+>*2$
+d4@7c
+}TtH
+D2@uCH
+"D%j
+t1@u
+y`,e9
+tyTTHfw;
+}TtH
+6@7c
+}TtH
+3qLq3
+}Td(Db
+tyTTHfw;
+jrst]
+b6o`
+!ty.
+!ty.
+!ty.
+5@7c
+}TtH
+}TdH
+D2@uCH
+42@uCH
+bi#(1
+&~RA
+B4      Y
+tyTTHfw;
+D2@uCH
+}TtH
+}TtH
+}TtH
+}TtH
+tyTTHfw;
+>**$s
+>**$s
+3qLq3
+}Td(Db
+tyTTHfw;
+!ty.
+!ty.
+!ty.
+3qLq3
+}Td(Db
+tyTTHfw;
+jrst]
+X4o'n
+3qLq3
+}Td(Db
+tyTTHfw;
+LN-k
+#@8H
+#@8H
+#@8H
+#@8H
+%@8H
+X@6Q$
+ISua
+`BU9,
+ISua
+`BU9,
+`BU9,
+`BU9,
+ISua
+ISua
+*L\l
+*L\l
+)9+lH
+(L\l
+*L\l
+*L\l
+$dfw;
+$dfw;
+3qLq3
+}Td(Db
+tyTTHfw;
+YCP"C
+3qLq3
+}Td(Db
+tyTTHfw;
+>**$s
+>**$s
+3qLq3
+}Td(Db
+tyTTHfw;
+!ty.
+!ty.
+!ty.
+3qLq3
+}Td(Db
+tyTTHfw;
+jrslU
+Z&/`
+!ty.
+!ty.
+!ty.
+3qLq3
+}Td(Db
+tyTTHfw;
+LN-k
+#@8H
+#@8H
+3qLq3
+}Td(Db
+tyTTHfw;
+LN-k
+X@.,
+LN-k
+8DTdz
+;_}3&
+LN-k
+X@6a
+LN-k
+X@.,
+X@6a
+`BU9,
+`BU9,
+`BU9,
+`BU9,
+ISua
+`BU9,
+`BU9,
+`BU9,
+LN-k
+`BU9,
+`BU9,
+B"QH$
+LN-k
+(4DTj
+nF7!
+nF7!
+nF7!
+B"QH$
+ISua
+,8HXv
+,8HXv
+1A'l
+B!Q($
+*N^n
+LN-k
+(4DTj
+nF7!
+nF7!
+nF7!
+nF7!
+B!Q($
+,8HXv
+ISua
+,8HXv
+ISua
+,8HXv
+1A'l
+LN-k
+(4DTj
+nF7!
+nF7!
+nF7!
+ISua
+,8HXv
+ISua
+,8HXv
+1A'l
+s{SC3
+XTT,nA
+NPP)h
+5x8D
+(4DTj
+s{SC3
+XTT,nA
+NPP)h
+(4DTj
+s{SC3
+XTT,nA
+NPP)h
+(4DTj
+.\l|
+tyTTHfv
+(Rbr
+@!QH
+*Rbr
+LN-k
+(4DTj
+,8HXv
+,8HXv
+,8HXv
+,8HXv
+,8HXv
+,8HXv
+nF7!
+nF7!
+nF7!
+nF7!
+@!QH
+ISua
+,8HXv
+ISua
+,8HXv
+,8HXv
+,8HXv
+ISua
+,8HXv
+ISua
+,8HXv
+ISua
+,8HXv
+,8HXv
+,8HXv
+1A'l
+,8HXv
+,8HXv
+ISua
+,8HXv
+ISua
+,8HXv
+,8HXv
+,8HXv
+ISua
+,8HXv
+,8HXv
+,8HXv
+,8HXv
+ISua
+,8HXv
+ISua
+,8HXv
+,8HXv
+,8HXv
+,8HXv
+,8HXv
+,8HXv
+,8HXv
+,8HXv
+ISua
+,8HXv
+,8HXv
+,8HXv
+,8HXv
+ISua
+.DTdz
+(Rbr
+*Rbr
+*Rbr
+<**PH
+dfw;
+nlY3
+*L\l
+*L\l
+-='l
+*L\l
+s{SC3
+XTT,nA
+NPP)h
+(4DTj
+(L\l
+*L\l
+*L\l
+<**P(
+dfw;
+(L\l
+*L\l
+*L\l
+<**P(
+dfw;
+B"QH$
+8DTdz
+;_}3&
+@!R0D
+*Rbr
+*Rbr
+(N^n
+*N^n
+*N^n
+g=oB
+#9_3
+4=6M
+uspf
+eTm     %B;
+XTV"
+ev,1
+X*$Bi
+CS:,
+e6Lf
+:Cqin
+A"cff
+D~?hh
+PAq$
+(4DTj
+(4DTj
+,4DTj
+1kOu
+}4XK[
+}4XK[
+|QS'
+|QS'
+|IVn'
+,4DTj
+1gOu
+:<L\z
+,4DTj
+1kOu
+.8HXv
+)Qm3
+3iU7y"/
+*N^n
+.8HXv
+/Uu3
+<HXh
+,8HXv
+*4DTj
+,8HXv
+.8HXv
+/Uu3
+*4DTj
+1cOu
+.8HXv
+/Yu3
+:<L\z
+,8HXv
+,P`p
+3Quy4d
+*4DTj
+.8HXv
+)Qm3
+*L\l
+.8HXv
+/Uu3
+ \qx0
+.8HXv
+3_}3
+*4DTj
+*4DTj
+,8HXv
+,8HXv
+8<L\z
+.8HXv
+.8HXv
+/Uu3
+.8HXv
+3Yy3
+.8HXv
+(Mm3
+_Guq
+ \ux
+ My
+8<L\z
+.<L\z
+.8HXv
+8<L\z
+#GO!H
+:<L\z
+HV5w
+-!!!1199
+8<L\z
+.8HXv
+8<L\z
+,8HXv
+,8HXv
+:HXh
+:HXh
+:HXh
+<HXh
+:HXh
+:HXh
+-o
+*4DTj
+,4DTj
+1iOu
+.8HXv
+.8HXv
+/Uu3
+|9c'P
+%$$$%%'gggw
+:<L\z
+:<L\z
+[BBBbbjjjkk
+,8HXv
+-!!!11555===??
+*4DTj
+,4DTj
+1kOu
+.8HXv
+*4DTj
+FVs
+*4DTj
+*4DTj
+,8HXv
+,8HXv
+*4DTj
+*4DTj
+,4DTj
+1gOu
+,8HXv
+,8HXv
+ \yx0
+$R%l
+.8HXv
+-Uq3
+,iYK[B
+.8HXv
+3Yy3
+.8HXv
+/Uu3
+8<L\z
+%$$$%eeeu}
+:<L\z
+8<L\z
+'O F
+.8HXv
+3]y3
+.<L\z
+.<L\z
+8<L\z
+myKHHHJ
+8<L\z
+8<L\z
+8<L\z
+8<L\z
+8<L\z
+]Guq
+xIS'P
+e-myK
+%$$$%e
+tA3g
+8<L\z
+8<L\z
+.<L\z
+.<L\z
+.<L\z
+,iYK[B@
+%,_M
+[BBBbbrzzzz{{
+.8HXv
+:<L\z
+kiKHHHJJNNOOo
+.8HXv
+.8HXv
+>*2PH
+8<L\z
+.8HXv
+.8HXv
+.8HXv
+3]y3
+.8HXv
+3]y3
+.8HXv
+/Yu3
+:<L\z
+,8HXv
+,8HXv
+:HXh
+:HXh
+<HXh
+<HXh
+XK[BBBbbjjjzzz
+myKHHHLLNN
+<HXh
+<HXh
+myKHHHLLNN
+e9KZ
+[BBBbbrrrr{{{
+ve`B
+>*:PH
+<HXh
+:HXh
+-o
+Zu- H
+-o
+*4DTj
+,4DTj
+1kOu
+,8HXv
+.8HXv
+3Yy3
+.8HXv
+/Uu3
+8<L\z
+,8HXv
+*4DTj
+,4DTj
+1kOu
+,8HXv
+.8HXv
+/Uu3
+8<L\z
+%$$$%eeeu
+m|:Xr
+myKHHHJJNNOoo
+#GO!H
+.8HXv
+1[y3
+.<L\z
+.8HXv
+/Yu3
+UqGuq
+P!#H
+*4DTj
+,8HXv
+*4DTj
+*4DTj
+*4DTj
+,4DTj
+1kOu
+,8HXv
+,8HXv
+.8HXv
+/Uu3
+.<L\z
+,8HXv
+*4DTj
+,8HXv
+,8HXv
+<HXh
+*4DTj
+,4DTj
+1kOu
+,8HXv
+.8HXv
+3]y3
+,8HXv
+,8HXv
+.8HXv
+3Yy3
+>*2PH
+.8HXv
+3]y3
+j       A2
+,8HXv
+*N^n
+,4DTj
+-SOu
+,8HXv
+.8HXv
+3Yy3
+,P`p
+3Quy4T
+*4DTj
+,8HXv
+}Tt@
+*N^n
+*4DTj
+*4DTj
+.8HXv
+/Yu3
+8<L\z
+,iYK[B
+}48KZ
+8<L\z
+ -38
+ -38
+2@J9
+}Td@
+D"AJ9
+}Td@
+}Td@
+,4DTj
+}Td@
+.P`p
+3Quy4T
+2DJ9
+Un!M
+}TtH
+,P`p
+3Quy4T
+Un!M
+2DJ9
+,8HXv
+.<L\z
+.DTdz
+,8HXv
+.8HXv
+/Uu3
+.\l|
+tyTTHfv
+6>FQq
+6>FQq
+>C Y
+.0HXt
+(4DTj
+(4DTj
+*4DTj
+.DTdz
+.DTdz
+.DTdz
+<HXh~
+$dfw;
+K>q%
+<HXh~
+hMkw
+K>q%
+<HXh~
+8DTdz
+8DTdz
+;_}3&
+:HXh~
+pa#H
+pa#H
+pa#H
+:HXh~
+:HXh~
+8DTdz
+8DTdz
+:HXh~
+8DTdz
+8DTdz
+pa#H
+8DTdz
+:HXh~
+<HXh~
+<HXh~
+pa#H
+<HXh~
+pa#H
+*       ['q&
+pa#H
+pa#H
+e-myK
+G69e
+myKHHHLL
+-!!!11155
+pa#H
+y`-myK
+&O H
+pa#H
+G<1E
+%-ki
+G<1E
+%-ki
+JBI%
+e-m     A
+pa#H
+pa#H
+<HXh~
+<HXh~
+<HXh~
+:HXh~
+:HXh~
+hMkw
+-o
+8DTdz
+8DTdz
+,iYK[B
+8DTdz
+8DTdz
+:HXh~
+pa#H
+8DTdz
+8DTdz
+8DTdz
+:HXh~
+pa#H
+&O F
+:HXh~
+$dfw;
+8DTdz
+8DTdz
+8Rbr
+pa#H
+c,eYC!(((**
+taCg
+}TtH
+$+Y8x
+.DTdz
+9]3&
+.DTdz
+5Y3&
+.DTdz
+9]3&
+<HXh~
+<HXh~
+!!!111555==
+>HXh~
+>HXh~
+>HXh~
+C2a%
+[BBBbbbjjjnn~~~
+$e)])K[
+$e)])K[
+$e)])K[
+$e)])K[
+ ,c)
+vf`B
+<HXh~
+<HXh~
+<HXh~
+y (C)
+y (C)
+-o
+(P'p&`%
+#P"p!`
+#P"p!`
+E0D`CpB
+w0v`upt
+HttpProxy.dll
+Free
+Initialize
+Post
+SetLastError
+GetLastError
+GetTickCount64
+GetProcessHeap
+HeapFree
+CloseHandle
+HeapAlloc
+CloseThreadpoolIo
+Sleep
+GetCurrentProcessorNumber
+WaitForSingleObject
+CreateThreadpoolWork
+CloseThreadpoolWork
+SubmitThreadpoolWork
+CreateThreadpoolTimer
+SetThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+GetProcAddress
+RaiseFailFastException
+LoadLibraryExW
+FreeLibrary
+CreateThreadpoolIo
+StartThreadpoolIo
+CancelThreadpoolIo
+WaitForMultipleObjectsEx
+SetEvent
+ResetEvent
+CreateEventExW
+FlushProcessWriteBuffers
+GetCurrentThreadId
+DuplicateHandle
+GetCurrentProcess
+GetCurrentThread
+WaitForSingleObjectEx
+RaiseException
+GetFileAttributesExW
+ReadFile
+GetSystemInfo
+VirtualQuery
+RtlVirtualUnwind
+GetStdHandle
+CreateFileW
+WriteFile
+AddVectoredExceptionHandler
+FlsAlloc
+FlsGetValue
+FlsSetValue
+CreateEventW
+SwitchToThread
+CreateThread
+SetThreadPriority
+SuspendThread
+ResumeThread
+GetThreadContext
+GetTickCount
+VirtualAlloc
+VirtualProtect
+VirtualFree
+GetModuleHandleExW
+DeleteCriticalSection
+EnterCriticalSection
+InitializeCriticalSectionEx
+LeaveCriticalSection
+QueryPerformanceCounter
+QueryPerformanceFrequency
+GetSystemTimeAsFileTime
+GetEnvironmentVariableW
+DebugBreak
+InitializeCriticalSection
+SleepEx
+GlobalMemoryStatusEx
+GetLogicalProcessorInformation
+GetLogicalProcessorInformationEx
+GetLargePageMinimum
+VirtualUnlock
+GetWriteWatch
+ResetWriteWatch
+VirtualAllocExNuma
+IsProcessInJob
+QueryInformationJobObject
+GetNumaHighestNodeNumber
+GetProcessAffinityMask
+K32GetProcessMemoryInfo
+KERNEL32.dll
+EventWrite
+EventRegister
+EventEnabled
+OpenProcessToken
+AdjustTokenPrivileges
+LookupPrivilegeValueW
+ADVAPI32.dll
+CoCreateInstance
+CoInitializeEx
+CoUninitialize
+CoGetApartmentType
+CoWaitForMultipleHandles
+ole32.dll
+BCryptGenRandom
+bcrypt.dll
+RtlCaptureContext
+RtlLookupFunctionEntry
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+TerminateProcess
+IsProcessorFeaturePresent
+InitializeCriticalSectionAndSpinCount
+GetModuleHandleW
+GetCurrentProcessId
+InitializeSListHead
+IsDebuggerPresent
+GetStartupInfoW
+RtlPcToFileHeader
+RtlUnwindEx
+InterlockedFlushSList
+EncodePointer
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+ExitProcess
+GetModuleFileNameW
+LCMapStringW
+GetFileType
+MultiByteToWideChar
+FindClose
+FindFirstFileExW
+FindNextFileW
+IsValidCodePage
+GetACP
+GetOEMCP
+GetCPInfo
+GetCommandLineA
+GetCommandLineW
+WideCharToMultiByte
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+FlushFileBuffers
+GetConsoleOutputCP
+GetConsoleMode
+SetStdHandle
+GetFileSizeEx
+SetFilePointerEx
+GetStringTypeW
+HeapSize
+HeapReAlloc
+WriteConsoleW
+        :       <       N       P       U       X       d       f       p
+D E R S p r t }
+!;!=!L!S!
+!)#+#
+$'$@$K$`$
+'(')'L'M'N'O'S'V'W'X'_'a'h'v'
+0 00010=0>0@0A0
+1-111
+2 2D2Q2|2
+3w3{3
+        :       <       N       Q       U       X       d       f       p
+ &!'!*!,!.!/!
+0!0001060A0
+f       p
+        :       =       >       X       b
+&!'!*!,!.!/!
+0!0*0A0
+@$`$
+'Yck
+-;eU
+U1(\Q
+mSx@
+b}$l
+~)p$w
+11eU%
+z^KD
+[Am-
+kpnJ
+uD;s
+)r+[
+[!|n
+uYD?e
+I9C-
+vH7B
+W4vC
+9Y>)F$
+raB3G
+)c=H
+]rHa
+O8Mr
+bnMG
+]xEc
+ddddd
+dddd
+dddddddd
+dddddd
+vH7B
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVICodeManager@@
+.?AVCoffNativeCodeManager@@
+.?AVIGCHandleStore@@
+.?AVGCHandleStore@@
+.?AVIGCToCLREventSink@@
+.?AVGCToCLREventSink@@
+.?AVIGCHandleManager@@
+.?AVGCHandleManager@@
+.?AVIGCHeap@@
+.?AVIGCHeapInternal@@
+.?AVGCHeap@WKS@@
+.?AVtype_info@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVbad_array_new_length@std@@
+.?AVbad_exception@std@@
+N0L0
+Greater Manchester1
+Salford1
+Sectigo Limited1$0"
+Sectigo RSA Code Signing CA0
+200214000000Z
+210213235959Z0
+64-1001
+Wielkopolskie1
+Leszno1)0'
+ 10-7 Ul. Bohater
+w Westerplatte1 0
+Hubert Moszka Northwood1 0
+Hubert Moszka Northwood0
+bl|DH)
+90705
+0%0#
+https://sectigo.com/CPS0C
+<0:08
+2http://crl.sectigo.com/SectigoRSACodeSigningCA.crl0s
+g0e0>
+2http://crt.sectigo.com/SectigoRSACodeSigningCA.crt0#
+http://ocsp.sectigo.com0
+\s??rC
+<nG{!
+x>bz
+New Jersey1
+Jersey City1
+The USERTRUST Network1.0,
+%USERTrust RSA Certification Authority0
+181102000000Z
+301231235959Z0|1
+Greater Manchester1
+Salford1
+Sectigo Limited1$0"
+Sectigo RSA Code Signing CA0
+%f)@
+TFt1b
+nLA]
+yPI,
+I0G0E
+?http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
+j0h0?
+3http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
+http://ocsp.usertrust.com0
+G4Ja
+F^@F
+-J@H
+#jYhRB_
+mt^Ju~
+@Mc5
+>S]4
+CzE1
+w|KK
+UZx>
+(%W)
+|g~}.
+{1Aq
+2&-jWp
+Greater Manchester1
+Salford1
+Sectigo Limited1$0"
+Sectigo RSA Code Signing CA
+yKxkT
+oN^Qkn
+LeB!
+20200824144531Z0
+y0w1
+PL1"0
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1
+Certum EV TSA SHA2
+PL1"0
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1"0
+Certum Trusted Network CA0
+160308131043Z
+270530131043Z0w1
+PL1"0
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1
+Certum EV TSA SHA20
+3Z.W1
+[SXj%
+p"liv
+x`D?=
+(0&0$
+http://crl.certum.pl/ctnca.crl0k
+_0]0(
+http://subca.ocsp-certum.com01
+%http://repository.certum.pl/ctnca.cer0@
+90705
+0&0$
+http://www.certum.pl/CPS0
+W-5S
+=3+|y4N
+D4XV
+ukVP
+8q={sd
+<4b{gg
+Wr:$
+PL1"0
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1"0
+Certum Trusted Network CA
+200824144531Z0/
+/1(0&0$0"
+"[p0
+PL1"0
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1"0
+Certum Trusted Network CA
+=I(:s')
+3{^H&?
+$ga0
+FxJt=
+
+FLOSS static Unicode strings
+jjjjjj
+jjjjjj
+jjjjjj
+jjjjjj
+jjjj
+jjjjjj
+jjjjjj
+jjjjjj
+jjjjjj
+jjjj
+jjjjjj
+jjjjjj
+jjjj
+jjjjjj
+jjjjjj
+jjjj
+jjjjjj
+jjjj
+jjjj
+jjjj
+jjjjjj
+????
+
+Acc_CreateAbst
+Acc_CreateGeneric"
+AggregateException_DeserializationFailurej
+AggregateException_InnerException
+AggregateException_ctor_DefaultMessage
+AggregateException_ctor_InnerExceptionNull
+AmbiguousImplementationException_NullMessage
+AppDomain_Name
+AppDomain_NoContextPolicies
+AppDomain_Policy_PrincipalTwice
+Arg_AccessException
+Arg_AccessViolationException
+Arg_AmbiguousMatchException
+Arg_AppDomainUnloadedException
+Arg_ApplicationException
+Arg_ArgumentException
+Arg_ArgumentOutOfRangeException
+Arg_ArithmeticException
+Arg_ArrayPlusOffTooSmall
+Arg_ArrayTypeMismatchException
+Arg_ArrayZeroError
+Arg_BadDecimal
+Arg_BadImageFormatException
+Arg_BasePathNotFullyQualified
+Arg_BogusIComparer
+Arg_BufferTooSmall
+Arg_COMException
+Arg_CannotBeNaN
+Arg_CannotHaveNegativeValue
+Arg_CannotMixComparisonInfrastructure
+Arg_CannotUnloadAppDomainException
+Arg_ContextMarshalException
+Arg_CopyNonBlittableArray
+Arg_CopyOutOfRange
+Arg_CryptographyException
+Arg_CustomAttributeFormatException
+Arg_DataMisalignedException
+Arg_DateTimeRange
+Arg_DecBitCtor
+Arg_DefaultValueMissingException
+Arg_DirectoryNotFoundException
+Arg_DivideByZero
+Arg_DlgtNullInst
+Arg_DlgtTypeMis
+Arg_DllNotFoundException
+Arg_DllNotFoundExceptionParameterized
+Arg_DriveNotFoundException
+Arg_DuplicateWaitObjectException
+Arg_EHClauseNotFilter
+Arg_ElementsInSourceIsGreaterThanDestination
+Arg_EmptyArray
+Arg_EndOfStreamException
+Arg_EntryPointNotFoundException
+Arg_EntryPointNotFoundExceptionParameterized
+Arg_EntryPointNotFoundExceptionParameterizedNoLibrary
+Arg_EnumAndObjectMustBeSameType
+Arg_EnumFormatUnderlyingTypeAndObjectMustBeSameType
+Arg_EnumIllegalVal
+Arg_EnumUnderlyingTypeAndObjectMustBeSameType
+Arg_EnumValueNotFound
+Arg_ExecutionEngineException
+Arg_ExternalException
+Arg_FieldAccessException
+Arg_FormatException
+Arg_GuidArrayCtor
+Arg_HTCapacityOverflow
+Arg_HandleNotAsync
+Arg_HandleNotSync
+Arg_HexStyleNotSupported
+Arg_IOException
+Arg_IndexOutOfRangeException
+Arg_InsufficientExecutionStackException
+Arg_InsufficientNumberOfElements
+Arg_InteropMarshalUnmappableChar
+Arg_InvalidANSIString
+Arg_InvalidBase
+Arg_InvalidCastException
+Arg_InvalidComObjectException
+Arg_InvalidFilterCriteriaException
+Arg_InvalidHandle
+Arg_InvalidHexStyle
+Arg_InvalidNeutralResourcesLanguage_Asm_Culture
+Arg_InvalidNeutralResourcesLanguage_FallbackLoc
+Arg_InvalidOleVariantTypeException
+Arg_InvalidOperationException
+Arg_InvalidRuntimeTypeHandle
+Arg_InvalidSatelliteContract_Asm_Ver
+Arg_InvalidSearchPattern
+Arg_KeyNotFound
+Arg_KeyNotFoundWithKey
+Arg_LongerThanSrcString
+Arg_LowerBoundsMustMatch
+Arg_MarshalDirectiveException
+Arg_MethodAccessException
+Arg_MissingFieldException
+Arg_MissingManifestResourceException
+Arg_MissingMemberException
+Arg_MissingMethodException
+Arg_MulticastNotSupportedException
+Arg_MustBeBoolean
+Arg_MustBeByte
+Arg_MustBeChar
+Arg_MustBeDateTime
+Arg_MustBeDateTimeOffset
+Arg_MustBeDecimal
+Arg_MustBeDelegate
+Arg_MustBeDouble
+Arg_MustBeDriveLetterOrRootDir
+Arg_MustBeEnum
+Arg_MustBeEnumBaseTypeOrEnum
+Arg_MustBeGuid
+Arg_MustBeInt16
+Arg_MustBeInt32
+Arg_MustBeInt64
+Arg_MustBeIntPtr
+Arg_MustBeNullTerminatedString
+Arg_MustBePointer
+Arg_MustBePrimArray
+Arg_MustBeRuntimeAssembly
+Arg_MustBeSByte
+Arg_MustBeSingle
+Arg_MustBeStatic
+Arg_MustBeString
+Arg_MustBeStringPtrNotAtom
+Arg_MustBeTimeSpan
+Arg_MustBeTrue
+Arg_MustBeType
+Arg_MustBeUInt16
+Arg_MustBeUInt32
+Arg_MustBeUInt64
+Arg_MustBeUIntPtr
+Arg_MustBeVersion
+Arg_MustContainEnumInfo
+Arg_Need1DArray
+Arg_Need2DArray
+Arg_Need3DArray
+Arg_NeedAtLeast1Rank
+Arg_NegativeArgCount
+Arg_NonZeroLowerBound
+Arg_NotFiniteNumberException
+Arg_NotGenericParameter
+Arg_NotImplementedException
+Arg_NotSupportedException
+Arg_NotSupportedNonZeroLowerBound
+Arg_NullArgumentNullRef
+Arg_NullReferenceException
+Arg_ObjObjEx
+Arg_OleAutDateInvalid
+Arg_OleAutDateScale
+Arg_OpenType
+Arg_OutOfMemoryException
+Arg_OverflowException
+Arg_ParamName_Name
+Arg_ParmArraySize
+Arg_PathEmpty
+Arg_PathIllegalUNC_Path
+Arg_PlatformNotSupported
+Arg_PlatformNotSupported_AssemblyName_GetAssemblyName
+Arg_RankException
+Arg_RankIndices
+Arg_RankMultiDimNotSupported
+Arg_RanksAndBounds
+Arg_RegGetOverflowBug
+Arg_RegKeyNotFound
+Arg_RegSubKeyValueAbsent
+Arg_RegValStrLenBug
+Arg_ResMgrNotResSet
+Arg_ResourceFileUnsupportedVersion
+Arg_ResourceNameNotExist
+Arg_SafeArrayRankMismatchException
+Arg_SafeArrayTypeMismatchException
+Arg_SecurityException
+Arg_StackOverflowException
+Arg_SurrogatesNotAllowedAsSingleChar
+Arg_SwitchExpressionException
+Arg_SynchronizationLockException
+Arg_SystemException
+Arg_TargetInvocationException
+Arg_TargetParameterCountException
+Arg_ThreadStartException
+Arg_ThreadStateException
+Arg_TimeoutException
+Arg_TypeAccessException
+Arg_TypeLoadException
+Arg_TypeNotSupported
+Arg_TypeUnloadedException
+Arg_UnauthorizedAccessException
+Arg_UnknownTypeCode
+Arg_VersionString
+Arg_WrongAsyncResult
+Arg_WrongType
+ArgumentException_BufferNotFromPool
+ArgumentException_NotIsomorphic
+ArgumentException_OtherNotArrayOfCorrectLength
+ArgumentException_TupleIncorrectType
+ArgumentException_TupleLastArgumentNotATuple
+ArgumentException_ValueTupleIncorrectType
+ArgumentException_ValueTupleLastArgumentNotAValueTuple
+ArgumentNull_Array
+ArgumentNull_ArrayElement
+ArgumentNull_ArrayValue
+ArgumentNull_Assembly
+ArgumentNull_Buffer
+ArgumentNull_Child
+ArgumentNull_Collection
+ArgumentNull_Dictionary
+ArgumentNull_Generic
+ArgumentNull_Key
+ArgumentNull_Path
+ArgumentNull_SafeHandle
+ArgumentNull_Stream
+ArgumentNull_String
+ArgumentNull_Type
+ArgumentNull_TypeRequiredByResourceScope
+ArgumentNull_Waithandles
+ArgumentOutOfRangeException_NoGCRegionSizeTooLarge
+ArgumentOutOfRange_ActualValue
+ArgumentOutOfRange_AddValue
+ArgumentOutOfRange_AddressSpace
+ArgumentOutOfRange_BadHourMinuteSecond
+ArgumentOutOfRange_BadYearMonthDay
+ArgumentOutOfRange_BiggerThanCollection
+ArgumentOutOfRange_BinaryReaderFillBuffer
+ArgumentOutOfRange_Bounds_Lower_Upper
+ArgumentOutOfRange_CalendarRange
+ArgumentOutOfRange_Capacity
+ArgumentOutOfRange_Count
+ArgumentOutOfRange_DateArithmetic
+ArgumentOutOfRange_DateTimeBadMonths
+ArgumentOutOfRange_DateTimeBadTicks
+ArgumentOutOfRange_DateTimeBadYears
+ArgumentOutOfRange_Day
+ArgumentOutOfRange_DayOfWeek
+ArgumentOutOfRange_DayParam
+ArgumentOutOfRange_DecimalRound
+ArgumentOutOfRange_DecimalScale
+ArgumentOutOfRange_EndIndexStartIndex
+ArgumentOutOfRange_Enum
+ArgumentOutOfRange_Era
+ArgumentOutOfRange_FileLengthTooBig
+ArgumentOutOfRange_FileTimeInvalid
+ArgumentOutOfRange_GenericPositive
+ArgumentOutOfRange_GetByteCountOverflow
+ArgumentOutOfRange_GetCharCountOverflow
+ArgumentOutOfRange_HashtableLoadFactor
+ArgumentOutOfRange_HugeArrayNotSupported
+ArgumentOutOfRange_Index
+ArgumentOutOfRange_IndexCount
+ArgumentOutOfRange_IndexCountBuffer
+ArgumentOutOfRange_IndexLength
+ArgumentOutOfRange_IndexString
+ArgumentOutOfRange_InvalidEraValue
+ArgumentOutOfRange_InvalidHighSurrogate
+ArgumentOutOfRange_InvalidLowSurrogate
+ArgumentOutOfRange_InvalidUTF32
+ArgumentOutOfRange_Length
+ArgumentOutOfRange_LengthGreaterThanCapacity
+ArgumentOutOfRange_LengthTooLarge
+ArgumentOutOfRange_LessEqualToIntegerMaxVal
+ArgumentOutOfRange_ListInsert
+ArgumentOutOfRange_ListItem
+ArgumentOutOfRange_ListRemoveAt
+ArgumentOutOfRange_Month
+ArgumentOutOfRange_MonthParam
+ArgumentOutOfRange_MustBeNonNegInt32
+ArgumentOutOfRange_MustBeNonNegNum
+ArgumentOutOfRange_MustBePositive
+ArgumentOutOfRange_NeedNonNegNum
+ArgumentOutOfRange_NeedNonNegOrNegative1
+ArgumentOutOfRange_NeedPosNum
+ArgumentOutOfRange_NeedValidId
+ArgumentOutOfRange_NegativeCapacity
+ArgumentOutOfRange_NegativeCount
+ArgumentOutOfRange_NegativeLength
+ArgumentOutOfRange_NoGCLohSizeGreaterTotalSize
+ArgumentOutOfRange_OffsetLength
+ArgumentOutOfRange_OffsetOut
+ArgumentOutOfRange_PartialWCHAR
+ArgumentOutOfRange_PeriodTooLarge
+ArgumentOutOfRange_PositionLessThanCapacityRequired
+ArgumentOutOfRange_Range
+ArgumentOutOfRange_RoundingDigits
+ArgumentOutOfRange_SmallCapacity
+ArgumentOutOfRange_SmallMaxCapacity
+ArgumentOutOfRange_StartIndex
+ArgumentOutOfRange_StartIndexLargerThanLength
+ArgumentOutOfRange_StartIndexLessThanLength
+ArgumentOutOfRange_StreamLength
+ArgumentOutOfRange_TimeoutTooLarge
+ArgumentOutOfRange_UIntPtrMax
+ArgumentOutOfRange_UnmanagedMemStreamLength
+ArgumentOutOfRange_UnmanagedMemStreamWrapAround
+ArgumentOutOfRange_UtcOffset
+ArgumentOutOfRange_UtcOffsetAndDaylightDelta
+ArgumentOutOfRange_Version
+ArgumentOutOfRange_Week
+ArgumentOutOfRange_Week_ISO
+ArgumentOutOfRange_Year
+Argument_AbsolutePathRequired
+Argument_AddingDuplicate
+Argument_AddingDuplicateWithKey
+Argument_AddingDuplicate__
+Argument_AdjustmentRulesNoNulls
+Argument_AdjustmentRulesOutOfOrder
+Argument_AlreadyBoundOrSyncHandle
+Argument_AttributeNamesMustBeUnique
+Argument_BadFormatSpecifier
+Argument_BadResourceScopeTypeBits
+Argument_BadResourceScopeVisibilityBits
+Argument_CannotExtractScalar
+Argument_CannotParsePrecision
+Argument_CodepageNotSupported
+Argument_CompareOptionOrdinal
+Argument_ConflictingDateTimeRoundtripStyles
+Argument_ConflictingDateTimeStyles
+Argument_ConversionOverflow
+Argument_ConvertMismatch
+Argument_CultureIetfNotSupported
+Argument_CultureInvalidIdentifier
+Argument_CultureIsNeutral
+Argument_CultureNotSupported
+Argument_CustomCultureCannotBePassedByNumber
+Argument_DateTimeBadBinaryData
+Argument_DateTimeHasTicks
+Argument_DateTimeHasTimeOfDay
+Argument_DateTimeIsInvalid
+Argument_DateTimeIsNotAmbiguous
+Argument_DateTimeKindMustBeUnspecified
+Argument_DateTimeKindMustBeUnspecifiedOrUtc
+Argument_DateTimeOffsetInvalidDateTimeStyles
+Argument_DateTimeOffsetIsNotAmbiguous
+Argument_DestinationTooShort
+Argument_EmptyApplicationName
+Argument_EmptyDecString
+Argument_EmptyName
+Argument_EmptyPath
+Argument_EmptyWaithandleArray
+Argument_EncoderFallbackNotEmpty
+Argument_EncodingConversionOverflowBytes
+Argument_EncodingConversionOverflowChars
+Argument_EncodingNotSupported
+Argument_EnumTypeDoesNotMatch
+Argument_FallbackBufferNotEmpty
+Argument_FrameworkNameInvalid
+Argument_FrameworkNameInvalidVersion
+Argument_FrameworkNameMissingVersion
+Argument_FrameworkNameTooShort
+Argument_GWithPrecisionNotSupported
+Argument_HasToBeArrayClass
+Argument_IdnBadBidi
+Argument_IdnBadLabelSize
+Argument_IdnBadNameSize
+Argument_IdnBadPunycode
+Argument_IdnBadStd3
+Argument_IdnIllegalName
+Argument_IllegalEnvVarName
+Argument_ImplementIComparable
+Argument_InvalidAppendMode
+Argument_InvalidArgumentForComparison
+Argument_InvalidArrayLength
+Argument_InvalidArrayType
+Argument_InvalidCalendar
+Argument_InvalidCharSequence
+Argument_InvalidCharSequenceNoIndex
+Argument_InvalidCodePageBytesIndex
+Argument_InvalidCodePageConversionIndex
+Argument_InvalidCultureName
+Argument_InvalidDateTimeKind
+Argument_InvalidDateTimeStyles
+Argument_InvalidDigitSubstitution
+Argument_InvalidElementName
+Argument_InvalidElementTag
+Argument_InvalidElementText
+Argument_InvalidElementValue
+Argument_InvalidEnum
+Argument_InvalidEnumValue
+Argument_InvalidFileModeAndAccessCombo
+Argument_InvalidFlag
+Argument_InvalidGroupSize
+Argument_InvalidHandle
+Argument_InvalidHighSurrogate
+Argument_InvalidId
+Argument_InvalidLowSurrogate
+Argument_InvalidMemberForNamedArgument
+Argument_InvalidNativeDigitCount
+Argument_InvalidNativeDigitValue
+Argument_InvalidNeutralRegionName
+Argument_InvalidNormalizationForm
+Argument_InvalidNumberStyles
+Argument_InvalidOffLen
+Argument_InvalidPathChars
+Argument_InvalidPredefinedCultureName
+Argument_InvalidREG_TZI_FORMAT
+Argument_InvalidResourceCultureName
+Argument_InvalidSafeBufferOffLen
+Argument_InvalidSeekOrigin
+Argument_InvalidSerializedString
+Argument_InvalidTimeSpanStyles
+Argument_InvalidTypeName
+Argument_InvalidTypeWithPointersNotSupported
+Argument_InvalidUnity
+Argument_InvalidValue
+Argument_LongEnvVarValue
+Argument_MinMaxValue
+Argument_MustBeFalse
+Argument_MustBeRuntimeAssembly
+Argument_MustBeRuntimeType
+Argument_MustHaveAttributeBaseClass
+Argument_MustHaveLayoutOrBeBlittable
+Argument_NativeOverlappedAlreadyFree
+Argument_NativeOverlappedWrongBoundHandle
+Argument_NeedNonGenericObject
+Argument_NeedNonGenericType
+Argument_NeedStructWithNoRefs
+Argument_NoEra
+Argument_NoRegionInvariantCulture
+Argument_NoUninitializedStrings
+Argument_NotEnoughBytesToRead
+Argument_NotEnoughBytesToWrite
+Argument_OffsetAndCapacityOutOfBounds
+Argument_OffsetLocalMismatch
+Argument_OffsetOutOfRange
+Argument_OffsetPrecision
+Argument_OffsetUtcMismatch
+Argument_OneOfCulturesNotSupported
+Argument_OnlyMscorlib
+Argument_OutOfOrderDateTimes
+Argument_OverlapAlignmentMismatch
+Argument_PathEmpty
+Argument_PathFormatNotSupported_Path
+Argument_PreAllocatedAlreadyAllocated
+Argument_PrecisionTooLarge
+Argument_RecursiveFallback
+Argument_RecursiveFallbackBytes
+Argument_ResourceScopeWrongDirection
+Argument_ResultCalendarRange
+Argument_SemaphoreInitialMaximum
+Argument_SpansMustHaveSameLength
+Argument_StreamNotReadable
+Argument_StreamNotWritable
+Argument_StringFirstCharIsZero
+Argument_StringZeroLength
+Argument_StructArrayTooLarge
+Argument_StructMustNotBeValueClass
+Argument_TimeSpanHasSeconds
+Argument_TimeZoneInfoBadTZif
+Argument_TimeZoneInfoInvalidTZif
+Argument_TimeZoneNotFound
+Argument_ToExclusiveLessThanFromExclusive
+Argument_TransitionTimesAreIdentical
+Argument_TypeMustNotBeComImport
+Argument_UTCOutOfRange
+Argument_UnmanagedMemAccessorWrapAround
+Argument_WaitHandleNameTooLong
+Arithmetic_NaN
+ArrayTypeMismatch_CantAssignType
+ArrayTypeMismatch_ConstrainedCopy
+AssemblyDependencyResolver_FailedToLoadHostpolicy
+AssemblyDependencyResolver_FailedToResolveDependencies
+AssemblyLoadContext_Unload_AlreadyUnloaded
+AssemblyLoadContext_Unload_CannotUnloadIfNotCollectible
+AssemblyLoadContext_Verify_NotUnloading
+AssertionFailed
+AssertionFailed_Cnd
+AssumptionFailed
+AssumptionFailed_Cnd
+AsyncMethodBuilder_InstanceNotInitialized
+BadImageFormatException_CouldNotLoadFileOrAssembly
+BadImageFormat_BadILFormat
+BadImageFormat_InvalidType
+BadImageFormat_NegativeStringLength
+BadImageFormat_ResType_SerBlobMismatch
+BadImageFormat_ResourceDataLengthInvalid
+BadImageFormat_ResourceNameCorrupted
+BadImageFormat_ResourceNameCorrupted_NameIndex
+BadImageFormat_ResourcesDataInvalidOffset
+BadImageFormat_ResourcesHeaderCorrupted
+BadImageFormat_ResourcesIndexTooLong
+BadImageFormat_ResourcesNameInvalidOffset
+BadImageFormat_ResourcesNameTooLong
+BadImageFormat_TypeMismatch
+CancellationTokenSource_Disposed
+CancellationToken_CreateLinkedToken_TokensIsEmpty
+CancellationToken_SourceDisposed
+ClassLoad_BadFormat
+ClassLoad_ExplicitGeneric
+ClassLoad_ExplicitLayout
+ClassLoad_General
+ClassLoad_RankTooLarge
+ClassLoad_ValueClassTooLarge
+ConcurrentCollection_SyncRoot_NotSupported
+CustomAttributeFormat_InvalidFieldFail
+CustomAttributeFormat_InvalidPropertyFail
+DebugAssertBanner
+DebugAssertLongMessage
+DebugAssertShortMessage
+DelegateSer_InsufficientMetadata
+Delegate_GarbageCollected
+EE_MissingField
+EE_MissingMethod
+EventSource_AbstractMustNotDeclareEventMethods
+EventSource_AbstractMustNotDeclareKTOC
+EventSource_AddScalarOutOfRange
+EventSource_BadHexDigit
+EventSource_ChannelTypeDoesNotMatchEventChannelValue
+EventSource_DataDescriptorsOutOfRange
+EventSource_DuplicateStringKey
+EventSource_EnumKindMismatch
+EventSource_EvenHexDigits
+EventSource_EventChannelOutOfRange
+EventSource_EventIdReused
+EventSource_EventMustHaveTaskIfNonDefaultOpcode
+EventSource_EventMustNotBeExplicitImplementation
+EventSource_EventNameDoesNotEqualTaskPlusOpcode
+EventSource_EventNameReused
+EventSource_EventParametersMismatch
+EventSource_EventSourceGuidInUse
+EventSource_EventTooBig
+EventSource_EventWithAdminChannelMustHaveMessage
+EventSource_IllegalKeywordsValue
+EventSource_IllegalOpcodeValue
+EventSource_IllegalTaskValue
+EventSource_IllegalValue
+EventSource_IncorrentlyAuthoredTypeInfo
+EventSource_InvalidCommand
+EventSource_InvalidEventFormat
+EventSource_KeywordCollision
+EventSource_KeywordNeedPowerOfTwo
+EventSource_ListenerCreatedInsideCallback
+EventSource_ListenerNotFound
+EventSource_ListenerWriteFailure
+EventSource_MaxChannelExceeded
+EventSource_MismatchIdToWriteEvent
+EventSource_NeedGuid
+EventSource_NeedName
+EventSource_NeedPositiveId
+EventSource_NoFreeBuffers
+EventSource_NoRelatedActivityId
+EventSource_NonCompliantTypeError
+EventSource_NotSupportedArrayOfBinary
+EventSource_NotSupportedArrayOfNil
+EventSource_NotSupportedArrayOfNullTerminatedString
+EventSource_NotSupportedCustomSerializedData
+EventSource_NotSupportedNestedArraysEnums
+EventSource_NullInput
+EventSource_OpcodeCollision
+EventSource_PinArrayOutOfRange
+EventSource_RecursiveTypeDefinition
+EventSource_SessionIdError
+EventSource_StopsFollowStarts
+EventSource_TaskCollision
+EventSource_TaskOpcodePairReused
+EventSource_ToString
+EventSource_TooManyArgs
+EventSource_TooManyFields
+EventSource_TraitEven
+EventSource_TypeMustBeSealedOrAbstract
+EventSource_TypeMustDeriveFromEventSource
+EventSource_UndefinedChannel
+EventSource_UndefinedKeyword
+EventSource_UndefinedOpcode
+EventSource_UnknownEtwTrait
+EventSource_UnsupportedEventTypeInManifest
+EventSource_UnsupportedMessageProperty
+EventSource_VarArgsParameterMismatch
+Exception_EndOfInnerExceptionStack
+Exception_WasThrown
+ExecutionContext_ExceptionInAsyncLocalNotification
+FeatureRemoved_Message
+Format_Bad7BitInt
+Format_BadBase64Char
+Format_BadBase64CharArrayLength
+Format_BadBoolean
+Format_BadDatePattern
+Format_BadDateTime
+Format_BadDateTimeCalendar
+Format_BadDayOfWeek
+Format_BadFormatSpecifier
+Format_BadQuote
+Format_BadTimeSpan
+Format_DateOutOfRange
+Format_EmptyInputString
+Format_ExtraJunkAtEnd
+Format_GuidBrace
+Format_GuidBraceAfterLastNumber
+Format_GuidComma
+Format_GuidDashes
+Format_GuidEndBrace
+Format_GuidHexPrefix
+Format_GuidInvLen
+Format_GuidInvalidChar
+Format_GuidUnrecognized
+Format_IndexOutOfRange
+Format_InvalidEnumFormatSpecification
+Format_InvalidGuidFormatSpecification
+Format_InvalidString
+Format_MissingIncompleteDate
+Format_NeedSingleChar
+Format_NoFormatSpecifier
+Format_NoParsibleDigits
+Format_OffsetOutOfRange
+Format_RepeatDateTimePattern
+Format_StringZeroLength
+Format_UTCOutOfRange
+Format_UnknownDateTimeWord
+GenericInvalidData
+Globalization_cp_1200
+Globalization_cp_12000
+Globalization_cp_12001
+Globalization_cp_1201
+Globalization_cp_20127
+Globalization_cp_28591
+Globalization_cp_65000
+Globalization_cp_65001
+HashCode_EqualityNotSupported
+HashCode_HashCodeNotSupported
+IO_AlreadyExists_Name
+IO_BindHandleFailed
+IO_DriveNotFound_Drive
+IO_EOF_ReadBeyondEOF
+IO_FileExists_Name
+IO_FileLoad
+IO_FileLoad_FileName
+IO_FileName_Name
+IO_FileNotFound
+IO_FileNotFound_FileName
+IO_FileStreamHandlePosition
+IO_FileTooLong2GB
+IO_FileTooLongOrHandleNotSync
+IO_FixedCapacity
+IO_InvalidReadLength
+IO_InvalidStringLen_Len
+IO_PathNotFound_NoPathName
+IO_PathNotFound_Path
+IO_PathTooLong
+IO_PathTooLong_Path
+IO_SeekAppendOverwrite
+IO_SeekBeforeBegin
+IO_SetLengthAppendTruncate
+IO_SharingViolation_File
+IO_SharingViolation_NoFileName
+IO_StreamTooLong
+IO_UnknownFileName
+IndexOutOfRange_ArrayWithOffset
+IndexOutOfRange_IORaceCondition
+IndexOutOfRange_UMSPosition
+InsufficientMemory_MemFailPoint
+InsufficientMemory_MemFailPoint_TooBig
+InsufficientMemory_MemFailPoint_VAFrag
+Interop_Marshal_Unmappable_Char
+InvalidAssemblyName
+InvalidCast_CannotCastNullToValueType
+InvalidCast_DBNull
+InvalidCast_DownCastArrayElement
+InvalidCast_Empty
+InvalidCast_FromDBNull
+InvalidCast_FromTo
+InvalidCast_IConvertible
+InvalidCast_StoreArrayElement
+InvalidFilterCriteriaException_CritInt
+InvalidFilterCriteriaException_CritString
+InvalidOperationException_AlreadyInNoGCRegion
+InvalidOperationException_NoGCRegionAllocationExceeded
+InvalidOperationException_NoGCRegionInduced
+InvalidOperationException_NoGCRegionNotInProgress
+InvalidOperation_ArrayCreateInstance_NotARuntimeType
+InvalidOperation_AsyncFlowCtrlCtxMismatch
+InvalidOperation_AsyncIOInProgress
+InvalidOperation_CalledTwice
+InvalidOperation_Calling
+InvalidOperation_CannotRegisterSecondResolver
+InvalidOperation_CannotRestoreUnsupressedFlow
+InvalidOperation_CannotSupressFlowMultipleTimes
+InvalidOperation_CannotUseAFCMultiple
+InvalidOperation_CannotUseAFCOtherThread
+InvalidOperation_CollectionCorrupted
+InvalidOperation_ComputerName
+InvalidOperation_ConcurrentOperationsNotSupported
+InvalidOperation_DateTimeParsing
+InvalidOperation_EmptyQueue
+InvalidOperation_EndReadCalledMultiple
+InvalidOperation_EndWriteCalledMultiple
+InvalidOperation_EnumEnded
+InvalidOperation_EnumFailedVersion
+InvalidOperation_EnumNotStarted
+InvalidOperation_EnumOpCantHappen
+InvalidOperation_GetVersion
+InvalidOperation_HandleIsNotInitialized
+InvalidOperation_HandleIsNotPinned
+InvalidOperation_HashInsertFailed
+InvalidOperation_IComparerFailed
+InvalidOperation_InvalidHandle
+InvalidOperation_MustCallInitialize
+InvalidOperation_NoPublicAddMethod
+InvalidOperation_NoPublicRemoveMethod
+InvalidOperation_NoValue
+InvalidOperation_NotGenericType
+InvalidOperation_NotSupportedOnWinRTEvent
+InvalidOperation_NotWithConcurrentGC
+InvalidOperation_NullArray
+InvalidOperation_NullContext
+InvalidOperation_Overlapped_Pack
+InvalidOperation_ReadOnly
+InvalidOperation_ResMgrBadResSet_Type
+InvalidOperation_ResourceNotStream_Name
+InvalidOperation_ResourceNotString_Name
+InvalidOperation_ResourceNotString_Type
+InvalidOperation_SendNotSupportedOnWindowsRTSynchronizationContext
+InvalidOperation_SetLatencyModeNoGC
+InvalidOperation_SpanOverlappedOperation
+InvalidOperation_ThreadWrongThreadStart
+InvalidOperation_TimeoutsNotSupported
+InvalidOperation_TimerAlreadyClosed
+InvalidOperation_TooEarly
+InvalidOperation_UnderlyingArrayListChanged
+InvalidOperation_UnknownEnumType
+InvalidOperation_WriteOnce
+InvalidOperation_WrongAsyncResultOrEndCalledMultiple
+InvalidOperation_WrongAsyncResultOrEndReadCalledMultiple
+InvalidOperation_WrongAsyncResultOrEndWriteCalledMultiple
+InvalidProgram_CallVirtFinalize
+InvalidProgram_Default
+InvalidProgram_Specific
+InvalidProgram_UnmanagedCallersOnly
+InvalidProgram_Vararg
+InvalidTimeZone_InvalidFileData
+InvalidTimeZone_InvalidJulianDay
+InvalidTimeZone_InvalidRegistryData
+InvalidTimeZone_NJulianDayNotSupported
+InvalidTimeZone_NoTTInfoStructures
+InvalidTimeZone_UnparseablePosixMDateString
+InvariantFailed
+InvariantFailed_Cnd
+Lazy_CreateValue_NoParameterlessCtorForT
+Lazy_StaticInit_InvalidOperation
+Lazy_ToString_ValueNotCreated
+Lazy_Value_RecursiveCallsToValue
+Lazy_ctor_ModeInvalid
+LockRecursionException_ReadAfterWriteNotAllowed
+LockRecursionException_RecursiveReadNotAllowed
+LockRecursionException_RecursiveUpgradeNotAllowed
+LockRecursionException_RecursiveWriteNotAllowed
+LockRecursionException_UpgradeAfterReadNotAllowed
+LockRecursionException_UpgradeAfterWriteNotAllowed
+LockRecursionException_WriteAfterReadNotAllowed
+ManualResetEventSlim_Disposed
+ManualResetEventSlim_ctor_SpinCountOutOfRange
+ManualResetEventSlim_ctor_TooManyWaiters
+MemoryDisposed
+Memory_OutstandingReferences
+MissingConstructor_Name
+MissingEncodingNameResource
+MissingField
+MissingField_Name
+MissingManifestResource_MultipleBlobs
+MissingManifestResource_NoNeutralAsm
+MissingManifestResource_NoNeutralDisk
+MissingManifestResource_NoPRIresources
+MissingManifestResource_ResWFileNotLoaded
+MissingMember
+MissingMember_Name
+MissingMethod_Name
+MissingSatelliteAssembly_Culture_Name
+MissingSatelliteAssembly_Default
+MustUseCCRewrite
+NotSupported_AbstractNonCLS
+NotSupported_AssemblyLoadFromHash
+NotSupported_ByRefLike
+NotSupported_ByRefLikeArray
+NotSupported_CannotCallEqualsOnSpan
+NotSupported_CannotCallGetHashCodeOnSpan
+NotSupported_CannotWriteToBufferedStreamIfReadBufferCannotBeFlushed
+NotSupported_ChangeType
+NotSupported_DBNullSerial
+NotSupported_DelegateSerHolderSerial
+NotSupported_FileStreamOnNonFiles
+NotSupported_FixedSizeCollection
+NotSupported_GlobalMethodSerialization
+NotSupported_KeyCollectionSet
+NotSupported_ManagedActivation
+NotSupported_MaxWaitHandles
+NotSupported_MemStreamNotExpandable
+NotSupported_NYI
+NotSupported_NoCodepageData
+NotSupported_NoTypeInfo
+NotSupported_ObsoleteResourcesFile
+NotSupported_OpenType
+NotSupported_Overlapped
+NotSupported_RangeCollection
+NotSupported_ReadOnlyCollection
+NotSupported_Reading
+NotSupported_ResourceObjectSerialization
+NotSupported_SignatureType
+NotSupported_StringComparison
+NotSupported_SubclassOverride
+NotSupported_Type
+NotSupported_UmsSafeBuffer
+NotSupported_UnitySerHolder
+NotSupported_UnreadableStream
+NotSupported_UnseekableStream
+NotSupported_UnwritableStream
+NotSupported_ValueCollectionSet
+NotSupported_VoidArray
+NotSupported_WaitAllSTAThread
+NotSupported_Writing
+NotSupported_WrongResourceReader_Type
+NullReference_InvokeNullRefReturned
+ObjectDisposed_FileClosed
+ObjectDisposed_Generic
+ObjectDisposed_ObjectName_Name
+ObjectDisposed_ReaderClosed
+ObjectDisposed_ResourceSet
+ObjectDisposed_SafeHandleClosed
+ObjectDisposed_StreamClosed
+ObjectDisposed_ViewAccessorClosed
+ObjectDisposed_WriterClosed
+OperationCanceled
+Overflow_Byte
+Overflow_Char
+Overflow_Currency
+Overflow_Decimal
+Overflow_Double
+Overflow_Duration
+Overflow_Int16
+Overflow_Int32
+Overflow_Int64
+Overflow_MutexReacquireCount
+Overflow_NegateTwosCompNum
+Overflow_NegativeUnsigned
+Overflow_SByte
+Overflow_Single
+Overflow_TimeSpanElementTooLarge
+Overflow_TimeSpanTooLong
+Overflow_UInt16
+Overflow_UInt32
+Overflow_UInt64
+PersistedFiles_NoHomeDirectory
+PlatformNotSupported_AppDomain_ResMon
+PlatformNotSupported_AppDomains
+PlatformNotSupported_ArgIterator
+PlatformNotSupported_CAS
+PlatformNotSupported_ComInterop
+PlatformNotSupported_NamedSynchronizationPrimitives
+PlatformNotSupported_OSXFileLocking
+PlatformNotSupported_OverlappedIO
+PlatformNotSupported_Principal
+PlatformNotSupported_ReflectionEmit
+PlatformNotSupported_ReflectionOnly
+PlatformNotSupported_Remoting
+PlatformNotSupported_ResourceManager_ResWFileUnsupportedMethod
+PlatformNotSupported_ResourceManager_ResWFileUnsupportedProperty
+PlatformNotSupported_SecureBinarySerialization
+PlatformNotSupported_StrongNameSigning
+PlatformNotSupported_ThreadAbort
+PlatformNotSupported_ThreadSuspend
+PostconditionFailed
+PostconditionFailed_Cnd
+PostconditionOnExceptionFailed
+PostconditionOnExceptionFailed_Cnd
+PreconditionFailed
+PreconditionFailed_Cnd
+RFLCT_Ambiguous
+Rank_MultiDimNotSupported
+ResourceReaderIsClosed
+Resources_StreamNotValid
+RuntimeWrappedException
+Security_CannotReadFileData
+Security_CannotReadRegistryData
+Security_InvalidAssemblyPublicKey
+Security_RegistryPermission
+SemaphoreSlim_Disposed
+SemaphoreSlim_Release_CountWrong
+SemaphoreSlim_Wait_TimeoutWrong
+SemaphoreSlim_ctor_InitialCountWrong
+SemaphoreSlim_ctor_MaxCountWrong
+SerializationException
+Serialization_BadParameterInfo
+Serialization_CorruptField
+Serialization_DangerousDeserialization
+Serialization_DangerousDeserialization_Switch
+Serialization_DateTimeTicksOutOfRange
+Serialization_DelegatesNotSupported
+Serialization_InsufficientDeserializationState
+Serialization_InsufficientState
+Serialization_InvalidData
+Serialization_InvalidEscapeSequence
+Serialization_InvalidFieldState
+Serialization_InvalidOnDeser
+Serialization_InvalidPtrValue
+Serialization_InvalidType
+Serialization_KeyValueDifferentSizes
+Serialization_MemberTypeNotRecognized
+Serialization_MissingDateTimeData
+Serialization_MissingKeys
+Serialization_MissingValues
+Serialization_NoParameterInfo
+Serialization_NotFound
+Serialization_NullKey
+Serialization_NullSignature
+Serialization_OptionalFieldVersionValue
+Serialization_SameNameTwice
+Serialization_StringBuilderCapacity
+Serialization_StringBuilderMaxCapacity
+Serialization_UnableToFindModule
+Serialization_UnknownMember
+SpinLock_Exit_SynchronizationLockException
+SpinLock_IsHeldByCurrentThread
+SpinLock_TryEnter_ArgumentOutOfRange
+SpinLock_TryEnter_LockRecursionException
+SpinLock_TryReliableEnter_ArgumentException
+SpinWait_SpinUntil_ArgumentNull
+SpinWait_SpinUntil_TimeoutWrong
+StackTrace_AtWord
+StackTrace_EndStackTraceFromPreviousThrow
+SwitchExpressionException_UnmatchedValue
+SynchronizationLockException_IncorrectDispose
+SynchronizationLockException_MisMatchedRead
+SynchronizationLockException_MisMatchedUpgrade
+SynchronizationLockException_MisMatchedWrite
+TaskCanceledException_ctor_DefaultMessage
+TaskCompletionSourceT_TrySetException_NoExceptions
+TaskCompletionSourceT_TrySetException_NullException
+TaskExceptionHolder_UnhandledException
+TaskExceptionHolder_UnknownExceptionType
+TaskSchedulerException_ctor_DefaultMessage
+TaskScheduler_ExecuteTask_WrongTaskScheduler
+TaskScheduler_FromCurrentSynchronizationContext_NoCurrent
+TaskScheduler_InconsistentStateAfterTryExecuteTaskInline
+TaskT_DebuggerNoResult
+TaskT_TransitionToFinal_AlreadyCompleted
+Task_ContinueWith_ESandLR
+Task_ContinueWith_NotOnAnything
+Task_Delay_InvalidDelay
+Task_Delay_InvalidMillisecondsDelay
+Task_Dispose_NotCompleted
+Task_FromAsync_LongRunning
+Task_FromAsync_PreferFairness
+Task_MultiTaskContinuation_EmptyTaskList
+Task_MultiTaskContinuation_FireOptions
+Task_MultiTaskContinuation_NullTask
+Task_RunSynchronously_AlreadyStarted
+Task_RunSynchronously_Continuation
+Task_RunSynchronously_Promise
+Task_RunSynchronously_TaskCompleted
+Task_Start_AlreadyStarted
+Task_Start_ContinuationTask
+Task_Start_Promise
+Task_Start_TaskCompleted
+Task_ThrowIfDisposed
+Task_WaitMulti_NullTask
+ThreadLocal_Disposed
+ThreadLocal_Value_RecursiveCallsToValue
+ThreadLocal_ValuesNotAvailable
+ThreadState_AlreadyStarted
+ThreadState_Dead_Priority
+ThreadState_Dead_State
+ThreadState_NotStarted
+ThreadState_SetPriorityFailed
+Thread_ApartmentState_ChangeFailed
+Thread_GetSetCompressedStack_NotSupported
+Thread_Operation_RequiresCurrentThread
+Threading_AbandonedMutexException
+Threading_SemaphoreFullException
+Threading_ThreadInterrupted
+Threading_WaitHandleCannotBeOpenedException
+Threading_WaitHandleCannotBeOpenedException_InvalidHandle
+Threading_WaitHandleTooManyPosts
+TimeZoneNotFound_MissingData
+TypeInitialization_Default
+TypeInitialization_Type
+TypeInitialization_Type_NoTypeAvailable
+UnauthorizedAccess_IODenied_NoPathName
+UnauthorizedAccess_IODenied_Path
+UnauthorizedAccess_MemStreamBuffer
+UnauthorizedAccess_RegistryKeyGeneric_Key
+UnknownError_Num
+Verification_Exception
+WrongSizeArrayInNStruct
+net_emptystringcall
+Argument_OffsetOfFieldNotFound
+DelegateMarshalling_MissingInteropData>
+StructMarshalling_MissingInteropData
+InvalidOperation_EnumFailedVersion
+InvalidOperation_EnumOpCantHappen@
+bad_endpoint_string}
+dns_bad_ip_address
+net_InvalidAddressFamily
+net_InvalidSocketAddressSize
+net_MethodNotImplementedException
+net_PropertyNotImplementedException
+net_collection_readonly
+net_container_add_cookie
+net_cookie_attribute
+net_cookie_capacity_range
+net_cookie_format
+net_cookie_parse_header
+net_cookie_size
+net_emptystringcall
+net_nodefaultcreds
+net_sockets_invalid_optionValue_all
+net_toosmall
+ArgumentOutOfRange_FileLengthTooBig
+ArgumentOutOfRange_NeedNonNegativeNum:
+ArgumentOutOfRange_NeedPosNumY
+IO_FileExists_Namet
+IO_FileNotFound
+IO_FileNotFound_FileName
+IO_PathNotFound_NoPathName
+IO_PathNotFound_Path
+IO_PathTooLong
+IO_PathTooLong_Path
+IO_SeekBeforeBegin
+IO_SharingViolation_File
+IO_SharingViolation_NoFileName
+InvalidHeaderName
+MailAddressInvalidFormat
+MailHeaderFieldInvalidCharacter
+MailHeaderFieldMalformedHeader
+NotSupported_UnreadableStream
+NotSupported_UnwritableStream
+ObjectDisposed_StreamClosed
+SSPIInvalidHandleType
+UnauthorizedAccess_IODenied_NoPathName
+UnauthorizedAccess_IODenied_Path
+event_OperationReturnedSomething
+net_MethodNotImplementedException
+net_auth_message_not_encrypted
+net_completed_result
+net_context_buffer_too_small
+net_cookie_attribute
+net_gssapi_ntlm_missing_plugin
+net_gssapi_operation_failed
+net_gssapi_operation_failed_detailed
+net_gssapi_operation_failed_detailed_majoronly
+net_gssapi_operation_failed_majoronly
+net_http_argument_empty_string
+net_http_authconnectionfailure
+net_http_buffer_insufficient_length
+net_http_chunked_not_allowed_with_empty_content
+net_http_client_absolute_baseaddress_required
+net_http_client_execution_error
+net_http_client_http_baseaddress_required
+net_http_client_invalid_requesturi
+net_http_client_request_already_sent
+net_http_content_buffersize_exceeded
+net_http_content_buffersize_limit
+net_http_content_field_too_long
+net_http_content_invalid_charset
+net_http_content_no_concurrent_reads
+net_http_content_no_task_returned
+net_http_content_readonly_stream
+net_http_content_stream_already_read
+net_http_content_stream_copy_error
+net_http_content_write_larger_than_content_length
+net_http_copyto_array_too_small
+net_http_disposed_while_in_use
+net_http_feature_UWPClientCertSupportRequiresCertInPersonalCertificateStore
+net_http_feature_requires_Windows10Version1607
+net_http_handler_norequest
+net_http_handler_noresponse
+net_http_handler_not_assigned
+net_http_headers_exceeded_length
+net_http_headers_invalid_etag_name
+net_http_headers_invalid_from_header
+net_http_headers_invalid_header_name
+net_http_headers_invalid_host_header
+net_http_headers_invalid_range
+net_http_headers_invalid_value
+net_http_headers_no_newlines
+net_http_headers_not_allowed_header_name
+net_http_headers_not_found
+net_http_headers_single_value_header
+net_http_hpack_bad_integer
+net_http_hpack_encode_failure
+net_http_hpack_huffman_decode_failed
+net_http_hpack_incomplete_header_block
+net_http_hpack_invalid_index
+net_http_hpack_large_table_size_update
+net_http_hpack_late_dynamic_table_size_update
+net_http_hpack_unexpected_end
+net_http_http2_connection_error
+net_http_http2_stream_error
+net_http_http3_connection_error
+net_http_http3_stream_error
+net_http_httpmethod_format_error
+net_http_httpmethod_notsupported_error
+net_http_invalid_cookiecontainer
+net_http_invalid_enable_first
+net_http_invalid_header_name
+net_http_invalid_proxy
+net_http_invalid_proxy_scheme
+net_http_invalid_proxyusepolicy
+net_http_invalid_response
+net_http_invalid_response_chunk_extension_invalid
+net_http_invalid_response_chunk_header_invalid
+net_http_invalid_response_chunk_terminator_invalid
+net_http_invalid_response_header_folder
+net_http_invalid_response_header_line
+net_http_invalid_response_header_name
+net_http_invalid_response_missing_frame
+net_http_invalid_response_premature_eof
+net_http_invalid_response_premature_eof_bytecount
+net_http_invalid_response_pseudo_header_in_trailer
+net_http_invalid_response_status_code
+net_http_invalid_response_status_line
+net_http_invalid_response_status_reason
+net_http_io_read
+net_http_io_read_incomplete
+net_http_io_write
+net_http_log_headers_invalid_quality
+net_http_log_headers_no_newlines
+net_http_log_headers_wrong_email_format
+net_http_message_not_success_statuscode
+net_http_no_concurrent_io_allowed
+net_http_operation_started
+net_http_parser_invalid_base64_string
+net_http_qpack_no_dynamic_table
+net_http_reasonphrase_format_error
+net_http_request_aborted
+net_http_request_invalid_char_encoding
+net_http_request_no_host
+net_http_request_timedout
+net_http_response_headers_exceeded_length
+net_http_retry_on_older_version
+net_http_server_shutdown
+net_http_ssl_connection_failed
+net_http_unix_handler_disposed
+net_http_unsupported_chunking
+net_http_unsupported_version
+net_http_username_empty_string
+net_http_value_must_be_greater_than
+net_http_value_not_supported
+net_http_winhttp_error
+net_invalid_enum
+net_log_operation_failed_with_error
+net_nego_not_supported_empty_target_with_defaultcreds
+net_nego_protection_level_not_supported
+net_nego_server_not_supported
+net_ntlm_not_possible_default_cred
+net_quic_connectionaborted
+net_quic_notsupported
+net_quic_operationaborted
+net_quic_streamaborted
+net_securitypackagesupport
+net_securityprotocolnotsupported
+net_ssl_app_protocols_invalid
+net_ssl_http2_requires_tls12
+AlternationCantCapture
+AlternationCantHaveComment<
+Arg_ArrayPlusOffTooSmallh
+ArgumentNull_ArrayWithNullElements
+BadClassInCharRange
+BeginIndexNotNegative
+CapnumNotZero
+CaptureGroupOutOfRange
+CountTooSmall
+EnumNotStarted
+IllegalCondition
+IllegalDefaultRegexMatchTimeoutInAppDomain
+IllegalEndEscape
+IllegalRange
+IncompleteSlashP
+InternalError_ScanRegex
+InvalidEmptyArgument
+InvalidGroupName
+LengthNotNegative
+MakeException
+MalformedNameRef
+MalformedReference
+MalformedSlashP
+MissingControl
+NestedQuantify
+NoResultOnFailed
+NotEnoughParens
+NotSupported_ReadOnlyCollection
+OnlyAllowedOnce
+PlatformNotSupported_CompileToAssembly
+QuantifyAfterNothing
+RegexMatchTimeoutException_Occurred
+ReplacementError
+ReversedCharRange
+SubtractionMustBeLast
+TooFewHex
+TooManyAlternates
+TooManyParens
+UndefinedBackref
+UndefinedNameRef
+UndefinedReference
+UnexpectedOpcode
+UnimplementedState
+UnknownProperty
+UnrecognizedControl
+UnrecognizedEscape
+UnrecognizedGrouping
+UnterminatedBracket
+UnterminatedComment
+Arg_CryptographyException
+Arg_EmptyOrNullArray2
+Arg_EmptyOrNullStringS
+Arg_EnumIllegalValt
+Arg_InvalidHandle
+Arg_InvalidType
+Arg_OutOfRange_NeedNonNegNum
+Arg_RankMultiDimNotSupported
+ArgumentOutOfRange_Index
+Argument_EncodeDestinationTooSmall
+Argument_InvalidFlag
+Argument_InvalidNameType
+Argument_InvalidOffLen
+Argument_InvalidOidValue
+Argument_InvalidValue
+Chain_NoPolicyMatch
+Cryptography_AlgKdfRequiresChars
+Cryptography_AsnWriter_EncodeUnbalancedStack
+Cryptography_AsnWriter_PopWrongTag
+Cryptography_Asn_EnumeratedValueRequiresNonFlagsEnum
+Cryptography_Asn_NamedBitListRequiresFlagsEnum
+Cryptography_Asn_NamedBitListValueTooBig
+Cryptography_Asn_UniversalValueIsFixed
+Cryptography_Asn_UnusedBitCountRange
+Cryptography_BadHashSize_ForAlgorithm
+Cryptography_CSP_NoPrivateKey
+Cryptography_CertReq_AlgorithmMustMatch
+Cryptography_CertReq_BasicConstraintsRequired
+Cryptography_CertReq_DateTooOld
+Cryptography_CertReq_DatesReversed
+Cryptography_CertReq_DuplicateExtension
+Cryptography_CertReq_IssuerBasicConstraintsInvalid
+Cryptography_CertReq_IssuerKeyUsageInvalid
+Cryptography_CertReq_IssuerRequiresPrivateKey
+Cryptography_CertReq_NoKeyProvided
+Cryptography_CertReq_NotAfterNotNested
+Cryptography_CertReq_NotBeforeNotNested
+Cryptography_CertReq_RSAPaddingRequired
+Cryptography_Cert_AlreadyHasPrivateKey
+Cryptography_CurveNotSupported
+Cryptography_CustomTrustCertsInSystemMode
+Cryptography_DSA_KeyGenNotSupported
+Cryptography_Der_Invalid_Encoding
+Cryptography_ECC_NamedCurvesOnly
+Cryptography_Encryption_MessageTooLong
+Cryptography_FileStatusError
+Cryptography_HashAlgorithmNameNullOrEmpty
+Cryptography_InvalidContextHandle
+Cryptography_InvalidDirectoryPermissions
+Cryptography_InvalidDsaParameters_MismatchedPGY
+Cryptography_InvalidDsaParameters_MismatchedPJ
+Cryptography_InvalidDsaParameters_MismatchedQX
+Cryptography_InvalidDsaParameters_MissingFields
+Cryptography_InvalidDsaParameters_QRestriction_LargeKey
+Cryptography_InvalidDsaParameters_QRestriction_ShortKey
+Cryptography_InvalidDsaParameters_SeedRestriction_ShortKey
+Cryptography_InvalidECCharacteristic2Curve
+Cryptography_InvalidFilePermissions
+Cryptography_InvalidHandle
+Cryptography_InvalidKeySize
+Cryptography_InvalidOID
+Cryptography_InvalidPaddingMode
+Cryptography_InvalidPublicKey_Object
+Cryptography_InvalidRsaParameters
+Cryptography_InvalidStoreHandle
+Cryptography_InvalidTrustCertificate
+Cryptography_Invalid_IA5String
+Cryptography_Invalid_X500Name
+Cryptography_KeyTooSmall
+Cryptography_NotValidPrivateKey
+Cryptography_NotValidPublicOrPrivateKey
+Cryptography_OAEP_Decryption_Failed
+Cryptography_OpenInvalidHandle
+Cryptography_OwnerNotCurrentUser
+Cryptography_Pfx_BadKeyReference
+Cryptography_Pfx_BadPassword
+Cryptography_Pfx_NoCertificates
+Cryptography_Pkcs8_EncryptedReadFailed
+Cryptography_PrivateKey_DoesNotMatch
+Cryptography_PrivateKey_WrongAlgorithm
+Cryptography_RSAPrivateKey_VersionTooNew
+Cryptography_RSA_DecryptWrongSize
+Cryptography_SignHash_WrongSize
+Cryptography_Unix_X509_DisallowedStoreNotEmpty
+Cryptography_Unix_X509_MachineStoresReadOnly
+Cryptography_Unix_X509_MachineStoresRootOnly
+Cryptography_Unix_X509_NoDisallowedStore
+Cryptography_Unix_X509_PropertyNotSettable
+Cryptography_Unix_X509_SerializedExport
+Cryptography_UnknownAlgorithmIdentifier
+Cryptography_UnknownHashAlgorithm
+Cryptography_UnknownKeyAlgorithm
+Cryptography_Unmapped_System_Typed_Error
+Cryptography_WriteEncodedValue_OneValueAtATime
+Cryptography_X509Store_WouldModifyAdminTrust
+Cryptography_X509Store_WouldModifyUserTrust
+Cryptography_X509_ExportFailed
+Cryptography_X509_ExtensionMismatch
+Cryptography_X509_InvalidContentType
+Cryptography_X509_InvalidFindType
+Cryptography_X509_InvalidFindValue
+Cryptography_X509_InvalidFlagCombination
+Cryptography_X509_NoEphemeralPfx
+Cryptography_X509_PKCS7_NoSigner
+Cryptography_X509_StoreAddFailure
+Cryptography_X509_StoreCannotCreate
+Cryptography_X509_StoreNoFileAvailable
+Cryptography_X509_StoreNotFound
+Cryptography_X509_StoreNotOpen
+Cryptography_X509_StoreReadOnly
+InvalidOperation_EnumNotStarted
+NotSupported_ECDsa_Csp
+NotSupported_Export_MultiplePrivateCerts
+NotSupported_ImmutableX509Certificate
+NotSupported_KeyAlgorithm
+NotSupported_LegacyBasicConstraints
+PersistedFiles_NoHomeDirectory
+Security_AccessDenied
+Security_InvalidValue
+Unknown_Error
+Arg_KeyNotFoundWithKey
+Argument_AddingDuplicate8
+Argument_ExtraNotValidt
+Argument_InvalidUriSubcomponent
+net_uri_AlreadyRegistered
+net_uri_BadAuthority
+net_uri_BadAuthorityTerminator
+net_uri_BadFormat
+net_uri_BadHostName
+net_uri_BadPort
+net_uri_BadScheme
+net_uri_BadString
+net_uri_BadUnicodeHostForIdn
+net_uri_BadUserPassword
+net_uri_CannotCreateRelative
+net_uri_EmptyUri
+net_uri_InvalidUriKind
+net_uri_MustRootedPath
+net_uri_NeedFreshParser
+net_uri_NotAbsolute
+net_uri_NotJustSerialization
+net_uri_PortOutOfRange
+net_uri_SchemeLimit
+net_uri_SizeLimit
+net_uri_UserDrivenParsing
+ActivityIdFormatInvalid
+ActivityNotRunning0
+ActivityNotStarted_
+ActivityStartAlreadyStarted
+EndTimeNotUtc
+OperationNameInvalid
+ParentIdAlreadySet
+ParentIdInvalid
+SetFormatOnStartedActivity
+SetLinkInvalid
+SetParentIdOnActivityWithParent
+SpanIdOrTraceIdInvalid
+StartTimeNotUtc
+SSPIInvalidHandleType
+event_AttemptingRestartUsingCert'
+event_CertIsType2t
+event_CertificateFromDelegate
+event_CertsAfterFiltering
+event_EnumerateSecurityPackages
+event_FindingMatchingCerts
+event_FoundCertInStore
+event_LocatingPrivateKey
+event_LookForMatchingCerts
+event_NoDelegateButClientCert
+event_NoDelegateNoClientCert
+event_NoIssuersTryAllCerts
+event_NotFoundCertInStore
+event_OperationReturnedSomething
+event_RemoteCertDeclaredValid
+event_RemoteCertHasNoErrors
+event_RemoteCertUserDeclaredInvalid
+event_RemoteCertificate
+event_SecurityContextInputBuffer
+event_SecurityContextInputBuffers
+event_SelectedCert
+event_SspiPackageNotFound
+event_SspiSelectedCipherSuite
+event_UsingCachedCredential
+net_MethodNotImplementedException
+net_allocate_ssl_context_failed
+net_alpn_config_failed
+net_alpn_failed
+net_auth_SSPI
+net_auth_alert
+net_auth_bad_client_creds
+net_auth_bad_client_creds_or_target_mismatch
+net_auth_client_server
+net_auth_context_expectation
+net_auth_context_expectation_remote
+net_auth_eof
+net_auth_ignored_reauth
+net_auth_message_not_encrypted
+net_auth_must_specify_extended_protection_scheme
+net_auth_noauth
+net_auth_reauth
+net_auth_supported_impl_levels
+net_conflicting_options
+net_context_buffer_too_small
+net_encryptionpolicy_notsupported
+net_frame_max_size
+net_frame_read_io
+net_frame_read_size
+net_frame_size
+net_generic_operation_failed
+net_gssapi_ntlm_missing_plugin
+net_gssapi_operation_failed
+net_gssapi_operation_failed_detailed
+net_gssapi_operation_failed_detailed_majoronly
+net_gssapi_operation_failed_majoronly
+net_invalid_enum
+net_io_async_result
+net_io_connectionclosed
+net_io_decrypt
+net_io_encrypt
+net_io_eof
+net_io_header_id
+net_io_invalidendcall
+net_io_invalidnestedcall
+net_io_must_be_rw_stream
+net_io_out_range
+net_io_read
+net_io_readfailure
+net_io_write
+net_log_open_store_failed
+net_log_operation_failed_with_error
+net_log_remote_cert_has_errors
+net_log_remote_cert_name_mismatch
+net_log_remote_cert_not_available
+net_nego_not_supported_empty_target_with_defaultcreds
+net_nego_protection_level_not_supported
+net_nego_server_not_supported
+net_noseek
+net_ntlm_not_possible_default_cred
+net_offset_plus_count
+net_security_sslprotocol_contiguous
+net_securitypackagesupport
+net_securityprotocolnotsupported
+net_ssl_app_protocol_invalid
+net_ssl_app_protocols_invalid
+net_ssl_check_private_key_failed
+net_ssl_ciphersuites_policy_not_supported
+net_ssl_decrypt_failed
+net_ssl_encrypt_failed
+net_ssl_encryptionpolicy_notsupported
+net_ssl_get_channel_binding_token_failed
+net_ssl_get_connection_info_failed
+net_ssl_handshake_failed_error
+net_ssl_invalid_certificate
+net_ssl_io_already_shutdown
+net_ssl_io_cert_validation
+net_ssl_io_frame
+net_ssl_io_no_server_cert
+net_ssl_io_renego
+net_ssl_read_bio_failed_error
+net_ssl_use_cert_failed
+net_ssl_use_private_key_failed
+net_ssl_write_bio_failed_error
+net_ssl_x509Name_push_failed_error
+security_ExtendedProtectionPolicy_NoEmptyServiceNameCollection
+security_ExtendedProtectionPolicy_UseDifferentConstructorForNever
+security_ServiceNameCollection_EmptyServiceName
+Arg_InvalidConsoleColor
+ArgumentNull_Arraye
+ArgumentNull_Buffer|
+ArgumentOutOfRange_BeepFrequency
+ArgumentOutOfRange_ConsoleBufferBoundaries
+ArgumentOutOfRange_ConsoleBufferLessThanWindowSize
+ArgumentOutOfRange_ConsoleKey
+ArgumentOutOfRange_ConsoleWindowBufferSize
+ArgumentOutOfRange_ConsoleWindowPos
+ArgumentOutOfRange_ConsoleWindowSize_Size
+ArgumentOutOfRange_CursorSize
+ArgumentOutOfRange_FileLengthTooBig
+ArgumentOutOfRange_GetByteCountOverflow
+ArgumentOutOfRange_GetCharCountOverflow
+ArgumentOutOfRange_Index
+ArgumentOutOfRange_IndexCount
+ArgumentOutOfRange_IndexCountBuffer
+ArgumentOutOfRange_NeedNonNegNum
+ArgumentOutOfRange_NeedPosNum
+Argument_EncodingConversionOverflowBytes
+Argument_EncodingConversionOverflowChars
+Argument_InvalidCharSequenceNoIndex
+Argument_InvalidOffLen
+IO_AlreadyExists_Name
+IO_FileExists_Name
+IO_FileNotFound
+IO_FileNotFound_FileName
+IO_NoConsole
+IO_PathNotFound_NoPathName
+IO_PathNotFound_Path
+IO_PathTooLong
+IO_PathTooLong_Path
+IO_SharingViolation_File
+IO_SharingViolation_NoFileName
+IO_TermInfoInvalid
+IO_TermInfoInvalidMagicNumber
+IndexOutOfRange_IORaceCondition
+InvalidOperation_ConsoleKeyAvailableOnFile
+InvalidOperation_ConsoleReadKeyOnFile
+InvalidOperation_PrintF
+NotSupported_UnreadableStream
+NotSupported_UnseekableStream
+NotSupported_UnwritableStream
+ObjectDisposed_FileClosed
+PersistedFiles_NoHomeDirectory
+UnauthorizedAccess_IODenied_NoPathName
+UnauthorizedAccess_IODenied_Path
+Arg_ArrayPlusOffTooSmall
+Arg_RankMultiDimNotSupportedm
+Arg_RemoveArgNotFound
+ArgumentNull_Array
+ArgumentNull_Dictionary
+ArgumentNull_Key
+ArgumentOutOfRange_Index
+ArgumentOutOfRange_NeedNonNegNum
+ArgumentOutOfRange_QueueGrowFactor
+ArgumentOutOfRange_SmallCapacity
+Argument_AddingDuplicate_OldAndNewKeys
+Argument_InvalidOffLen
+InvalidOperation_EmptyQueue
+InvalidOperation_EmptyStack
+InvalidOperation_EnumEnded
+InvalidOperation_EnumFailedVersion
+InvalidOperation_EnumNotStarted
+InvalidOperation_EnumOpCantHappen
+NotSupported_KeyCollectionSet
+NotSupported_SortedListNestedWrite
+Arg_KeyNotFoundWithKey
+BlockingCollection_Add_ConcurrentCompleteAdd8
+BlockingCollection_Add_Failed
+BlockingCollection_CantAddAnyWhenCompleted
+BlockingCollection_CantTakeAnyWhenAllDone
+BlockingCollection_CantTakeWhenDone
+BlockingCollection_Completed
+BlockingCollection_CopyTo_IncorrectType
+BlockingCollection_CopyTo_MultiDim
+BlockingCollection_CopyTo_NonNegative
+BlockingCollection_Disposed
+BlockingCollection_Take_CollectionModified
+BlockingCollection_TimeoutInvalid
+BlockingCollection_ValidateCollectionsArray_DispElems
+BlockingCollection_ValidateCollectionsArray_LargeSize
+BlockingCollection_ValidateCollectionsArray_NullElems
+BlockingCollection_ValidateCollectionsArray_ZeroSize
+BlockingCollection_ctor_BoundedCapacityRange
+BlockingCollection_ctor_CountMoreThanCapacity
+Collection_CopyTo_ArgumentOutOfRangeException
+Collection_CopyTo_TooManyElems
+ConcurrentBag_CopyTo_ArgumentNullException
+ConcurrentBag_Ctor_ArgumentNullException
+ConcurrentBag_Enumerator_EnumerationNotStartedOrAlreadyFinished
+ConcurrentCollection_SyncRoot_NotSupported
+ConcurrentDictionary_ArrayIncorrectType
+ConcurrentDictionary_ArrayNotLargeEnough
+ConcurrentDictionary_CapacityMustNotBeNegative
+ConcurrentDictionary_ConcurrencyLevelMustBePositive
+ConcurrentDictionary_IndexIsNegative
+ConcurrentDictionary_ItemKeyIsNull
+ConcurrentDictionary_KeyAlreadyExisted
+ConcurrentDictionary_SourceContainsDuplicateKeys
+ConcurrentDictionary_TypeOfKeyIncorrect
+ConcurrentDictionary_TypeOfValueIncorrect
+ConcurrentStack_PushPopRange_CountOutOfRange
+ConcurrentStack_PushPopRange_InvalidCount
+ConcurrentStack_PushPopRange_StartOutOfRange
+PartitionerStatic_CanNotCallGetEnumeratorAfterSourceHasBeenDisposed
+PartitionerStatic_CurrentCalledBeforeMoveNext
+Partitioner_DynamicPartitionsNotSupported
+Arg_RankMultiDimNotSupported
+ArgumentOutOfRange_IndexH
+ArgumentOutOfRange_NeedNonNegNum
+ArgumentOutOfRange_NeedPositiveNumber
+Argument_EncodeDestinationTooSmall
+Argument_InvalidOffLen
+Argument_InvalidOidValue
+Argument_InvalidValue
+Argument_PemEncoding_EncodedSizeTooLarge
+Argument_PemEncoding_InvalidLabel
+Argument_PemEncoding_NoPemFound
+Cryptography_AsnWriter_EncodeUnbalancedStack
+Cryptography_AsnWriter_PopWrongTag
+Cryptography_Asn_EnumeratedValueRequiresNonFlagsEnum
+Cryptography_Asn_NamedBitListRequiresFlagsEnum
+Cryptography_Asn_NamedBitListValueTooBig
+Cryptography_Asn_UniversalValueIsFixed
+Cryptography_Asn_UnusedBitCountRange
+Cryptography_Der_Invalid_Encoding
+Cryptography_Invalid_IA5String
+Cryptography_Oid_InvalidName
+Cryptography_Oid_InvalidValue
+Cryptography_SSE_InvalidDataSize
+Cryptography_WriteEncodedValue_OneValueAtATime
+ObjectDisposed_Generic
+net_FailedToParseNetworkFile
+net_InformationUnavailableOnPlatformW
+net_MethodNotImplementedException
+net_NoLoopback
+net_PInvokeError
+net_PropertyNotImplementedException
+net_bad_mac_address
+net_collection_readonly
+net_completed_result
+net_io_invalidasyncresult
+net_io_invalidendcall
+Arg_CryptographyException
+ArgumentNull_Buffer2
+ArgumentOutOfRange_NeedNonNegNumJ
+ArgumentOutOfRange_NeedPosNumi
+Argument_EncodeDestinationTooSmall
+Argument_InvalidOffLen
+Argument_InvalidOidValue
+Argument_InvalidRandomRange
+Argument_InvalidValue
+Argument_PemImport_AmbiguousPem
+Argument_PemImport_EncryptedPem
+Argument_PemImport_NoPemFound
+Cryptography_AddNullOrEmptyName
+Cryptography_AlgKdfRequiresChars
+Cryptography_AlgorithmTypesMustBeVisible
+Cryptography_ArgECDHKeySizeMismatch
+Cryptography_ArgECDHRequiresECDHKey
+Cryptography_AsnWriter_EncodeUnbalancedStack
+Cryptography_AsnWriter_PopWrongTag
+Cryptography_Asn_EnumeratedValueRequiresNonFlagsEnum
+Cryptography_Asn_NamedBitListRequiresFlagsEnum
+Cryptography_Asn_NamedBitListValueTooBig
+Cryptography_Asn_UniversalValueIsFixed
+Cryptography_Asn_UnusedBitCountRange
+Cryptography_AuthTagMismatch
+Cryptography_BadHashSize_ForAlgorithm
+Cryptography_CSP_NoPrivateKey
+Cryptography_CipherModeNotSupported
+Cryptography_Config_EncodedOIDError
+Cryptography_CurveNotSupported
+Cryptography_DSA_KeyGenNotSupported
+Cryptography_Der_Invalid_Encoding
+Cryptography_ECC_NamedCurvesOnly
+Cryptography_ECXmlSerializationFormatRequired
+Cryptography_Encryption_MessageTooLong
+Cryptography_FromXmlParseError
+Cryptography_HashAlgorithmNameNullOrEmpty
+Cryptography_InvalidCurveKeyParameters
+Cryptography_InvalidCurveOid
+Cryptography_InvalidDsaParameters_MismatchedPGY
+Cryptography_InvalidDsaParameters_MismatchedPJ
+Cryptography_InvalidDsaParameters_MismatchedQX
+Cryptography_InvalidDsaParameters_MissingFields
+Cryptography_InvalidDsaParameters_QRestriction_LargeKey
+Cryptography_InvalidDsaParameters_QRestriction_ShortKey
+Cryptography_InvalidDsaParameters_SeedRestriction_ShortKey
+Cryptography_InvalidECCharacteristic2Curve
+Cryptography_InvalidECNamedCurve
+Cryptography_InvalidECPrimeCurve
+Cryptography_InvalidFromXmlString
+Cryptography_InvalidIVSize
+Cryptography_InvalidKeySize
+Cryptography_InvalidKey_SemiWeak
+Cryptography_InvalidKey_Weak
+Cryptography_InvalidNonceLength
+Cryptography_InvalidOID
+Cryptography_InvalidOperation
+Cryptography_InvalidPadding
+Cryptography_InvalidPaddingMode
+Cryptography_InvalidRsaParameters
+Cryptography_InvalidTagLength
+Cryptography_Invalid_IA5String
+Cryptography_KeyTooSmall
+Cryptography_MissingIV
+Cryptography_MissingKey
+Cryptography_MissingOID
+Cryptography_MustTransformWholeBlock
+Cryptography_NotValidPrivateKey
+Cryptography_NotValidPublicOrPrivateKey
+Cryptography_OAEP_Decryption_Failed
+Cryptography_Okm_TooLarge
+Cryptography_OpenInvalidHandle
+Cryptography_PartialBlock
+Cryptography_PasswordDerivedBytes_FewBytesSalt
+Cryptography_Pkcs8_EncryptedReadFailed
+Cryptography_PlaintextCiphertextLengthMismatch
+Cryptography_Prk_TooSmall
+Cryptography_RC2_EKS40
+Cryptography_RC2_EKSKS
+Cryptography_RC2_EKSKS2
+Cryptography_RSAPrivateKey_VersionTooNew
+Cryptography_RSA_DecryptWrongSize
+Cryptography_Rijndael_BlockSize
+Cryptography_SignHash_WrongSize
+Cryptography_TlsRequires64ByteSeed
+Cryptography_TlsRequiresLabelAndSeed
+Cryptography_TransformBeyondEndOfBuffer
+Cryptography_UnexpectedTransformTruncation
+Cryptography_UnknownAlgorithmIdentifier
+Cryptography_UnknownHashAlgorithm
+Cryptography_UnknownPaddingMode
+Cryptography_UnknownSignatureFormat
+Cryptography_Unmapped_System_Typed_Error
+Cryptography_UnsupportedPaddingMode
+Cryptography_WriteEncodedValue_OneValueAtATime
+NotSupported_Method
+NotSupported_SubclassOverride
+Arg_CryptographyException
+ArgumentOutOfRange_NeedNonNegNum2
+ArgumentOutOfRange_NeedPosNumQ
+Argument_InvalidOffLenl
+Argument_InvalidValue
+Argument_StreamNotReadable
+Argument_StreamNotWritable
+CryptoConfigNotSupported
+Cryptography_CryptoStream_FlushFinalBlockTwice
+Cryptography_DefaultAlgorithm_NotSupported
+Cryptography_HashNotYetFinalized
+Cryptography_InvalidBlockSize
+Cryptography_InvalidCipherMode
+Cryptography_InvalidFeedbackSize
+Cryptography_InvalidHashAlgorithmOid
+Cryptography_InvalidIVSize
+Cryptography_InvalidKeySize
+Cryptography_InvalidPaddingMode
+HashNameMultipleSetNotSupported
+InvalidOperation_IncorrectImplementation
+NotSupported_SubclassOverride
+NotSupported_UnreadableStream
+NotSupported_UnseekableStream
+NotSupported_UnwritableStream
+EmptyEnumerable
+MoreThanOneElement
+MoreThanOneMatchI
+NoElements{
+NoMatch
+Arg_HTCapacityOverflow
+Argument_AddingDuplicates
+FileLoadException_RefDefMismatch
+FileNotFound_AssemblyNotFound
+Acc_CreateAbst
+Acc_CreateAbstEx"
+Acc_CreateGenericExe
+Acc_CreateInterface
+Acc_CreateVoid
+Acc_NotClassInit
+Acc_ReadOnly
+Arg_AmbiguousMatchException
+Arg_ArrayZeroError
+Arg_CreatInstAccess
+Arg_DlgtTargMeth
+Arg_EmptyArray
+Arg_EnumLitValueNotFound
+Arg_FldGetArgErr
+Arg_FldGetPropSet
+Arg_FldSetArgErr
+Arg_FldSetGet
+Arg_FldSetInvoke
+Arg_FldSetPropGet
+Arg_GenericParameter
+Arg_GetMethNotFnd
+Arg_HTCapacityOverflow
+Arg_IndexMustBeInt
+Arg_InvokeMethodMissingMetadata
+Arg_MustBeDelegate
+Arg_MustBeType
+Arg_NamedParamNull
+Arg_NamedParamTooBig
+Arg_NoAccessSpec
+Arg_NoDefCTor
+Arg_NotGenericMethodDefinition
+Arg_NotGenericParameter
+Arg_NotGenericTypeDefinition
+Arg_PlatformNotSupportedInvokeMemberCom
+Arg_PropSetGet
+Arg_PropSetInvoke
+Arg_SetMethNotFnd
+Arg_TypeLoadNullStr
+Arg_TypeRefPrimitve
+Arg_TypedReference_Null
+Arg_UnboundGenParam
+ArgumentException_InvalidArrayElementType
+ArgumentException_InvalidTypeArgument
+Argument_AddingDuplicate
+Argument_ArrayGetInterfaceMap
+Argument_AssemblyGetTypeCannotSpecifyAssembly
+Argument_FieldDeclaringTypeGeneric
+Argument_HasToBeArrayClass
+Argument_InvalidHandle
+Argument_MethodDeclaringTypeGeneric
+Argument_MustBeRuntimeFieldInfo
+Argument_MustBeRuntimeMethodInfo
+Argument_MustBeRuntimeType
+Argument_NotEnoughGenArguments
+Argument_ResolveFieldHandle
+Argument_ResolveMethodHandle
+Argument_TypedReferenceInvalidField
+Bif_InvalidMetadata
+CannotCreateByRefOfByRef
+CannotCreatePointerOfByRef
+CannotUseByRefLikeTypeInInstantiation
+FileNotFound_AssemblyNotFound
+InvalidOperation_NoPublicAddMethod
+InvalidOperation_NoPublicRemoveMethod
+InvalidOperation_NoValue
+InvalidOperation_NotGenericType
+MissingField
+MissingMember
+MissingMemberNestErr
+MissingMemberTypeRef
+NoMetadataTokenAvailable
+NotSupported_ActivAttr
+NotSupported_ByRefLike
+NotSupported_CallToVarArg
+NotSupported_ChangeType
+PlatformNotSupported_MakeGenericType
+PlatformNotSupported_NoTypeHandleForOpenTypes
+RFLCT_Targ_ITargMismatch
+RFLCT_Targ_StatMethReqTarg
+Reflection_CustomReflectionObjectsNotSupported
+TypeLoad_TypeNotFound
+TypeLoad_TypeNotFoundInAssembly
+Arg_EnumIllegalVal
+ArgumentOutOfRange_NeedNonNegNum
+ArgumentOutOfRange_NeedPosNum9
+Argument_InvalidValueT
+CryptSetKeyParam_Failedh
+Cryptography_CAPI_Required
+Cryptography_CSP_NoPrivateKey
+Cryptography_CSP_NotFound
+Cryptography_CSP_WrongKeySpec
+Cryptography_HashAlgorithmNameNullOrEmpty
+Cryptography_InvalidDSASignatureSize
+Cryptography_InvalidHashSize
+Cryptography_InvalidIVSize
+Cryptography_InvalidKeySize
+Cryptography_InvalidKey_SemiWeak
+Cryptography_InvalidKey_Weak
+Cryptography_InvalidOID
+Cryptography_InvalidPadding
+Cryptography_InvalidPaddingMode
+Cryptography_MissingIV
+Cryptography_MustTransformWholeBlock
+Cryptography_OpenInvalidHandle
+Cryptography_PartialBlock
+Cryptography_PasswordDerivedBytes_InvalidAlgorithm
+Cryptography_PasswordDerivedBytes_InvalidIV
+Cryptography_PasswordDerivedBytes_TooManyBytes
+Cryptography_PasswordDerivedBytes_ValuesFixed
+Cryptography_RC2_EKSKS2
+Cryptography_RSA_DecryptWrongSize
+Cryptography_TransformBeyondEndOfBuffer
+Cryptography_UnknownHashAlgorithm
+Cryptography_UnknownPaddingMode
+CspParameter_invalid
+ArgumentNull_Buffer
+ArgumentOutOfRange_NeedNonNegNum
+ArgumentOutOfRange_NeedPosNum7
+Argument_EncodeDestinationTooSmallR
+Argument_InvalidOffLen
+Argument_InvalidOidValue
+Argument_InvalidValue
+Argument_Invalid_SafeHandleInvalidOrClosed
+Cryptography_AlgKdfRequiresChars
+Cryptography_ArgDSARequiresDSAKey
+Cryptography_ArgECDHKeySizeMismatch
+Cryptography_ArgECDHRequiresECDHKey
+Cryptography_ArgECDsaRequiresECDsaKey
+Cryptography_ArgExpectedECDiffieHellmanCngPublicKey
+Cryptography_ArgRSARequiresRSAKey
+Cryptography_AsnWriter_EncodeUnbalancedStack
+Cryptography_AsnWriter_PopWrongTag
+Cryptography_Asn_EnumeratedValueRequiresNonFlagsEnum
+Cryptography_Asn_NamedBitListRequiresFlagsEnum
+Cryptography_Asn_NamedBitListValueTooBig
+Cryptography_Asn_UniversalValueIsFixed
+Cryptography_Asn_UnusedBitCountRange
+Cryptography_CSP_NoPrivateKey
+Cryptography_CngKeyWrongAlgorithm
+Cryptography_CurveNotSupported
+Cryptography_Der_Invalid_Encoding
+Cryptography_ECC_NamedCurvesOnly
+Cryptography_Encryption_MessageTooLong
+Cryptography_HashAlgorithmNameNullOrEmpty
+Cryptography_InvalidAlgorithmGroup
+Cryptography_InvalidAlgorithmName
+Cryptography_InvalidCipherMode
+Cryptography_InvalidCurveOid
+Cryptography_InvalidDsaParameters_MismatchedPGY
+Cryptography_InvalidDsaParameters_MismatchedPJ
+Cryptography_InvalidDsaParameters_MismatchedQX
+Cryptography_InvalidDsaParameters_MissingFields
+Cryptography_InvalidDsaParameters_QRestriction_LargeKey
+Cryptography_InvalidDsaParameters_QRestriction_ShortKey
+Cryptography_InvalidDsaParameters_SeedRestriction_ShortKey
+Cryptography_InvalidECCharacteristic2Curve
+Cryptography_InvalidIVSize
+Cryptography_InvalidKeyBlobFormat
+Cryptography_InvalidKeySize
+Cryptography_InvalidPadding
+Cryptography_InvalidProviderName
+Cryptography_InvalidRsaParameters
+Cryptography_KeyBlobParsingError
+Cryptography_KeyTooSmall
+Cryptography_MissingIV
+Cryptography_MustTransformWholeBlock
+Cryptography_NotValidPrivateKey
+Cryptography_NotValidPublicOrPrivateKey
+Cryptography_OAEP_Decryption_Failed
+Cryptography_OpenEphemeralKeyHandleWithoutEphemeralFlag
+Cryptography_OpenInvalidHandle
+Cryptography_PartialBlock
+Cryptography_Pkcs8_EncryptedReadFailed
+Cryptography_RSA_DecryptWrongSize
+Cryptography_SignHash_WrongSize
+Cryptography_TlsRequiresLabelAndSeed
+Cryptography_TransformBeyondEndOfBuffer
+Cryptography_UnexpectedTransformTruncation
+Cryptography_UnknownAlgorithmIdentifier
+Cryptography_UnknownHashAlgorithm
+Cryptography_UnknownPaddingMode
+Cryptography_UnsupportedPaddingMode
+Cryptography_WeakKey
+Cryptography_WriteEncodedValue_OneValueAtATime
+PlatformNotSupported_CryptographyCng
+Acc_ReadOnly
+Arg_AmbiguousMatchException
+Arg_DlgtTargMeth6
+Arg_EmptyArray
+Arg_HTCapacityOverflow
+Arg_InterfaceMapMustNotBeAbstract
+Arg_MustBeInterface
+Arg_NotFoundIFace
+ArgumentNull_Buffer
+ArgumentOutOfRange_NeedNonNegNum
+ArgumentOutOfRange_NeedPosNum
+Argument_AddingDuplicate
+Argument_ConstraintFailed
+Argument_GenericArgsCount
+Argument_ImplementIComparable
+Argument_InterfaceMap
+Argument_InvalidOffLen
+Argument_NeverValidGenericArgument
+Argument_StreamNotReadable
+DelegateGetMethodInfo_NoDynamic
+DelegateGetMethodInfo_NoDynamic_WithDisplayString
+DelegateGetMethodInfo_NoInstantiation
+DelegateGetMethodInfo_ObjectArrayDelegate
+InvalidOperation_AsyncIOInProgress
+InvalidOperation_NoValue
+MakeGenericMethod_NoMetadata
+MissingConstructor_Name
+MissingMember
+MultiDim_Of_This_Rank_Not_Supported
+ObjectDisposed_ReaderClosed
+Object_NotInvokable
+PlatformNotSupported_CannotInvokeDelegateCtor
+RFLCT_Targ_StatFldReqTarg
+Reflection_InsufficientMetadata_EdbNeeded
+Reflection_InsufficientMetadata_NoHelpAvailable
+Arg_InvalidHandle
+ArgumentOutOfRange_Bounds_Lower_Upper
+ArgumentOutOfRange_NeedPosNum8
+ArgumentOutOfRange_PathLengthInvalidS
+InvalidOperation_BufferNotExplicitArray
+InvalidOperation_IncorrectToken
+InvalidOperation_MultipleContinuations
+NotSupported_UnreadableStream
+NotSupported_UnwritableStream
+ObjectDisposed_StreamClosed
+PlatformNotSupported_AcceptSocket
+PlatformNotSupported_IOControl
+PlatformNotSupported_IPProtectionLevel
+net_InvalidAddressFamily
+net_InvalidEndPointAddressFamily
+net_InvalidSocketAddressSize
+net_ambiguousbuffers
+net_buffercounttoosmall
+net_completed_result
+net_invalidAddressList
+net_invalidversion
+net_invasync
+net_io_invalidasyncresult
+net_io_invalidendcall
+net_io_readfailure
+net_io_readwritefailure
+net_io_timeout_use_gt_zero
+net_io_writefailure
+net_multibuffernotsupported
+net_noseek
+net_notconnected
+net_notstream
+net_protocol_invalid_family
+net_protocol_invalid_multicast_family
+net_readonlystream
+net_socketopinprogress
+net_sockets_accept_receive_notsupported
+net_sockets_asyncoperations_notallowed
+net_sockets_blocking
+net_sockets_connect_multiconnect_notsupported
+net_sockets_disconnectedAccept
+net_sockets_disconnectedConnect
+net_sockets_dualmode_receivefrom_notsupported
+net_sockets_duplicateandclose_notsupported
+net_sockets_empty_select
+net_sockets_invalid_dnsendpoint
+net_sockets_invalid_ipaddress_length
+net_sockets_invalid_optionValue
+net_sockets_invalid_optionValue_all
+net_sockets_invalid_socketinformation
+net_sockets_mustbind
+net_sockets_mustlisten
+net_sockets_mustnotbebound
+net_sockets_mustnotlisten
+net_sockets_namedmustnotbebound
+net_sockets_select
+net_sockets_sendpackelement_FileStreamMustBeAsync
+net_sockets_toolarge_select
+net_sockets_transmitfileoptions_notsupported
+net_sockets_useblocking
+net_sockets_valuetaskmisuse
+net_sockets_zerolist
+net_stopped
+net_tcplistener_mustbestopped
+net_udpconnected
+net_value_cannot_be_negative
+net_writeonlystream
+InvalidOperationException_ActorGraphCircular
+InvalidOperation_ClaimCannotBeRemoveds
+PlatformNotSupported_Serialization
+Arg_EmptyCollection
+Arg_EnumIllegalVal
+ArgumentOutOfRange_ArrayTooSmall9
+ArgumentOutOfRange_NeedNonNegNum
+Argument_ImpersonateUser
+Argument_ImproperType
+Argument_InvalidImpersonationToken
+Argument_InvalidValue
+Argument_StringZeroLength
+Argument_TokenZero
+IdentityReference_AccountNameTooLong
+IdentityReference_CannotCreateLogonIdsSid
+IdentityReference_DomainNameTooLong
+IdentityReference_DomainSidRequired
+IdentityReference_IdentifierAuthorityTooLarge
+IdentityReference_IdentityNotMapped
+IdentityReference_InvalidNumberOfSubauthorities
+IdentityReference_InvalidSidRevision
+IdentityReference_MustBeIdentityReference
+IdentityReference_NotAWindowsDomain
+PlatformNotSupported_Principal
+Arg_ArrayLengthsDiffer
+Arg_ArrayPlusOffTooSmall!
+Arg_BitArrayTypeUnsupported
+Arg_HSCapacityOverflow
+Arg_HTCapacityOverflow
+Arg_InsufficientSpace
+Arg_KeyNotFoundWithKey
+Arg_NonZeroLowerBound
+Arg_RankMultiDimNotSupported
+Arg_WrongType
+ArgumentOutOfRange_BiggerThanCollection
+ArgumentOutOfRange_Index
+ArgumentOutOfRange_NeedNonNegNum
+ArgumentOutOfRange_SmallCapacity
+Argument_AddingDuplicate
+Argument_ArrayTooLarge
+Argument_InvalidArrayType
+Argument_InvalidOffLen
+ExternalLinkedListNode
+InvalidOperation_ConcurrentOperationsNotSupported
+InvalidOperation_EmptyQueue
+InvalidOperation_EmptyStack
+InvalidOperation_EnumEnded
+InvalidOperation_EnumFailedVersion
+InvalidOperation_EnumNotStarted
+InvalidOperation_EnumOpCantHappen
+LinkedListEmpty
+LinkedListNodeIsAttached
+NotSupported_KeyCollectionSet
+NotSupported_SortedListNestedWrite
+NotSupported_ValueCollectionSet
+Serialization_InvalidOnDeser
+Serialization_MismatchedCount
+Serialization_MissingKeys
+Serialization_MissingValues
+SortedSet_LowerValueGreaterThanUpperValue
+ArgumentOutOfRange_Enum
+ArgumentOutOfRange_NeedPosNum$
+BrotliDecoder_Create?
+BrotliDecoder_Disposedh
+BrotliEncoder_Create
+BrotliEncoder_Disposed
+BrotliEncoder_InvalidSetParameter
+BrotliEncoder_Quality
+BrotliEncoder_Window
+BrotliStream_Compress_InvalidData
+BrotliStream_Compress_UnsupportedOperation
+BrotliStream_Decompress_InvalidData
+BrotliStream_Decompress_InvalidStream
+BrotliStream_Decompress_UnsupportedOperation
+InvalidArgumentOffsetCount
+InvalidBeginCall
+ObjectDisposed_StreamClosed
+Stream_FalseCanRead
+Stream_FalseCanWrite
+ArgumentNeedNonNegative
+ArgumentOutOfRange_Enum$
+ArgumentOutOfRange_NeedPosNumH
+CDCorruptc
+CannotBeEmpty
+CannotReadFromDeflateStream
+CannotWriteToDeflateStream
+CentralDirectoryInvalid
+CreateInReadMode
+CreateModeCapabilities
+CreateModeCreateEntryWhileOpen
+CreateModeWriteOnceAndOneEntryAtATime
+DateTimeOutOfRange
+DeleteOnlyInUpdate
+DeleteOpenEntry
+DeletedEntry
+EOCDNotFound
+EntriesInCreateMode
+EntryNameEncodingNotSupported
+EntryNamesTooLong
+EntryTooLarge
+FieldTooBigCompressedSize
+FieldTooBigLocalHeaderOffset
+FieldTooBigNumEntries
+FieldTooBigOffsetToCD
+FieldTooBigOffsetToZip64EOCD
+FieldTooBigStartDiskNumber
+FieldTooBigUncompressedSize
+FrozenAfterWrite
+GenericInvalidData
+HiddenStreamName
+InvalidArgumentOffsetCount
+InvalidBeginCall
+InvalidBlockLength
+InvalidHuffmanData
+LengthAfterWrite
+LocalFileHeaderCorrupt
+NotSupported
+NotSupported_UnreadableStream
+NotSupported_UnwritableStream
+NumEntriesWrong
+ObjectDisposed_StreamClosed
+OffsetLengthInvalid
+ReadModeCapabilities
+ReadOnlyArchive
+ReadingNotSupported
+SeekingNotSupported
+SetLengthRequiresSeekingAndWriting
+SplitSpanned
+UnexpectedEndOfStream
+UnknownBlockType
+UnknownState
+UnsupportedCompression
+UnsupportedCompressionMethod
+UpdateModeCapabilities
+UpdateModeOneStream
+WritingNotSupported
+ZLibErrorDLLLoadError
+ZLibErrorInconsistentStream
+ZLibErrorIncorrectInitParameters
+ZLibErrorNotEnoughMemory
+ZLibErrorUnexpected
+ZLibErrorVersionMismatch
+Zip64EOCDNotWhereExpected
+Arg_HTCapacityOverflow
+ArgumentNull_NullMembers
+ArgumentOutOfRange_ObjectID
+Argument_DataLengthDifferent
+Argument_InvalidFieldInfo
+Argument_MemberAndArray
+Argument_MustSupplyContainer
+Argument_MustSupplyParent
+IO_EOF_ReadBeyondEOF
+Serialization_ArrayType
+Serialization_ArrayTypeObject
+Serialization_Assembly
+Serialization_AssemblyId
+Serialization_AssemblyNotFound
+Serialization_BinaryHeader
+Serialization_ConstructorNotFound
+Serialization_CorruptedStream
+Serialization_CrossAppDomainError
+Serialization_DuplicateSelector
+Serialization_IORIncomplete
+Serialization_ISerializableMemberInfo
+Serialization_ISerializableTypes
+Serialization_IdTooSmall
+Serialization_IncorrectNumberOfFixups
+Serialization_InvalidFixupDiscovered
+Serialization_InvalidFixupType
+Serialization_InvalidFormat
+Serialization_InvalidType
+Serialization_Map
+Serialization_MemberInfo
+Serialization_MissingMember
+Serialization_MissingObject
+Serialization_NeverSeen
+Serialization_NoID
+Serialization_NoMemberInfo
+Serialization_NonSerType
+Serialization_NotCyclicallyReferenceableSurrogate
+Serialization_NotISer
+Serialization_ObjNoID
+Serialization_ObjectNotSupplied
+Serialization_ObjectTypeEnum
+Serialization_ParentChildIdentical
+Serialization_ParseError
+Serialization_PartialValueTypeFixup
+Serialization_RegisterTwice
+Serialization_SerMemberInfo
+Serialization_Stream
+Serialization_StreamEnd
+Serialization_SurrogateCycle
+Serialization_SurrogateCycleInArgument
+Serialization_TooManyElements
+Serialization_TooManyReferences
+Serialization_TopObject
+Serialization_TopObjectInstantiate
+Serialization_TypeCode
+Serialization_TypeExpected
+Serialization_TypeLoadFailure
+Serialization_TypeMissing
+Serialization_TypeRead
+Serialization_TypeWrite
+Serialization_UnableToFixup
+Serialization_UnknownMemberInfo
+Serialization_ValueTypeFixup
+Serialization_XMLElement
+net_completed_result
+net_invalid_ip_addrO
+net_io_invalidasyncresult
+net_io_invalidendcall
+net_toolong
+ChannelClosedException_DefaultMessage
+InvalidOperation_IncompleteAsyncOperation
+InvalidOperation_IncorrectTokenM
+InvalidOperation_MultipleContinuations
+Argument_EmptyValue
+PlatformNotSupported_RuntimeInformation
+ArgumentOutOfRange_MustBeNonNeg
+Argument_BadFormatSpecifier3
+Argument_InvalidHexStyleR
+Argument_InvalidNumberStyles
+Argument_MustBeBigInt
+Format_TooLarge
+Overflow_BigIntInfinity
+Overflow_Decimal
+Overflow_Int32
+Overflow_Int64
+Overflow_Negative_Unsigned
+Overflow_NotANumber
+Overflow_ParseBigInteger
+Overflow_UInt32
+Overflow_UInt64
+BWi{
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=
+ !"""""""#$%&
+./"0123456227"8922222:;<=>2"?22222@AB2CD2EFG2HIJJJ2KLMN"OPPQRSTUVWXYZ[\]^WX_`abcdeXfgh\ijWXklm\nopqrstbuvwXxyz\{|wX}~
+PPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+PPPP
+PPPP
+PPPP
+PPPP
+PPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPP
+PPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPP
+PPPPPP
+222222
+222222222222222222222
+J2222
+K2222222
+PPPPPPP
+PPPh
+PPPP
+PPPPPPPPPPPPPPPPPPP
+JJJ2
+JJJJ222
+JJJJJ2222
+JJJJJJJJJJJJJJJJJJ
+JJJJ2
+JJJJJ2
+PPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPP
+PPPP
+PPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPP
+222222222222
+JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
+JJJJ
+JJJJJJJJJJJJ
+JJJJJJJJJJJJJJJJ
+PPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPh
+PPPPPPPPPPPPPPPPPPPP
+"""""""""""""""
+dDfFgGmMoOrRstTuUyY
+:\/?#
+RH_StressLogLevel
+RH_TotalStressLogSize
+RH_HeapVerify
+RH_DisableBGC
+kernel32
+SeLockMemoryPrivilege
+api-ms-win-core-synch-l1-2-0.dll
+kernel32.dll
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+api-ms-
+(null)
+mscoree.dll
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l1-2-2
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+advapi32
+ntdll
+api-ms-win-appmodel-runtime-l1-1-2
+user32
+ext-ms-
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+en-US
+         (((((                  H
+         (((((                  H
+      (
+ja-JP
+zh-CN
+ko-KR
+zh-TW
+zh-CHS
+ar-SA
+bg-BG
+ca-ES
+cs-CZ
+da-DK
+de-DE
+el-GR
+fi-FI
+fr-FR
+he-IL
+hu-HU
+is-IS
+it-IT
+nl-NL
+nb-NO
+pl-PL
+pt-BR
+ro-RO
+ru-RU
+hr-HR
+sk-SK
+sq-AL
+sv-SE
+th-TH
+tr-TR
+ur-PK
+id-ID
+uk-UA
+be-BY
+sl-SI
+et-EE
+lv-LV
+lt-LT
+fa-IR
+vi-VN
+hy-AM
+az-AZ-Latn
+eu-ES
+mk-MK
+tn-ZA
+xh-ZA
+zu-ZA
+af-ZA
+ka-GE
+fo-FO
+hi-IN
+mt-MT
+se-NO
+ms-MY
+kk-KZ
+ky-KG
+sw-KE
+uz-UZ-Latn
+tt-RU
+bn-IN
+pa-IN
+gu-IN
+ta-IN
+te-IN
+kn-IN
+ml-IN
+mr-IN
+sa-IN
+mn-MN
+cy-GB
+gl-ES
+kok-IN
+syr-SY
+div-MV
+quz-BO
+ns-ZA
+mi-NZ
+ar-IQ
+de-CH
+en-GB
+es-MX
+fr-BE
+it-CH
+nl-BE
+nn-NO
+pt-PT
+sr-SP-Latn
+sv-FI
+az-AZ-Cyrl
+se-SE
+ms-BN
+uz-UZ-Cyrl
+quz-EC
+ar-EG
+zh-HK
+de-AT
+en-AU
+es-ES
+fr-CA
+sr-SP-Cyrl
+se-FI
+quz-PE
+ar-LY
+zh-SG
+de-LU
+en-CA
+es-GT
+fr-CH
+hr-BA
+smj-NO
+ar-DZ
+zh-MO
+de-LI
+en-NZ
+es-CR
+fr-LU
+bs-BA-Latn
+smj-SE
+ar-MA
+en-IE
+es-PA
+fr-MC
+sr-BA-Latn
+sma-NO
+ar-TN
+en-ZA
+es-DO
+sr-BA-Cyrl
+sma-SE
+ar-OM
+en-JM
+es-VE
+sms-FI
+ar-YE
+en-CB
+es-CO
+smn-FI
+ar-SY
+en-BZ
+es-PE
+ar-JO
+en-TT
+es-AR
+ar-LB
+en-ZW
+es-EC
+ar-KW
+en-PH
+es-CL
+ar-AE
+es-UY
+ar-BH
+es-PY
+ar-QA
+es-BO
+es-SV
+es-HN
+es-NI
+es-PR
+zh-CHT
+af-za
+ar-ae
+ar-bh
+ar-dz
+ar-eg
+ar-iq
+ar-jo
+ar-kw
+ar-lb
+ar-ly
+ar-ma
+ar-om
+ar-qa
+ar-sa
+ar-sy
+ar-tn
+ar-ye
+az-az-cyrl
+az-az-latn
+be-by
+bg-bg
+bn-in
+bs-ba-latn
+ca-es
+cs-cz
+cy-gb
+da-dk
+de-at
+de-ch
+de-de
+de-li
+de-lu
+div-mv
+el-gr
+en-au
+en-bz
+en-ca
+en-cb
+en-gb
+en-ie
+en-jm
+en-nz
+en-ph
+en-tt
+en-us
+en-za
+en-zw
+es-ar
+es-bo
+es-cl
+es-co
+es-cr
+es-do
+es-ec
+es-es
+es-gt
+es-hn
+es-mx
+es-ni
+es-pa
+es-pe
+es-pr
+es-py
+es-sv
+es-uy
+es-ve
+et-ee
+eu-es
+fa-ir
+fi-fi
+fo-fo
+fr-be
+fr-ca
+fr-ch
+fr-fr
+fr-lu
+fr-mc
+gl-es
+gu-in
+he-il
+hi-in
+hr-ba
+hr-hr
+hu-hu
+hy-am
+id-id
+is-is
+it-ch
+it-it
+ja-jp
+ka-ge
+kk-kz
+kn-in
+kok-in
+ko-kr
+ky-kg
+lt-lt
+lv-lv
+mi-nz
+mk-mk
+ml-in
+mn-mn
+mr-in
+ms-bn
+ms-my
+mt-mt
+nb-no
+nl-be
+nl-nl
+nn-no
+ns-za
+pa-in
+pl-pl
+pt-br
+pt-pt
+quz-bo
+quz-ec
+quz-pe
+ro-ro
+ru-ru
+sa-in
+se-fi
+se-no
+se-se
+sk-sk
+sl-si
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sq-al
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+sv-fi
+sv-se
+sw-ke
+syr-sy
+ta-in
+te-in
+th-th
+tn-za
+tr-tr
+tt-ru
+uk-ua
+ur-pk
+uz-uz-cyrl
+uz-uz-latn
+vi-vn
+xh-za
+zh-chs
+zh-cht
+zh-cn
+zh-hk
+zh-mo
+zh-sg
+zh-tw
+zu-za
+CONOUT$
+0:A[_`a{
+0:A[_`a{
+0:A[_`a{
+ '(),-./0123456789:?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+ --->
+    <template tid="_empty"></template>
+    inSecBuffer      = {0}
+    refContext       = {0}
+   <data name="
+   <map value="0x
+   <map value="0x0"
+   <string id="
+  </
+  </stringTable>
+  </template>
+  <event
+  <events xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <keyword
+  <opcode
+  <stringTable>
+  <task
+  <template tid="
+  Argument
+  Hardware Device:
+  Key Container Name:
+  Key Spec:
+  Key Store:
+  Protected:
+  Provider Name:
+  Provider type:
+  Removable:
+  Unique Key Container Name:
+ (0x
+ ({0:X8}, {1})
+ ({0})
+ + 0x
+ --->
+ ...
+ : '
+ </channels>
+ </events>
+ </keywords>
+ </maps>
+ </opcodes>
+ </resources>
+ </tasks>
+ </templates>
+ <channels>
+ <events>
+ <instrumentation xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:win="http://manifests.microsoft.com/win/2004/08/windows/events">
+ <keywords>
+ <maps>
+ <opcodes>
+ <resources culture="
+ <tasks>
+ <templates>
+ ByRef
+ Comment:
+ Error Code:
+ HTTP/1.0
+ HTTP/1.1
+ MaxToken:
+ Name:
+ RPCID:
+ Version:
+ [exception object available]
+ at offset
+ authentication failed.
+ channel="
+ chid="
+ enabled="
+ failed.
+ from trailer headers.
+ in
+ in file:line:column
+ keywords="
+ length="
+ level="
+ map="
+ mask="0x
+ message="$(string.
+ name="
+ opcode="
+ symbol="
+ task="
+ template="
+ type="
+ value="
+ version="
+ while processing event "
+ zzz
+!"#$%&*;<=>@[]^_`{|}
+!<BaseAddress>+0x
+!Disposed
+!x-sys-default-locale
+" guid="{
+" inType="
+" messageFileName="
+" resourceFileName="
+" symbol="
+" value="
+", "
+", ...
+"{0}"
+# $-
+# %-
+#- $
+#- %
+$ #-
+$ -#
+$%+,0:<?A[^_`{|}~
+$- #
+$BlockedFromReflection_
+$Domain
+$HttpOnly
+$Path
+$Port
+$Version
+$Version=
+$Version=1
+% #-
+% -#
+&<>'"
+&amp;
+&apos;
+&gt;
+&lt;
+&quot;
+' selected. Client username=
+' supported by server, but not by client.
+', Version:
+'selectedCert' does not match 'clientCertificate'.
+'selectedCert' does not match 'localCertificate'.
+'{0}'
+(# $)
+(#$)
+($ #)
+($#)
+(UTC) Coordinated Universal Time
+(null)
+(unknown error)
+({0})
+({0})null
+({0}, {1})
+({0}, {1}, {2})
+({1}){0}
+*** OFFLOADED the user callback ****
+***Processing an error Status = {0}
+*Activity
+*Enumerate
+*Enumerate applied to non-enumerable type {0}
++{0})
+, Content:
+, ContentType=WindowsRuntime
+, Culture=
+, Headers:
+, PublicKeyToken=
+, ReasonPhrase: '
+, RequestUri: '
+, Retargetable=Yes
+, SSL TargetHost=
+, Trailing Headers:
+, Version=
+, values=
+, {0}
+, {0} = {1}
+,DEAD)
+-# $
+-# %
+-$ #
+-% #
+-/0;A[_`a{
+-Infinity
+. For more information, visit http://go.microsoft.com/fwlink/?LinkId=623485
+.None
+.Start
+.Stop
+.cctor
+.ctor
+.dll
+.exe
+.pdb
+.resources
+.resources.dll
+/index.html
+0.0##
+0.9.2342.19200300.100.1.25
+0000
+00000
+000000
+0000000
+0000000000000000
+00000000000000000000000000000000
+00000001
+0123456789ABCDEF
+0123456789abcdef
+0:0:0:0:0:0:0:1
+0:A[_`a{
+0x{0:X8}
+0x{0:X}
+0x{0:x}
+1.2.156.11235.1.1.2.1
+1.2.840.10040.4.1
+1.2.840.10040.4.3
+1.2.840.10045.2.1
+1.2.840.10045.3.1.1
+1.2.840.10045.3.1.2
+1.2.840.10045.3.1.3
+1.2.840.10045.3.1.4
+1.2.840.10045.3.1.5
+1.2.840.10045.3.1.6
+1.2.840.10045.3.1.7
+1.2.840.10045.4.1
+1.2.840.10045.4.3
+1.2.840.10045.4.3.2
+1.2.840.10045.4.3.3
+1.2.840.10045.4.3.4
+1.2.840.10046.2.1
+1.2.840.113549.1.1.1
+1.2.840.113549.1.1.10
+1.2.840.113549.1.1.11
+1.2.840.113549.1.1.12
+1.2.840.113549.1.1.13
+1.2.840.113549.1.1.2
+1.2.840.113549.1.1.3
+1.2.840.113549.1.1.4
+1.2.840.113549.1.1.5
+1.2.840.113549.1.1.7
+1.2.840.113549.1.1.8
+1.2.840.113549.1.12.1.3
+1.2.840.113549.1.3.1
+1.2.840.113549.1.9.1
+1.2.840.113549.1.9.16.3.5
+1.2.840.113549.1.9.16.3.6
+1.2.840.113549.1.9.16.3.7
+1.2.840.113549.2.2
+1.2.840.113549.2.4
+1.2.840.113549.2.5
+1.2.840.113549.3.2
+1.2.840.113549.3.4
+1.2.840.113549.3.7
+1.3.132.0.10
+1.3.132.0.30
+1.3.132.0.31
+1.3.132.0.32
+1.3.132.0.33
+1.3.132.0.34
+1.3.132.0.35
+1.3.132.0.8
+1.3.132.0.9
+1.3.132.1.11.1
+1.3.132.1.11.2
+1.3.133.16.840.63.0.2
+1.3.14.3.2.12
+1.3.14.3.2.13
+1.3.14.3.2.15
+1.3.14.3.2.18
+1.3.14.3.2.2
+1.3.14.3.2.22
+1.3.14.3.2.26
+1.3.14.3.2.27
+1.3.14.3.2.29
+1.3.14.3.2.3
+1.3.14.3.2.4
+1.3.14.3.2.7
+1.3.14.7.2.3.1
+1.3.36.3.3.2.8.1.1.1
+1.3.36.3.3.2.8.1.1.10
+1.3.36.3.3.2.8.1.1.11
+1.3.36.3.3.2.8.1.1.12
+1.3.36.3.3.2.8.1.1.13
+1.3.36.3.3.2.8.1.1.14
+1.3.36.3.3.2.8.1.1.2
+1.3.36.3.3.2.8.1.1.3
+1.3.36.3.3.2.8.1.1.4
+1.3.36.3.3.2.8.1.1.5
+1.3.36.3.3.2.8.1.1.6
+1.3.36.3.3.2.8.1.1.7
+1.3.36.3.3.2.8.1.1.8
+1.3.36.3.3.2.8.1.1.9
+1.3.6.1.4.1.311.20.2
+1.3.6.1.4.1.311.21.7
+1.3.6.1.5.5.7.2.1
+1.3.6.1.5.5.7.3.1
+1.3.6.1.5.5.7.3.2
+1.3.6.1.5.5.7.6.2
+100-Continue timer expired.
+100-continue
+127.0.0.1
+1; mode=block
+2.16.840.1.101.2.1.1.19
+2.16.840.1.101.2.1.1.20
+2.16.840.1.101.3.4.1.2
+2.16.840.1.101.3.4.1.22
+2.16.840.1.101.3.4.1.25
+2.16.840.1.101.3.4.1.42
+2.16.840.1.101.3.4.1.45
+2.16.840.1.101.3.4.1.5
+2.16.840.1.101.3.4.2.1
+2.16.840.1.101.3.4.2.2
+2.16.840.1.101.3.4.2.3
+2.23.133.2.1
+2.23.133.2.2
+2.23.133.2.3
+2.23.43.1.4.9
+2.5.29.10
+2.5.29.14
+2.5.29.15
+2.5.29.19
+2.5.29.32
+2.5.29.37
+2.5.4.10
+2.5.4.11
+2.5.4.12
+2.5.4.13
+2.5.4.17
+2.5.4.18
+2.5.4.20
+2.5.4.24
+2.5.4.3
+2.5.4.4
+2.5.4.42
+2.5.4.43
+2.5.4.46
+2.5.4.5
+2.5.4.6
+2.5.4.7
+2.5.4.8
+2.5.4.9
+3des
+:///
+:00000001:
+:;A[_`a{
+:authority
+:line
+:method
+:path
+:scheme
+:status
+:{0:00}
+; $Domain=
+; $Path=
+; $Port
+; q=
+;/?:@&=+$,#[]!'()*
+<---
+</events>
+</instrumentation>
+</instrumentationManifest>
+</localization>
+</provider>
+<Function Name Not Available>
+<Unknown>
+<empty>
+<filename unknown>
+<form.+?action="(?<action>\S+?)".*?>.*?name="r" value="(?<r>[^"]*?)".*?data-ray="(?<dataRay>\S+)".*?fallback\?\w+?=(?<siteKey>\S+)"
+<instrumentationManifest xmlns="http://schemas.microsoft.com/win/2004/08/events">
+<invariant>
+<local>
+<localization>
+<null>
+<offset unknown>
+<provider name="
+<script.*?>(?<script>.*?var s,t,o,p,b,r,e,a,k,i,n,g,\w, (?<className>\w+?)={"(?<propName>\w+?)":(?<propValue>.*?)};.*?(?<calculations>\s*?\w+?\.\w+?[+\-*\/]=(?:(?<normal>(?:\+|\(|\)|\!|\[|\]|\/)+?;)|(?<charCode>(?:\+|\(|\)|\!|\[|\]|\/)+?\(function.*?}\(.*?\)\)\);)|(?<cfdn>function\(.\)\{var.*?;\s.*?;)))+.*?a\.value\s=\s\(\+\w+\.\w+(\s\+\s(?<addHostLength>t\.length))*?\)\.toFixed\((?<round>\d+)\);.*?},\s*(?<delay>\d+)\);.*?)<\/script>.*?<form.+?action="(?<action>\S+?)".*?>.*?name="r" value="(?<r>\S+)".*?name="jschl_vc" value="(?<jschl_vc>[a-z0-9]{32})".*?name="pass" value="(?<pass>\S+?)".*?</form>.*?(id="cf-dn-\S+">(?<cf_dn>.*?)</div>\s+<div.*?){0,1}\s+</div>
+<unavailable>
+<unknown>
+<unknown>
+A.D.
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+ABORTED
+AD AUTHORITY
+ADDRESS_IN_USE
+AElig
+ALL_PROXY
+ASCII header value.
+Aacute
+Abort
+AbortStreams
+AbortWrite
+AbsoluteUri
+Acc_CreateAbst
+Acc_CreateAbstEx
+Acc_CreateGeneric
+Acc_CreateGenericEx
+Acc_CreateInterface
+Acc_CreateVoid
+Acc_NotClassInit
+Acc_ReadOnly
+Accept
+Accept-Charset
+Accept-Encoding
+Accept-Language
+Accept-Patch
+Accept-Ranges
+AcceptAsync returns:{0} {1}
+AcceptSecurityContext
+AcceptSocket:{0}
+AcceptStreamAsync
+Accepted
+Access Violation: Attempted to read or write protected memory. This is often an indication that other memory is corrupt. The application will be terminated since this platform does not support throwing an AccessViolationException.
+Access denied
+Access-Control-Allow-Credentials
+Access-Control-Allow-Headers
+Access-Control-Allow-Methods
+Access-Control-Allow-Origin
+Access-Control-Expose-Headers
+Access-Control-Max-Age
+Acirc
+AcquireClientCredentials
+AcquireCredentialsHandle
+AcquireDefaultCredential
+AcquireServerCredentials
+ActiveLength
+Activity
+Activity1Start
+Activity1Stop
+Activity2Start
+Activity2Stop
+ActivityNotStarted
+ActivityStartAlreadyStarted
+ActualValue
+AddHijriDate
+Adding Basic credential to cache, uri={0}, username={1}
+Adding key:[{0}], cred:[{1}],[{2}]
+Adding remote certificate:{0}
+Address
+AddressBook
+AddressChangedCallback
+AdjustCredit
+AdjustmentRules
+AggregateException_DeserializationFailure
+AggregateException_InnerException
+AggregateException_ctor_DefaultMessage
+AggregateException_ctor_InnerExceptionNull
+Agrave
+Algorithm Group
+Algorithm not supported: {0}
+Algorithm:
+Allow
+Alpha
+Already Reported
+Already connected
+Alt-Svc
+Alt-Used
+AlternationCantCapture
+AlternationCantHaveComment
+An exception when invoking Win32 API
+AppDomain_Name
+AppDomain_NoContextPolicies
+ApplyAlertToken() returned {0}
+ApplyControlToken
+April
+Arg_AccessException
+Arg_AccessViolationException
+Arg_AmbiguousMatchException
+Arg_ApplicationException
+Arg_ArgumentException
+Arg_ArgumentOutOfRangeException
+Arg_ArithmeticException
+Arg_ArrayPlusOffTooSmall
+Arg_ArrayTypeMismatchException
+Arg_BadImageFormatException
+Arg_BogusIComparer
+Arg_BufferTooSmall
+Arg_COMException
+Arg_CannotBeNaN
+Arg_CopyNonBlittableArray
+Arg_CopyOutOfRange
+Arg_CryptographyException
+Arg_CustomAttributeFormatException
+Arg_DataMisalignedException
+Arg_DateTimeRange
+Arg_DecBitCtor
+Arg_DefaultValueMissingException
+Arg_DirectoryNotFoundException
+Arg_DivideByZero
+Arg_DlgtNullInst
+Arg_DllNotFoundException
+Arg_DllNotFoundExceptionParameterized
+Arg_DuplicateWaitObjectException
+Arg_EmptyArray
+Arg_EmptyCollection
+Arg_EmptyOrNullString
+Arg_EndOfStreamException
+Arg_EntryPointNotFoundException
+Arg_EntryPointNotFoundExceptionParameterized
+Arg_EntryPointNotFoundExceptionParameterizedNoLibrary
+Arg_EnumAndObjectMustBeSameType
+Arg_EnumIllegalVal
+Arg_EnumUnderlyingTypeAndObjectMustBeSameType
+Arg_ExternalException
+Arg_FieldAccessException
+Arg_FormatException
+Arg_GuidArrayCtor
+Arg_HSCapacityOverflow
+Arg_HTCapacityOverflow
+Arg_HexStyleNotSupported
+Arg_IOException
+Arg_IndexOutOfRangeException
+Arg_InteropMarshalUnmappableChar
+Arg_InvalidANSIString
+Arg_InvalidCastException
+Arg_InvalidFilterCriteriaException
+Arg_InvalidHandle
+Arg_InvalidHexStyle
+Arg_InvalidNeutralResourcesLanguage_Asm_Culture
+Arg_InvalidNeutralResourcesLanguage_FallbackLoc
+Arg_InvalidOperationException
+Arg_InvalidRuntimeTypeHandle
+Arg_InvalidSatelliteContract_Asm_Ver
+Arg_InvalidType
+Arg_KeyNotFound
+Arg_KeyNotFoundWithKey
+Arg_LongerThanSrcString
+Arg_LowerBoundsMustMatch
+Arg_MarshalDirectiveException
+Arg_MissingManifestResourceException
+Arg_MissingMemberException
+Arg_MissingMethodException
+Arg_MustBeBoolean
+Arg_MustBeByte
+Arg_MustBeChar
+Arg_MustBeDateTime
+Arg_MustBeDateTimeOffset
+Arg_MustBeDecimal
+Arg_MustBeDelegate
+Arg_MustBeDouble
+Arg_MustBeEnum
+Arg_MustBeEnumBaseTypeOrEnum
+Arg_MustBeGuid
+Arg_MustBeInt16
+Arg_MustBeInt32
+Arg_MustBeInt64
+Arg_MustBeIntPtr
+Arg_MustBeNullTerminatedString
+Arg_MustBePointer
+Arg_MustBePrimArray
+Arg_MustBeSByte
+Arg_MustBeSingle
+Arg_MustBeString
+Arg_MustBeTimeSpan
+Arg_MustBeType
+Arg_MustBeUInt16
+Arg_MustBeUInt32
+Arg_MustBeUInt64
+Arg_MustBeUIntPtr
+Arg_MustBeVersion
+Arg_Need1DArray
+Arg_Need2DArray
+Arg_Need3DArray
+Arg_NeedAtLeast1Rank
+Arg_NegativeArgCount
+Arg_NoDefCTor
+Arg_NonZeroLowerBound
+Arg_NotGenericMethodDefinition
+Arg_NotGenericParameter
+Arg_NotGenericTypeDefinition
+Arg_NotImplementedException
+Arg_NotSupportedException
+Arg_NotSupportedNonZeroLowerBound
+Arg_NullReferenceException
+Arg_ObjObjEx
+Arg_OpenType
+Arg_OutOfMemoryException
+Arg_OverflowException
+Arg_ParamName_Name
+Arg_PlatformNotSupported
+Arg_RankException
+Arg_RankIndices
+Arg_RankMultiDimNotSupported
+Arg_RanksAndBounds
+Arg_RegGetOverflowBug
+Arg_RegKeyNotFound
+Arg_RemoveArgNotFound
+Arg_ResourceFileUnsupportedVersion
+Arg_SecurityException
+Arg_SynchronizationLockException
+Arg_SystemException
+Arg_TargetInvocationException
+Arg_TargetParameterCountException
+Arg_ThreadStartException
+Arg_ThreadStateException
+Arg_TimeoutException
+Arg_TypeAccessException
+Arg_TypeLoadException
+Arg_TypeLoadNullStr
+Arg_TypeNotSupported
+Arg_UnauthorizedAccessException
+Arg_UnboundGenParam
+Arg_VersionString
+Arg_WrongAsyncResult
+Arg_WrongType
+Args"
+Args">
+Argument 'count' out of range.
+Argument 'offset' out of range.
+Argument mismatch between caller and callee
+ArgumentException_BufferNotFromPool
+ArgumentException_InvalidArrayElementType
+ArgumentException_InvalidTypeArgument
+ArgumentException_NotIsomorphic
+ArgumentException_OtherNotArrayOfCorrectLength
+ArgumentException_TupleIncorrectType
+ArgumentException_ValueTupleIncorrectType
+ArgumentNull_Array
+ArgumentNull_Assembly
+ArgumentNull_Buffer
+ArgumentNull_Generic
+ArgumentNull_Key
+ArgumentNull_SafeHandle
+ArgumentNull_String
+ArgumentNull_Type
+ArgumentOutOfRange_ActualValue
+ArgumentOutOfRange_AddValue
+ArgumentOutOfRange_ArrayTooSmall
+ArgumentOutOfRange_BadHourMinuteSecond
+ArgumentOutOfRange_BadYearMonthDay
+ArgumentOutOfRange_BiggerThanCollection
+ArgumentOutOfRange_Bounds_Lower_Upper
+ArgumentOutOfRange_CalendarRange
+ArgumentOutOfRange_Capacity
+ArgumentOutOfRange_Count
+ArgumentOutOfRange_DateArithmetic
+ArgumentOutOfRange_DateTimeBadMonths
+ArgumentOutOfRange_DateTimeBadTicks
+ArgumentOutOfRange_DateTimeBadYears
+ArgumentOutOfRange_Day
+ArgumentOutOfRange_DayOfWeek
+ArgumentOutOfRange_DayParam
+ArgumentOutOfRange_DecimalRound
+ArgumentOutOfRange_DecimalScale
+ArgumentOutOfRange_EndIndexStartIndex
+ArgumentOutOfRange_Enum
+ArgumentOutOfRange_Era
+ArgumentOutOfRange_FileTimeInvalid
+ArgumentOutOfRange_GenericPositive
+ArgumentOutOfRange_GetByteCountOverflow
+ArgumentOutOfRange_GetCharCountOverflow
+ArgumentOutOfRange_HashtableLoadFactor
+ArgumentOutOfRange_HugeArrayNotSupported
+ArgumentOutOfRange_Index
+ArgumentOutOfRange_IndexCount
+ArgumentOutOfRange_IndexCountBuffer
+ArgumentOutOfRange_IndexLength
+ArgumentOutOfRange_InvalidEraValue
+ArgumentOutOfRange_InvalidHighSurrogate
+ArgumentOutOfRange_InvalidLowSurrogate
+ArgumentOutOfRange_InvalidUTF32
+ArgumentOutOfRange_LengthGreaterThanCapacity
+ArgumentOutOfRange_LengthTooLarge
+ArgumentOutOfRange_ListInsert
+ArgumentOutOfRange_Month
+ArgumentOutOfRange_MonthParam
+ArgumentOutOfRange_MustBeNonNegInt32
+ArgumentOutOfRange_MustBeNonNegNum
+ArgumentOutOfRange_MustBePositive
+ArgumentOutOfRange_NeedNonNegNum
+ArgumentOutOfRange_NeedNonNegOrNegative1
+ArgumentOutOfRange_NeedPosNum
+ArgumentOutOfRange_NeedValidId
+ArgumentOutOfRange_NegativeCapacity
+ArgumentOutOfRange_NegativeCount
+ArgumentOutOfRange_NegativeLength
+ArgumentOutOfRange_OffsetLength
+ArgumentOutOfRange_PartialWCHAR
+ArgumentOutOfRange_PeriodTooLarge
+ArgumentOutOfRange_Range
+ArgumentOutOfRange_RoundingDigits
+ArgumentOutOfRange_SmallCapacity
+ArgumentOutOfRange_SmallMaxCapacity
+ArgumentOutOfRange_StartIndex
+ArgumentOutOfRange_StartIndexLargerThanLength
+ArgumentOutOfRange_StreamLength
+ArgumentOutOfRange_TimeoutTooLarge
+ArgumentOutOfRange_UIntPtrMax
+ArgumentOutOfRange_UnmanagedMemStreamWrapAround
+ArgumentOutOfRange_UtcOffset
+ArgumentOutOfRange_UtcOffsetAndDaylightDelta
+ArgumentOutOfRange_Version
+ArgumentOutOfRange_Week
+ArgumentOutOfRange_Year
+Argument_AddingDuplicate
+Argument_AddingDuplicateWithKey
+Argument_AddingDuplicate__
+Argument_AdjustmentRulesNoNulls
+Argument_AdjustmentRulesOutOfOrder
+Argument_AlreadyBoundOrSyncHandle
+Argument_AssemblyGetTypeCannotSpecifyAssembly
+Argument_BadFormatSpecifier
+Argument_CannotExtractScalar
+Argument_CodepageNotSupported
+Argument_CompareOptionOrdinal
+Argument_ConflictingDateTimeRoundtripStyles
+Argument_ConflictingDateTimeStyles
+Argument_ConstraintFailed
+Argument_ConversionOverflow
+Argument_ConvertMismatch
+Argument_CultureInvalidIdentifier
+Argument_CultureNotSupported
+Argument_DateTimeBadBinaryData
+Argument_DateTimeHasTicks
+Argument_DateTimeHasTimeOfDay
+Argument_DateTimeIsInvalid
+Argument_DateTimeKindMustBeUnspecified
+Argument_DateTimeKindMustBeUnspecifiedOrUtc
+Argument_DateTimeOffsetInvalidDateTimeStyles
+Argument_DestinationTooShort
+Argument_EmptyName
+Argument_EmptyValue
+Argument_EncoderFallbackNotEmpty
+Argument_EncodingConversionOverflowBytes
+Argument_EncodingConversionOverflowChars
+Argument_EncodingNotSupported
+Argument_EnumTypeDoesNotMatch
+Argument_GWithPrecisionNotSupported
+Argument_GenericArgsCount
+Argument_HasToBeArrayClass
+Argument_IdnBadBidi
+Argument_IdnBadLabelSize
+Argument_IdnBadNameSize
+Argument_IdnBadPunycode
+Argument_IdnBadStd3
+Argument_IdnIllegalName
+Argument_ImpersonateUser
+Argument_ImplementIComparable
+Argument_ImproperType
+Argument_InvalidArgumentForComparison
+Argument_InvalidCalendar
+Argument_InvalidCharSequence
+Argument_InvalidCharSequenceNoIndex
+Argument_InvalidCodePageBytesIndex
+Argument_InvalidCodePageConversionIndex
+Argument_InvalidDateTimeKind
+Argument_InvalidDateTimeStyles
+Argument_InvalidEnum
+Argument_InvalidEnumValue
+Argument_InvalidFlag
+Argument_InvalidHandle
+Argument_InvalidHighSurrogate
+Argument_InvalidId
+Argument_InvalidImpersonationToken
+Argument_InvalidLowSurrogate
+Argument_InvalidNameType
+Argument_InvalidNormalizationForm
+Argument_InvalidNumberStyles
+Argument_InvalidOffLen
+Argument_InvalidOidValue
+Argument_InvalidResourceCultureName
+Argument_InvalidSeekOrigin
+Argument_InvalidTypeName
+Argument_InvalidValue
+Argument_MinMaxValue
+Argument_MustBeBigInt
+Argument_MustBeFalse
+Argument_MustBeRuntimeAssembly
+Argument_MustBeRuntimeType
+Argument_MustHaveAttributeBaseClass
+Argument_MustHaveLayoutOrBeBlittable
+Argument_NativeOverlappedAlreadyFree
+Argument_NativeOverlappedWrongBoundHandle
+Argument_NeedNonGenericObject
+Argument_NeedNonGenericType
+Argument_NeverValidGenericArgument
+Argument_NoEra
+Argument_NoUninitializedStrings
+Argument_NotEnoughGenArguments
+Argument_OffsetOfFieldNotFound
+Argument_OffsetOutOfRange
+Argument_OffsetPrecision
+Argument_OutOfOrderDateTimes
+Argument_PreAllocatedAlreadyAllocated
+Argument_PrecisionTooLarge
+Argument_RecursiveFallback
+Argument_RecursiveFallbackBytes
+Argument_SpansMustHaveSameLength
+Argument_StreamNotReadable
+Argument_StreamNotWritable
+Argument_StringZeroLength
+Argument_TimeSpanHasSeconds
+Argument_TokenZero
+Argument_TransitionTimesAreIdentical
+Argument_UTCOutOfRange
+Arguments out of range
+Aring
+Arithmetic_NaN
+Array
+ArrayTypeMismatch_CantAssignType
+ArrayTypeMismatch_ConstrainedCopy
+AsyncMethodBuilder_InstanceNotInitialized
+Atilde
+AttemptConnection
+Attempted to throw: {0}
+Attempting new HTTP2 connection.
+Attempting new HTTP3 connection.
+August
+Auml
+AuthRoot
+Authenticate
+Authentication failed. Status: {0}, Exception message: {1}
+Authentication scheme '
+Authentication: {0}, Host: {1}
+Authentication: {0}, SPN: {1}
+Authentication: {0}, Uri: {1}
+Authorization
+AutoConfigUrl={0}, AutoDetect={1}, Proxy={2}, ProxyBypass={3}
+AutoSettingsUsed, calling {0}
+BROWSER
+BSTR
+BUFFER_TOO_SMALL
+Bad Gateway
+Bad Request
+BadClassInCharRange
+BadImageFormat_FileName
+BadImageFormat_FusionLog
+BadImageFormat_InvalidType
+BadImageFormat_NegativeStringLength
+BadImageFormat_ResType_SerBlobMismatch
+BadImageFormat_ResourceDataLengthInvalid
+BadImageFormat_ResourceNameCorrupted
+BadImageFormat_ResourceNameCorrupted_NameIndex
+BadImageFormat_ResourcesDataInvalidOffset
+BadImageFormat_ResourcesHeaderCorrupted
+BadImageFormat_ResourcesIndexTooLong
+BadImageFormat_ResourcesNameInvalidOffset
+BadImageFormat_ResourcesNameTooLong
+BadImageFormat_TypeMismatch
+BaseUtcOffset
+BaseUtcOffsetDelta
+Basic
+Basic credential present in cache, uri={0}, username={1}
+BeginAccept
+BeginAcceptSocket
+BeginAuthenticate
+BeginGetHostAddresses
+BeginIndexNotNegative
+BeginReceive
+BeginSend
+Beta
+Bif_InvalidMetadata
+Bind
+Blocking
+Boolean
+BrotliDecoder
+BrotliDecoder_Create
+BrotliDecoder_Disposed
+BrotliEncoder
+BrotliEncoder_Create
+BrotliEncoder_Disposed
+BrotliStream_Compress_InvalidData
+BrotliStream_Compress_UnsupportedOperation
+BrotliStream_Decompress_InvalidData
+BrotliStream_Decompress_InvalidStream
+BrotliStream_Decompress_UnsupportedOperation
+Buffer not enough
+BufferList
+Byte
+C.E.
+CANCEL
+CF-RAY
+CLR IsEphemeral
+CMS3DESwrap
+CMSRC2wrap
+COMPRESSION_ERROR
+CONNECT
+CONNECTION_IDLE
+CONNECTION_TIMEOUT
+CONNECT_ERROR
+CONTINUE
+Cache-Control
+CacheCredential
+CacheCredential() (locked retry) Found already cached Handle = {0}
+CacheCredential() Ignoring incoming handle = {0} since found already cached Handle = {1}
+Caching New Handle = {0}, Current Cache Count = {1}
+Called on completed result.
+Called without calling StartPostingAsyncOp.
+Calling CertificateSelectionCallback
+Calling _handle.CloseAsIs()
+Cancel
+CancelConnectAsync
+CancelIoEx failed with error '{0}'.
+CancelWrite
+Canceled
+Canceled due to timeout
+Canceling request content for Expect: 100-continue.
+Cancellation requested. Disposing of the connection.
+CancellationTokenSource_Disposed
+Cannot parse signature
+CannotCreateByRefOfByRef
+CannotCreatePointerOfByRef
+CannotReadFromDeflateStream
+CannotUseByRefLikeTypeInInstantiation
+CannotWriteToDeflateStream
+Canonical types cannot be allocated
+Canonical types do not have EETypes
+Capabilities:
+Capacity
+CapnumNotZero
+Captcha
+Captcha solver required
+CaptureGroupOutOfRange
+CaptureOrComplete
+Ccedil
+Cert validation, remote cert = {0}
+CertVerifyCertificateChainPolicy returned: {0}. Status: {1}
+ChainStatus:
+ChangeInitialWindowSize
+ChangeMaxConcurrentStreams
+Channel
+ChannelClosedException_DefaultMessage
+Char
+CharUnknownLow
+CheckForShutdown
+CheckTaskNotNull
+Choosing X509Certificate2 {0} as the Client Certificate. Certificate Subject: {1}, Thumbprint: {2}.
+ClassLoad_BadFormat
+ClassLoad_ExplicitGeneric
+ClassLoad_ExplicitLayout
+ClassLoad_General
+ClassLoad_RankTooLarge
+ClassLoad_ValueClassTooLarge
+CleanCacheAndDisposeIfUnused
+Cleaning pool.
+Cleanup
+Clearance cookie not found
+Clearance failed after {0} attempt(s).
+ClientCertificateOptions
+Close
+CloseAsIs
+CloseHandle
+Cloudflare [
+Codepage -
+Comment
+Comment: {0}
+CommentURL
+CompareInfo
+CompareInfo -
+Complete
+CompleteAuthToken
+CompleteCallback
+CompleteHandshake
+CompleteResponse
+CompletedSynchronously
+Completing resettable event source.
+Completing synchronously
+CompletionPortCallback
+Complex
+ConcurrentCollection_SyncRoot_NotSupported
+ConcurrentDictionary_CapacityMustNotBeNegative
+ConcurrentDictionary_ConcurrencyLevelMustBePositive
+ConcurrentDictionary_ItemKeyIsNull
+ConcurrentDictionary_KeyAlreadyExisted
+ConcurrentDictionary_SourceContainsDuplicateKeys
+Conflict
+ConnectAsync
+Connected
+Connection
+Connection closing.
+Connection drain failed because MaxResponseDrainSize of {0} bytes was exceeded
+Connection drain failed due to exception: {0}
+Connection drain succeeded
+Connection has been shutdown.
+Connection limit reached, waiting for available connection.
+Connection no longer usable. Alive {0} > {1}.
+Connection no longer usable. Idle {0} > {1}.
+Connection no longer usable. Unexpected data received.
+Connection will not be reused.
+ConstructSslOptions
+Constructing...
+ContainsInvalidNewLine
+Content
+Content-Disposition
+Content-Encoding
+Content-Language
+Content-Length
+Content-Length: 0
+Content-Location
+Content-MD5
+Content-Range
+Content-Security-Policy
+Content-Type
+ContentType
+Context set, calling callback.
+Continue
+Continue needed
+Control Panel\International
+Cookie
+Cookie2
+CookieCutter
+CookieParser returned cookie:{0}
+Coordinated Universal Time
+CopyFromBufferAsync
+Copying {0} bytes to stream.
+Correlation-Context
+Could not complete receive call.
+Could not get SOCKADDR_INET.
+Could not get ulong.
+Could not get ushort.
+Could not open session.
+Could not open the connection.
+Could not send data to peer.
+Could not set parameter on session.
+Could not set ulong.
+Could not start stream.
+Count
+CreateFatalHandshakeAlertToken
+CreateSocket
+CreateUntypedDelegate
+Created
+Creating new connection for pool.
+CredentialCache::GetCredential short-circuiting because the dictionary is null.
+CreditManager
+CreditManager:
+CrlSign
+Cryptography_ArgECDsaRequiresECDsaKey
+Cryptography_ArgRSARequiresRSAKey
+Cryptography_CSP_NotFound
+Cryptography_CSP_WrongKeySpec
+Cryptography_CurveNotSupported
+Cryptography_CustomTrustCertsInSystemMode
+Cryptography_InvalidAlgorithmGroup
+Cryptography_InvalidAlgorithmName
+Cryptography_InvalidContextHandle
+Cryptography_InvalidCurveKeyParameters
+Cryptography_InvalidCurveOid
+Cryptography_InvalidECCharacteristic2Curve
+Cryptography_InvalidECNamedCurve
+Cryptography_InvalidECPrimeCurve
+Cryptography_InvalidHandle
+Cryptography_InvalidKeyBlobFormat
+Cryptography_InvalidKeySize
+Cryptography_InvalidProviderName
+Cryptography_InvalidTrustCertificate
+Cryptography_Oid_InvalidName
+Cryptography_Oid_InvalidValue
+Cryptography_OpenEphemeralKeyHandleWithoutEphemeralFlag
+Cryptography_OpenInvalidHandle
+Cryptography_UnknownHashAlgorithm
+Cryptography_X509_ExtensionMismatch
+Cryptography_X509_InvalidFindType
+Cryptography_X509_InvalidFindValue
+CspParameter_invalid
+Culture
+Currency
+Current module queried in wrong enumerator state
+Current {0} response is an interim response or not expected, need to read for a final response.
+CurrentSocket and MultipleConnect both null!
+CurrentUser
+CustomAttributeFormat_InvalidFieldFail
+CustomAttributeFormat_InvalidPropertyFail
+CustomTrustStore
+DELETE
+DENY
+DNS Name:
+DOTNET_SYSTEM_NET_HTTP_ENABLEACTIVITYPROPAGATION
+DOTNET_SYSTEM_NET_HTTP_SOCKETSHTTPHANDLER_HTTP2SUPPORT
+DOTNET_SYSTEM_NET_HTTP_SOCKETSHTTPHANDLER_HTTP2UNENCRYPTEDSUPPORT
+DOTNET_SYSTEM_NET_HTTP_SOCKETSHTTPHANDLER_HTTP3DRAFTSUPPORT
+DOTNET_SYSTEM_THREADING_POOLASYNCVALUETASKS
+DOTNET_SYSTEM_THREADING_POOLASYNCVALUETASKSLIMIT
+DSACryptoServiceProvider
+Dagger
+Data
+DataEncipherment
+Date
+DateEnd
+DateStart
+DateTime
+DayOfWeek
+DaylightDelta
+DaylightName
+DaylightTransitionEnd
+DaylightTransitionStart
+December
+Decimal
+DecipherOnly
+Declaring type handle:
+DecrementConnectionCount
+Decrypt
+Default
+DefaultDomain
+DelegateMarshalling_MissingInteropData
+Delegate_GarbageCollected
+Delta
+Demanded
+Denied
+Description
+Deserialize
+DetectFraming
+DiagnosticSource: Could not find Event to log Activity
+DiagnosticSource: Enabling '
+DiagnosticSource: Parsing Explicit Transform '
+DiagnosticSource: suppressing implicit transforms.
+Diagnostics.DisableDiaStackTraceResolution
+Diagnostics.DisableMetadataStackTraceResolution
+Diagnostics.Tracing
+Didn't capture context, but didn't complete synchronously!
+Digest
+DigitalSignature
+Disallowed
+Discard
+Discarding downgraded HTTP/1.1 connection because connection limit is exceeded
+Display
+DisplayName
+Dispose
+DisposeAsync
+Disposing connection return to pool. Connection lifetime expired.
+Disposing connection returned to pool. Pool was disposed.
+Disposing connection returned to pool. Read-ahead unexpectedly completed.
+Disposing connection returned to pool. Zero idle timeout.
+Disposing pool.
+DoBeginAccept
+DoBeginReceive
+DoBeginSend
+DoBind
+DoCloseHandle
+DoDnsCallback
+Domain
+Double
+DrainContentLength0Frames
+DrainOnDisposeAsync
+DumpBuffer
+D{0}
+ECCCurveName
+ECCFULLPRIVATEBLOB
+ECCFULLPUBLICBLOB
+ECCPRIVATEBLOB
+ECCPUBLICBLOB
+ECCParameters
+ECDH
+ECDH_P256
+ECDH_P384
+ECDH_P521
+ECDH_STD_SHA1_KDF
+ECDH_STD_SHA256_KDF
+ECDH_STD_SHA384_KDF
+ECDSA
+ECDSA_P256
+ECDSA_P384
+ECDSA_P521
+ECDsaCng
+EEType:0x
+EETypePointer:0x
+EETypeRva:0x
+EE_MissingField
+EE_MissingMethod
+ENHANCE_YOUR_CALM
+ERROR = {0}
+ERROR {0}
+ERROR: Exception during EventSource.OnEventWritten:
+ERROR: Exception during construction of EventSource
+ERROR: Exception in Command Processing for EventSource
+ESDH
+ETW_
+ETag
+Eacute
+Early Hints
+Ecirc
+Egrave
+Email Name:
+EncipherOnly
+Encrypt
+Encrypt ERROR {0:X}
+EncryptMessage
+EncryptionPolicy
+EndAccept
+EndAcceptSocket
+EndGetHostAddresses
+EndReceive
+EndSend
+EndTimeNotUtc
+EnsureReadAheadAndPollRead
+EnsureStoreOpened
+EnumNotStarted
+EnumerateSecurityPackages
+Epsilon
+Equals
+Equals({0},{1}) returns {2}
+Error
+Error parsing JS challenge html
+Error performing read ahead: {0}
+Error sending request: {0}
+Error:
+Error: Not allowed URL
+Error: {0}
+ErrorCode
+Euml
+EventSource
+EventSourceException
+EventSourceMessage
+EventSource_AbstractMustNotDeclareEventMethods
+EventSource_AbstractMustNotDeclareKTOC
+EventSource_AddScalarOutOfRange
+EventSource_BadHexDigit
+EventSource_ChannelTypeDoesNotMatchEventChannelValue
+EventSource_DataDescriptorsOutOfRange
+EventSource_DuplicateStringKey
+EventSource_EnumKindMismatch
+EventSource_EvenHexDigits
+EventSource_EventChannelOutOfRange
+EventSource_EventIdReused
+EventSource_EventMustHaveTaskIfNonDefaultOpcode
+EventSource_EventMustNotBeExplicitImplementation
+EventSource_EventNameReused
+EventSource_EventParametersMismatch
+EventSource_EventSourceGuidInUse
+EventSource_EventTooBig
+EventSource_EventWithAdminChannelMustHaveMessage
+EventSource_IllegalKeywordsValue
+EventSource_IllegalOpcodeValue
+EventSource_IllegalTaskValue
+EventSource_IllegalValue
+EventSource_IncorrentlyAuthoredTypeInfo
+EventSource_InvalidEventFormat
+EventSource_KeywordCollision
+EventSource_KeywordNeedPowerOfTwo
+EventSource_ListenerNotFound
+EventSource_ListenerWriteFailure
+EventSource_MaxChannelExceeded
+EventSource_NeedGuid
+EventSource_NeedName
+EventSource_NeedPositiveId
+EventSource_NoFreeBuffers
+EventSource_NoRelatedActivityId
+EventSource_NonCompliantTypeError
+EventSource_NotSupportedArrayOfBinary
+EventSource_NotSupportedArrayOfNil
+EventSource_NotSupportedArrayOfNullTerminatedString
+EventSource_NotSupportedNestedArraysEnums
+EventSource_NullInput
+EventSource_OpcodeCollision
+EventSource_PinArrayOutOfRange
+EventSource_RecursiveTypeDefinition
+EventSource_StopsFollowStarts
+EventSource_TaskCollision
+EventSource_TaskOpcodePairReused
+EventSource_ToString
+EventSource_TooManyArgs
+EventSource_TooManyFields
+EventSource_TraitEven
+EventSource_TypeMustBeSealedOrAbstract
+EventSource_TypeMustDeriveFromEventSource
+EventSource_UndefinedChannel
+EventSource_UndefinedKeyword
+EventSource_UndefinedOpcode
+EventSource_UnknownEtwTrait
+EventSource_UnsupportedEventTypeInManifest
+EventSource_UnsupportedMessageProperty
+EventSource_VarArgsParameterMismatch
+Exceeded max number of redirects. Redirect from {0} to {1} blocked.
+Exception
+Exception during registration rollback
+Exception from asynchronous processing: {0}
+Exception from {0}.GetProxy({1}): {2}
+Exception_EndOfInnerExceptionStack
+Exception_WasThrown
+Exceptions must derive from the System.Exception class
+ExecutionContext_ExceptionInAsyncLocalNotification
+Expect
+Expect-CT
+Expectation Failed
+Expected HEADERS as first response frame; recieved {0}.
+Expecting 100 Continue but received final status {0}.
+Expires
+Export Policy
+ExtendWindow
+FALSE
+FLOW_CONTROL_ERROR
+FRAME_SIZE_ERROR
+FREEBSD
+Fail
+Failed Dependency
+Failed to connect to peer.
+Failed to get type handles for parameters in method signature
+Failed to open cert store, location: {0} exception: {1}
+Failed to open stream to peer.
+Failed to register frozen object segment for the module.
+Failed to send request body: {0}
+Failed to shutdown connection.
+Fallback to Proxy={0}, ProxyBypass={1}
+False
+February
+FileLoadException_RefDefMismatch
+FileLoad_FileName
+FileLoad_FusionLog
+FileNotFound_AssemblyNotFound
+FileNotFound_FileName
+FileNotFound_FusionLog
+Fill
+FillAsync
+FilterAndPayloadSpecs
+Finalize
+FinishWrite
+Finished sending request body.
+Finished sending request content.
+FirstEntry
+FlagsAttribute
+FlushOutgoingBytesAsync
+For Certificate {0} - current X509EnhancedKeyUsageExtension {1} is not valid for Client Authentication.
+For Certificate {0} - current X509KeyUsageExtension {1} is not valid for Digital Signature.
+Forbidden
+ForceAuthenticationAsync
+ForceReleaseUnmanagedStructures
+Format_Bad7BitInt
+Format_BadBase64Char
+Format_BadBoolean
+Format_BadDatePattern
+Format_BadDateTime
+Format_BadDateTimeCalendar
+Format_BadDayOfWeek
+Format_BadFormatSpecifier
+Format_BadQuote
+Format_DateOutOfRange
+Format_ExtraJunkAtEnd
+Format_GuidBrace
+Format_GuidBraceAfterLastNumber
+Format_GuidComma
+Format_GuidDashes
+Format_GuidEndBrace
+Format_GuidHexPrefix
+Format_GuidInvLen
+Format_GuidInvalidChar
+Format_GuidUnrecognized
+Format_IndexOutOfRange
+Format_InvalidEnumFormatSpecification
+Format_InvalidGuidFormatSpecification
+Format_InvalidString
+Format_MissingIncompleteDate
+Format_NeedSingleChar
+Format_NoFormatSpecifier
+Format_OffsetOutOfRange
+Format_RepeatDateTimePattern
+Format_StringZeroLength
+Format_TooLarge
+Format_UTCOutOfRange
+Format_UnknownDateTimeWord
+Found
+Found a cached Handle = {0}
+Found invalid connection in pool.
+Found usable connection in pool.
+Found {0} {1} <= {2}.
+Frame 0: {0}.
+Frame {0}: {1}.
+Friday
+From
+GATEWAY_INTERFACE
+GROUP
+GVM resolution failure
+Game-Version
+Gamma
+Gateway Timeout
+GenerateToken
+Generic virtual method pointer lookup failure.
+GenericArguments[{0}]
+GenericInvalidData
+GetAddrInfoExCancel
+GetChannelBinding
+GetCredential
+GetDigestTokenForCredential
+GetEligibleClientCertificate
+GetFrameSize
+GetHashCode
+GetHostEntryAsync
+GetHostEntryOrAddressesCore
+GetHostEntryOrAddressesCoreAsync
+GetHostName
+GetHostName failed with {0}
+GetHttp2ConnectionAsync
+GetHttp3ConnectionAsync
+GetHttpConnectionAsync
+GetIPv6MulticastOpt
+GetIPv6MulticastOption returns errorCode:{0}
+GetLingerOpt
+GetLingerOption returns errorCode:{0}
+GetMulticastOpt
+GetMulticastOption returns errorCode:{0}
+GetOrAllocateThreadPoolBoundHandle
+GetOrReserveHttp11ConnectionAsync
+GetOutgoingBlob
+GetProxyForUrl
+GetRemoteCertificate
+GetRemoteCertificatesFromStoreContext
+GetRequestCertificateAuthorities
+GetSockOpt returns errorCode:{0}
+GetSocketOption
+GetStaticQPackHeader
+GetUriForRedirect
+GetValueOrDefault
+Globalization_cp_
+Gone
+GrantedSet
+Gregorian Calendar
+Groups
+H3_CLOSED_CRITICAL_STREAM (0x104)
+H3_CONNECT_ERROR (0x10F)
+H3_EXCESSIVE_LOAD (0x107)
+H3_FRAME_ERROR (0x106)
+H3_FRAME_UNEXPECTED (0x105)
+H3_GENERAL_PROTOCOL_ERROR (0x101)
+H3_ID_ERROR (0x108)
+H3_INTERNAL_ERROR (0x102)
+H3_MISSING_SETTINGS (0x10A)
+H3_NO_ERROR (0x100)
+H3_REQUEST_CANCELLED (0x10C)
+H3_REQUEST_INCOMPLETE (0x10D)
+H3_REQUEST_REJECTED (0x10B)
+H3_SETTINGS_ERROR (0x109)
+H3_STREAM_CREATION_ERROR (0x103)
+H3_VERSION_FALLBACK (0x110)
+H:mm
+HANDSHAKE_FAILURE
+HEAD
+HH:mm
+HH:mm:ss
+HResult
+HTTP/
+HTTP/1.
+HTTP/1.0
+HTTP/1.1
+HTTP/2 handshake failed. Server returned
+HTTP/3 server sent GOAWAY with increasing stream ID. Retried requests may have been double-processed by server.
+HTTPS_PROXY
+HTTP_1_1_REQUIRED
+HTTP_PROXY
+HandleEventConnected
+HandleEventNewStream
+HandleEventPeerRecvAborted
+HandleEventPeerSendAborted
+HandleEventPeerSendShutdown
+HandleEventRecv
+HandleEventSendComplete
+HandleEventSendShutdownComplete
+HandleEventShutdownComplete
+HandleEventShutdownInitiatedByTransport
+HandleFinishSendAsyncError
+HandleSendAsyncTimeout
+HandleStartComplete
+HasThis on signatures must match
+HasValue
+HashAlgorithm:{0}, HashStrength:{1},
+HashCode_EqualityNotSupported
+HashCode_HashCodeNotSupported
+HashDigestLength
+Header buffer is not allocated.
+HelpURL
+Hhms
+Host
+Hresult
+Http Version Not Supported
+Http2Connection
+Http2ReadStream
+Http2WriteStream
+Http3RequestStream
+Http3WriteStream
+HttpConnection
+HttpConnectionPool
+HttpHandlerDiagnosticListener
+HttpOnly
+HttpProxy successfully initialized!
+IM Used
+INADEQUATE_SECURITY
+INTERNAL_ERROR
+INVALID_PARAMETER
+INVALID_STATE
+IO_AlreadyExists_Name
+IO_EOF_ReadBeyondEOF
+IO_FileExists_Name
+IO_FileLoad
+IO_FileLoad_FileName
+IO_FileName_Name
+IO_FileNotFound
+IO_FileNotFound_FileName
+IO_FixedCapacity
+IO_InvalidStringLen_Len
+IO_PathNotFound_NoPathName
+IO_PathNotFound_Path
+IO_PathTooLong
+IO_PathTooLong_Path
+IO_SeekBeforeBegin
+IO_SharingViolation_File
+IO_SharingViolation_NoFileName
+IO_StreamTooLong
+IP address is banned
+Iacute
+Icirc
+IdentityReference_AccountNameTooLong
+IdentityReference_DomainNameTooLong
+IdentityReference_IdentifierAuthorityTooLarge
+IdentityReference_IdentityNotMapped
+IdentityReference_InvalidNumberOfSubauthorities
+IdentityReference_InvalidSidRevision
+IdentityReference_MustBeIdentityReference
+If-Match
+If-Modified-Since
+If-None-Match
+If-Range
+If-Unmodified-Since
+Ignoring server-initiated stream of unknown type {0}.
+Igrave
+IllegalCondition
+IllegalDefaultRegexMatchTimeoutInAppDomain
+IllegalEndEscape
+IllegalRange
+IncompleteSlashP
+IncrementConnectionCountNoLock
+Indeterminate
+IndexOutOfRange_IORaceCondition
+IndexOutOfRange_UMSPosition
+Infinity
+InitializationState !=
+Initialize
+InitializeInternals
+InitializeSecurityContext
+InnerException
+InnerExceptions
+InnerHandler
+Insecure https to http redirect from '{0}' to '{1}' blocked.
+InstParam
+Instantiation:
+Insufficient Storage
+Insufficient memory to continue the execution of the program.
+Insufficient number of thunks.
+Int16
+Int32
+Int64
+Internal Server Error
+InternalError_ScanRegex
+InternalException thrown for unexpected value: {0}
+InternalSetBlocking
+InternalShutdown
+International Monetary Fund
+Interop.SspiCli._CERT_CHAIN_ELEMENT size is not positive: {0}
+Interop_Marshal_Unmappable_Char
+Invalid MethodAddressType during ClassConstructor discovery
+Invalid Program: attempted to call a UnmanagedCallersOnly method from runtime-typesafe code.
+Invalid Set-Cookie '{0}' ignored.
+Invalid address '{0}'
+Invalid handle
+Invalid handle: {0}
+Invalid module requested in enumeration:
+Invalid response pseudo-header '
+Invalid token
+Invalid {0} Args. Length={1}, Offset={2}, Count={3}
+InvalidArgumentOffsetCount
+InvalidAssemblyName
+InvalidBeginCall
+InvalidCast_DownCastArrayElement
+InvalidCast_FromDBNull
+InvalidCast_FromTo
+InvalidCast_StoreArrayElement
+InvalidCultureId
+InvalidCultureName
+InvalidFilterCriteriaException_CritInt
+InvalidFilterCriteriaException_CritString
+InvalidGroupName
+InvalidOperationException_ActorGraphCircular
+InvalidOperation_AsyncFlowCtrlCtxMismatch
+InvalidOperation_AsyncIOInProgress
+InvalidOperation_CalledTwice
+InvalidOperation_CannotRestoreUnsupressedFlow
+InvalidOperation_CannotSupressFlowMultipleTimes
+InvalidOperation_CannotUseAFCMultiple
+InvalidOperation_CannotUseAFCOtherThread
+InvalidOperation_CollectionCorrupted
+InvalidOperation_ConcurrentOperationsNotSupported
+InvalidOperation_DateTimeParsing
+InvalidOperation_EmptyQueue
+InvalidOperation_EndReadCalledMultiple
+InvalidOperation_EndWriteCalledMultiple
+InvalidOperation_EnumEnded
+InvalidOperation_EnumFailedVersion
+InvalidOperation_EnumNotStarted
+InvalidOperation_EnumOpCantHappen
+InvalidOperation_GetVersion
+InvalidOperation_HandleIsNotInitialized
+InvalidOperation_HandleIsNotPinned
+InvalidOperation_HashInsertFailed
+InvalidOperation_IComparerFailed
+InvalidOperation_IncompleteAsyncOperation
+InvalidOperation_IncorrectImplementation
+InvalidOperation_IncorrectToken
+InvalidOperation_InvalidHandle
+InvalidOperation_MultipleContinuations
+InvalidOperation_MustCallInitialize
+InvalidOperation_NoValue
+InvalidOperation_NotGenericType
+InvalidOperation_NullArray
+InvalidOperation_NullContext
+InvalidOperation_ReadOnly
+InvalidOperation_ResMgrBadResSet_Type
+InvalidOperation_ResourceNotString_Name
+InvalidOperation_ResourceNotString_Type
+InvalidOperation_SpanOverlappedOperation
+InvalidOperation_ThreadWrongThreadStart
+InvalidOperation_TimerAlreadyClosed
+InvalidOperation_TooEarly
+InvalidOperation_UnknownEnumType
+InvalidOperation_WrongAsyncResultOrEndCalledMultiple
+InvalidOperation_WrongAsyncResultOrEndReadCalledMultiple
+InvalidOperation_WrongAsyncResultOrEndWriteCalledMultiple
+InvalidProgram_CallVirtFinalize
+InvalidProgram_Default
+InvalidProgram_Specific
+InvalidProgram_UnmanagedCallersOnly
+InvalidProgram_Vararg
+Invalidating socket.
+Invariant Country
+Invariant Language
+Invariant Language (Invariant Country)
+Invoking callback
+Iota
+IsAlphabeticPresentationForms
+IsArabic
+IsArabicPresentationForms-A
+IsArabicPresentationForms-B
+IsArmenian
+IsArrows
+IsBasicLatin
+IsBengali
+IsBlockElements
+IsBopomofo
+IsBopomofoExtended
+IsBoxDrawing
+IsBraillePatterns
+IsBuhid
+IsCJKCompatibility
+IsCJKCompatibilityForms
+IsCJKCompatibilityIdeographs
+IsCJKRadicalsSupplement
+IsCJKSymbolsandPunctuation
+IsCJKUnifiedIdeographs
+IsCJKUnifiedIdeographsExtensionA
+IsCherokee
+IsCombiningDiacriticalMarks
+IsCombiningDiacriticalMarksforSymbols
+IsCombiningHalfMarks
+IsCombiningMarksforSymbols
+IsCompleted
+IsCompleted: {0}
+IsControlPictures
+IsCurrencySymbols
+IsCyrillic
+IsCyrillicSupplement
+IsDevanagari
+IsDingbats
+IsEnclosedAlphanumerics
+IsEnclosedCJKLettersandMonths
+IsEthiopic
+IsExpired
+IsFixedDateRule
+IsGeneralPunctuation
+IsGeometricShapes
+IsGeorgian
+IsGreek
+IsGreekExtended
+IsGreekandCoptic
+IsGujarati
+IsGurmukhi
+IsHalfwidthandFullwidthForms
+IsHangulCompatibilityJamo
+IsHangulJamo
+IsHangulSyllables
+IsHanunoo
+IsHebrew
+IsHighPrivateUseSurrogates
+IsHighSurrogates
+IsHiragana
+IsIPAExtensions
+IsIdeographicDescriptionCharacters
+IsKanbun
+IsKangxiRadicals
+IsKannada
+IsKatakana
+IsKatakanaPhoneticExtensions
+IsKhmer
+IsKhmerSymbols
+IsLao
+IsLatin-1Supplement
+IsLatinExtended-A
+IsLatinExtended-B
+IsLatinExtendedAdditional
+IsLetterlikeSymbols
+IsLimbu
+IsLowSurrogates
+IsMalayalam
+IsMathematicalOperators
+IsMiscellaneousMathematicalSymbols-A
+IsMiscellaneousMathematicalSymbols-B
+IsMiscellaneousSymbols
+IsMiscellaneousSymbolsandArrows
+IsMiscellaneousTechnical
+IsMongolian
+IsMyanmar
+IsNumberForms
+IsOgham
+IsOpticalCharacterRecognition
+IsOriya
+IsPhoneticExtensions
+IsPrivateUse
+IsPrivateUseArea
+IsQuotedDomain
+IsQuotedVersion
+IsRunic
+IsSinhala
+IsSmallFormVariants
+IsSpacingModifierLetters
+IsSpecials
+IsSuperscriptsandSubscripts
+IsSupplementalArrows-A
+IsSupplementalArrows-B
+IsSupplementalMathematicalOperators
+IsSyriac
+IsTagalog
+IsTagbanwa
+IsTaiLe
+IsTamil
+IsTelugu
+IsThaana
+IsThai
+IsTibetan
+IsUnifiedCanadianAboriginalSyllabics
+IsUsable
+IsValidClientCertificate
+IsValidEmailAddress
+IsVarArg on signatures must match
+IsVariationSelectors
+IsYiRadicals
+IsYiSyllables
+IsYijingHexagramSymbols
+IssuerListEx[{0}]
+Iuml
+January
+JavaScript
+July
+June
+Kappa
+Keep-Alive
+Kerberos
+Key Blob:
+KeyAgreement
+KeyCertSign
+KeyEncipherment
+KeyExchangeAlgorithm:{0}, KeyExchangeStrength:{1},
+Keywords
+LINUX
+LOCAL AUTHORITY
+Lambda
+Last-Modified
+LastEntry
+Lazy_CreateValue_NoParameterlessCtorForT
+Lazy_StaticInit_InvalidOperation
+Lazy_ToString_ValueNotCreated
+Lazy_Value_RecursiveCallsToValue
+Lazy_ctor_ModeInvalid
+Ldtoken is not permitted for a canonical field
+Ldtoken is not permitted for a canonical method
+Length
+Length Required
+Length:
+LengthNotNegative
+LifetimeExpired
+Link
+Listen
+LoadIntoBufferAsyncCore
+Local
+LocalCertificate:{0}, RemoteCertificate:{1}
+LocalCertificateSelectionCallback
+LocalEndPoint
+LocalMachine
+Location
+Locked
+LogBuffer
+LogExceptions
+LoggingRequestId
+Loop Detected
+MD5-sess
+MM/dd/yyyy
+MMClassName
+MMMM
+MMMM dd
+MMMemberName
+MMSignature
+MUI_Display
+MUI_Dlt
+MUI_Std
+Mac OS X
+Machine
+MailAddressInvalidFormat
+MailHeaderFieldInvalidCharacter
+MakeException
+MakeGenericMethod_NoMetadata
+MalformedNameRef
+MalformedReference
+MalformedSlashP
+Manual
+ManualResetEventSlim_Disposed
+ManualResetEventSlim_ctor_SpinCountOutOfRange
+ManualResetEventSlim_ctor_TooManyWaiters
+ManualSettingsUsed, {0}
+March
+Marshaling OUT buffer
+Marshalling OUT buffer
+Match
+Match({0} & {1})
+Matched {0}
+Max-Age
+Max-Forwards
+Message
+Message altered
+Message incomplete
+Method '[S.P.CompilerGenerated]Internal.CompilerGenerated.<Module>.ReverseDelegateStub__AcceptExDelegate(native int,native int,native int,int32,int32,int32,int32*,NativeOverlapped*)' requires marshalling that is not yet supported by this compiler.
+Method '[S.P.CompilerGenerated]Internal.CompilerGenerated.<Module>.ReverseDelegateStub__ConnectExDelegate(native int,native int,int32,native int,int32,int32*,NativeOverlapped*)' requires marshalling that is not yet supported by this compiler.
+Method '[S.P.CompilerGenerated]Internal.CompilerGenerated.<Module>.ReverseDelegateStub__DisconnectExDelegate(native int,NativeOverlapped*,int32,int32)' requires marshalling that is not yet supported by this compiler.
+Method '[S.P.CompilerGenerated]Internal.CompilerGenerated.<Module>.ReverseDelegateStub__DisconnectExDelegateBlocking(native int,native int,int32,int32)' requires marshalling that is not yet supported by this compiler.
+Method '[S.P.CompilerGenerated]Internal.CompilerGenerated.<Module>.ReverseDelegateStub__TransmitPacketsDelegate(native int,native int,int32,int32,NativeOverlapped*,TransmitFileOptions)' requires marshalling that is not yet supported by this compiler.
+Method '[S.P.CompilerGenerated]Internal.CompilerGenerated.<Module>.ReverseDelegateStub__WSARecvMsgDelegate(native int,native int,int32*,NativeOverlapped*,native int)' requires marshalling that is not yet supported by this compiler.
+Method '[S.P.CompilerGenerated]Internal.CompilerGenerated.<Module>.ReverseDelegateStub__WSARecvMsgDelegateBlocking(native int,native int,int32*,native int,native int)' requires marshalling that is not yet supported by this compiler.
+Method '[S.P.CompilerGenerated]Internal.CompilerGenerated.<Module>.ReverseOpenStaticDelegateStub__AcceptExDelegate(native int,native int,native int,int32,int32,int32,int32*,NativeOverlapped*)' requires marshalling that is not yet supported by this compiler.
+Method '[S.P.CompilerGenerated]Internal.CompilerGenerated.<Module>.ReverseOpenStaticDelegateStub__ConnectExDelegate(native int,native int,int32,native int,int32,int32*,NativeOverlapped*)' requires marshalling that is not yet supported by this compiler.
+Method '[S.P.CompilerGenerated]Internal.CompilerGenerated.<Module>.ReverseOpenStaticDelegateStub__DisconnectExDelegate(native int,NativeOverlapped*,int32,int32)' requires marshalling that is not yet supported by this compiler.
+Method '[S.P.CompilerGenerated]Internal.CompilerGenerated.<Module>.ReverseOpenStaticDelegateStub__DisconnectExDelegateBlocking(native int,native int,int32,int32)' requires marshalling that is not yet supported by this compiler.
+Method '[S.P.CompilerGenerated]Internal.CompilerGenerated.<Module>.ReverseOpenStaticDelegateStub__TransmitPacketsDelegate(native int,native int,int32,int32,NativeOverlapped*,TransmitFileOptions)' requires marshalling that is not yet supported by this compiler.
+Method '[S.P.CompilerGenerated]Internal.CompilerGenerated.<Module>.ReverseOpenStaticDelegateStub__WSARecvMsgDelegate(native int,native int,int32*,NativeOverlapped*,native int)' requires marshalling that is not yet supported by this compiler.
+Method '[S.P.CompilerGenerated]Internal.CompilerGenerated.<Module>.ReverseOpenStaticDelegateStub__WSARecvMsgDelegateBlocking(native int,native int,int32*,native int,native int)' requires marshalling that is not yet supported by this compiler.
+Method Not Allowed
+Method dictionaries of canonical methods do not exist
+Method name:
+Method:
+Microsoft Base Cryptographic Provider v1.0
+Microsoft Base DSS and Diffie-Hellman Cryptographic Provider
+Microsoft Enhanced Cryptographic Provider v1.0
+Microsoft Enhanced DSS and Diffie-Hellman Cryptographic Provider
+Microsoft Enhanced RSA and AES Cryptographic Provider
+Microsoft Software Key Storage Provider
+Microsoft Unified Security Protocol Provider
+Microsoft Win32S
+Microsoft Windows 95
+Microsoft Windows 98
+Microsoft Windows CE
+Microsoft Windows NT
+Microsoft.AspNetCore/Microsoft.AspNetCore.Hosting.BeginRequest@Activity1Start:-httpContext.Request.Method;httpContext.Request.Host;httpContext.Request.Path;httpContext.Request.QueryString
+Microsoft.AspNetCore/Microsoft.AspNetCore.Hosting.EndRequest@Activity1Stop:-httpContext.TraceIdentifier;httpContext.Response.StatusCode
+Microsoft.EntityFrameworkCore/Microsoft.EntityFrameworkCore.BeforeExecuteCommand@Activity2Start:-Command.Connection.DataSource;Command.Connection.Database;Command.CommandText
+Microsoft.EntityFrameworkCore/Microsoft.EntityFrameworkCore.AfterExecuteCommand@Activity2Stop:-
+MidpointRounding
+Misdirected Request
+Missing captcha provider
+MissingConstructor_Name
+MissingControl
+MissingManifestResource_MultipleBlobs
+MissingManifestResource_NoNeutralAsm
+MissingMember
+MissingMember_Name
+MissingMethod_Name
+MissingSatelliteAssembly_Culture_Name
+MissingSatelliteAssembly_Default
+Modified request from {0} to {1} in response to status code {2} '{3}'.
+Monday
+Month
+Moved Permanently
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Mrt Export table version
+Mrt Import Count
+Mrt Import table version
+Mrt import ordinal
+MsQuicStream
+Multi-Status
+MultiDim_Of_This_Rank_Not_Supported
+Multiple Choices
+MultipleConnectAsync.DoDnsCallback(): EndGetHostAddresses returned null!
+MultipleConnectAsync.DoDnsCallback(): Unexpected object state
+MultipleConnectAsync.StartConnectAsync(): Unexpected object state
+NONNULLSENTINEL
+NOT_FOUND
+NOT_SUPPORTED
+NO_ERROR
+NO_PROXY
+NO_SIGN
+NTLM
+Name
+Name: {0}
+NativeErrorCode
+Need standard to generic non-instantiating unboxing stub thunk kind
+Negotiate
+NegotiatedCipherSuite:{0}, CipherAlgorithm:{1}, CipherStrength:{2},
+NestedQuantify
+Network Authentication Required
+Neutral
+New HTTP2 connection established.
+New HTTP3 connection established.
+New unencrypted HTTP2 connection established.
+NextMessage
+NextMessage() returned SecurityStatusPal.CredentialsNeeded
+No Content
+No callback to invoke
+No client certificate to choose from
+No eligible client certificate found.
+No host found.
+No match: {0}
+No remote certificate received. RemoteCertRequired: {0}
+NoDaylightTransitions
+Non-Authoritative Information
+NonRepudiation
+Nonce missing
+None
+Not Acceptable
+Not Extended
+Not Found
+Not Implemented
+Not Modified
+Not a valid native layout signature
+Not expecting a null sslStream!
+Not found or invalid, Current Cache Coun = {0}
+Not found, Current Cache Count = {0}
+NotEnoughParens
+NotSupported
+NotSupported_AbstractNonCLS
+NotSupported_ActivAttr
+NotSupported_ByRefLike
+NotSupported_ByRefLikeArray
+NotSupported_CallToVarArg
+NotSupported_CannotCallEqualsOnSpan
+NotSupported_CannotCallGetHashCodeOnSpan
+NotSupported_ChangeType
+NotSupported_DBNullSerial
+NotSupported_FixedSizeCollection
+NotSupported_KeyAlgorithm
+NotSupported_KeyCollectionSet
+NotSupported_ManagedActivation
+NotSupported_MemStreamNotExpandable
+NotSupported_NoCodepageData
+NotSupported_ObsoleteResourcesFile
+NotSupported_OpenType
+NotSupported_ReadOnlyCollection
+NotSupported_ResourceObjectSerialization
+NotSupported_SignatureType
+NotSupported_SortedListNestedWrite
+NotSupported_StringComparison
+NotSupported_SubclassOverride
+NotSupported_Type
+NotSupported_UmsSafeBuffer
+NotSupported_UnreadableStream
+NotSupported_UnseekableStream
+NotSupported_UnwritableStream
+NotSupported_ValueCollectionSet
+NotSupported_VoidArray
+NotSupported_WaitAllSTAThread
+NotSupported_WrongResourceReader_Type
+November
+Ntilde
+NullReference_InvokeNullRefReturned
+OElig
+OK data size:{0}
+OPTIONS
+OUT_OF_MEMORY
+Oacute
+ObjectDisposed
+ObjectDisposed_FileClosed
+ObjectDisposed_Generic
+ObjectDisposed_ObjectName_Name
+ObjectDisposed_ResourceSet
+ObjectDisposed_SafeHandleClosed
+ObjectDisposed_StreamClosed
+ObjectDisposed_WriterClosed
+ObjectName
+Object_NotInvokable
+Ocirc
+October
+Offset
+OffsetMinutes
+Ograve
+Omega
+Omicron
+OnHeader
+OnHeadersComplete
+OnReset
+OnServerGoAway
+OnStartEnter
+OnStartEnterActivityState
+OnStartRET
+OnStartRet
+OnStartRetActivityState
+OnStopEnter
+OnStopEnterActivityState
+OnStopRET
+OnStopRet
+OnStopRetActivityState
+OnlyAllowedOnce
+OpaqueTransport
+Opcodes
+OperationCanceled
+OperationNameInvalid
+OrdinalComparer
+Origin
+Oslash
+Otilde
+Ouml
+Overflow_Byte
+Overflow_Char
+Overflow_Decimal
+Overflow_Int16
+Overflow_Int32
+Overflow_Int64
+Overflow_MutexReacquireCount
+Overflow_NegateTwosCompNum
+Overflow_Negative_Unsigned
+Overflow_SByte
+Overflow_TimeSpanTooLong
+Overflow_UInt16
+Overflow_UInt32
+Overflow_UInt64
+PATCH
+PENDING
+POBox
+POST
+PRI * HTTP/2.0
+PROTOCOL_ERROR
+PUBLICBLOB
+Package not found
+ParamName
+Parameters:
+ParseHeaderNameValue
+Partial Content
+Path
+Payment Required
+Peer SPN-> '{0}'
+Permanent Redirect
+PermitOnly
+Phone
+PlatformNotSupported_CannotInvokeDelegateCtor
+PlatformNotSupported_MakeGenericType
+PlatformNotSupported_NoTypeHandleForOpenTypes
+Poll
+Poll returns socketCount:{0}
+Port
+PostCompletion
+PostalCode
+Pragma
+Pre-authentication with
+Precondition Failed
+Precondition Required
+Prime
+ProcessAltSvcFrame
+ProcessGoAwayFrame
+ProcessHandshakeSuccess
+ProcessHeadersFrame
+ProcessIncomingFramesAsync
+ProcessIncomingFramesAsync:
+ProcessReceivedCookies
+ProcessRstStreamFrame
+ProcessServerControlStreamAsync
+ProcessServerStreamAsync
+ProcessWindowUpdateFrame
+Processing
+ProcessorArchitecture
+Property {0} not found on {1}
+ProtectedInvokeCallback
+ProtocolError
+Provider Handle
+Proxy
+Proxy Authentication Required
+Proxy doesn't support connection-based auth, uri={0}
+Proxy {0}
+Proxy-Authenticate
+Proxy-Authorization
+Proxy-Connection
+Proxy-Support
+Pseudo-header received in {0} state.
+Public-Key-Pins
+PublicKeyLength
+PublicKeyToken
+QuantifyAfterNothing
+QueryBlittableContextAttributes
+QueryContextAttributes_SECPKG_ATTR_ISSUER_LIST_EX
+QueryContextAttributes_SECPKG_ATTR_REMOTE_CERT_CONTEXT
+QueryContextChannelBinding
+QuicConnection
+QuicStream
+REFUSED_STREAM
+REGEX_DEFAULT_MATCH_TIMEOUT
+RFLCT_Ambiguous
+RFLCT_Targ_ITargMismatch
+RFLCT_Targ_StatFldReqTarg
+RFLCT_Targ_StatMethReqTarg
+RSACng
+RSAES_OAEP
+RSAFULLPRIVATEBLOB
+RSAPRIVATEBLOB
+RSAPUBLICBLOB
+RSASSA-PSS
+RSA_KEYX
+Range
+Rank_MultiDimNotSupported
+Reached message limit.   End of EventSource error messages.
+Read
+Read was canceled
+ReadAsync
+ReadAsyncInternal
+ReadBuffered
+ReadBufferedAsyncCore
+ReadByte
+ReadChunkFromConnectionBuffer
+ReadFrameAsync
+ReadHeadersAsync
+ReadResponseAsync
+Reading is not allowed on stream.
+Ready to Run module type?
+Realm missing
+Receive
+ReceiveAsync
+ReceiveAsync returns:{0} returning AsyncResult:{1}
+Received 100-Continue status.
+Received SETTINGS frame with {0} byte payload exceeding the {1} byte maximum.
+Received extra status header.
+Received header before status.
+Received headers without :status.
+Received response: {0}
+Received unknown frame type 0x{0:x} with {1} byte payload exceeding the {2} byte maximum.
+Received unknown pseudo-header '
+Received {0} bytes.
+RecursiveActivity1Start
+RecursiveActivity1Stop
+Redirecting from {0} to {1} in response to status code {2} '{3}'.
+Referer
+Referrer-Policy
+Reflection_CustomReflectionObjectsNotSupported
+Reflection_InsufficientMetadata_EdbNeeded
+Reflection_InsufficientMetadata_NoHelpAvailable
+Refresh
+Refused to cache an Invalid Handle {0}, Current Cache Count = {1}
+RefusedSet
+RegexMatchTimeoutException_Occurred
+RegisterCancellation
+RegisterToCancelPendingIO
+RelativeUri
+ReleaseHandle
+RemoteCertificateValidationCallback
+RemoteEndPoint
+RemoveStalePools
+RemoveStream
+Renegotiation was requested but it is disallowed
+Request
+Request Entity Too Large
+Request Header Fields Too Large
+Request Timeout
+Request content is not null, start processing it. hasExpectContinueHeader = {0}
+Request is fully sent.
+Request-Id
+Request-Uri Too Long
+RequestCreditAsync
+RequestMessage
+RequestTaskStatus
+Requested Range Not Satisfiable
+Reset Content
+Reset to anonymous session.
+ResourceReaderIsClosed
+Resources_StreamNotValid
+Response
+Response contains invalid static header index '{0}'.
+Response content exceeded Content-Length.
+Retargetable
+Retry-After
+Retrying request after exception on existing connection: {0}
+ReturnConnection
+ReturnConnectionToPool
+Returning {0}
+ReversedCharRange
+Root
+Root cert: {0}
+Runtime internal error
+Runtime-generated FailFast: ({0}): {1}{2}
+SAMEORIGIN
+SByte
+SCP SL
+SERIALNUMBER
+SERVER_BUSY
+SETTINGS_TIMEOUT
+SHA-256
+SHA-256-sess
+SHA1
+SHA256
+SHA384
+SHA512
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\
+SR.InvalidOperation_ConcurrentOperationsNotSupported
+SRC:{0} DST:{1} size:{2}
+SRC:{0} DST:{1} size:{2} asyncResult:{3}
+SSPIInvalidHandleType
+SSPIWrapper.AcceptSecurityContext() returns statusCode:0x{0:x8} ({1})
+SSPIWrapper.CompleteAuthToken() returns statusCode:0x{0:x8} ({1})
+SSPIWrapper.InitializeSecurityContext() returns statusCode:0x{0:x8} ({1})
+STREAM_CLOSED
+STREET
+SUCCESS
+SafeDeleteContext::CompleteAuthToken
+SafeHandle
+Saturday
+Scaron
+Scavenged cache, New Cache Count = {0}
+Sec-WebSocket-Accept
+Sec-WebSocket-Extensions
+Sec-WebSocket-Key
+Sec-WebSocket-Protocol
+Sec-WebSocket-Version
+Secure
+Security_InvalidAssemblyPublicKey
+Security_RegistryPermission
+See Other
+Selected cert = {0}
+SemaphoreSlim_Disposed
+SemaphoreSlim_Release_CountWrong
+SemaphoreSlim_Wait_TimeoutWrong
+SemaphoreSlim_ctor_InitialCountWrong
+SemaphoreSlim_ctor_MaxCountWrong
+Send
+Send returns:{0}
+SendAsync
+SendAsync returns:{0} size:{1} AsyncResult:{2}
+SendAsyncCore
+SendEndStreamAsync
+SendHeadersAsync
+SendManifest
+SendPingAckAsync
+SendRequestBodyAsync
+SendRequestContentAsync
+SendRequestContentWithExpect100ContinueAsync
+SendReset
+SendRstStreamAsync
+SendSettingsAckAsync
+SendStreamDataAsync
+SendWindowUpdateAsync
+SendWithAuthAsync
+SendWithNtAuthAsync
+SendWithRetryAsync
+Sending has already been aborted on the stream
+Sending request content failed: {0}
+Sending request content for Expect: 100-continue.
+Sending request: {0}
+September
+SerializationException
+Serialization_DateTimeTicksOutOfRange
+Serialization_InvalidType
+Serialization_MissingDateTimeData
+Serialization_MissingKeys
+Serialization_NotFound
+Serialization_NullKey
+Serialization_OptionalFieldVersionValue
+Serialization_StringBuilderCapacity
+Serialization_StringBuilderMaxCapacity
+Server
+Server closed response stream before entire header payload could be read. {0:N0} bytes remaining.
+Server does not support HTTP2; disabling HTTP2 use and proceeding with HTTP/1.1 connection
+Server-Timing
+Service Unavailable
+Session
+Session-Based-Authentication
+Session0
+Session1
+Session2
+Session3
+Set-Cookie
+Set-Cookie2
+SetBlocking returns errorCode:{0}
+SetSockOpt returns errorCode:{0}
+SetSocketOption
+SetToConnected
+SetToDisconnected
+SetUnmanagedStructures
+Shutdown
+Shutdown returns errorCode:{0}
+Shutdown was aborted.
+ShutdownAsync
+Sigma
+Simple Name:
+Single
+Size"
+Size" inType="win:UInt32"/>
+Skipping capture
+Skipping current X509Certificate2 {0} since it doesn't have private key. Certificate Subject: {1}, Thumbprint: {2}.
+Socket operation canceled.
+SocketsHttpHandler
+Something wrong happened
+Source
+SpinLock_Exit_SynchronizationLockException
+SpinLock_IsHeldByCurrentThread
+SpinLock_TryEnter_ArgumentOutOfRange
+SpinLock_TryEnter_LockRecursionException
+SpinLock_TryReliableEnter_ArgumentException
+SslProtocol:{0}, NegotiatedApplicationProtocol:{1},
+SslStream
+SspiEncodeStringsAsAuthIdentity
+StackTraceString
+StackTrace_AtWord
+StackTrace_EndStackTraceFromPreviousThrow
+StandardName
+Start
+StartConnectAsync
+StartPostingAsyncOp
+StartTerminatingConnection
+StartWriteAsync
+Started writing.
+Started writing. {0}={1}
+StatusCode:
+Stop
+Stored connection in pool.
+Stream complete. Request={0}, Response={1}.
+Stream reset. Request={0}, Response={1}.
+StreamId={0}; Type={1}; Flags={2}; Length={3}
+StreamOpen
+StreamSizes out of range.
+Stream_FalseCanRead
+Stream_FalseCanWrite
+Strict-Transport-Security
+Stripping forbidden
+Struct 'Delegate' requires marshalling that is not yet supported by this compiler.
+StructMarshalling_MissingInteropData
+SubtractionMustBeLast
+Sunday
+SupportsDaylightSavingTime
+Switch.System.Diagnostics.EventSource.PreserveEventListnerObjectIdentity
+Switch.System.Globalization.EnforceJapaneseEraYearRanges
+Switch.System.Globalization.EnforceLegacyJapaneseDateParsing
+Switch.System.Globalization.FormatJapaneseFirstYearAsANumber
+Switch.System.Runtime.Serialization.SerializationGuard
+Switching Protocols
+System
+System.
+System.Buffers.ArrayPoolEventSource
+System.Diagnostics.Eventing.FrameworkEventSource
+System.MDArrayRank
+System.Memory<{0}>[{1}]
+System.Net.Http.EnableActivityPropagation
+System.Net.Http.Exception
+System.Net.Http.HttpRequestOut
+System.Net.Http.HttpRequestOut.Start
+System.Net.Http.Request
+System.Net.Http.Response
+System.Net.Http.SocketsHttpHandler.Http2Support
+System.Net.Http.SocketsHttpHandler.Http2UnencryptedSupport
+System.Net.SocketsHttpHandler.Http3DraftSupport
+System.OutOfMemoryException
+System.Private.CoreLib
+System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+System.Private.CoreLib.resources couldn't be found!  Large parts of the BCL won't work!
+System.ReadOnlyMemory<{0}>[{1}]
+System.ReadOnlySpan<{0}>[{1}]
+System.Resources.ResourceReader
+System.Resources.RuntimeResourceSet
+System.Runtime.Serialization.Formatters.Binary.BinaryFormatter, System.Runtime.Serialization.Formatters, Version=0.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Span<{0}>[{1}]
+System.Threading.Tasks.TplEventSource
+System.__Canon
+System.__UniversalCanon
+System::ValueType
+SystemNetQuic
+System\CurrentControlSet\Control\Nls\Calendars\Japanese\Eras
+THORN
+TLS static field access not yet supported
+TPMManufacturer
+TPMModel
+TPMVersion
+TRACE
+TRUE
+Target type handle:
+Target unknown
+TargetHost
+TaskCanceledException_ctor_DefaultMessage
+TaskCompletionSourceT_TrySetException_NoExceptions
+TaskCompletionSourceT_TrySetException_NullException
+TaskExceptionHolder_UnhandledException
+TaskExceptionHolder_UnknownExceptionType
+TaskSchedulerException_ctor_DefaultMessage
+TaskScheduler_InconsistentStateAfterTryExecuteTaskInline
+TaskT_TransitionToFinal_AlreadyCompleted
+Task_ContinueWith_ESandLR
+Task_ContinueWith_NotOnAnything
+Task_Delay_InvalidDelay
+Task_Delay_InvalidMillisecondsDelay
+Task_Dispose_NotCompleted
+Task_FromAsync_LongRunning
+Task_FromAsync_PreferFairness
+Task_MultiTaskContinuation_EmptyTaskList
+Task_MultiTaskContinuation_FireOptions
+Task_MultiTaskContinuation_NullTask
+Task_RunSynchronously_AlreadyStarted
+Task_RunSynchronously_Continuation
+Task_RunSynchronously_Promise
+Task_RunSynchronously_TaskCompleted
+Task_Start_AlreadyStarted
+Task_Start_ContinuationTask
+Task_Start_Promise
+Task_Start_TaskCompleted
+Task_ThrowIfDisposed
+Task_WaitMulti_NullTask
+Tasks
+Template type loader is null, but metadata based type loader is not in use
+Temporary Redirect
+TestSwitch.LocalAppContext.DisableCaching
+TextInfo -
+The runtime requires an exception for a case that this class library does not understand.
+Theta
+This usually means that the object passed to Write is of a type that does not support being used as the top-level object in an event, e.g. a primitive or built-in type.
+ThreadLocal_Disposed
+ThreadLocal_Value_RecursiveCallsToValue
+ThreadState_AlreadyStarted
+ThreadState_Dead_State
+Threading_AbandonedMutexException
+Threading_SemaphoreFullException
+Threading_WaitHandleCannotBeOpenedException
+Threading_WaitHandleCannotBeOpenedException_InvalidHandle
+Threading_WaitHandleTooManyPosts
+Thunk is not a multicast delegate thunk!
+Thunk is not a valid dynamic invoker thunk!
+Thunk is not an object array delegate thunk!
+Thursday
+Ticks
+TimeOfDay
+Timestamp
+ToString
+Too Many Requests
+Too many outstanding Win32ThreadPoolNativeOverlapped instances
+TooFewHex
+TooManyAlternates
+TooManyParens
+TraceConnection
+TrackResurrection
+TrackedObject
+Trailer
+Trailing headers received without endStream
+Transfer-Encoding
+Transferred connection count to waiter.
+Transferred connection to waiter.
+True
+TrustMode
+TrustedPeople
+TrustedPublisher
+TryCachedCredential
+TryCreate
+TryParseValue
+Tuesday
+Type:
+TypeInitialization_Type
+TypeInitialization_Type_NoTypeAvailable
+TypeLoadAssemblyName
+TypeLoadClassName
+TypeLoadMessageArg
+TypeLoadResourceID
+TypeLoad_TypeNotFound
+TypeLoad_TypeNotFoundInAssembly
+TypeLoaderLock not held
+TypeName
+UInt16
+UInt32
+UInt64
+UPN Name:
+Uacute
+Ucirc
+Ugrave
+Unable to compute call information for a canonical interface
+Unable to compute call information for a canonical type/method.
+Unable to compute static field locations for a canonical type.
+Unable to create comparer
+Unable to find 'Digest' authentication token when authenticating with
+Unable to find class constructor method address for type:
+Unable to find method address for method:
+Unable to resolve named type to having a metadata reader
+Unable to setup calling convention converter correctly
+Unable to translate failure into a classlib-specific exception object.
+Unauthorized
+UnauthorizedAccess_IODenied_NoPathName
+UnauthorizedAccess_IODenied_Path
+UnauthorizedAccess_RegistryKeyGeneric_Key
+Unavailable For Legal Reasons
+UndefinedBackref
+UndefinedNameRef
+UndefinedReference
+Unexpected data on connection after response read.
+Unexpected endpoint address family: {0}
+Unexpected error:
+Unexpected method address type
+Unexpected object state
+Unexpected state: {0}
+UnexpectedOpcode
+Unexpectedly succeeded. errorCode:{0} numBytes:{1}
+Unhandled Exception:
+Unhandled exception: a managed exception was not handled before reaching unmanaged code.
+Unhandled exception: an unmanaged exception was thrown out of a managed-to-native transition.
+Unhandled exception: no handler found before escaping a finally clause or other fail-fast scope.
+Unhandled exception: no handler found in calling method.
+UnicodeUnicode (Big-Endian)Unicode (UTF-32)Unicode (UTF-32 Big-Endian)US-ASCIIWestern European (ISO)Unicode (UTF-7)Unicode (UTF-8)
+UnimplementedState
+Uninstantiating thunks are not allowed
+Universal shared generics do not have a defined size
+Unix
+Unknown
+Unknown error (0x{0:x})
+Unknown operator:
+Unknown protection detected
+Unknown reason.
+UnknownError_Num
+UnknownProperty
+UnknownType
+Unknown_Error
+Unprocessable Entity
+Unreachable code.
+UnrecognizedControl
+UnrecognizedEscape
+UnrecognizedGrouping
+Unsupported Media Type
+UnsupportedCompression
+UnterminatedBracket
+UnterminatedComment
+Untrusted root
+UpdateStatusAfterSocketError
+Upgrade
+Upgrade Required
+Upgrade-Insecure-Requests
+Upsilon
+Use Proxy
+Use delegate selected Cert
+User
+User-Agent
+Using autoconfig proxy settings
+Using existing HTTP2 connection.
+Using existing HTTP3 connection.
+Uuml
+VER_NEG_ERROR
+Value
+Variant
+Variant Also Negotiates
+Vary
+Verify
+VerifyRemoteCertificate
+Version
+Void
+WINDOWS
+WSASocketW failed with error {0}
+WWW-Authenticate
+WaitFor100ContinueAsync
+WaitForCompletion
+Waiting for completion event {0}
+Waiting to send request body content for 100-Continue.
+Warning
+Wednesday
+Week
+WildcardBindForConnectIfNecessary
+Win7OrWin2K8R2 platform, Changing default TLS protocols to {0}
+WinHttpOpen
+WindowsRuntime
+Write was canceled
+WriteAsync
+WriteBytes
+WriteFrameHeader
+WriteHeaderCollection
+WriteHeaders
+WriteIndexedHeader
+WriteLiteralHeader
+WriteLiteralHeaderValue
+WriteLiteralHeaderValues
+WriteToStream
+WriteToStreamAsync
+Writing is not allowed on stream.
+Writing {0} bytes.
+Wrong initiator on accepted stream??? streamId={0}, _isClient={1}
+Wrong principal
+Wrote CONTINUATION frame. Length={0}, flags={1}
+Wrote HEADERS frame. Length={0}, flags={1}
+X-AspNet-Version
+X-Cache
+X-Content-Duration
+X-Content-Type-Options
+X-Frame-Options
+X-MSEdge-Ref
+X-Powered-By
+X-Request-ID
+X-UA-Compatible
+X-XSS-Protection
+X21Address
+X509RevocationMode
+Xbox
+Yacute
+Yuml
+ZLibErrorDLLLoadError
+ZLibErrorInconsistentStream
+ZLibErrorIncorrectInitParameters
+ZLibErrorNotEnoughMemory
+ZLibErrorUnexpected
+ZLibErrorVersionMismatch
+Zeta
+[Extensions]
+[Issuer]
+[Not After]
+[Not Before]
+[Private Key]
+[Public Key]
+[Serial Number]
+[Signature Algorithm]
+[Subject]
+[Thumbprint]
+[Version]
+[{0}({1}{2})]
+[{0}]:{1}
+\!\+\[\]|\!\!\[\]
+\+?\(?(?<digits>\+?\(?(\+?(\!\+\[\]|\!\!\[\]|\[\]))+\)?)+\)?
+\Dynamic DST
+\s*?\w+?\.\w+?(?<operator>[+\-*\/])=(?<cfdn>function\(.\)\{var.*?;\s.*?;)
+\s*?\w+?\.\w+?(?<operator>[+\-*\/])=(?<charCode>(?<first>(?:\+|\(|\)|\!|\[|\])+?)/(?<second>\(\+\((?<second1>(?:\+|\(|\)|\!|\[|\])+)\)\+(?<second2>\(function.*?}\((?<p>.*?)\)\)\)));)
+\s*?\w+?\.\w+?(?<operator>[+\-*\/]{0,1})=(?<normal>(?<first>(?:\+|\(|\)|\!|\[|\])+?)/(?<second>(?:\+|\(|\)|\!|\[|\])+?);)
+\x{0:X2}
+^https:\/\/([a-zA-Z0-9]+\.|)(scpslgame\.com|northwoodstudios\.org|discordapp\.com\/api\/webhooks)($|\/.+$)
+__Canon
+__InternalRegexIgnoreCase__
+__UniversalCanon
+__cfduid
+_compareInfo
+_concurrentStreams
+_connectionWindow
+_context(set):{0} userToken:{1}
+_context:{0}
+_ignoreCase
+_isConnected:{0}
+_lastStreamId
+_options
+_pendingWindowUpdate
+_refreshCredentialNeeded = {0}
+_useProxy={0}
+_xmlC
+_xmlD
+_xmlI
+_xmlW
+aacute
+abcdefghijklmnopqrstuvwxyz
+abortException
+accept
+accept-charset
+accept-encoding
+accept-language
+accept-ranges
+acceptSocket
+access
+access-control-allow-origin
+access-control-request-headers
+access-control-request-method
+accountName
+acirc
+action
+acute
+addHostLength
+address
+addressFamily
+aelig
+aes128
+aes128wrap
+aes192
+aes192wrap
+aes256
+aes256wrap
+agrave
+alefsym
+alertMessage:{0}
+algorithm
+algorithmGroup
+allow
+alpha
+amd64
+amount
+ansi_x3.4-1968ansi_x3.4-1986asciicp367cp819csasciicsisolatin1csunicode11utf7ibm367ibm819iso-10646-ucs-2iso-8859-1iso-ir-100iso-ir-6iso646-usiso8859-1iso_646.irv:1991iso_8859-1iso_8859-1:1987l1latin1ucs-2unicodeunicode-1-1-utf-7unicode-1-1-utf-8unicode-2-0-utf-7unicode-2-0-utf-8unicodefffeusus-asciiutf-16utf-16beutf-16leutf-32utf-32beutf-32leutf-7utf-8x-unicode-1-1-utf-7x-unicode-1-1-utf-8x-unicode-2-0-utf-7x-unicode-2-0-utf-8
+anyOf
+ap. J.-C.
+apos
+application/dns-message
+application/javascript
+application/json
+application/x-www-form-urlencoded
+applicationProtocols
+ar-DZ
+ar-IQ
+ar-SA
+args
+argumentType
+arguments
+aring
+array
+arrayBase: {0}
+arrayIndex
+ascii
+asnEncodedData
+assembly
+assemblyFullName
+assemblyName
+assemblyRef
+asymp
+asyncResult
+asyncResult.IsCompleted: {0}
+atilde
+attachment
+attemptSocket is null!
+attributeType
+auml
+auth
+auth-int
+authType
+authenticate
+authorization
+backlog
+baseName
+baseUri
+baseUtcOffset
+bdquo
+beginMethod
+beta
+binaryForm
+bitMap
+bitfield
+bits
+brainpoolP160r1
+brainpoolP160t1
+brainpoolP192r1
+brainpoolP192t1
+brainpoolP224r1
+brainpoolP224t1
+brainpoolP256r1
+brainpoolP256t1
+brainpoolP320r1
+brainpoolP320t1
+brainpoolP384r1
+brainpoolP384t1
+brainpoolP512r1
+brainpoolP512t1
+brvbar
+buffer
+bufferSize
+build
+bull
+byteCount
+byteIndex
+bytes
+bytes=0-
+bytesTransffered:{0}
+bytesUnknown
+cache-control
+calculations
+callBack
+callback
+calling ThreadPool.BindHandle()
+cancellationToken
+capacity
+captcha provider error (
+ccedil
+cedil
+cent
+cert
+certificate
+certificates
+cf_clearance
+cf_dn
+channel
+charCode
+charCount
+charIndex
+charUnknownHigh
+charUnknownLow
+chars
+charset
+chunkLength
+chunked
+circ
+className
+clear
+close
+cloudflare
+cloudflare-nginx
+clubs
+cnonce
+codePage
+codePoint
+codepage
+collection
+collectionSelector
+comparable
+comparer
+comparison
+comparisonType
+components
+compress
+compressionLevel
+concurrencyLevel
+cong
+content
+content-disposition
+content-encoding
+content-language
+content-length
+content-location
+content-range
+content-type
+continuation
+continuationAction
+continuationFunction
+continuationOptions
+converter
+cookie
+cookieHeader
+copy
+count
+crarr
+createValueCallback
+creationOptions
+creds == null
+cspParameters
+culture
+cultureName
+curren
+d MMM yy H:m:s
+d MMM yy H:m:s 'GMT'
+d MMM yy H:m:s 'UTC'
+d MMM yyyy H:m:s
+d MMM yyyy H:m:s 'GMT'
+d MMM yyyy H:m:s 'UTC'
+d MMM yyyy H:m:s zzz
+dArr
+dagger
+darr
+data
+dataRay
+dataType
+date
+dateData
+dateEnd
+dateStart
+dateTime
+dayOfWeek
+daylightDelta
+daylightTransitionEnd
+dayofweek
+ddd MMM d H:m:s yyyy
+ddd, d MMM yy H:m:s
+ddd, d MMM yy H:m:s 'GMT'
+ddd, d MMM yy H:m:s 'UTC'
+ddd, d MMM yyyy H:m:s
+ddd, d MMM yyyy H:m:s 'GMT'
+ddd, d MMM yyyy H:m:s 'UTC'
+ddd, d MMM yyyy H:m:s zzz
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+dddd, d'-'MMM'-'yy H:m:s
+dddd, d'-'MMM'-'yy H:m:s 'GMT'
+dddd, d'-'MMM'-'yy H:m:s 'UTC'
+dddd, d'-'MMM'-'yy H:m:s zzz
+dddd, dd MMMM yyyy
+decimals
+defaultName
+deflate
+deflateInit2_
+delay
+delegatingType
+delta
+deny
+desired:{0} willBlock:{1} willBlockInternal:{2}
+destination
+destinationArray
+destinationIndex
+destinationTimeZone
+diams
+dictionary
+digit
+digits
+disposing:{0} Disposed:{1}
+divide
+divisor
+dnQualifier
+dns_bad_ip_address
+domainName
+dsaSHA1
+dstOffset
+dueTime
+duplicate status
+dv-MV
+dwKeySize
+eacute
+early-data
+ec192wapi
+ecirc
+egrave
+element
+elementSelector
+elementType
+empty
+emsp
+en-US
+en-US,en;q=0.5
+encoding
+encryptionPolicy
+endFunction
+endIndex
+endMethod
+ensp
+enumType
+enumerable
+epsilon
+equiv
+error={0}
+errorCode
+errorCode:0x{0:x8}, refContext:{1}
+errorCode:{0}
+errorCode:{0} numBytes:{1} nativeOverlapped:{2}
+errorCode:{0} willBlock:{1} willBlockInternal:{2}
+etag
+euml
+euro
+event
+eventSourceType
+event_
+exception
+exceptionObject
+exceptions
+exist
+expect
+expect-ct
+expires
+extension
+fa-IR
+false
+fieldCount
+fieldName
+file
+file:
+file://
+fileTime
+findValue
+first
+flag
+flags
+flags=({0}), ProtocolFlags=({1}), EncryptionPolicy={2}
+flush
+fnof
+forall
+format
+formats
+forward lookup for '{0}' failed with {1}
+forwarded
+frac12
+frac14
+frac34
+frameworkName
+frasl
+friendlyName
+from
+func
+function
+g-recaptcha
+g-recaptcha-response
+gamma
+genericParameterCount
+genericTypeDefinition
+get, post, options
+get_HasValue
+get_Value
+gopher
+gregorianYear
+group
+gzip
+gzip, deflate
+gzip, deflate, br
+h:mm tt
+hArr
+handle
+handle:{0}
+handle:{0} ioctlsocket(FIONBIO):{1}
+handle:{0} ioctlsocket(FIONREAD):{1}
+handle:{0} recv():{1}
+handle:{0} setsockopt():{1}
+handle:{0} shutdown():{1}
+handle:{0}, Closing the handle threw ObjectDisposedException.
+handle:{0}, Following 'blockable' branch
+handle:{0}, closesocket#2():{1}
+handle:{0}, closesocket#3():{1}
+handle:{0}, closesocket()#1:{1}
+handle:{0}, ioctlsocket()#1:{1}
+handle:{0}, setsockopt():{1}
+handleType
+handler
+harr
+he-IL
+hearts
+hellip
+hh:mm tt
+highSurrogate
+host
+hostName
+how:{0}
+http
+http%2F1.
+http/1.0
+http/1.1
+http://
+http://schemas.microsoft.com/ws/2008/06/identity/claims/denyonlyprimarygroupsid
+http://schemas.microsoft.com/ws/2008/06/identity/claims/denyonlyprimarysid
+http://schemas.microsoft.com/ws/2008/06/identity/claims/denyonlywindowsdevicegroup
+http://schemas.microsoft.com/ws/2008/06/identity/claims/groupsid
+http://schemas.microsoft.com/ws/2008/06/identity/claims/primarygroupsid
+http://schemas.microsoft.com/ws/2008/06/identity/claims/primarysid
+http://schemas.microsoft.com/ws/2008/06/identity/claims/role
+http://schemas.microsoft.com/ws/2008/06/identity/claims/windowsdeviceclaim
+http://schemas.microsoft.com/ws/2008/06/identity/claims/windowsdevicegroup
+http://schemas.microsoft.com/ws/2008/06/identity/claims/windowssubauthority
+http://schemas.microsoft.com/ws/2008/06/identity/claims/windowsuserclaim
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/denyonlysid
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name
+http://u@
+http://www.w3.org/2001/XMLSchema#boolean
+http://www.w3.org/2001/XMLSchema#integer64
+http://www.w3.org/2001/XMLSchema#string
+http://www.w3.org/2001/XMLSchema#uinteger64
+http://{0}
+http=
+https
+https://
+https://{0}
+https://{0}/ tunnelled via Proxy {1}
+https=
+ia64
+iacute
+icirc
+idData
+identifierAuthority
+identity
+iexcl
+if-match
+if-modified-since
+if-none-match
+if-range
+if-unmodified-since
+ifindex
+igrave
+image
+image/gif
+image/jpeg
+image/png
+inArray
+inCredentials
+index
+index1
+index2
+index3
+indexA
+indexB
+indexes
+indices
+infin
+inflateInit2_
+inflate_
+info
+initialCapacity
+initialCount
+initialCredit
+initialFrame
+initialWindowSize
+inline
+inner
+innerExceptionInfos
+innerExceptions
+innerKeySelector
+innerStream
+input
+iota
+iquest
+isin
+item
+iuml
+ja-JP
+jschl_answer
+jschl_vc
+kappa
+keep-alive
+keyBlob
+keyHandle
+keyHandleOpenOptions
+keyName
+keySelector
+keyValue
+keys
+keyword
+kind
+ko-KR
+lArr
+lambda
+lang
+laquo
+larr
+last-modified
+lastValidStream
+lceil
+ldap
+ldquo
+length
+length1
+length2
+length3
+lengths
+level
+lfloor
+libraryName
+link
+list
+loadFactor
+localEP
+localEP:{0}
+localaddr
+localhost
+location
+lock
+lockTaken
+loopback
+lowSurrogate
+lowast
+lowerBounds
+lsaquo
+lsquo
+m_MaxCapacity
+m_StringValue
+m_safeCertContext
+macr
+mailto
+major
+manager
+match
+matchTimeout
+max-age
+max-age=0
+max-age=2592000
+max-age=31536000
+max-age=31536000; includesubdomains
+max-age=31536000; includesubdomains; preload
+max-age=604800
+max-forwards
+max-stale
+maxBufferSize
+maxCapacity
+maxCount
+maxValue
+mcint
+md2RSA
+md4RSA
+md5RSA
+mdash
+mediaType
+message
+metadata type loader required
+method
+mgf1
+micro
+middot
+millisecond
+millisecondsDelay
+millisecondsTimeOutInterval
+millisecondsTimeout
+min-fresh
+minValue
+minimumLength
+minor
+minus
+mode
+month
+months
+mosaicKMandUpdSig
+mosaicUpdatedSig
+mscorlib
+msil
+must-revalidate
+nabla
+name
+name=
+nameValueCollection
+nbsp
+ndash
+need continue statusCode:0x{0:x8} ({1}) _securityContext:{2}
+net.pipe
+net.tcp
+net_InvalidAddressFamily
+net_InvalidSocketAddressSize
+net_MethodNotImplementedException
+net_PropertyNotImplementedException
+net_ambiguousbuffers
+net_auth_SSPI
+net_auth_client_server
+net_auth_noauth
+net_auth_reauth
+net_collection_readonly
+net_conflicting_options
+net_container_add_cookie
+net_cookie_attribute
+net_cookie_format
+net_cookie_parse_header
+net_cookie_size
+net_emptystringcall
+net_frame_read_size
+net_http_argument_empty_string
+net_http_authconnectionfailure
+net_http_chunked_not_allowed_with_empty_content
+net_http_client_absolute_baseaddress_required
+net_http_client_execution_error
+net_http_client_http_baseaddress_required
+net_http_client_invalid_requesturi
+net_http_client_request_already_sent
+net_http_content_buffersize_exceeded
+net_http_content_buffersize_limit
+net_http_content_invalid_charset
+net_http_content_no_task_returned
+net_http_content_readonly_stream
+net_http_content_stream_already_read
+net_http_content_stream_copy_error
+net_http_content_write_larger_than_content_length
+net_http_copyto_array_too_small
+net_http_disposed_while_in_use
+net_http_handler_norequest
+net_http_handler_noresponse
+net_http_handler_not_assigned
+net_http_headers_exceeded_length
+net_http_headers_invalid_header_name
+net_http_headers_invalid_host_header
+net_http_headers_invalid_range
+net_http_headers_invalid_value
+net_http_headers_no_newlines
+net_http_headers_not_allowed_header_name
+net_http_headers_not_found
+net_http_headers_single_value_header
+net_http_hpack_bad_integer
+net_http_hpack_huffman_decode_failed
+net_http_hpack_incomplete_header_block
+net_http_hpack_invalid_index
+net_http_hpack_large_table_size_update
+net_http_hpack_late_dynamic_table_size_update
+net_http_hpack_unexpected_end
+net_http_http2_connection_error
+net_http_http2_stream_error
+net_http_http3_connection_error
+net_http_httpmethod_format_error
+net_http_invalid_enable_first
+net_http_invalid_header_name
+net_http_invalid_proxy_scheme
+net_http_invalid_response
+net_http_invalid_response_chunk_extension_invalid
+net_http_invalid_response_chunk_header_invalid
+net_http_invalid_response_chunk_terminator_invalid
+net_http_invalid_response_header_folder
+net_http_invalid_response_header_line
+net_http_invalid_response_header_name
+net_http_invalid_response_missing_frame
+net_http_invalid_response_premature_eof
+net_http_invalid_response_premature_eof_bytecount
+net_http_invalid_response_pseudo_header_in_trailer
+net_http_invalid_response_status_code
+net_http_invalid_response_status_line
+net_http_invalid_response_status_reason
+net_http_log_headers_no_newlines
+net_http_log_headers_wrong_email_format
+net_http_operation_started
+net_http_parser_invalid_base64_string
+net_http_qpack_no_dynamic_table
+net_http_reasonphrase_format_error
+net_http_request_aborted
+net_http_request_invalid_char_encoding
+net_http_request_no_host
+net_http_request_timedout
+net_http_response_headers_exceeded_length
+net_http_retry_on_older_version
+net_http_server_shutdown
+net_http_ssl_connection_failed
+net_http_unsupported_chunking
+net_http_unsupported_version
+net_invalid_enum
+net_invalid_ip_addr
+net_invalidversion
+net_invasync
+net_io_decrypt
+net_io_encrypt
+net_io_eof
+net_io_invalidasyncresult
+net_io_invalidendcall
+net_io_invalidnestedcall
+net_io_must_be_rw_stream
+net_io_read
+net_io_readfailure
+net_io_readwritefailure
+net_io_write
+net_io_writefailure
+net_log_open_store_failed
+net_log_operation_failed_with_error
+net_log_remote_cert_has_errors
+net_log_remote_cert_name_mismatch
+net_log_remote_cert_not_available
+net_multibuffernotsupported
+net_nodefaultcreds
+net_noseek
+net_notconnected
+net_notstream
+net_offset_plus_count
+net_quic_connectionaborted
+net_quic_notsupported
+net_quic_operationaborted
+net_quic_streamaborted
+net_readonlystream
+net_securitypackagesupport
+net_socketopinprogress
+net_sockets_asyncoperations_notallowed
+net_sockets_blocking
+net_sockets_invalid_dnsendpoint
+net_sockets_invalid_optionValue_all
+net_sockets_mustbind
+net_sockets_mustlisten
+net_sockets_mustnotbebound
+net_sockets_mustnotlisten
+net_sockets_namedmustnotbebound
+net_sockets_useblocking
+net_sockets_valuetaskmisuse
+net_ssl_app_protocol_invalid
+net_ssl_app_protocols_invalid
+net_ssl_http2_requires_tls12
+net_ssl_io_already_shutdown
+net_ssl_io_cert_validation
+net_ssl_io_frame
+net_ssl_io_no_server_cert
+net_ssl_io_renego
+net_stopped
+net_toolong
+net_uri_BadAuthority
+net_uri_BadAuthorityTerminator
+net_uri_BadFormat
+net_uri_BadHostName
+net_uri_BadPort
+net_uri_BadScheme
+net_uri_BadString
+net_uri_BadUnicodeHostForIdn
+net_uri_BadUserPassword
+net_uri_CannotCreateRelative
+net_uri_EmptyUri
+net_uri_InvalidUriKind
+net_uri_MustRootedPath
+net_uri_NotAbsolute
+net_uri_NotJustSerialization
+net_uri_PortOutOfRange
+net_uri_SchemeLimit
+net_uri_SizeLimit
+net_uri_UserDrivenParsing
+net_writeonlystream
+neutral
+new PreAllocatedOverlapped {0}
+new {0}[{1}] {{
+newAddress
+newSize
+newValue
+news
+nistP192
+nistP224
+nistP256
+nistP384
+nistP521
+nntp
+no-cache
+no-referrer
+no-referrer-when-downgrade
+no-store
+no-transform
+nonce
+normal
+normalizationForm
+nosniff
+notin
+now connected
+nsub
+ntilde
+null
+null statusCode:0x{0:x8} ({1})
+nullableType
+numBytes
+oacute
+ocirc
+oelig
+offset
+offset1
+offset2
+ograve
+oid.Value
+oidFriendlyName
+oidValue
+oldValue
+oline
+omega
+omicron
+only-if-cached
+opaque
+opcode
+operator
+oplus
+optionLevel:{0} optionName:{1} optionValue:{2}
+optionLevel:{0} optionName:{1} optionValue:{2} silent:{3}
+options
+ordf
+ordm
+origin
+origin-when-cross-origin
+osPlatform
+oslash
+other
+otilde
+otimes
+ouml
+out
+outer
+outerKeySelector
+output
+overlapped
+ownedMemory
+pHandle
+pNative
+para
+paramInfos
+parent
+part
+pass
+path
+path1
+path2
+pattern
+period
+permil
+perp
+persist=
+platform
+plusmn
+pointer
+policy
+port
+post
+pound
+preAllocated
+precision
+predicate
+prefetch
+prefix
+prime
+private
+prod
+prop
+propName
+propValue
+protocol
+protocolError
+provider
+proxy
+proxy-authenticate
+proxy-authorization
+proxy-revalidate
+public
+public, max-age=31536000
+purpose
+quot
+rArr
+radic
+rang
+range
+raquo
+rarr
+rceil
+rdquo
+read
+real
+realm
+receiveSize
+ref
+referer
+refresh
+regexInput
+regexPattern
+relatedActivityId
+releaseCount
+remoteEP
+repeatCount
+replacement
+request
+requestUri
+requiredLength
+resetException
+resetStreamErrorCode
+resourceSource
+response
+result
+resultSelector
+retry-after
+revision
+rfloor
+round
+rsaquo
+rsquo
+s-maxage
+s_availableSentinel
+s_completedSentinel
+s_doneWritingSentinel
+same-origin
+sameorigin
+sbquo
+scale
+scaron
+scheduler
+scheme
+scopeid
+script-src 'none'; object-src 'none'; base-uri 'none'
+sdot
+secP160k1
+secP160r1
+secP160r2
+secP192k1
+secP224k1
+secP256k1
+second
+second1
+sect
+selector
+server
+sess
+set-cookie
+setsockopt handle:{0}, AcceptSocket:{1}, returns:{2}
+settings
+sha1
+sha1DSA
+sha1ECDSA
+sha1RSA
+sha256
+sha256ECDSA
+sha256RSA
+sha384
+sha384ECDSA
+sha384RSA
+sha512
+sha512ECDSA
+sha512RSA
+shaRSA
+shouldClose={0}
+sigma
+sigmaf
+siteKey
+size
+size:{0}
+skipping the call
+sleep1Threshold
+socket
+socketAddress
+socketHandle:{0}
+source
+sourceAccounts
+sourceArray
+sourceBytesToCopy
+sourceIndex
+sourceSids
+sourceTimeZone
+spades
+specifiedECDSA
+spinCount
+srcOffset
+sslAuthenticationOptions.TargetHost == null
+stale
+start
+startIndex
+startat
+starting capture
+starting identity capture
+state
+stateMachine
+statusCode
+storeLocation
+storeLocation: {0} returned store {1}
+storeName
+strInput
+stream
+streamId
+strict-origin
+strict-origin-when-cross-origin
+strict-transport-security
+string1
+string2
+stringToEscape
+stringToUnescape
+structure
+structureType
+structuretype
+style
+styles
+subAuthorities.Length
+sube
+suffix
+sup1
+sup2
+sup3
+supe
+switchName
+symbol
+szlig
+table
+targetType
+task
+task1
+task2
+tasks
+telnet
+test.temp
+text
+text/css
+text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+text/html; charset=utf-8
+text/plain
+text/plain;charset=utf-8
+th-TH
+there4
+theta
+thetasym
+thinsp
+this
+thorn
+ticks
+tilde
+time
+timeOfDay
+timeout
+timeout = {0}
+timeoutTicks
+times
+timing-allow-origin
+totalSize
+totalWidth
+traceparent
+tracestate
+trade
+trailers
+traits
+transfer-encoding
+transformNames
+true
+type
+typeArguments
+typeArguments[
+typeof({0})
+types
+uArr
+uacute
+uarr
+ucirc
+ugrave
+unexpected ObjectDisposedException
+unicode
+unmanaged ApplyControlToken() errorCode:0x{0:x8} refContext: {1}
+unmanaged CompleteAuthToken() errorCode:0x{0:x8} refContext:{1}
+unmanagedAddress: {0}
+unsafe-url
+upsih
+upsilon
+uri:{0} headerName:{1} setCookieHeader:{2} isThrow:{3}
+uriFormat
+uriPrefix
+uriString
+useProxy={0}
+user-agent
+userhash
+username
+username*
+using DefaultCredentials
+utf-16utf-16BEutf-32utf-32BEus-asciiiso-8859-1utf-7utf-8
+utf-8
+utf-8''
+utf32
+uuid
+uuml
+value
+value:{0} willBlock:{1} willBlockInternal:{2}
+value=
+valueCount
+valueFactory
+valueMap
+values
+values=
+var s,t,o,p,b,r,e,a,k,i,n,g
+variable
+vary
+version
+vsmacros
+waitHandle
+waitHandles
+waitHandles[
+waitObject
+week
+weierp
+win:
+win:Binary
+win:Boolean
+win:DC_Start
+win:DC_Stop
+win:Double
+win:Extension
+win:FILETIME
+win:Float
+win:GUID
+win:Info
+win:Int
+win:Int16
+win:Int32
+win:Int64
+win:Int8
+win:Pointer
+win:Receive
+win:Reply
+win:Resume
+win:Send
+win:Start
+win:Stop
+win:Suspend
+win:UInt
+win:UInt16
+win:UInt32
+win:UInt64
+win:UInt8
+win:UnicodeString
+write
+writeBytes
+writer
+ws2_32.dll
+wtls9
+www-authenticate
+x-forwarded-for
+x-xss-protection
+x962P192v2
+x962P192v3
+x962P239v1
+x962P239v2
+x962P239v3
+xn--
+yacute
+year
+years
+yuml
+yyyy MMMM
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+yyyy'-'MM'-'dd'T'HH':'mm':'ss.fffffffK
+yyyy'-'MM'-'ddTHH':'mm':'ss zzz
+yyyy-MM-dd
+zeta
+zh-CHS
+zh-CHT
+zh-Hans
+zh-Hant
+zh-TW
+zh-chs
+zh-cht
+zlibErrorCode
+zlibErrorContext
+zlibErrorMessage
+zwnj
+{0:00}
+{0:0}
+{0:X8}
+{0x25a207b9,0x0ddf3,0x4660,{0x8e,0xe9,0x76,0xe5,0x8c,0x74,0x06,0x3e}}
+{0x7fda2e11,0x8630,0x436f,{0xa0, 0x31, 0xf5, 0x36, 0xa6, 0xee, 0xc1, 0x57}}
+{0xb5367df1,0xcbac,0x11cf,{0x95, 0xca, 0x00, 0x80, 0x5f, 0x48, 0xa1, 0x92}}
+{0xb5367df2,0xcbac,0x11cf,{0x95, 0xca, 0x00, 0x80, 0x5f, 0x48, 0xa1, 0x92}}
+{0xd9689da0,0x1f90,0x11d3,{0x99,0x71,0x00,0xc0,0x4f,0x68,0xc8,0x76}}
+{0xf689d7c8,0x6f1f,0x436b,{0x8a,0x53,0xe5,0x4f,0xe3,0x51,0xc3,0x22}}
+{0} (0x{0:x4})
+{0} = {1}
+{0} DNS lookup failed with {1}
+{0} authentication requested with WWW-Authenticate header value '{1}'
+{0} failed to close: {1}
+{0} failed to dispose: {1}
+{0} returned invalid handle
+{0} with {1} entries
+{0} {1} < {2}.
+{0}({1})
+{0}, {1}
+{0}, {1}={2}
+{0}.
+{0}. requested={1}, current={2}, granted={3}
+{0}. requested={1}, no credit available.
+{0}. {1}={2}
+{0}. {1}={2}, current={3}
+{0}::AllocateNativeOverlapped. return={1}
+{0}:{1}
+{0}:{1}(0x{2:X})
+{0}=={1}
+{0}={1}
+{0}={1}, {2}={3}
+{0}[{1}]
+{{ message = {0} }}
+{{ {0} = {1} }}
+{{ {0} = {1}, {2} = {3} }}
+{{ {0} = {1}, {2} = {3}, {4} = {5} }}
+{{ {0} = {1}, {2} = {3}, {4} = {5}, {6} = {7} }}
+$,4<DLT\dlt|
+\[]+*&,
+\/?@#:[]
+\/:;
+0!=!
+@!D!
+P!j!
+p!t!
+0%?%
+@&L&
+ /7/
+@/R/
+`/y/
+ 0!0
+00h0
+ 2!2
+02c2
+ 4g4
+@5z5
+F8[8
+`8a8
+p8{8
+5IQI
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+CompanyName
+Northwood Studios
+FileDescription
+HttpProxy
+FileVersion
+1.0.5
+InternalName
+HttpProxy.dll
+LegalCopyright
+Copyright by
+ukasz Jurczyk, 2020
+OriginalFilename
+HttpProxy.dll
+ProductName
+HttpProxy
+ProductVersion
+1.0.0
+Assembly Version
+1.0.0.0
+
+WARNING:vivisect.impemu.emulator:Emulator prehook failed on fva: 0x18002c52c, opva: 0x18002c52c, op: out 192,eax, err: Out instruction...
+
+FLOSS decoded 0 strings
+
+FLOSS extracted 234 stackstrings
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!H
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!x
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!x
+Hi, mom!
+Hi, mom!
+Hi, mom!
+@1WA
+Hi, mom!x
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!X
+Hi, mom!
+Hi, mom!
+EPHi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!x
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!h
+ (((
+S-1-
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+([]^_
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!x
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!x
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+AA@A
+`!o!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!x
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Pddd
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
+Hi, mom!
