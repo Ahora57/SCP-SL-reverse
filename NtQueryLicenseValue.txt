@@ -1,2 +1,0 @@
-000000AE75DCE938  00007FFF3FB31110  L"TerminalServices-RemoteConnectionManager-AllowAppServerMode"
-000000AE7904E058  00007FFF3FB31198  L"Kernel-OneCore-DeviceFamilyID"
