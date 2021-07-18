@@ -18,7 +18,7 @@ InfinityHack.exe
 Plague-SCPSL
 Cheat Engine
 scpslhack.exe
-ack.exe
+hack.exe
 Cheat Engine
 ida64.exe
 SCP... - [....].........  
