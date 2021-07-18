@@ -128,513 +128,392 @@ GetSystemTimePreciseAsFileTime
 CompareStringEx
 EnumSystemLocalesEx
 GetDateFormatEx
-InitializeCriticalSectionEx     I
 FlsSetValue
-
 FlsFree FlsGetValue
-FlsGetValue     FlsSetValue     Initi
-FlsSetValue     InitializeCriticalSec
-InitializeCriticalSectionEx     InitO
-InitOnceExecuteOnce     CreateEventEx
-CreateEventExW  CreateSemaphoreW
-CreateSemaphoreW        CreateSemapho
-CreateSemaphoreExW      CreateThreadp
-CreateThreadpoolTimer   SetThreadpool
-SetThreadpoolTimer      WaitForThread
-WaitForThreadpoolTimerCallbacks Close
-CloseThreadpoolTimer    CreateThreadp
-CreateThreadpoolWait    SetThreadpool
-SetThreadpoolWait       CloseThreadpo
-CloseThreadpoolWait     FlushProcessW
-FlushProcessWriteBuffers        FreeL
-FreeLibraryWhenCallbackReturns  GetCu
-GetCurrentProcessorNumber       Creat
-CreateSymbolicLinkW     GetCurrentPac
-GetCurrentPackageId     GetTickCount6
-GetTickCount64  GetFileInformationByH
-GetFileInformationByHandleEx    SetFi
-SetFileInformationByHandle      GetSy
-GetSystemTimePreciseAsFileTime  Initi
-InitializeConditionVariable     WakeC
-WakeConditionVariable   WakeAllCondit
-WakeAllConditionVariable        Sleep
-SleepConditionVariableCS        Initi
-InitializeSRWLock       AcquireSRWLoc
-AcquireSRWLockExclusive TryAcquireSRW
-TryAcquireSRWLockExclusive      Relea
-ReleaseSRWLockExclusive SleepConditio
-SleepConditionVariableSRW       Creat
-CreateThreadpoolWork    SubmitThreadp
-SubmitThreadpoolWork    CloseThreadpo
-CloseThreadpoolWork     CompareString
-CompareStringEx GetLocaleInfoEx LCMap
-GetLocaleInfoEx LCMapStringEx   0
-LCMapStringEx   0       p       P
-UnitySetGraphicsDevice  UnityRenderEv
-UnityRenderEvent        UnityGetAudio
-UnityGetAudioEffectDefinitions  Unity
-UnityPluginLoad UnityPluginUnload
-UnityPluginUnload       UnityRenderin
-UnityRenderingExtEvent  UnityRenderin
-UnityRenderingExtQuery  UnityShaderCo
-UnityShaderCompilerExtEvent .so .lib
-UnitySetEventQueue      UnitySetGraph
-GetDpiForMonitor                
-CreateDXGIFactory2      
-FlsAlloc                
-FlsSetValue             
-FlsGetValue             
-LCMapStringEx           
-SleepConditionVariableCS        
-AreFileApisANSI         
-GetCurrentPackageFamilyName     
-NvOptimusEnablementCuda 
-NvOptimusEnablement      
-FlsFree         
-FlsGetValue
-InitializeCriticalSectionEx
-LCMapStringEx           
-WakeAllConditionVariable   
-SetFileInformationByHandle 
-WakeConditionVariable   
-CloseThreadpoolWork        
-CompareStringEx         
-GetLocaleInfoEx         
-CreateSymbolicLinkW        
-ApiSetQueryApiSetPresence  
-ApiSetQueryApiSetPresenceEx
-EventSetInformation        
-InitializeSRWLock          
-AcquireSRWLockExclusive    
-AcquireSRWLockShared       
-ReleaseSRWLockExclusive    
-ReleaseSRWLockShared    
-CryptMsgClose     
-CertCloseStore  
-CertFreeCertificateContext      
-CertFindCertificateInStore      
-CryptMsgGetParam                
-CryptQueryObject                
-CertGetNameStringA              
-CryptDecodeObjectEx             
-CertGetIssuerCertificateFromStore
-WinVerifyTrust  NVIDIA Corporation
-FlsAlloc         
-FlsFree      
-GetLocaleInfoEx 
-AreFileApisANSI                 
-AnselGetVersion 
-AnselEnableCheck                
-GetDateFormatEx                 
-GetTimeFormatEx         
-GetUserDefaul
-LCIDToLocaleName                
-LocaleNameToLCID        
-IsWow64Process  
-GetCurrentPackageFamilyName
-SHGetFolderPathW
-FlsAlloc                
-FlsAlloc                       
-FlsGetValue                    
-FlsSetValue                    
-LCMapStringEx                                
-CreateEventExW          
-CreateSemapho
-CreateThreadpoolTimer           
+InitOnceExecuteOnce
+CreateEventExW
+CreateSemaphoreW
+CreateSemaphoreExW
+CreateThreadpoolTimer
+SetThreadpoolTimer
 WaitForThreadpoolTimerCallbacks
-CloseThreadpoolTimer            
-CreateThreadpoolWait            
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
 FreeLibraryWhenCallbackReturns
-GetTickCount64          
-GetFileInform
+GetCurrentProcessorNumber
+CreateSymbolicLinkW
+GetCurrentPackageId
+GetTickCount64
 GetFileInformationByHandleEx
+SetFileInformationByHandle
 InitializeConditionVariable
-WakeConditionVariable   
-AcquireSRWLockExclusive 
-ReleaseSRWLockExclusive 
-CreateThreadpoolWork    
-SubmitThreadpoolWork    
-CompareStringEx         
-GetLocaleInfoEx         
-LCMapStringEx  
-QueryShadowPlayDdiShimStatus    
-IsImmersiveProcess     
-RtlInitUnicodeString            
-NtOpenFile      
-ZwQueryInformationFile          
+WakeConditionVariable
+InitializeSRWLock
+AcquireSRWLockExclusive
+TryAcquireSRWLockExclusive
+ReleaseSRWLockExclusive
+SleepConditionVariableSRW
+CreateThreadpoolWork
+SubmitThreadpoolWork
+CloseThreadpoolWork
+UnitySetGraphicsDevice
+UnityRenderEvent
+UnityGetAudioEffectDefinitions
+UnityPluginLoad
+UnityPluginUnload
+UnityRenderingExtEvent
+UnityRenderingExtQuery
+UnityShaderCompilerExtEvent
+UnitySetEventQueue
+GetDpiForMonitor
+CreateDXGIFactory2
+GetCurrentPackageFamilyName
+NvOptimusEnablementCuda
+NvOptimusEnablement
+FlsFree
+ApiSetQueryApiSetPresence
+ApiSetQueryApiSetPresenceEx
+EventSetInformation
+AcquireSRWLockShared
+ReleaseSRWLockShared
+CryptMsgClose
+CertCloseStore
+CertFreeCertificateContext
+CertFindCertificateInStore
+CryptMsgGetParam
+CryptQueryObject
+CertGetNameStringA
+CryptDecodeObjectEx
+CertGetIssuerCertificateFromStore
+WinVerifyTrust
+AnselGetVersion
+AnselEnableCheck
+GetUserDefaul
+IsWow64Process
+SHGetFolderPathW
+CreateSemapho
+GetFileInform
+QueryShadowPlayDdiShimStatus
+IsImmersiveProcess
+RtlInitUnicodeString
+ZwQueryInformationFile
 QueryShadowPlayDdiShimInterface
 CancelIo
 MsgWaitForMultipleObjectsEx
-FlsGetValue     
-LCMapStringEx           
-LocaleNameToLCID      
-AnselGetFunctionTableSize     
-AnselGetFunctionTable         
-D3DKMTOpenResource            
-D3DKMTQueryResourceInfo       
-D3DKMTOpenKeyedMutex          
-D3DKMTAcquireKeyedMutex       
-D3DKMTReleaseKeyedMutex       
-D3DKMTAcquireKeyedMutex2      
-D3DKMTReleaseKeyedMutex2      
-D3DKMTDestroyAllocation       
-D3DKMTDestroyAllocation2      
-D3DKMTDestroyKeyedMutex       
-D3DKMTOpenSynchronizationObject 
+AnselGetFunctionTableSize
+AnselGetFunctionTable
+D3DKMTOpenResource
+D3DKMTQueryResourceInfo
+D3DKMTOpenKeyedMutex
+D3DKMTAcquireKeyedMutex
+D3DKMTReleaseKeyedMutex
+D3DKMTAcquireKeyedMutex2
+D3DKMTReleaseKeyedMutex2
+D3DKMTDestroyAllocation
+D3DKMTDestroyAllocation2
+D3DKMTDestroyKeyedMutex
+D3DKMTOpenSynchronizationObject
 D3DKMTDestroySynchronizationObject
 D3DKMTWaitForSynchronizationObject2
 D3DKMTSignalSynchronizationObjectFrom
 D3DKMTSignalSynchronizationObject2
 CreateInputHostForProcess
-QueryShadowPlayDdiShimInterface 
 CreateGenericInputHost
 NtQueryTimerResolution
 AppPolicyGetThreadInitializationType
-D3DKMTOpenAdapterFromLuid      
-QueryDisplayConfig              
-DisplayConfigGetDeviceInfo      
-GetDisplayConfigBufferSizes     
+D3DKMTOpenAdapterFromLuid
+QueryDisplayConfig
+DisplayConfigGetDeviceInfo
+GetDisplayConfigBufferSizes
 D3DKMTQueryClockCalibration
-NtQueryTimerResolution          
-NtDelayExecution                
-CryptMsgClose   
-CertCloseStore  
-CryptMsgGetParam        
-CryptQueryObject        
-CertGetNameStringA      
-CryptDecodeObjectEx     
-D3DCompile      
-D3DCompileFromFile      
-D3DReflect         
-D3DCreateBlob     
-D3DDisassemble   
-NtQueryInformationThread  
-FlsSetValue             
-ApiSetQueryApiSetPresenceEx
-nvapi_QueryInterface    
-D3DKMTQueryAdapterInfo  \ d r i v e r
-D3DKMTOpenAdapterFromHdc        D3DKM
+NtDelayExecution
+D3DCompile
+D3DCompileFromFile
+D3DReflect
+D3DCreateBlob
+D3DDisassemble
+nvapi_QueryInterface
+D3DKMTQueryAdapterInfo
+D3DKMTOpenAdapterFromHdc
 D3DKMTOpenAdapterFromGdiDisplayName
-D3DKMTOpenAdapterFromDeviceName D3DKM
-D3DKMTCloseAdapter      D3DKMTQueryAd
-D3DKMTEscape    D3DKMTInvalidateActiv
-D3DKMTInvalidateActiveVidPn     D3DKM
-D3DKMTPollDisplayChildren       D3DKM
-D3DKMTCreateDevice      D3DKMTDestroy
-D3DKMTDestroyDevice     user32.dll
-GetDisplayConfigBufferSizes     Query
-QueryDisplayConfig      SetDisplayCon
-SetDisplayConfig        DisplayConfig
-DisplayConfigGetDeviceInfo      Displ
-DisplayConfigSetDeviceInfo      qaiIn
-D3DKMTEnumAdapters2     D3DKMTCloseAd
-D3DKMTOpenAdapterFromLuid       Setup
-SetupDiGetClassDevsA    SetupDiEnumDe
-SetupDiEnumDeviceInterfaces     Setup
+D3DKMTOpenAdapterFromDeviceName
+D3DKMTCloseAdapter
+D3DKMTEscape
+D3DKMTInvalidateActiveVidPn
+D3DKMTPollDisplayChildren
+D3DKMTCreateDevice
+D3DKMTDestroyDevice
+SetDisplayConfig
+DisplayConfigSetDeviceInfo
+D3DKMTEnumAdapters2
+SetupDiGetClassDevsA
+SetupDiEnumDeviceInterfaces
 SetupDiGetDeviceInterfaceDetailA
-SetupDiDestroyDeviceInfoList    Setup
-EnumDisplayDevicesA   
-CreateDXGIFactory      
-SHGetFolderPathW    
-GetDIBits          
-GetBitmapBits       
-DeleteObject   
-AvSetMmThreadCharacteristicsA   
-FlsAlloc            
-FlsGetValue             
-FlsSetValue          
-FlsFree FlsSetValue     
-XInputGetState  
-ApiSetQueryApiSetPresenceEx     
-RoGetActivationFactory  
-WindowsCreateString     
-WindowsGetStringRawBuffer       
-WindowsDeleteString     
+SetupDiDestroyDeviceInfoList
+EnumDisplayDevicesA
+CreateDXGIFactory
+GetDIBits
+GetBitmapBits
+DeleteObject
+AvSetMmThreadCharacteristicsA
+FlsFree FlsSetValue
+XInputGetState
+RoGetActivationFactory
+WindowsCreateString
+WindowsGetStringRawBuffer
+WindowsDeleteString
 GetCurrentApplicationUserModelId
-AreFileApisANSI         
-InitializeGmm  
-GmmAdapterDestroy       
-EnumSystemLocalesEx     
-GetDateFormatEx         
-IsValidLocaleName       
-LocaleNameToLCID        
-AcquireSRWLockExclusive 
-AcquireSRWLockShared    
-ReleaseSRWLockExclusive 
-ReleaseSRWLockShared    
-OpenCompiler10  
-RegisterTouchWindow     
-InitializeCriticalSectionEx
-FlsSetValue             
-InitializeConditionVariable     
-SteamAPI_Init   
+InitializeGmm
+GmmAdapterDestroy
+OpenCompiler10
+RegisterTouchWindow
+SteamAPI_Init
 SteamAPI_Shutdown
 InitializeW
-Initialize  
-GetEnabledXStateFeatures        
-LCMapStringExW           
-LCMapStringEx 
-LeaveCriticalSection Lo
-CompareStringEx 
+Initialize
+GetEnabledXStateFeatures
+LCMapStringExW
+LeaveCriticalSection
 CompareStringOrdinal
-EventRegister 
-EventSetInformation Eve
-EventSetInformation EventUnregister 
-GetEnvironmentVariableWW         
-GetEnvironmentVariableW 
+EventRegister
+GetEnvironmentVariableWW
+GetEnvironmentVariableW
 GetFileMUIPat
-GetNetworkParams 
-GetPerAdapterInfo 
-MultiByteToWideChar 
-NCryptDeleteKey 
-CoTaskMemAlloc    
-Free    
-CoTaskMemFree     
-InitializeCriticalSectionEx       4
-VerSetConditionMask VerifyVersionInfo
-VerifyVersionInfoW WSAConnect WSAEven
-QueryUnbiasedInterruptTime ReadConsol
-GetCurrentProcess GetCurrentProcessId
-GetCurrentThread GetCurrentThreadId G
-FlsSetValue     GetSystemTimePreciseA
-DuplicateHandle EncryptMessage EnterC
-GetThreadPriority GetTimeZoneInformat
-NtQuerySystemInformation OpenProcessT
-GetSystemTimeAsFileTime GetSystemTime
-GetSystemTimePreciseAsFileTime GetThr
-WakeAllConditionVariable        P 4
-EnumProcesses   psapi.dll       EnumP
-EnumProcessModules      GetModuleBase
-CoCreateGuid CoTaskMemAlloc CoTaskMem
+GetNetworkParams
+GetPerAdapterInfo
+MultiByteToWideChar
+NCryptDeleteKey
+CoTaskMemAlloc
+Free
+CoTaskMemFree
+VerSetConditionMask
+VerifyVersionInfo
+VerifyVersionInfoW
+WSAConnect WSAEven
+QueryUnbiasedInterruptTime
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThread
+GetCurrentThreadId
+GetSystemTimePreciseA
+DuplicateHandle
+EncryptMessage
+GetThreadPriority
+GetTimeZoneInformat
+GetSystemTimeAsFileTime
+GetSystemTime
+EnumProcesses
+EnumProcessModules
+CoCreateGuid
 WinHttpGetIEProxyConfigForCurrentUser
-GetModuleBaseNameA        4      ]1
-EventRegister   EventWrite      Event
-EventWrite      EventUnregister Main
-EventUnregister Main thread     Valve
+GetModuleBaseNameA
+EventWrite
+Event
+EventUnregister
 InitializeCriticalSectionEx       `
-FlsSetValue                     LCMap
 WakeAllConditionVariable          `
-InitializeCriticalSectionEx     clien
-FlsGetValue     FlsSetValue     InitO
-FlsSetValue     InitOnceExecuteOnce
-WinHttpOpenW      Q.     U        Q.
+WinHttpOpenW
 WinHttpOpen WriteConsoleW WriteFile a
 GetTickCount64  SetFileInformationByH
-GetFileInformationByHandleEx    .tmp.
-SystemFunction036       Fatal Asserti
+SystemFunction036
 GetLogicalProcessorInformationEx
 SetFileCompletionNotificationModes
-GetQueuedCompletionStatusEx     RtlNt
-RtlNtStatusToDosError           c:\bu
-EncodePointer   480     MergeCapRepro
-CreateInterface HKEY_LOCAL_MACHINE  H
-Steam_ReleaseThreadLocalMemory  Steam
-GetProcAddress
-WSPStartup              
+GetQueuedCompletionStatusEx
+RtlNtStatusToDosError
+EncodePointer
+CreateInterface
+Steam_ReleaseThreadLocalMemory
+WSPStartup
 WinHttpGetProxyForUrlW
-WinHttpGetProxyForUrl 
-WSPStartup      . i p v 6 - l i t e r
-RtlGetVersion 
+WinHttpGetProxyForUrl
 SetFileCompletionNotifi
 GetLocaleInfoExW
-GetLocaleInfoEx 
-GetNameInfoW 
+GetNameInfoW
 GetNetwo
-WSAStartup 
-WakeConditionVariable 
+WSAStartup
 GetAddrInfoExCancel
-gethostname 
-getpeername 
-getsockname 
+gethostname
+getpeername
+getsockname
 NSPStartup
-WSASocketWW     
-WSASocketW 
-closesocket 
-WSHOpenSocket        
-WSHOpenSocket2     
-WSHJoinLeaf            
-WSHNotify       
-WSHIoctl       
-WSHGetSocketInformation 
-WSHSetSocketInformation 
-WSHGetSockaddrType      
-WSHGetWildcardSockaddr  
-WSHGetBroadcastSockaddr 
-WSHAddressToString      
+WSASocketWW
+WSASocketW
+closesocket
+WSHOpenSocket
+WSHOpenSocket2
+WSHJoinLeaf
+WSHNotify
+WSHIoctl
+WSHGetSocketInformation
+WSHSetSocketInformation
+WSHGetSockaddrType
+WSHGetWildcardSockaddr
+WSHGetBroadcastSockaddr
+WSHAddressToString
 WSHGetSockadd
-WSHStringToAddress      
+WSHStringToAddress
 WSHAddressToS
-WSHIoctl        
-GetAddrInfoExW 
-GetAddrInfoW 
+GetAddrInfoExW
+GetAddrInfoW
 GetCPInfo
-WSAttemptAutodialAddr   AutodialDLL
-WSAttemptAutodialName   WSAttemptAuto
-WSNoteSuccessfulHostentLookup   WSAtt
-NamespaceCallout        WSNoteSuccess
-FreeAddrInfoExW FreeAddrInfoW FreeCon
-bind closesocket clrcompression.dll c
-SetFileCompletionNotificationModes Se
-WSAIoctl WSARecv WSASend WSASocketW W
-setsockopt shutdown sspicli.dll user3
-EnumerateSecurityPackagesW EnumerateT
-FreeContextBuffer FreeCredentialsHand
-OpenThreadToken OutputDebugStringW Qu
-OpenProcessToken OpenThreadToken Outp
-RevertToSelf RtlGetVersion SetFileCom
-AcquireCredentialsHandleW ApplyContro
-IdnToAsciiW     @  ,     U      P  ,
-IdnToAscii IdnToUnicode ImpersonateLo
-InitializeSecurityContextW LCIDToLoca
-WSASend WSASocketW WSAStartup WakeCon
-WSARecv WSASend WSASocketW WSAStartup
-Steam_BGetCallback      Steam_FreeLas
-Steam_FreeLastCallback  Steam_GetAPIC
+WSAttemptAutodialAddr
+WSAttemptAutodialName
+WSAttemptAuto
+WSNoteSuccessfulHostentLookup
+NamespaceCallout
+WSNoteSuccess
+FreeAddrInfoExW
+FreeAddrInfoW
+WSAIoctl
+setsockopt
+EnumerateSecurityPackagesW
+FreeContextBuffer
+OpenThreadToken
+OutputDebugStringW
+OpenProcessToken
+RevertToSelf
+AcquireCredentialsHandleW
+IdnToAsciiW
+IdnToAscii
+IdnToUnicode
+InitializeSecurityContextW
+WSASend
+WSARecv
+Steam_BGetCallback
+Steam_FreeLastCallback
 Steam_GetAPICallResult  map/set<T> to
-DLL загружена: 00007FFEFEFC0000 D:\ettyj\steam\GameOverlayRenderer64.dll
 LCMapStringEx                   `
-GetModuleBaseNameA      x
-RtlGetCallersAddress    LdrGetProcedu
-LdrGetProcedureAddress  GetProcessIdO
-GetProcessIdOfThread    GetThreadId
-GetThreadId     VirtualAlloc    Faile
-LoadLibraryExW  Failed hooking kernel
-LoadLibraryExA  Failed hooking kernel
-FreeLibrary     Failed hooking kernel
-ResumeThread    Failed hooking kernel
-LoadLibraryW      y !           D y !
-LoadLibraryA    Failed hooking LoadLi
-CreateProcessW  CreateProcessA  Faile
-CreateProcessA  Failed hooking Create
-ShellExecuteExA ShellExecuteExW Faile
-ShellExecuteExW Failed hooking ShellE
-SetCursorPos    GetCursorPos    ShowC
-GetCursorPos    ShowCursor      SetCu
-ShowCursor      SetCursor       GetCu
-SetCursor       GetCursor       Faile
-GetCursor       Failed hooking SetCur
-GetCursorInfo   Failed hooking GetCur
-SetCapture      ReleaseCapture  Faile
-ReleaseCapture  Failed hooking SetCap
-GetAsyncKeyState        Failed hookin
-GetKeyState     Failed hooking GetKey
-GetKeyboardState        Failed hookin
-DispatchMessageA        DispatchMessa
-DispatchMessageW        Failed hookin
-GetMessageA     GetMessageW     Faile
-GetMessageW     Failed hooking GetMes
-PeekMessageA    PeekMessageW    Faile
-PeekMessageW    Failed hooking PeekMe
-ClipCursor      GetClipCursor   Faile
-GetClipCursor   Failed hooking ClipCu
-RegisterDeviceNotificationA     Faile
-RegisterDeviceNotificationW     Faile
-UnregisterDeviceNotification    Faile
-GetRawInputDeviceList   Failed hookin
-CreateDXGIFactory       Game is using
-GetRawInputDeviceInfoA  Failed hookin
-GetRawInputDeviceInfoW  Failed hookin
-CreateDXGIFactory1      Warning: Fail
-CreateDXGIFactory2      D3D12CreateDe
-RegisterRawInputDevices Failed hookin
-GetRegisteredRawInputDevices    Faile
-GetRawInputData Failed hooking GetRaw
-GetRawInputBuffer       Failed hookin
-FlashWindow     Failed hooking FlashW
-FlashWindowEx   Failed hooking FlashW
-SetDeviceGammaRamp      Failed hookin
-CoCreateInstance
-wglSwapBuffers  
+RtlGetCallersAddress
+LdrGetProcedureAddress
+GetProcessIdOfThread
+GetThreadId
+VirtualAlloc
+LoadLibraryExW
+LoadLibraryExA
+FreeLibrary
+ResumeThread
+CreateProcessW
+CreateProcessA
+ShellExecuteExA
+ShellExecuteExW
+SetCursorPos
+GetCursorPos
+ShowCursor
+SetCursor
+GetCursor
+GetCursorInfo
+SetCapture
+ReleaseCapture
+GetKeyState
+GetKeyboardState
+DispatchMessageA
+DispatchMessageW
+GetMessageA
+GetMessageW
+PeekMessageA
+PeekMessageW
+ClipCursor
+GetClipCursor
+RegisterDeviceNotificationA
+RegisterDeviceNotificationW
+UnregisterDeviceNotification
+GetRawInputDeviceList
+GetRawInputDeviceInfoA
+GetRawInputDeviceInfoW
+CreateDXGIFactory1
+RegisterRawInputDevices
+GetRegisteredRawInputDevices
+GetRawInputData
+GetRawInputBuffer
+FlashWindow
+FlashWindowEx
+SetDeviceGammaRamp
+wglSwapBuffers
 wglSwapLayerBuffers
-DirectInput8Create       
-XInputEnable    
-XInputGetAudioDeviceIds  
-XInputGetBatteryInformation   
-XInputGetCapabilities    
-XInputGetDSoundAudioDeviceGuids  
-XInputGetState   
-XInputSetState 
-joyGetNumDevs  
-joyGetDevCapsA 
-joyGetDevCapsW 
-joyGetPosEx               
-HidD_GetAttributes     
-HidD_GetPreparsedData  
-HidD_FreePreparsedData 
-HidD_GetProductString  
-HidP_GetCaps    
-HidP_GetButtonCaps     
-HidP_GetValueCaps      
-HidP_MaxDataListLength 
-HidP_GetData     
-HidP_GetUsages  
+DirectInput8Create
+XInputEnable
+XInputGetAudioDeviceIds
+XInputGetBatteryInformation
+XInputGetCapabilities
+XInputGetDSoundAudioDeviceGuids
+XInputSetState
+joyGetNumDevs
+joyGetDevCapsA
+joyGetDevCapsW
+joyGetPosEx
+HidD_GetAttributes
+HidD_GetPreparsedData
+HidD_FreePreparsedData
+HidD_GetProductString
+HidP_GetCaps
+HidP_GetButtonCaps
+HidP_GetValueCaps
+HidP_MaxDataListLength
+HidP_GetData
+HidP_GetUsages
 HidP_GetUsageValue
-SetupDiGetClassDevsA    
-SetupDiGetClassDevsW    
-SetupDiEnumDeviceInfo   
-SetupDiEnumDriverInfoA  
-SetupDiEnumDriverInfoW  
-RoGetActivationFactory  
-WindowsCreateString     
-WindowsGetStringRawBuffer  
+SetupDiGetClassDevsW
+SetupDiEnumDeviceInfo
+SetupDiEnumDriverInfoA
+SetupDiEnumDriverInfoW
 SteamAPI_ManualDispatch_Init
-SteamAPI_GetHSteamPipe 
-QueryContextAttributesW 
-SteamAPI_SteamApps_v008 
-CertDuplicateCertificateContextW  
-CertDuplicateCertificateContext 
-CertGetCertificateContextPropertyW 
-CertGetCertificateContextProperty 
-SteamAPI_SteamFriends_v017      
-CertEnumCertificatesInStoreW    
-CertEnumCertificatesInStore 
-CertFreeCertificateContextW     
-CertFreeCertificateContext 
-FileTimeToSystemTime 
+SteamAPI_GetHSteamPipe
+QueryContextAttributesW
+SteamAPI_SteamApps_v008
+CertDuplicateCertificateContextW
+CertDuplicateCertificateContext
+CertGetCertificateContextPropertyW
+CertGetCertificateContextProperty
+SteamAPI_SteamFriends_v017
+CertEnumCertificatesInStoreW
+CertEnumCertificatesInStore
+CertFreeCertificateContextW
+FileTimeToSystemTime
 FindNLSStringEx
-GetTimeZoneInformation GetTokenInform
-CertOpenStoreW       
-CertOpenStore CertVerifyCertificateCh
+GetTimeZoneInformation
+CertOpenStoreW
+CertOpenStore
+CertVerifyCertificateCh
 CertAddCertificateLinkToStoreW
-CertAddCertificateLinkToStore 
-GetDynamicTimeZoneInformation 
-RegOpenKeyExWW          
-RegOpenKeyExW 
-RegQueryValueExWW    
-RegQueryValueExW 
+CertAddCertificateLinkToStore
+GetDynamicTimeZoneInformation
+RegOpenKeyExWW
+RegOpenKeyExW
+RegQueryValueExWW
+RegQueryValueExW
 ResolveLocaleName
-RegCloseKey 
+RegCloseKey
 RegEnumKeyExW
 RegEnumValu
 GetSystemDirectoryWW
-GetSystemDirectoryW GetSystemTime Get
-GetFileMUIPath GetFileType GetLocaleI
-LoadLibraryExWW          U      p q.
-LoadLibraryExW LoadStringW LocaleName
-SteamAPI_SteamInput_v001        
-SteamAPI_SteamInventory_v003    
+GetSystemDirectoryW
+GetFileMUIPath
+GetFileType
+LoadLibraryExWW
+LoadStringW LocaleName
+SteamAPI_SteamInput_v001
+SteamAPI_SteamInventory_v003
 LoadStringWW
-LoadStringW LocaleNameToLCID LsaClose
-FreeLibrary GetAdaptersAddresses GetA
-SteamAPI_SteamMatchmaking_v009  
+LoadStringW LocaleNameToLCID
+FreeLibrary GetAdaptersAddresses
+SteamAPI_SteamMatchmaking_v009
 SteamAPI_SteamMatchmakingServers_v002
 SystemTimeToFileTime TzSpecificLocalT
 CertGetCertificateChain CertGetCertif
-CertCloseStoreW 
+CertCloseStoreW
 CertCloseStore CertControlStore CertC
 CertVerifyCertificateChainPolicyW
 CertVerifyCertificateChainPolicy Cert
-CertVerifyCertificateChainPolicyW 
-CertFreeCertificateContextW
-CertFreeCertificateChainW         
+CertFreeCertificateChainW
 CertFreeCertificateChain CertFreeCert
-EncryptMessage EnterCriticalSection 
-SteamAPI_SteamMusic_v001        
-SteamAPI_SteamNetworking_v006   
+EncryptMessage EnterCriticalSection
+SteamAPI_SteamMusic_v001
+SteamAPI_SteamNetworking_v006
 SteamAPI_SteamNetworkingSockets_v008
 DecryptMessage DeleteCriticalSection
-EventWrite      
-EventUnregister
 SteamAPI_SteamNetworkingUtils_v003
 SteamAPI_SteamParentalSettings_v001
 SteamAPI_SteamParties_v002      Steam
@@ -643,20 +522,18 @@ SteamAPI_SteamScreenshots_v003  Steam
 SteamAPI_SteamUGC_v014  SteamAPI_Stea
 SteamAPI_SteamUser_v020 SteamAPI_ISte
 SteamAPI_ISteamUser_GetVoiceOptimalSa
-SteamAPI_SteamUserStats_v011    
+SteamAPI_SteamUserStats_v011
 SteamAPI_ISteamUserStats_RequestCurre
-SteamAPI_SteamUtils_v009        
-SteamAPI_SteamVideo_v002        
-SteamAPI_SteamRemotePlay_v001   
-SteamAPI_ISteamUser_BLoggedOn   
+SteamAPI_SteamUtils_v009
+SteamAPI_SteamVideo_v002
+SteamAPI_SteamRemotePlay_v001
+SteamAPI_ISteamUser_BLoggedOn
 SteamAPI_ISteamFriends_GetPersonaName
-SteamAPI_ISteamUser_GetSteamID  
+SteamAPI_ISteamUser_GetSteamID
 SteamAPI_ISteamUser_GetAuthSessionTic
 SteamAPI_ISteamUser_CancelAuthTicket
-GetProcAddress 
-getcommsptr       
 wine_get_version
-wine_get_build_id  
+wine_get_build_id
 wine_get_host_version
 wine_nt_to_unix_file_name
 wine_server_call ntConvertBegin
@@ -672,7 +549,7 @@ __wine_dbg_header
 __wine_dbg_output
 __wine_dbg_strdup
 __wine_get_unix_codepage
-__wine_ldt_copy                    
+__wine_ldt_copy
 __wine_locked_recvmsg nding
 __wine_make_process_system
 __wine_set_unix_funcs tionMS
@@ -683,62 +560,28 @@ __wine_init_codepages ationMS
 __wine_set_signal_handler nd
 __wine_init_unix_lib
 __wine_needs_override_large_address_a
-RtlGetVersion
-useCFGModules     
-NVAPI_Thunk    
-GetLocaleInfoEx   
-LCMapStringEx        
-GetDateFormatEx         
-LocaleNameToLCID                
-getMessageBusInterface 
-timeGetDevCaps  
-bprogram        
-module          
-integrity       
-debug           
-GetProcAddress  
-EventRegister
-EventSetInformation     
+useCFGModules
+NVAPI_Thunk
+getMessageBusInterface
+timeGetDevCaps
+bprogram
+integrity  ha-ha
+debug
 EnumerateTrac
-GetUserPreferredUILanguagesW    `
-GetUserPreferredUILanguages 
-ResolveLocaleNameW     
-ResolveLocaleName ResumeThread Revert
-select send setsockopt shutdown sspic
-LCMapStringEx            `       
-GetLocaleInfoEx LCMapStringEx     
-SetupDiEnumDriverInfoW
-RoGetActivationFactory
-WindowsCreateString
-WindowsDeleteString
-WindowsGetStringRawBuffer
-CreateDXGIFactory
-CreateDXGIFactory1
-CreateDXGIFactory2
-Discord_Initialize    
-RegOpenKeyExW
-RegQueryValueExW
-wine_get_version       
+GetUserPreferredUILanguagesW    
+GetUserPreferredUILanguages
+ResolveLocaleNameW
+ResumeThread Revert
+LCMapStringEx            
+GetLocaleInfoEx LCMapStringEx
+Discord_Initialize
 wine_get_versionA
-RtlGetVersion    
-GetProductInfo 
-get_gpu_driver  
-free_driver     
+GetProductInfo
+get_gpu_driver
+free_driver
 WindowsCreateStringReference
-RoGetActivationFactory  
 Discord_UpdatePresence  Discord_Clear
 SteamAPI_ManualDispatch_RunFrame
 SteamAPI_ManualDispatch_GetNextCallba
 SteamAPI_ManualDispatch_FreeLastCallb
-Discord_RunCallbacks    
-HidP_GetCaps
-HidP_GetButtonCaps
-HidP_GetValueCaps
-HidP_MaxDataListLength
-HidP_GetData
-HidP_GetUsages
-SetupDiGetClassDevsA
-SetupDiGetClassDevsW
-SetupDiEnumDeviceInterfaces
-SetupDiEnumDeviceInfo
-SetupDiEnumDriverInfoA
+Discord_RunCallbacks
