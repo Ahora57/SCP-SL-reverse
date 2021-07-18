@@ -1,4 +1,4 @@
-
+Dont all
 SetLastError
 GetLastError
 CreateStreamOnHGlobal
