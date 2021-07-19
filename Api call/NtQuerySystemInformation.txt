@@ -15,7 +15,7 @@ SYSTEM_INFORMATION_CLASS -> 2C (SystemCurrentTimeZoneInformation)
 SYSTEM_INFORMATION_CLASS -> 3A (SystemRecommendedSharedDataAlignment)
 SYSTEM_INFORMATION_CLASS -> 66 (SystemDynamicTimeZoneInformation)
 SYSTEM_INFORMATION_CLASS -> 8  (SystemProcessorPerformanceInformation)
-SYSTEM_INFORMATION_CLASS -> CE ?
+SYSTEM_INFORMATION_CLASS -> CE (SystemLeapSecondInformation)  
 
 
 All time call after load all module
