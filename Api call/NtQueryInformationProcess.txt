@@ -1,6 +1,6 @@
 PROCESS_INFORMATION_CLASS -> 1A(ProcessWow64Information)
 PROCESS_INFORMATION_CLASS -> 34(ProcessMitigationPolicy)
-PROCESS_INFORMATION_CLASS -> 56 ?
+PROCESS_INFORMATION_CLASS -> 56 (ProcessEnclaveInformation)
 PROCESS_INFORMATION_CLASS -> 0 (ProcessBasicInformation)
 PROCESS_INFORMATION_CLASS -> 1B(ProcessImageFileName)
 PROCESS_INFORMATION_CLASS -> 18(ProcessSessionInformation)
@@ -11,11 +11,18 @@ PROCESS_INFORMATION_CLASS -> 25(ProcessImageInformation)
 PROCESS_INFORMATION_CLASS -> 4(ProcessTimes)
 PROCESS_INFORMATION_CLASS -> C(ProcessDefaultHardErrorMode)
 PROCESS_INFORMATION_CLASS -> 2B(ProcessImageFileNameWin32)
-=PROCESS_INFORMATION_CLASS -> 17(ProcessDeviceMap)
+PROCESS_INFORMATION_CLASS -> 17(ProcessDeviceMap)
 
 All time call after load all module
 PROCESS_INFORMATION_CLASS -> 25(ProcessImageInformation)
 PROCESS_INFORMATION_CLASS -> C(ProcessDefaultHardErrorMode)
 PROCESS_INFORMATION_CLASS -> 0 (ProcessBasicInformation)
 PROCESS_INFORMATION_CLASS -> 4(ProcessTimes)
+
+
+
+
+
+
+
 

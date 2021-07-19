@@ -24,3 +24,4 @@ SYSTEM_INFORMATION_CLASS -> 0 (SystemBasicInformation)
 SYSTEM_INFORMATION_CLASS -> 1  (SystemProcessorInformation)
 SYSTEM_INFORMATION_CLASS -> 5 (SystemProcessInformation)
 SYSTEM_INFORMATION_CLASS -> B (SystemModuleInformation)
+

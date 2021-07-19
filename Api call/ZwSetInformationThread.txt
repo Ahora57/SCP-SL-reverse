@@ -1,0 +1,15 @@
+THREADINFOCLASS -> 0x5(ThreadImpersonationToken)
+THREADINFOCLASS -> 0x26(ThreadNameInformation)
+THREADINFOCLASS -> 0x3(ThreadBasePriority)
+THREADINFOCLASS -> 0xA(ThreadZeroTlsCell)
+THREADINFOCLASS -> 0x12(ThreadBreakOnTermination)  ;Critical thread
+THREADINFOCLASS -> 0x4(ThreadAffinityMask)
+
+
+
+All time call after load all module
+THREADINFOCLASS -> 0xA(ThreadZeroTlsCell)
+THREADINFOCLASS -> 0x3(ThreadBasePriority)
+THREADINFOCLASS -> 0x5 (ThreadImpersonationToken)
+
+

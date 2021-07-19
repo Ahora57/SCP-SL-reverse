@@ -1,0 +1,11 @@
+PROCESS_INFORMATION_CLASS -> 0x23 (ProcessResourceManagement)
+PROCESS_INFORMATION_CLASS -> 0xC (ProcessDefaultHardErrorMode)
+PROCESS_INFORMATION_CLASS -> 0x5D(ProcessLoaderDetour)
+PROCESS_INFORMATION_CLASS -> 0x47(ProcessRaiseUMExceptionOnInvalidHandleClose)
+
+
+
+All time call after load all module
+PROCESS_INFORMATION_CLASS -> 0xC (ProcessDefaultHardErrorMode)
+PROCESS_INFORMATION_CLASS -> 0x5D(ProcessLoaderDetour)
+

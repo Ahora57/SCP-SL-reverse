@@ -16,3 +16,5 @@ if(ThreadCreate)
 call 
 THREAD_INFORMATION_CLASS -> 9(ThreadQuerySetWin32StartAddress)
 THREAD_INFORMATION_CLASS -> C(ThreadAmILastThread)
+
+
