@@ -35,3 +35,55 @@ GH Injector.exe
 ncloader.exe
 Process Hacker
 procexp2.exe ?
+
+
+Module info:
+Address=000001D7BA210000
+Size=000000000000A000
+Allocation Type=PRV
+Current Protection=ERW--
+Allocation Protection=ERW--
+
+ollydbg.exe
+ida.exe.ida64.exe
+idag.exe
+idag64.exe
+idaw.exe
+idaw64.exe.
+idaq.exe.
+idaq64.exe.
+idau.exe  
+idau64.exe
+scylla.exe
+scylla_x64.exe
+scylla_x86.exe.
+protection_id.exe
+x64dbg.exe
+x32dbg.exe
+windbg.exe
+reshacker.exe ?
+ImportREC.exe
+IMMUNITYDEBUGGER.EXE
+devenv.exe
+OLLYDBG
+ida.disassembly.
+scylla..Debug
+[CPU....Immunity.
+WinDbg.
+x32dbg
+x64dbg
+Import reconstructor.
+Zeta Debugger
+Rock Debugger
+ObsidianGUI.ID.
+WinDbgFrameClass.
+idawindow..
+tnavbox.idaview.
+tgrzoom
+explorer.exe  
+Unpacked.exe  
+
+
+; they call RtlInitUnicodeString for this string
+
+
