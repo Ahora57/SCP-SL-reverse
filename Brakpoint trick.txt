@@ -40,7 +40,7 @@ and eax,0x7FFE0308
 jmp qword ptr ds:[0x1D7BA560015]; NtUserQueryWindow   
 
 
-Api:
+Api/NtApi:
 RtlImageNtHeader
 LdrGetDllHandle
 LdrGetProcedureAddress
