@@ -86,4 +86,12 @@ Unpacked.exe
 
 ; they call RtlInitUnicodeString for this string
 
-
+;Check driver using NtQuerySystemInformation with SystemModuleInformation
+;Its check opthion on themida for detect file/registry monitor and its check driver 2 time
+"REGMON"
+"regsys"
+"sysregm"
+"PROCMON"
+"Kernel Detective"
+"FileMonitor.sys"
+"Filem"
