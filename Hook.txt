@@ -1108,138 +1108,135 @@ CODE  	6300 	SCPSL.exe::XInput9_1_0.dll          	XInputGetState                
 CODE  	6300 	SCPSL.exe::XInput9_1_0.dll          	XInputSetState                                                           	5       	E9 25 F3 E1 0E               	48 89 5C 24 08               	0x00007FFF876B11A0	     
 
 
+00007FFCE1819310 | 895424 10                | mov dword ptr ss:[rsp+0x10],edx         |
+00007FFCE1819314 | 894C24 08                | mov dword ptr ss:[rsp+0x8],ecx          |
+00007FFCE1819318 | 57                       | push rdi                                | 
+00007FFCE1819319 | 48:83EC 70               | sub rsp,0x70                            |
+00007FFCE181931D | 48:8BFC                  | mov rdi,rsp                             |
+00007FFCE1819320 | B9 1C000000              | mov ecx,0x1C                            |
+00007FFCE1819325 | B8 CCCCCCCC              | mov eax,0xCCCCCCCC                      |
+00007FFCE181932A | F3:AB                    | rep stosd                               |
+00007FFCE181932C | 8B8C24 80000000          | mov ecx,dword ptr ss:[rsp+0x80]         |
+00007FFCE1819333 | 8B8424 80000000          | mov eax,dword ptr ss:[rsp+0x80]         |
+00007FFCE181933A | 48:6BC0 38               | imul rax,rax,0x38                       |
+00007FFCE181933E | 48:8B0D 4BC81000         | mov rcx,qword ptr ds:[0x7FFCE1925B90]   | 
+00007FFCE1819345 | 48:03C8                  | add rcx,rax                             |
+00007FFCE1819348 | 48:8BC1                  | mov rax,rcx                             |
+00007FFCE181934B | 48:894424 20             | mov qword ptr ss:[rsp+0x20],rax         |
+00007FFCE1819350 | 48:C74424 48 05000000    | mov qword ptr ss:[rsp+0x48],0x5         |
+00007FFCE1819359 | 48:8B4424 20             | mov rax,qword ptr ss:[rsp+0x20]         |
+00007FFCE181935E | 48:8B00                  | mov rax,qword ptr ds:[rax]              |
+00007FFCE1819361 | 48:894424 50             | mov qword ptr ss:[rsp+0x50],rax         |
+00007FFCE1819366 | 48:8B4424 20             | mov rax,qword ptr ss:[rsp+0x20]         |
+00007FFCE181936B | 0FB640 20                | movzx eax,byte ptr ds:[rax+0x20]        |
+00007FFCE181936F | 24 01                    | and al,0x1                              |
+00007FFCE1819371 | 0FB6C0                   | movzx eax,al                            |
+00007FFCE1819374 | 85C0                     | test eax,eax                            |
+00007FFCE1819376 | 74 1C                    | je sl-ac.7FFCE1819394                   |
+00007FFCE1819378 | 48:8B4424 50             | mov rax,qword ptr ss:[rsp+0x50]         |
+00007FFCE181937D | 48:83E8 05               | sub rax,0x5                             |
+00007FFCE1819381 | 48:894424 50             | mov qword ptr ss:[rsp+0x50],rax         |
+00007FFCE1819386 | 48:8B4424 48             | mov rax,qword ptr ss:[rsp+0x48]         |
+00007FFCE181938B | 48:83C0 02               | add rax,0x2                             |
+00007FFCE181938F | 48:894424 48             | mov qword ptr ss:[rsp+0x48],rax         |
+00007FFCE1819394 | 4C:8D4C24 34             | lea r9,qword ptr ss:[rsp+0x34]          |
+00007FFCE1819399 | 41:B8 40000000           | mov r8d,0x40                            | 
+00007FFCE181939F | 48:8B5424 48             | mov rdx,qword ptr ss:[rsp+0x48]         |
+00007FFCE18193A4 | 48:8B4C24 50             | mov rcx,qword ptr ss:[rsp+0x50]         |
+00007FFCE18193A9 | FF15 D16D0000            | call qword ptr ds:[0x7FFCE1820180]      |
+00007FFCE18193AF | 85C0                     | test eax,eax                            |
+00007FFCE18193B1 | 75 0A                    | jne sl-ac.7FFCE18193BD                  |
+00007FFCE18193B3 | B8 0A000000              | mov eax,0xA                             | 
+00007FFCE18193B8 | E9 3A010000              | jmp sl-ac.7FFCE18194F7                  |
+00007FFCE18193BD | 83BC24 88000000 00       | cmp dword ptr ss:[rsp+0x88],0x0         |
+00007FFCE18193C5 | 74 64                    | je sl-ac.7FFCE181942B                   |
+00007FFCE18193C7 | 48:8B4424 50             | mov rax,qword ptr ss:[rsp+0x50]         |
+00007FFCE18193CC | 48:894424 58             | mov qword ptr ss:[rsp+0x58],rax         |
+00007FFCE18193D1 | 48:8B4424 58             | mov rax,qword ptr ss:[rsp+0x58]         |
+00007FFCE18193D6 | C600 E9                  | mov byte ptr ds:[rax],0xE9              |jmp
+00007FFCE18193D9 | 48:8B4424 50             | mov rax,qword ptr ss:[rsp+0x50]         |write hook address
+00007FFCE18193DE | 48:83C0 05               | add rax,0x5                             |
+00007FFCE18193E2 | 48:8B4C24 20             | mov rcx,qword ptr ss:[rsp+0x20]         |
+00007FFCE18193E7 | 48:8B49 08               | mov rcx,qword ptr ds:[rcx+0x8]          |
+00007FFCE18193EB | 48:2BC8                  | sub rcx,rax                             |
+00007FFCE18193EE | 48:8BC1                  | mov rax,rcx                             |
+00007FFCE18193F1 | 48:8B4C24 58             | mov rcx,qword ptr ss:[rsp+0x58]         |
+00007FFCE18193F6 | 8941 01                  | mov dword ptr ds:[rcx+0x1],eax          |
+00007FFCE18193F9 | 48:8B4424 20             | mov rax,qword ptr ss:[rsp+0x20]         |
+00007FFCE18193FE | 0FB640 20                | movzx eax,byte ptr ds:[rax+0x20]        |
+00007FFCE1819402 | 24 01                    | and al,0x1                              |
+00007FFCE1819404 | 0FB6C0                   | movzx eax,al                            |
+00007FFCE1819407 | 85C0                     | test eax,eax                            |
+00007FFCE1819409 | 74 1E                    | je sl-ac.7FFCE1819429                   |
+00007FFCE181940B | 48:8B4424 20             | mov rax,qword ptr ss:[rsp+0x20]         |
+00007FFCE1819410 | 48:8B00                  | mov rax,qword ptr ds:[rax]              |
+00007FFCE1819413 | 48:894424 60             | mov qword ptr ss:[rsp+0x60],rax         |
+00007FFCE1819418 | 48:8B4424 60             | mov rax,qword ptr ss:[rsp+0x60]         |
+00007FFCE181941D | C600 EB                  | mov byte ptr ds:[rax],0xEB              |
+00007FFCE1819420 | 48:8B4424 60             | mov rax,qword ptr ss:[rsp+0x60]         |
+00007FFCE1819425 | C640 01 F9               | mov byte ptr ds:[rax+0x1],0xF9          |
+00007FFCE1819429 | EB 4C                    | jmp sl-ac.7FFCE1819477                  |
+00007FFCE181942B | 48:8B4424 20             | mov rax,qword ptr ss:[rsp+0x20]         |
+00007FFCE1819430 | 0FB640 20                | movzx eax,byte ptr ds:[rax+0x20]        |
+00007FFCE1819434 | 24 01                    | and al,0x1                              |
+00007FFCE1819436 | 0FB6C0                   | movzx eax,al                            |
+00007FFCE1819439 | 85C0                     | test eax,eax                            |
+00007FFCE181943B | 74 1E                    | je sl-ac.7FFCE181945B                   |
+00007FFCE181943D | 48:8B4424 20             | mov rax,qword ptr ss:[rsp+0x20]         |
+00007FFCE1819442 | 48:83C0 18               | add rax,0x18                            |
+00007FFCE1819446 | 41:B8 07000000           | mov r8d,0x7                             |
+00007FFCE181944C | 48:8BD0                  | mov rdx,rax                             |
+00007FFCE181944F | 48:8B4C24 50             | mov rcx,qword ptr ss:[rsp+0x50]         |
+00007FFCE1819454 | E8 77490000              | call <JMP.&memmove>                     |
+00007FFCE1819459 | EB 1C                    | jmp sl-ac.7FFCE1819477                  |
+00007FFCE181945B | 48:8B4424 20             | mov rax,qword ptr ss:[rsp+0x20]         |
+00007FFCE1819460 | 48:83C0 18               | add rax,0x18                            |
+00007FFCE1819464 | 41:B8 05000000           | mov r8d,0x5                             |
+00007FFCE181946A | 48:8BD0                  | mov rdx,rax                             | 
+00007FFCE181946D | 48:8B4C24 50             | mov rcx,qword ptr ss:[rsp+0x50]         |
+00007FFCE1819472 | E8 59490000              | call <JMP.&memmove>                     |
+00007FFCE1819477 | 4C:8D4C24 34             | lea r9,qword ptr ss:[rsp+0x34]          |
+00007FFCE181947C | 44:8B4424 34             | mov r8d,dword ptr ss:[rsp+0x34]         |
+00007FFCE1819481 | 48:8B5424 48             | mov rdx,qword ptr ss:[rsp+0x48]         |
+00007FFCE1819486 | 48:8B4C24 50             | mov rcx,qword ptr ss:[rsp+0x50]         |
+00007FFCE181948B | FF15 EF6C0000            | call qword ptr ds:[0x7FFCE1820180]      |
+00007FFCE1819491 | FF15 B96C0000            | call qword ptr ds:[0x7FFCE1820150]      |
+00007FFCE1819497 | 4C:8B4424 48             | mov r8,qword ptr ss:[rsp+0x48]          |
+00007FFCE181949C | 48:8B5424 50             | mov rdx,qword ptr ss:[rsp+0x50]         |
+00007FFCE18194A1 | 48:8BC8                  | mov rcx,rax                             |
+00007FFCE18194A4 | FF15 CE6C0000            | call qword ptr ds:[0x7FFCE1820178]      |
+00007FFCE18194AA | 0FB68424 88000000        | movzx eax,byte ptr ss:[rsp+0x88]        |
+00007FFCE18194B2 | 24 01                    | and al,0x1                              |
+00007FFCE18194B4 | D0E0                     | shl al,0x1                              |
+00007FFCE18194B6 | 48:8B4C24 20             | mov rcx,qword ptr ss:[rsp+0x20]         |
+00007FFCE18194BB | 0FB649 20                | movzx ecx,byte ptr ds:[rcx+0x20]        |
+00007FFCE18194BF | 80E1 FD                  | and cl,0xFD                             |
+00007FFCE18194C2 | 0AC8                     | or cl,al                                |
+00007FFCE18194C4 | 0FB6C1                   | movzx eax,cl                            |
+00007FFCE18194C7 | 48:8B4C24 20             | mov rcx,qword ptr ss:[rsp+0x20]         |
+00007FFCE18194CC | 8841 20                  | mov byte ptr ds:[rcx+0x20],al           |
+00007FFCE18194CF | 0FB68424 88000000        | movzx eax,byte ptr ss:[rsp+0x88]        |
+00007FFCE18194D7 | 24 01                    | and al,0x1                              |
+00007FFCE18194D9 | C0E0 02                  | shl al,0x2                              |
+00007FFCE18194DC | 48:8B4C24 20             | mov rcx,qword ptr ss:[rsp+0x20]         |
+00007FFCE18194E1 | 0FB649 20                | movzx ecx,byte ptr ds:[rcx+0x20]        |
+00007FFCE18194E5 | 80E1 FB                  | and cl,0xFB                             |
+00007FFCE18194E8 | 0AC8                     | or cl,al                                |
+00007FFCE18194EA | 0FB6C1                   | movzx eax,cl                            |
+00007FFCE18194ED | 48:8B4C24 20             | mov rcx,qword ptr ss:[rsp+0x20]         |
+00007FFCE18194F2 | 8841 20                  | mov byte ptr ds:[rcx+0x20],al           |
+00007FFCE18194F5 | 33C0                     | xor eax,eax                             |
+00007FFCE18194F7 | 48:8BF8                  | mov rdi,rax                             | 
+00007FFCE18194FA | 48:8BCC                  | mov rcx,rsp                             |
+00007FFCE18194FD | 48:8D15 DC760000         | lea rdx,qword ptr ds:[0x7FFCE1820BE0]   | 
+00007FFCE1819504 | E8 97360000              | call sl-ac.7FFCE181CBA0                 |
+00007FFCE1819509 | 48:8BC7                  | mov rax,rdi                             | 
+00007FFCE181950C | 48:83C4 70               | add rsp,0x70                            |
+00007FFCE1819510 | 5F                       | pop rdi                                 | 
+00007FFCE1819511 | C3                       | ret                                     |
 
 
 
 
-Signature:48 6B C0 38 48 8B 0D 0B
-HookApi:
-
-00007FFAE9127550 | 895424 10                | mov dword ptr ss:[rsp+0x10],edx         |
-00007FFAE9127554 | 894C24 08                | mov dword ptr ss:[rsp+0x8],ecx          |
-00007FFAE9127558 | 57                       | push rdi                                |
-00007FFAE9127559 | 48:83EC 70               | sub rsp,0x70                            |
-00007FFAE912755D | 48:8BFC                  | mov rdi,rsp                             |
-00007FFAE9127560 | B9 1C000000              | mov ecx,0x1C                            |
-00007FFAE9127565 | B8 CCCCCCCC              | mov eax,0xCCCCCCCC                      |
-00007FFAE912756A | F3:AB                    | rep stosd                               |
-00007FFAE912756C | 8B8C24 80000000          | mov ecx,dword ptr ss:[rsp+0x80]         |
-00007FFAE9127573 | 8B8424 80000000          | mov eax,dword ptr ss:[rsp+0x80]         |
-00007FFAE912757A | 48:6BC0 38               | imul rax,rax,0x38                       |
-00007FFAE912757E | 48:8B0D 0BC61000         | mov rcx,qword ptr ds:[0x7FFAE9233B90]   | 
-00007FFAE9127585 | 48:03C8                  | add rcx,rax                             |
-00007FFAE9127588 | 48:8BC1                  | mov rax,rcx                             |
-00007FFAE912758B | 48:894424 20             | mov qword ptr ss:[rsp+0x20],rax         | 
-00007FFAE9127590 | 48:C74424 48 05000000    | mov qword ptr ss:[rsp+0x48],0x5         |
-00007FFAE9127599 | 48:8B4424 20             | mov rax,qword ptr ss:[rsp+0x20]         | 
-00007FFAE912759E | 48:8B00                  | mov rax,qword ptr ds:[rax]              |
-00007FFAE91275A1 | 48:894424 50             | mov qword ptr ss:[rsp+0x50],rax         |
-00007FFAE91275A6 | 48:8B4424 20             | mov rax,qword ptr ss:[rsp+0x20]         |
-00007FFAE91275AB | 0FB640 20                | movzx eax,byte ptr ds:[rax+0x20]        | rax - hook string/api?
-00007FFAE91275AF | 24 01                    | and al,0x1                              |
-00007FFAE91275B1 | 0FB6C0                   | movzx eax,al                            |
-00007FFAE91275B4 | 85C0                     | test eax,eax                            |
-00007FFAE91275B6 | 74 1C                    | je sl-ac.7FFAE91275D4                   |
-00007FFAE91275B8 | 48:8B4424 50             | mov rax,qword ptr ss:[rsp+0x50]         |
-00007FFAE91275BD | 48:83E8 05               | sub rax,0x5                             |
-00007FFAE91275C1 | 48:894424 50             | mov qword ptr ss:[rsp+0x50],rax         |
-00007FFAE91275C6 | 48:8B4424 48             | mov rax,qword ptr ss:[rsp+0x48]         |
-00007FFAE91275CB | 48:83C0 02               | add rax,0x2                             |
-00007FFAE91275CF | 48:894424 48             | mov qword ptr ss:[rsp+0x48],rax         |
-00007FFAE91275D4 | 4C:8D4C24 34             | lea r9,qword ptr ss:[rsp+0x34]          |
-00007FFAE91275D9 | 41:B8 40000000           | mov r8d,0x40                            | 
-00007FFAE91275DF | 48:8B5424 48             | mov rdx,qword ptr ss:[rsp+0x48]         |
-00007FFAE91275E4 | 48:8B4C24 50             | mov rcx,qword ptr ss:[rsp+0x50]         |
-00007FFAE91275E9 | FF15 916B0000            | call qword ptr ds:[0x7FFAE912E180]      | VirtualProtect
-00007FFAE91275EF | 85C0                     | test eax,eax                            |
-00007FFAE91275F1 | 75 0A                    | jne sl-ac.7FFAE91275FD                  |
-00007FFAE91275F3 | B8 0A000000              | mov eax,0xA                             | A:'\n'
-00007FFAE91275F8 | E9 3A010000              | jmp sl-ac.7FFAE9127737                  |
-00007FFAE91275FD | 83BC24 88000000 00       | cmp dword ptr ss:[rsp+0x88],0x0         |
-00007FFAE9127605 | 74 64                    | je sl-ac.7FFAE912766B                   |
-00007FFAE9127607 | 48:8B4424 50             | mov rax,qword ptr ss:[rsp+0x50]         |
-00007FFAE912760C | 48:894424 58             | mov qword ptr ss:[rsp+0x58],rax         |
-00007FFAE9127611 | 48:8B4424 58             | mov rax,qword ptr ss:[rsp+0x58]         |
-00007FFAE9127616 | C600 E9                  | mov byte ptr ds:[rax],0xE9              | 0xE9 - jmp 
-00007FFAE9127619 | 48:8B4424 50             | mov rax,qword ptr ss:[rsp+0x50]         |
-00007FFAE912761E | 48:83C0 05               | add rax,0x5                             |
-00007FFAE9127622 | 48:8B4C24 20             | mov rcx,qword ptr ss:[rsp+0x20]         | 
-00007FFAE9127627 | 48:8B49 08               | mov rcx,qword ptr ds:[rcx+0x8]          |
-00007FFAE912762B | 48:2BC8                  | sub rcx,rax                             |
-00007FFAE912762E | 48:8BC1                  | mov rax,rcx                             |
-00007FFAE9127631 | 48:8B4C24 58             | mov rcx,qword ptr ss:[rsp+0x58]         |
-00007FFAE9127636 | 8941 01                  | mov dword ptr ds:[rcx+0x1],eax          |
-00007FFAE9127639 | 48:8B4424 20             | mov rax,qword ptr ss:[rsp+0x20]         | 
-00007FFAE912763E | 0FB640 20                | movzx eax,byte ptr ds:[rax+0x20]        |
-00007FFAE9127642 | 24 01                    | and al,0x1                              |
-00007FFAE9127644 | 0FB6C0                   | movzx eax,al                            |
-00007FFAE9127647 | 85C0                     | test eax,eax                            |
-00007FFAE9127649 | 74 1E                    | je sl-ac.7FFAE9127669                   |
-00007FFAE912764B | 48:8B4424 20             | mov rax,qword ptr ss:[rsp+0x20]         |
-00007FFAE9127650 | 48:8B00                  | mov rax,qword ptr ds:[rax]              |
-00007FFAE9127653 | 48:894424 60             | mov qword ptr ss:[rsp+0x60],rax         |
-00007FFAE9127658 | 48:8B4424 60             | mov rax,qword ptr ss:[rsp+0x60]         |
-00007FFAE912765D | C600 EB                  | mov byte ptr ds:[rax],0xEB              |
-00007FFAE9127660 | 48:8B4424 60             | mov rax,qword ptr ss:[rsp+0x60]         |
-00007FFAE9127665 | C640 01 F9               | mov byte ptr ds:[rax+0x1],0xF9          |
-00007FFAE9127669 | EB 4C                    | jmp sl-ac.7FFAE91276B7                  |
-00007FFAE912766B | 48:8B4424 20             | mov rax,qword ptr ss:[rsp+0x20]         | 
-00007FFAE9127670 | 0FB640 20                | movzx eax,byte ptr ds:[rax+0x20]        |
-00007FFAE9127674 | 24 01                    | and al,0x1                              |
-00007FFAE9127676 | 0FB6C0                   | movzx eax,al                            |
-00007FFAE9127679 | 85C0                     | test eax,eax                            |
-00007FFAE912767B | 74 1E                    | je sl-ac.7FFAE912769B                   |
-00007FFAE912767D | 48:8B4424 20             | mov rax,qword ptr ss:[rsp+0x20]         | 
-00007FFAE9127682 | 48:83C0 18               | add rax,0x18                            |
-00007FFAE9127686 | 41:B8 07000000           | mov r8d,0x7                             |
-00007FFAE912768C | 48:8BD0                  | mov rdx,rax                             |
-00007FFAE912768F | 48:8B4C24 50             | mov rcx,qword ptr ss:[rsp+0x50]         |
-00007FFAE9127694 | E8 77490000              | call <JMP.&memmove>                     |
-00007FFAE9127699 | EB 1C                    | jmp sl-ac.7FFAE91276B7                  |
-00007FFAE912769B | 48:8B4424 20             | mov rax,qword ptr ss:[rsp+0x20]         | 
-00007FFAE91276A0 | 48:83C0 18               | add rax,0x18                            |
-00007FFAE91276A4 | 41:B8 05000000           | mov r8d,0x5                             |
-00007FFAE91276AA | 48:8BD0                  | mov rdx,rax                             |
-00007FFAE91276AD | 48:8B4C24 50             | mov rcx,qword ptr ss:[rsp+0x50]         |
-00007FFAE91276B2 | E8 59490000              | call <JMP.&memmove>                     |
-00007FFAE91276B7 | 4C:8D4C24 34             | lea r9,qword ptr ss:[rsp+0x34]          |
-00007FFAE91276BC | 44:8B4424 34             | mov r8d,dword ptr ss:[rsp+0x34]         |
-00007FFAE91276C1 | 48:8B5424 48             | mov rdx,qword ptr ss:[rsp+0x48]         |
-00007FFAE91276C6 | 48:8B4C24 50             | mov rcx,qword ptr ss:[rsp+0x50]         |
-00007FFAE91276CB | FF15 AF6A0000            | call qword ptr ds:[0x7FFAE912E180]      | VirtualProtect
-00007FFAE91276D1 | FF15 796A0000            | call qword ptr ds:[0x7FFAE912E150]      | GetCurrentProcess
-00007FFAE91276D7 | 4C:8B4424 48             | mov r8,qword ptr ss:[rsp+0x48]          |
-00007FFAE91276DC | 48:8B5424 50             | mov rdx,qword ptr ss:[rsp+0x50]         |
-00007FFAE91276E1 | 48:8BC8                  | mov rcx,rax                             |
-00007FFAE91276E4 | FF15 8E6A0000            | call qword ptr ds:[0x7FFAE912E178]      | FlushInstructionCache
-00007FFAE91276EA | 0FB68424 88000000        | movzx eax,byte ptr ss:[rsp+0x88]        |
-00007FFAE91276F2 | 24 01                    | and al,0x1                              |
-00007FFAE91276F4 | D0E0                     | shl al,0x1                              |
-00007FFAE91276F6 | 48:8B4C24 20             | mov rcx,qword ptr ss:[rsp+0x20]         | 
-00007FFAE91276FB | 0FB649 20                | movzx ecx,byte ptr ds:[rcx+0x20]        |
-00007FFAE91276FF | 80E1 FD                  | and cl,0xFD                             |
-00007FFAE9127702 | 0AC8                     | or cl,al                                |
-00007FFAE9127704 | 0FB6C1                   | movzx eax,cl                            |
-00007FFAE9127707 | 48:8B4C24 20             | mov rcx,qword ptr ss:[rsp+0x20]         | 
-00007FFAE912770C | 8841 20                  | mov byte ptr ds:[rcx+0x20],al           |
-00007FFAE912770F | 0FB68424 88000000        | movzx eax,byte ptr ss:[rsp+0x88]        |
-00007FFAE9127717 | 24 01                    | and al,0x1                              |
-00007FFAE9127719 | C0E0 02                  | shl al,0x2                              |
-00007FFAE912771C | 48:8B4C24 20             | mov rcx,qword ptr ss:[rsp+0x20]         | 
-00007FFAE9127721 | 0FB649 20                | movzx ecx,byte ptr ds:[rcx+0x20]        |
-00007FFAE9127725 | 80E1 FB                  | and cl,0xFB                             |
-00007FFAE9127728 | 0AC8                     | or cl,al                                |
-00007FFAE912772A | 0FB6C1                   | movzx eax,cl                            |
-00007FFAE912772D | 48:8B4C24 20             | mov rcx,qword ptr ss:[rsp+0x20]         | 
-00007FFAE9127732 | 8841 20                  | mov byte ptr ds:[rcx+0x20],al           |
-00007FFAE9127735 | 33C0                     | xor eax,eax                             |
-00007FFAE9127737 | 48:8BF8                  | mov rdi,rax                             |
-00007FFAE912773A | 48:8BCC                  | mov rcx,rsp                             |
-00007FFAE912773D | 48:8D15 6C740000         | lea rdx,qword ptr ds:[0x7FFAE912EBB0]   |
-00007FFAE9127744 | E8 97360000              | call sl-ac.7FFAE912ADE0                 |
-00007FFAE9127749 | 48:8BC7                  | mov rax,rdi                             |
-00007FFAE912774C | 48:83C4 70               | add rsp,0x70                            |
-00007FFAE9127750 | 5F                       | pop rdi                                 |
-00007FFAE9127751 | C3                       | ret                                     |
 
 
