@@ -1,0 +1,64 @@
+WinApi
+00007FFCEFC192DA   - ResumeThread
+
+00007FFCEFC200F0   - CreateToolhelp32Snapshot   
+
+00007FFCEFC20118	-  RtlInitializeSListHead    
+
+00007FFCEFC201D8   -  Thread32First 
+
+00007FFCEFC201E0    -   Thread32Next 
+
+00007FFCEFC20160    - FlsSetValue
+
+00007FFCEFC17EC5  - dont call FlsSetValue  
+
+07FFCEFC20210    -  LocalFree
+
+0007FFCEFC20268  - 	TerminateProcess
+
+
+
+CRT
+00007FFCEFC202B8   - ??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAA@XZ
+
+00007FFCEFC0C3DD   - ??Bid@locale@std@@QEAA_KXZ 	
+
+00007FFCEFC0C3C3    -    ??0_Lockit@std@@QEAA@H@Z
+
+00007FFCEFC202F0  	- ??0?$basic_ios@DU?$char_traits@D@std@@@std@@IEAA@XZ
+
+00007FFCEFC202F8   - 		??0?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z
+
+00007FFCEFC20378  - 	??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAA@XZ
+
+
+00007FFCEFC203A0 - ??1?$basic_ostream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+
+
+00007FFCEFC20528 - __std_type_info_destroy_list
+
+
+00007FFCEFC20540  - __std_exception_destroy
+
+00007FFCEFC20548  - __std_exception_copy  
+
+00007FFCEFC205A0 -  free
+
+00007FFCEFC205D0  -  _register_onexit_function 
+
+00007FFCEFC205D8  -  _seh_filter_dll
+
+00007FFCEFC205E0   -  _cexit
+
+00007FFCEFC205E8 - _initterm
+
+00007FFCEFC205F0 -   _initialize_onexit_table
+
+0007FFCEFC20600  - _initterm_e
+
+0007FFCEFC20608  - _execute_onexit_table
+
+0007FFCEFC20628  -  _crt_atexit 
+
+0007FFCEFC20630  -  _configure_narrow_argv
